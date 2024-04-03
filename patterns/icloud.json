@@ -1,0 +1,303 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.applemx-icloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud-content.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud-isupport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.is",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.om",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloud.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudads.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudbox.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudbrowser.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloude.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudhome.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudmail.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudmusic.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudnet.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudpay.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudo.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudos.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudos.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudsecure.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.icloudsetup.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.ios-icloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.me.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.myicloud.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.mylcloud.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloud",
+            "pattern": "*://*.wwwicloud.com",
+            "active": true
+          }
+]

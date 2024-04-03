@@ -1,0 +1,93 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.18p2p.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.avsforum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.disp.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.doom9.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.eyny.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.gab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.hydrogenaud.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.mewe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.parler.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.pincong.rocks",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.safechat.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.sis001.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-forums",
+            "pattern": "*://*.v2ex.com",
+            "active": true
+          }
+]

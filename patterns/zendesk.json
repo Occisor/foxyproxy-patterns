@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zendesk",
+            "pattern": "*://*.outbound.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zendesk",
+            "pattern": "*://*.zdassets.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zendesk",
+            "pattern": "*://*.zdusercontent.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zendesk",
+            "pattern": "*://*.zendesk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zendesk",
+            "pattern": "*://*.zndsk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zendesk",
+            "pattern": "*://*.zopim.com",
+            "active": true
+          }
+]

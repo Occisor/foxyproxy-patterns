@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "datfoundation",
+            "pattern": "*://*.dat.foundation",
+            "active": true
+          }
+]

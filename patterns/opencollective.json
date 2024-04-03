@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "opencollective",
+            "pattern": "*://*.opencollective.com",
+            "active": true
+          }
+]

@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zte",
+            "pattern": "*://*.nubia.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zte",
+            "pattern": "*://*.nubia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zte",
+            "pattern": "*://*.redmagic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zte",
+            "pattern": "*://*.zte.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zte",
+            "pattern": "*://*.ztemall.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zte",
+            "pattern": "*://*.ztems.com",
+            "active": true
+          }
+]

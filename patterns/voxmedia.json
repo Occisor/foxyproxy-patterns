@@ -1,0 +1,114 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.cstatic.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.curbed.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.eater.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.funnyordie.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.meridian.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.polygon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.racked.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.recode.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.sbnation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.theverge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.vox-cdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.vox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.voxcreative.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.voxfieldguide.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.voxmedia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "voxmedia",
+            "pattern": "*://*.voxops.net",
+            "active": true
+          }
+]

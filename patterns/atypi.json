@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "atypi",
+            "pattern": "*://*.atypi.org",
+            "active": true
+          }
+]

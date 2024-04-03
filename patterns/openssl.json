@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openssl",
+            "pattern": "*://*.openssl.org",
+            "active": true
+          }
+]

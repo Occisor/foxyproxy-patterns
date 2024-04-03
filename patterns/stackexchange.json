@@ -1,0 +1,142 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.askubuntu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.blogoverflow.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.codeforaliving.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.mathoverflow.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.serverfault.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.sstatic.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stackapps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stackauth.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stackexchange.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stackmod.blog",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stackoverflow.blog",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stackoverflow.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stackoverflow.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stackoverflow.email",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stackoverflowbusiness.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stackoverflowcareers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.stacksnippets.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.superuser.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.tex-talk.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackexchange",
+            "pattern": "*://*.thesffblog.com",
+            "active": true
+          }
+]

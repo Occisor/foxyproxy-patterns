@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sci-hub",
+            "pattern": "*://*.sci-hub.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sci-hub",
+            "pattern": "*://*.sci-hub.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sci-hub",
+            "pattern": "*://*.sci-hub.it.nf",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sci-hub",
+            "pattern": "*://*.sci-hub.mksa.top",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sci-hub",
+            "pattern": "*://*.sci-hub.st",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sci-hub",
+            "pattern": "*://*.sci.hubg.org",
+            "active": true
+          }
+]

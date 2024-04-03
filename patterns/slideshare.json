@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "slideshare",
+            "pattern": "*://*.slideshare.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "slideshare",
+            "pattern": "*://*.slideshare.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "slideshare",
+            "pattern": "*://*.slidesharecdn.com",
+            "active": true
+          }
+]

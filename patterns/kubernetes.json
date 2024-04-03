@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kubernetes",
+            "pattern": "*://*.kubernetes.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kubernetes",
+            "pattern": "*://*.k8s.io",
+            "active": true
+          }
+]

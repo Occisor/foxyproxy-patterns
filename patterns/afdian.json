@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "afdian",
+            "pattern": "*://*.afdian.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "afdian",
+            "pattern": "*://*.afdiancdn.com",
+            "active": true
+          }
+]

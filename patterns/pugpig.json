@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pugpig",
+            "pattern": "*://*.pugpig-dev.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pugpig",
+            "pattern": "*://*.pugpig-stage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pugpig",
+            "pattern": "*://*.pugpig.com",
+            "active": true
+          }
+]

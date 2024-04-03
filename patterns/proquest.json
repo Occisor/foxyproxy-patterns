@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "proquest",
+            "pattern": "*://*.serialssolutions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "proquest",
+            "pattern": "*://*.proquest.com",
+            "active": true
+          }
+]

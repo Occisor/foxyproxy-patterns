@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pocketcasts",
+            "pattern": "*://*.pca.st",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pocketcasts",
+            "pattern": "*://*.pocketcasts.com",
+            "active": true
+          }
+]

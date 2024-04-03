@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "justav",
+            "pattern": "*://*.hkporn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "justav",
+            "pattern": "*://*.justav.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "justav",
+            "pattern": "*://*.twporn.net",
+            "active": true
+          }
+]

@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "segmentfault",
+            "pattern": "*://*.segmentfault.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "segmentfault",
+            "pattern": "*://*.sifou.com",
+            "active": true
+          }
+]

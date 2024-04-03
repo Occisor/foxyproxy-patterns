@@ -1,0 +1,443 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.dajiyuan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.dajiyuan.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.edninfo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epoch.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epoch.org.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochbuy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochcar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochhk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochmall.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochmediagroup.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochshop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochstories.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtime.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes-bg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes-romania.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.com.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimes.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimeshk.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochtimestr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochweek.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.epochweekly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.erabaru.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.etviet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.lagranepoca.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.minghui.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntd.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdca.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdtv.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdtv.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdtv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdtv.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdtv.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdtv.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdtv.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdtv.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdtv-dc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdtvla.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.ntdvn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.persianepochtimes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.renminbao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.theepochtimes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.theepochtimessubscribe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epochmediagroup",
+            "pattern": "*://*.velkaepocha.cz",
+            "active": true
+          }
+]

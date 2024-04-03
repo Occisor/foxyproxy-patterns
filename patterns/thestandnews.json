@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thestandnews",
+            "pattern": "*://*.thestandnews.com",
+            "active": true
+          }
+]

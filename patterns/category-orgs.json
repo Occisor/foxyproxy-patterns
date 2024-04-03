@@ -1,0 +1,93 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.aomedia.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.atypi.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.change.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.globalsecurity.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.iana.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.ietf.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.itu.int",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.opte.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.smpte.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.un.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.w3.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.who.int",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-orgs",
+            "pattern": "*://*.wto.org",
+            "active": true
+          }
+]

@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bjyouth",
+            "pattern": "*://*.bjyouth.gov.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bjyouth",
+            "pattern": "*://*.bjyouth.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bjyouth",
+            "pattern": "*://*.sqqnh.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bjyouth",
+            "pattern": "*://*.sqqnh.org",
+            "active": true
+          }
+]

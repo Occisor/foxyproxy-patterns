@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hotstar",
+            "pattern": "*://*.hotstar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hotstar",
+            "pattern": "*://*.hotstar-cdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hotstar",
+            "pattern": "*://*.hotstar-labs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hotstar",
+            "pattern": "*://*.hotstarext.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hotstar",
+            "pattern": "*://*.hsprepack.akamaized.net",
+            "active": true
+          }
+]

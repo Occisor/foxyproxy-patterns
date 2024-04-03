@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wholefoodsmarket",
+            "pattern": "*://*.wfm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wholefoodsmarket",
+            "pattern": "*://*.wholecitiesfoundation.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wholefoodsmarket",
+            "pattern": "*://*.wholefoods.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wholefoodsmarket",
+            "pattern": "*://*.wholefoodsmarket.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wholefoodsmarket",
+            "pattern": "*://*.wholefoodsmarket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wholefoodsmarket",
+            "pattern": "*://*.wholekidsfoundation.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wholefoodsmarket",
+            "pattern": "*://*.wholeplanetfoundation.org",
+            "active": true
+          }
+]

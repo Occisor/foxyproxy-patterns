@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "narwal",
+            "pattern": "*://*.narwal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "narwal",
+            "pattern": "*://*.narwaltech.com",
+            "active": true
+          }
+]

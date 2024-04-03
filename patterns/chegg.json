@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chegg",
+            "pattern": "*://*.chegg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chegg",
+            "pattern": "*://*.cheggcdn.com",
+            "active": true
+          }
+]

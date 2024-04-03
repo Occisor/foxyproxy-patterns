@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "conair",
+            "pattern": "*://*.conair.me",
+            "active": true
+          }
+]

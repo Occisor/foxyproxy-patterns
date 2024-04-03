@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pingpe",
+            "pattern": "*://*.ping.pe",
+            "active": true
+          }
+]

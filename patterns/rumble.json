@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rumble",
+            "pattern": "*://*.rmbl.ws",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rumble",
+            "pattern": "*://*.rumble.com",
+            "active": true
+          }
+]

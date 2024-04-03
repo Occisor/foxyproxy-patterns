@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "symantec",
+            "pattern": "*://*.managedpki.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "symantec",
+            "pattern": "*://*.symantec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "symantec",
+            "pattern": "*://*.symcb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "symantec",
+            "pattern": "*://*.symcd.com",
+            "active": true
+          }
+]

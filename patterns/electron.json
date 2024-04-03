@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "electron",
+            "pattern": "*://*.electronjs.org",
+            "active": true
+          }
+]

@@ -1,0 +1,128 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffingtonpost.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffpost.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffpostarabi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffpostbrasil.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huffpost",
+            "pattern": "*://*.huffpostmaghreb.com",
+            "active": true
+          }
+]

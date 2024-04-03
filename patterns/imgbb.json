@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imgbb",
+            "pattern": "*://*.ibb.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imgbb",
+            "pattern": "*://*.imgbb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imgbb",
+            "pattern": "*://*.simgbb.com",
+            "active": true
+          }
+]

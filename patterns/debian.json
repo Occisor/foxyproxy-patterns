@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "debian",
+            "pattern": "*://*.debian.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "debian",
+            "pattern": "*://*.dotdeb.org",
+            "active": true
+          }
+]

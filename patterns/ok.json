@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ok",
+            "pattern": "*://*.ok.ru",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnet",
+            "pattern": "*://*.cnet.com",
+            "active": true
+          }
+]

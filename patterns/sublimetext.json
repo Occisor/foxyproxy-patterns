@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sublimetext",
+            "pattern": "*://*.sublimetext.com",
+            "active": true
+          }
+]

@@ -1,0 +1,114 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vhx.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vhxqa1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vhxqa2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vhxqa3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vhxqa4.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vhxqa6.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vimeo-staging.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vimeo-staging2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vimeo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vimeo.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vimeobusiness.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vimeocdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vimeogoods.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vimeoondemand.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.vimeostatus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vimeo",
+            "pattern": "*://*.livestream.com",
+            "active": true
+          }
+]

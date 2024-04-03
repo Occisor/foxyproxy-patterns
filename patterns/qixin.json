@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qixin",
+            "pattern": "*://*.qixin.com",
+            "active": true
+          }
+]

@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pptv",
+            "pattern": "*://*.pplive.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pptv",
+            "pattern": "*://*.pplive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pptv",
+            "pattern": "*://*.pptv.com",
+            "active": true
+          }
+]

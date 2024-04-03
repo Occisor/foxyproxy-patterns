@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imagecurl",
+            "pattern": "*://*.imagecurl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imagecurl",
+            "pattern": "*://*.imagecurl.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imagecurl",
+            "pattern": "*://*.imgcrl.org",
+            "active": true
+          }
+]

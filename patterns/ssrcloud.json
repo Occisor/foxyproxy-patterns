@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ssrcloud",
+            "pattern": "*://*.airport-gov-cn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ssrcloud",
+            "pattern": "*://*.cnix-gov-cn.com",
+            "active": true
+          }
+]

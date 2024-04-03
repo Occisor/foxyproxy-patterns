@@ -1,0 +1,93 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.samsung",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.xn--cg4bki",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.galaxyappstore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.galaxymobile.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.game-platform.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.knoxemm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.samsung.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.samsungapps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.samsungcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.samsungdm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.samsunggalaxyfriends.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.samsungknox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "samsung",
+            "pattern": "*://*.samsungqbe.com",
+            "active": true
+          }
+]

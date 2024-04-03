@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vpngate",
+            "pattern": "*://*.opengw.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vpngate",
+            "pattern": "*://*.vpngate.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vpngate",
+            "pattern": "*://*.vpngate.net",
+            "active": true
+          }
+]

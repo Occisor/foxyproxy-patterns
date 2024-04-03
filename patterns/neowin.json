@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "neowin",
+            "pattern": "*://*.neow.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "neowin",
+            "pattern": "*://*.neowin.net",
+            "active": true
+          }
+]

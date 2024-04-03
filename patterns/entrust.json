@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "entrust",
+            "pattern": "*://*.entrust.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "entrust",
+            "pattern": "*://*.entrustdatacard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "entrust",
+            "pattern": "*://*.affirmtrust.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "entrust",
+            "pattern": "*://*.atos.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "entrust",
+            "pattern": "*://*.myatos.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "entrust",
+            "pattern": "*://*.certificat2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "entrust",
+            "pattern": "*://*.trendmicro.com",
+            "active": true
+          }
+]

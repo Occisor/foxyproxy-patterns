@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "muwai",
+            "pattern": "*://*.muwai.com",
+            "active": true
+          }
+]

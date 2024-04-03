@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "geekpark",
+            "pattern": "*://*.geekpark.net",
+            "active": true
+          }
+]

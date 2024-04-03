@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tmtpost",
+            "pattern": "*://*.tmtpost.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tmtpost",
+            "pattern": "*://*.chaindd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tmtpost",
+            "pattern": "*://*.72whys.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tmtpost",
+            "pattern": "*://*.checkzeit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tmtpost",
+            "pattern": "*://*.tivitv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tmtpost",
+            "pattern": "*://*.tigeek.net.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tmtpost",
+            "pattern": "*://*.tmtsmartlife.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tmtpost",
+            "pattern": "*://*.tmtsmartrun.com",
+            "active": true
+          }
+]

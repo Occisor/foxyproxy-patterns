@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "actalis",
+            "pattern": "*://*.actalis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "actalis",
+            "pattern": "*://*.actalis.it",
+            "active": true
+          }
+]

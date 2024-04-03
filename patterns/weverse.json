@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "weverse",
+            "pattern": "*://*.weverse.io",
+            "active": true
+          }
+]

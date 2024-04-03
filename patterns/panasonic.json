@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "panasonic",
+            "pattern": "*://*.panasonic",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "panasonic",
+            "pattern": "*://*.panasonic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "panasonic",
+            "pattern": "*://*.panasonic.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "panasonic",
+            "pattern": "*://*.technics.com",
+            "active": true
+          }
+]

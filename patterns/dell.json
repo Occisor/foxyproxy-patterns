@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dell",
+            "pattern": "*://*.dell",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dell",
+            "pattern": "*://*.dell-brand.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dell",
+            "pattern": "*://*.dell.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dell",
+            "pattern": "*://*.dellcdn.com",
+            "active": true
+          }
+]

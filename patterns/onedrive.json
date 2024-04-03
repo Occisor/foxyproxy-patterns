@@ -1,0 +1,79 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.1drv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.1drv.ms",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.livefilestore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.onedrive.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.onedrive.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.onedrive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.onedrive.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.onedrive.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.onedrive.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.onedrive.live.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onedrive",
+            "pattern": "*://*.storage.live.com",
+            "active": true
+          }
+]

@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-hospital-cn",
+            "pattern": "*://*.fuwai.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-hospital-cn",
+            "pattern": "*://*.pkuh6.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-hospital-cn",
+            "pattern": "*://*.puh3.net.cn",
+            "active": true
+          }
+]

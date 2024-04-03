@@ -1,0 +1,226 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.flatmates.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.hackday.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.hometrack.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.housing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.housingcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.inventorship.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.ippstatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.iproperty.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.iproperty.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.iproperty.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.makaan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.move.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.moveaws.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.myfun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.property.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.proptiger.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.rea-asia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.rea-group.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.rea.design",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.rea.global",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.rea.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.rea.tech",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.realcommercial.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.realestate.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.realtor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.reastatic.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.rumah123.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.smartexpos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.smartline.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.spacely.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.squarefoot.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reagroup",
+            "pattern": "*://*.thinkofliving.com",
+            "active": true
+          }
+]

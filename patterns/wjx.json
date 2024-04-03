@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wjx",
+            "pattern": "*://*.sojump.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wjx",
+            "pattern": "*://*.wjx.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wjx",
+            "pattern": "*://*.wjx.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wjx",
+            "pattern": "*://*.wjx.top",
+            "active": true
+          }
+]

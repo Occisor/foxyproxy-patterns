@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "realvision",
+            "pattern": "*://*.realvision.com",
+            "active": true
+          }
+]

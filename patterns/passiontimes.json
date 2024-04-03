@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "passiontimes",
+            "pattern": "*://*.passiontimes.hk",
+            "active": true
+          }
+]

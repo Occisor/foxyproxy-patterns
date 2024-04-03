@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ihuman",
+            "pattern": "*://*.ihuman.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ihuman",
+            "pattern": "*://*.hongen.com",
+            "active": true
+          }
+]

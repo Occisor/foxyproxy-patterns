@@ -1,0 +1,1136 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.sse.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.sseinfo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.szse.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cninfo.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ajzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.avicsec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ccnew.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cczq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cczq.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cfsc.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cfzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cgws.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.chinalions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.chinastock.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cicc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ciccwm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cindasc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cjsc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cnhbstock.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cnht.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.csco.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.csfounder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ctsec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.daton.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.dfham.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.dfzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.dgzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.dtsbc.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.dwjq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.dxzq.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.easec.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.essence.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ewww.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.fcsc.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.fzfinancing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gf.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ghsl.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ghzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gjzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gkzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.glsc.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.grzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gsgh.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gszq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gtja.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gtja.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.guodu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.guosen.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gyzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hazq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hczq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hfzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hlzqgs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hongtastock.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hrsec.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hsbcqh.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.htsc.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.htsec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.huajingsec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.huajinsc.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.huayingsc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hx168.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hxzq.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.i618.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.iztzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.jhzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.jpmorganchina.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.jyzq.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.jzsec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.kysec.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.lczq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.lhzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.longone.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.morganstanleyhuaxin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.mszq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.nesc.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.njzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.nomuraoi-sec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.shgsec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.shhxzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.shzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.stocke.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.swhysc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.swsc.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.tebon.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.tfzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.tpyzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.vanho.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.west95582.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.wkzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.wlzq.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.wxzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.xcsc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.xsdzq.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.xyzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ydsc.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ykzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ytzq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.zdzq.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.zszq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ztfsec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.zts.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.99fund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.abc-ca.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.avicfund.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.bdfund.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.bobbns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.boscam.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.bosera.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ccfund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cfund108.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.changanfunds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.chinanature.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cib-fund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.cryuantafund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ctfund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.dbfund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.efunds.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.fadfunds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.foresightfund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.founderff.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.fsfund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ftfund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.fullgoal.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.furamc.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.galaxyasset.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gefund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gffunds.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gfund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.gowinamc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hffunds.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hftfund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hongdefund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.hsfund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.huaan.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.igwfmc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.jsfund.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.jtamc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.mfcteda.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.msjyfund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.nffund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ocfund.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.orient-fund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.phfund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.postfund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.py-axa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.swsmu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.taipingfund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.thfund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.tongtaiamc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ubssdic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.xf-fund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.xqfunds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.ydamc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.yhfund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.zhfund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.zofund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.5ifund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.fund123.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.howbuy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.lufunds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-securities-cn",
+            "pattern": "*://*.zlfund.cn",
+            "active": true
+          }
+]

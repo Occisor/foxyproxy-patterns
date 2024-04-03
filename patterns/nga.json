@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nga",
+            "pattern": "*://*.nga.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nga",
+            "pattern": "*://*.178.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nga",
+            "pattern": "*://*.ngabbs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nga",
+            "pattern": "*://*.ngacn.cc",
+            "active": true
+          }
+]

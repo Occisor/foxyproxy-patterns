@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "knovel",
+            "pattern": "*://*.knovel.com",
+            "active": true
+          }
+]

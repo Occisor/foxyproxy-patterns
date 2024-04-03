@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "scmp",
+            "pattern": "*://*.scmp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "scmp",
+            "pattern": "*://*.i-scmp.com",
+            "active": true
+          }
+]

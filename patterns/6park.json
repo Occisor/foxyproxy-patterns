@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "6park",
+            "pattern": "*://*.6park.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "6park",
+            "pattern": "*://*.6parkbbs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "6park",
+            "pattern": "*://*.6parknews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "6park",
+            "pattern": "*://*.cool18.com",
+            "active": true
+          }
+]

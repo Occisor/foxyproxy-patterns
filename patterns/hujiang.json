@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hujiang",
+            "pattern": "*://*.cctalk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hujiang",
+            "pattern": "*://*.hjapi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hujiang",
+            "pattern": "*://*.hjfile.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hujiang",
+            "pattern": "*://*.hujiang.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hujiang",
+            "pattern": "*://*.yeshj.com",
+            "active": true
+          }
+]

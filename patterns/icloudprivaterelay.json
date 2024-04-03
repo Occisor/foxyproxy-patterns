@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloudprivaterelay",
+            "pattern": "*://*.mask-h2.icloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "icloudprivaterelay",
+            "pattern": "*://*.mask.icloud.com",
+            "active": true
+          }
+]

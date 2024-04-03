@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "udn",
+            "pattern": "*://*.udn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "udn",
+            "pattern": "*://*.udn.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "udn",
+            "pattern": "*://*.udndata.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "udn",
+            "pattern": "*://*.udnfunlife.com",
+            "active": true
+          }
+]

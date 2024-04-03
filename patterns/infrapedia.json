@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "infrapedia",
+            "pattern": "*://*.infrapedia.com",
+            "active": true
+          }
+]

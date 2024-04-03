@@ -1,0 +1,72 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mozilla",
+            "pattern": "*://*.mozgcp.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mozilla",
+            "pattern": "*://*.mozilla.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mozilla",
+            "pattern": "*://*.mozilla.community",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mozilla",
+            "pattern": "*://*.mozilla.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mozilla",
+            "pattern": "*://*.mozilla.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mozilla",
+            "pattern": "*://*.extensionworkshop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mozilla",
+            "pattern": "*://*.bugzilla.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mozilla",
+            "pattern": "*://*.getpocket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mozilla",
+            "pattern": "*://*.seamonkey-project.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mozilla",
+            "pattern": "*://*.thunderbird.net",
+            "active": true
+          }
+]

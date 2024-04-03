@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "firefox",
+            "pattern": "*://*.firefox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "firefox",
+            "pattern": "*://*.firefoxusercontent.com",
+            "active": true
+          }
+]

@@ -1,0 +1,86 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.enterprisessl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.hackerguardian.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.instantssl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.optimumssl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.positivessl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.sectigo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.trust-provider.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.usertrust.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.aoc.cat",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.catcert.cat",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.incommon-rsa.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sectigo",
+            "pattern": "*://*.netsolssl.com",
+            "active": true
+          }
+]

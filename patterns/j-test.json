@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "j-test",
+            "pattern": "*://*.j-test.com",
+            "active": true
+          }
+]

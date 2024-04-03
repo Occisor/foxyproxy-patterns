@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cern",
+            "pattern": "*://*.cern",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cern",
+            "pattern": "*://*.ams02.space",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cern",
+            "pattern": "*://*.cern.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cern",
+            "pattern": "*://*.cixp.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cern",
+            "pattern": "*://*.dotcernpilot.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cern",
+            "pattern": "*://*.ippog.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cern",
+            "pattern": "*://*.linearcollider.org",
+            "active": true
+          }
+]

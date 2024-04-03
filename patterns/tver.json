@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tver",
+            "pattern": "*://*.dogatch.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tver",
+            "pattern": "*://*.gorin.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tver",
+            "pattern": "*://*.screens-lab.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tver",
+            "pattern": "*://*.tver.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tver",
+            "pattern": "*://*.tver.jp",
+            "active": true
+          }
+]

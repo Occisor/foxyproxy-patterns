@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ssplive",
+            "pattern": "*://*.ssplive.pw",
+            "active": true
+          }
+]

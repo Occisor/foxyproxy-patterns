@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dyna",
+            "pattern": "*://*.dynacw.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dyna",
+            "pattern": "*://*.dynacw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dyna",
+            "pattern": "*://*.dynacw.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dyna",
+            "pattern": "*://*.dynacw.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dyna",
+            "pattern": "*://*.dynacw.com.tw",
+            "active": true
+          }
+]

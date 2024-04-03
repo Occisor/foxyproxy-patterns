@@ -1,0 +1,107 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.codechina.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.csdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.csdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.csdn.net.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.csdnimg.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.csto.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.datasea.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.gitbook.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.gitchat.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.gitcode.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.gitcode.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.iteye.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.kaifayun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.programmer.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "csdn",
+            "pattern": "*://*.programmer.net.cn",
+            "active": true
+          }
+]

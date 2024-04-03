@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "duitang",
+            "pattern": "*://*.dtstatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "duitang",
+            "pattern": "*://*.duitang.com",
+            "active": true
+          }
+]

@@ -1,0 +1,93 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logicool.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logicoolg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logitech.biz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logitech.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logitech.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logitech.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logitech.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logitechg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logitechg.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logitechg.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.logitechio.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "logitech",
+            "pattern": "*://*.worldsfastestgamer.net",
+            "active": true
+          }
+]

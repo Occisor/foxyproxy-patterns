@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ck101",
+            "pattern": "*://*.ck101.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ck101",
+            "pattern": "*://*.ckcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ck101",
+            "pattern": "*://*.ckck.fun",
+            "active": true
+          }
+]

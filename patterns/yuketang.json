@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yuketang",
+            "pattern": "*://*.rainclassroom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yuketang",
+            "pattern": "*://*.yuketang.cn",
+            "active": true
+          }
+]

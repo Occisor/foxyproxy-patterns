@@ -1,0 +1,100 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.51cdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.8686c.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.cdn30.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.chinanetcenter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.lxdns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.lxdns.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.lxdns.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.ourdvsss.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.speedws.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.speedws.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.wangsu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.wscdns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.wscdns.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wangsu",
+            "pattern": "*://*.wscdns.org",
+            "active": true
+          }
+]

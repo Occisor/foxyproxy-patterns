@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "douban",
+            "pattern": "*://*.douban.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "douban",
+            "pattern": "*://*.douban.fm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "douban",
+            "pattern": "*://*.doubanio.com",
+            "active": true
+          }
+]

@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "limelight",
+            "pattern": "*://*.delvenetworks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "limelight",
+            "pattern": "*://*.limelight.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "limelight",
+            "pattern": "*://*.lldns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "limelight",
+            "pattern": "*://*.llnw-trials.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "limelight",
+            "pattern": "*://*.llnw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "limelight",
+            "pattern": "*://*.llnw.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "limelight",
+            "pattern": "*://*.llnwd.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "limelight",
+            "pattern": "*://*.llnwi.net",
+            "active": true
+          }
+]

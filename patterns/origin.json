@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "origin",
+            "pattern": "*://*.dawngate.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "origin",
+            "pattern": "*://*.eastore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "origin",
+            "pattern": "*://*.lordofultima.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "origin",
+            "pattern": "*://*.origin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "origin",
+            "pattern": "*://*.origin.tv",
+            "active": true
+          }
+]

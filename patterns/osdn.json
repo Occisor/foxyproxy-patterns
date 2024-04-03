@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "osdn",
+            "pattern": "*://*.osdn.net",
+            "active": true
+          }
+]

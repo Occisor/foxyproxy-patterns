@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reddit",
+            "pattern": "*://*.reddit.app.link",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reddit",
+            "pattern": "*://*.reddit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reddit",
+            "pattern": "*://*.redditstatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reddit",
+            "pattern": "*://*.redditmail.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reddit",
+            "pattern": "*://*.redditmedia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reddit",
+            "pattern": "*://*.redd.it",
+            "active": true
+          }
+]

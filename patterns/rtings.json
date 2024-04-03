@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rtings",
+            "pattern": "*://*.rtings.com",
+            "active": true
+          }
+]

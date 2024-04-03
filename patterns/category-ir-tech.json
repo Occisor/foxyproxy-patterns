@@ -1,0 +1,240 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.afranet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.arvancloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.arvancloud.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.asiatech.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.cafebazaar.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.download.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.downloadly.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.hiweb.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.ipnumberia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.irancell.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.iranserver.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.mci.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.mihanwebhost.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.mobinnet.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.myket.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.najva.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.neshanmap.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.p30download.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.p30download.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.parsonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.picofile.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.pishgaman.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.rightel.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.sarzamindownload.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.shatel.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.soft98.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.sotoon.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.taliya.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.tapsell.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.tci.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.uplod.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.uupload.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.yektanet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-tech",
+            "pattern": "*://*.zoomit.ir",
+            "active": true
+          }
+]

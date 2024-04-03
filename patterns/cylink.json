@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cylink",
+            "pattern": "*://*.cylink.pro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cylink",
+            "pattern": "*://*.cylink0122.icu",
+            "active": true
+          }
+]

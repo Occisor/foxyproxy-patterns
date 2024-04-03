@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinadecoding",
+            "pattern": "*://*.chinadecoding.com",
+            "active": true
+          }
+]

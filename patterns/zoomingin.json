@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoomingin",
+            "pattern": "*://*.zoomingin.tv",
+            "active": true
+          }
+]

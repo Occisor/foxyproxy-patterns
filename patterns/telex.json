@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telex",
+            "pattern": "*://*.telex.cc",
+            "active": true
+          }
+]

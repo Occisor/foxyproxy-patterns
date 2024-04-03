@@ -1,0 +1,429 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bbgevent.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bbhub.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bbthat.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bgov.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberg.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberg.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberg.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberg.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberg.fm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberg.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergapps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergarcade.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergbeta.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergbna.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergbreakaway.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergbriefs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergchina.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergenvironment.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergforeducation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberggovernment.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergindices.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergindustry.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberglabs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberglaw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberglive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloomberglp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergmedia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergnext.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergpolarlake.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergprep.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergquint.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergradio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergsef.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergspace.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergstatus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergsurvey.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergtax.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergtax1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergtaxtech.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergtradingchallenge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergtv.mn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergvault.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bloombergview.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.blpcareers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.blpevents.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.blpprofessional.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bmia.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bnef.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.businessweek.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.businessweekmag.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.bwbx.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.citylab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.gotraffic.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.londonmithraeum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.neweconomyforum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.newenergyfinance.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.quicktake.video",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.techatbloomberg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bloomberg",
+            "pattern": "*://*.tictoc.video",
+            "active": true
+          }
+]

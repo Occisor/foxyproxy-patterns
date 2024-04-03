@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "avaxhome",
+            "pattern": "*://*.avxhm.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "avaxhome",
+            "pattern": "*://*.avh.world",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "avaxhome",
+            "pattern": "*://*.avxde.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "avaxhome",
+            "pattern": "*://*.avxhm.is",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "avaxhome",
+            "pattern": "*://*.avxlive.icu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "avaxhome",
+            "pattern": "*://*.xsava.xyz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "avaxhome",
+            "pattern": "*://*.zavat.pw",
+            "active": true
+          }
+]

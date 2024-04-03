@@ -1,0 +1,128 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.cdnsnapptrip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapp-box.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapp.cab",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapp.doctor",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapp.express",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapp.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapp.ninja",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapp.site",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapp.supply",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapp.taxi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapp.tech",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snappcloud.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snappfood.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snappfood.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snappmaps.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapproom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snappshop.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snapp",
+            "pattern": "*://*.snapptrip.com",
+            "active": true
+          }
+]

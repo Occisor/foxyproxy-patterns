@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "parler",
+            "pattern": "*://*.parler.com",
+            "active": true
+          }
+]

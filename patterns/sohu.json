@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sohu",
+            "pattern": "*://*.sohu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sohu",
+            "pattern": "*://*.sohucs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sohu",
+            "pattern": "*://*.itc.cn",
+            "active": true
+          }
+]

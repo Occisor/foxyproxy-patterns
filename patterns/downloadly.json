@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "downloadly",
+            "pattern": "*://*.downloadly.ir",
+            "active": true
+          }
+]

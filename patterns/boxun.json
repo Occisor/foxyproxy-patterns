@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boxun",
+            "pattern": "*://*.boxun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boxun",
+            "pattern": "*://*.bowenpress.com",
+            "active": true
+          }
+]

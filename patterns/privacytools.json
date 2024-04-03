@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "privacytools",
+            "pattern": "*://*.privacytools.io",
+            "active": true
+          }
+]

@@ -1,0 +1,527 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.xn--cckwcxetd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.xn--jlq480n2rg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.yamaxun",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.zappos",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.a2z.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.aboutamazon.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amaaozn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon-fashions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon-jp-recruiting.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon-lantern.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon-launchpad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.jobs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.red",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazon.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonalexavoxcon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonauthorinsights.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonbusiness.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonbusinessblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazondevicesupport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonfctours.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonianblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonimages.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonlaunchpad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonliterarypartnership.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonlumberyard.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonpay.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonpay.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonsdi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonstudiosguilds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amazonvideodirect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amzn.asia",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amzn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amzn.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.amznl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.associates-amazon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.gameon-masters.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.gdansk-amazon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.images-amazon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.media-amazon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.primeday.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.siege-amazon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.ssl-images-amazon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.ueberamazon.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.yamaxun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.alexa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.audible.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazon",
+            "pattern": "*://*.createspace.com",
+            "active": true
+          }
+]

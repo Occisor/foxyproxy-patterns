@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "notion",
+            "pattern": "*://*.notion-static.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "notion",
+            "pattern": "*://*.notion.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "notion",
+            "pattern": "*://*.notion.new",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "notion",
+            "pattern": "*://*.notion.site",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "notion",
+            "pattern": "*://*.notion.so",
+            "active": true
+          }
+]

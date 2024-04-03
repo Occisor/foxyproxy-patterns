@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oan",
+            "pattern": "*://*.aweencore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oan",
+            "pattern": "*://*.awetv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oan",
+            "pattern": "*://*.herringnetwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oan",
+            "pattern": "*://*.oanencore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oan",
+            "pattern": "*://*.oann.com",
+            "active": true
+          }
+]

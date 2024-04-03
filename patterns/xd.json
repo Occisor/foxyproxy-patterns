@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xd",
+            "pattern": "*://*.ro.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xd",
+            "pattern": "*://*.xd.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xd",
+            "pattern": "*://*.xd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xd",
+            "pattern": "*://*.xdcdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xd",
+            "pattern": "*://*.xindong.com",
+            "active": true
+          }
+]

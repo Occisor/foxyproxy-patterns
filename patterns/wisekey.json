@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wisekey",
+            "pattern": "*://*.wisecoin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wisekey",
+            "pattern": "*://*.wiseid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wisekey",
+            "pattern": "*://*.wisekey.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wisekey",
+            "pattern": "*://*.wisekey.com.hk",
+            "active": true
+          }
+]

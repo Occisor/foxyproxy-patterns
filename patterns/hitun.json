@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hitun",
+            "pattern": "*://*.hitun.io",
+            "active": true
+          }
+]

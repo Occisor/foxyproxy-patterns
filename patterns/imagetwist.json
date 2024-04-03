@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imagetwist",
+            "pattern": "*://*.imagetwist.com",
+            "active": true
+          }
+]

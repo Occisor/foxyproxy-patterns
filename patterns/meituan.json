@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meituan",
+            "pattern": "*://*.dianping.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meituan",
+            "pattern": "*://*.maoyan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meituan",
+            "pattern": "*://*.meituan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meituan",
+            "pattern": "*://*.meituan.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meituan",
+            "pattern": "*://*.mtyun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meituan",
+            "pattern": "*://*.neixin.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meituan",
+            "pattern": "*://*.sankuai.com",
+            "active": true
+          }
+]

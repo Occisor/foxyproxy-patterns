@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lysol",
+            "pattern": "*://*.lizol.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lysol",
+            "pattern": "*://*.lysol.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lysol",
+            "pattern": "*://*.lysol.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lysol",
+            "pattern": "*://*.lysol.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lysol",
+            "pattern": "*://*.lysol.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lysol",
+            "pattern": "*://*.lysol.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lysol",
+            "pattern": "*://*.lysol.net",
+            "active": true
+          }
+]

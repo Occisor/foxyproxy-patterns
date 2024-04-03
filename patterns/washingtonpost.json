@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "washingtonpost",
+            "pattern": "*://*.washingtonpost.com",
+            "active": true
+          }
+]

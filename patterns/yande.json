@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yande",
+            "pattern": "*://*.yande.re",
+            "active": true
+          }
+]

@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apifox",
+            "pattern": "*://*.apifox.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apifox",
+            "pattern": "*://*.apifox.com",
+            "active": true
+          }
+]

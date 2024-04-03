@@ -1,0 +1,72 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-games",
+            "pattern": "*://*.fanatical.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-games",
+            "pattern": "*://*.humblebundle.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-games",
+            "pattern": "*://*.loverslab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-games",
+            "pattern": "*://*.modrinth.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-games",
+            "pattern": "*://*.nexusmods.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-games",
+            "pattern": "*://*.papermc.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-games",
+            "pattern": "*://*.planetminecraft.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-games",
+            "pattern": "*://*.protondb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-games",
+            "pattern": "*://*.speedrun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-games",
+            "pattern": "*://*.steamdb.info",
+            "active": true
+          }
+]

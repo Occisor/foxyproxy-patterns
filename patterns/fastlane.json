@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fastlane",
+            "pattern": "*://*.fastlane.ci",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fastlane",
+            "pattern": "*://*.fastlane.tools",
+            "active": true
+          }
+]

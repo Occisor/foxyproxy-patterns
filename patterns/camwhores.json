@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "camwhores",
+            "pattern": "*://*.camwhores.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "camwhores",
+            "pattern": "*://*.camwhores.video",
+            "active": true
+          }
+]

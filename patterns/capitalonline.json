@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "capitalonline",
+            "pattern": "*://*.capitalonline.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "capitalonline",
+            "pattern": "*://*.mirrors.yun-idc.com",
+            "active": true
+          }
+]

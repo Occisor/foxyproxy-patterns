@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "brilliant",
+            "pattern": "*://*.brilliant.org",
+            "active": true
+          }
+]

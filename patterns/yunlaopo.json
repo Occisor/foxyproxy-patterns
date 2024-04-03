@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yunlaopo",
+            "pattern": "*://*.doure.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yunlaopo",
+            "pattern": "*://*.kuaipa.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yunlaopo",
+            "pattern": "*://*.miaopa.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yunlaopo",
+            "pattern": "*://*.yunlaopo.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yunlaopo",
+            "pattern": "*://*.yunlaopo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yunlaopo",
+            "pattern": "*://*.yunlaopo.net",
+            "active": true
+          }
+]

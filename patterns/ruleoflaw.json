@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ruleoflaw",
+            "pattern": "*://*.rolfoundation.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ruleoflaw",
+            "pattern": "*://*.rolsociety.org",
+            "active": true
+          }
+]

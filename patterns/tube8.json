@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tube8",
+            "pattern": "*://*.tube8.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tube8",
+            "pattern": "*://*.tube8.fr",
+            "active": true
+          }
+]

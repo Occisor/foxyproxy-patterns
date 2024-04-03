@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "anandtech",
+            "pattern": "*://*.anandtech.com",
+            "active": true
+          }
+]

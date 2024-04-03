@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "flatpak",
+            "pattern": "*://*.flathub.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "flatpak",
+            "pattern": "*://*.flatpak.org",
+            "active": true
+          }
+]

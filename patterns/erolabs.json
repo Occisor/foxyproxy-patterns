@@ -1,0 +1,72 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erolabs",
+            "pattern": "*://*.ero-labs.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erolabs",
+            "pattern": "*://*.ero-labs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erolabs",
+            "pattern": "*://*.ero-labs.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erolabs",
+            "pattern": "*://*.ero-labs.online",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erolabs",
+            "pattern": "*://*.ero-labs.site",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erolabs",
+            "pattern": "*://*.erolabs.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erolabs",
+            "pattern": "*://*.erolabs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erolabs",
+            "pattern": "*://*.erolabs.game",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erolabs",
+            "pattern": "*://*.erolabs.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erolabs",
+            "pattern": "*://*.erolabs.online",
+            "active": true
+          }
+]

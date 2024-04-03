@@ -1,0 +1,72 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mainichi",
+            "pattern": "*://*.machigoto.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mainichi",
+            "pattern": "*://*.mainichi-athletepartners.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mainichi",
+            "pattern": "*://*.mainichi.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mainichi",
+            "pattern": "*://*.mainichibooks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mainichi",
+            "pattern": "*://*.meijinsen.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mainichi",
+            "pattern": "*://*.mirailab.tech",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mainichi",
+            "pattern": "*://*.mottainai.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mainichi",
+            "pattern": "*://*.newsgawakaru.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mainichi",
+            "pattern": "*://*.sponichi.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mainichi",
+            "pattern": "*://*.weekly-economist.com",
+            "active": true
+          }
+]

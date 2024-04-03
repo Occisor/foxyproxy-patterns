@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "psiphon",
+            "pattern": "*://*.psiphon3.com",
+            "active": true
+          }
+]

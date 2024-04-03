@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lowiro",
+            "pattern": "*://*.lowiro.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "trustwave",
+            "pattern": "*://*.trustwave.com",
+            "active": true
+          }
+]

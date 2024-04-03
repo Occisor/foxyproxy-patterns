@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imgur",
+            "pattern": "*://*.imgur.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imgur",
+            "pattern": "*://*.imgur.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imgur",
+            "pattern": "*://*.imgurinc.com",
+            "active": true
+          }
+]

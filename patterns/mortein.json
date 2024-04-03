@@ -1,0 +1,72 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mortein",
+            "pattern": "*://*.mortein.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mortein",
+            "pattern": "*://*.mortein.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mortein",
+            "pattern": "*://*.mortein.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mortein",
+            "pattern": "*://*.mortein.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mortein",
+            "pattern": "*://*.mortein.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mortein",
+            "pattern": "*://*.mortein.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mortein",
+            "pattern": "*://*.mortein.com.ng",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mortein",
+            "pattern": "*://*.mortein.com.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mortein",
+            "pattern": "*://*.morteincam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mortein",
+            "pattern": "*://*.pifpafarabia.com",
+            "active": true
+          }
+]

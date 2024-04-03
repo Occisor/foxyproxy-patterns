@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "scaleflex",
+            "pattern": "*://*.scaleflex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "scaleflex",
+            "pattern": "*://*.cloudimage.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "scaleflex",
+            "pattern": "*://*.cloudimg.io",
+            "active": true
+          }
+]

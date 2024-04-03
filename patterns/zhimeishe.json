@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zhimeishe",
+            "pattern": "*://*.168sex.top",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zhimeishe",
+            "pattern": "*://*.a7sex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zhimeishe",
+            "pattern": "*://*.ctotires.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zhimeishe",
+            "pattern": "*://*.ferryclean.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zhimeishe",
+            "pattern": "*://*.zhimeishe888.com",
+            "active": true
+          }
+]

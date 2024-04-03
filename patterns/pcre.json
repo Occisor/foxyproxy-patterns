@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pcre",
+            "pattern": "*://*.pcre.org",
+            "active": true
+          }
+]

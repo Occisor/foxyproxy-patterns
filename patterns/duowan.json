@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "duowan",
+            "pattern": "*://*.duowan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "duowan",
+            "pattern": "*://*.dwstatic.com",
+            "active": true
+          }
+]

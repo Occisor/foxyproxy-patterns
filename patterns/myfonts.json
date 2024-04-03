@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "myfonts",
+            "pattern": "*://*.myfonts.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "myfonts",
+            "pattern": "*://*.myfonts.net",
+            "active": true
+          }
+]

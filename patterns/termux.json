@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "termux",
+            "pattern": "*://*.termux.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "termux",
+            "pattern": "*://*.termux.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "termux",
+            "pattern": "*://*.termux.org",
+            "active": true
+          }
+]

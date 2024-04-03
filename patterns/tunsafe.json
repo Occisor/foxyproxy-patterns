@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tunsafe",
+            "pattern": "*://*.tunsafe.com",
+            "active": true
+          }
+]

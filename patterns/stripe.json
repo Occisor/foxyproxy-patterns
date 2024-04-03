@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stripe",
+            "pattern": "*://*.link.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stripe",
+            "pattern": "*://*.stripe-terminal-local-reader.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stripe",
+            "pattern": "*://*.stripe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stripe",
+            "pattern": "*://*.stripe.network",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stripe",
+            "pattern": "*://*.stripecdn.com",
+            "active": true
+          }
+]

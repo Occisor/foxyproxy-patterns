@@ -1,0 +1,121 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.dreamworks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.cnbc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.cnbcfm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.msnbc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.nbc.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.nbc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.nbcnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.nbcolympics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.nbcsports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.nbcuni.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.nbcuniversal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.s-nbcnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.peacocktv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.universalorlando.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.universalpictures.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.universalpicturesinternational.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nbcuniversal",
+            "pattern": "*://*.universalstudioshollywood.com",
+            "active": true
+          }
+]

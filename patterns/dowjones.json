@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dowjones",
+            "pattern": "*://*.djreprints.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dowjones",
+            "pattern": "*://*.dowjones.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dowjones",
+            "pattern": "*://*.dowjones.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dowjones",
+            "pattern": "*://*.dowjoneson.com",
+            "active": true
+          }
+]

@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "clips4sale",
+            "pattern": "*://*.c4slive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "clips4sale",
+            "pattern": "*://*.clips4sale.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "clips4sale",
+            "pattern": "*://*.videos4sale.com",
+            "active": true
+          }
+]

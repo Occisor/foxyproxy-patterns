@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "flickr",
+            "pattern": "*://*.flickr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "flickr",
+            "pattern": "*://*.flic.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "flickr",
+            "pattern": "*://*.flickr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "flickr",
+            "pattern": "*://*.flickr.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "flickr",
+            "pattern": "*://*.staticflickr.com",
+            "active": true
+          }
+]

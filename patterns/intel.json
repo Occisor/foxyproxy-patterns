@@ -1,0 +1,1717 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ac",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.af",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ag",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ai",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.az",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ba",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.bh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.bi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.bs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.by",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.cg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.cm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.co.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.jm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.pr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.py",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.com.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.cu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.dz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.eg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ga",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.gd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ge",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.gl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.gm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.gs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.gt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.gy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.hn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ht",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.je",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.jo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ke",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.la",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.lc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.lk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ly",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ma",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.md",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.mg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.mk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.mn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.mp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.mt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.mu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.mw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ng",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.nu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.pa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.pn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.re",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.rw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.sa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.sc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.sn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.sr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.st",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.sv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.sx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.sy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.tf",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.tj",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.tl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.tm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.tn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.tt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.uz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.vg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.vu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.wf",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel.yt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.altera.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.alteraforum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.alteraforums.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.alteraforums.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.alterauserforum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.alterauserforum.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.alterauserforums.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.alterauserforums.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.buyaltera.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.celeron.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.celeron.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.centrino.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.centrino.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.chips.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.cilk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.cilk.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.cloudinsights.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.clusterconnection.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.coreduo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.coreextreme.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.crosswalk-project.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.crosswalk-project.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.doceapower.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.easic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.enpirion.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.exascale-tech.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.exploreintel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.gordonmoore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.insidefilms.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel-research.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intel-university-collaboration.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelamericasstore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelapacstore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelatom.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelcapital.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelcapital.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelcloudbuilders.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelcloudfinder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelemeastore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.inteleventexpress.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelforchange.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelfreepress.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelgo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelinsight.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.inteliotmarketplace.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intell.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intellearningseries.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intellinuxwireless.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelnervana.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelnet.Component",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelplay.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelquark.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelrealsense.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelrxt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelsalestraining.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelsecurity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelserveredge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelsoftwarenetwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelstore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.inteltechnologyprovider.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.intelvmwarecybersecurity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.itnel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.latencytop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.lookinside.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.makebettercode.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.makesenseofdata.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.movidius.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.movidius.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.nervanasys.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.nevex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.nextgenerationcenter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.niosii.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.niosii.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.omekinteractive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.omnitek.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.openamt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.opendroneid.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.optanedifference.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.pc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.pentium.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.pentium.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.pintool.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.poweredbyintel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.reconinstruments.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.reconjet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.researchintel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.saffrontech.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.sensorynetworks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.siport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.smart-edge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.theintelstore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.thunderbolttechnology.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.trustedanalytics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.trustedanalytics.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.vokevr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.vpro.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.vpro.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.xeon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.xscale.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel",
+            "pattern": "*://*.barefootnetworks.com",
+            "active": true
+          }
+]

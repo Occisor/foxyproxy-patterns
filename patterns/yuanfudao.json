@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yuanfudao",
+            "pattern": "*://*.banmaaike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yuanfudao",
+            "pattern": "*://*.xiaoyuankousuan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yuanfudao",
+            "pattern": "*://*.ybccode.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yuanfudao",
+            "pattern": "*://*.yuanfudao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yuanfudao",
+            "pattern": "*://*.yuansouti.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yuanfudao",
+            "pattern": "*://*.yuantiku.com",
+            "active": true
+          }
+]

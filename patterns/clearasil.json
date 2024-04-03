@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "clearasil",
+            "pattern": "*://*.clearasil.us",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bighead",
+            "pattern": "*://*.bighead.group",
+            "active": true
+          }
+]

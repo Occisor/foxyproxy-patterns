@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ssrpass",
+            "pattern": "*://*.ssrpass.pw",
+            "active": true
+          }
+]

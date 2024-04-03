@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lagou",
+            "pattern": "*://*.lagou.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lagou",
+            "pattern": "*://*.lgstatic.com",
+            "active": true
+          }
+]

@@ -1,0 +1,135 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.meme",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.ing",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.foo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.zip",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.mov",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.nexus",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.dad",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.phd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.prof",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.esq",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.rsvp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.boo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.day",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.new",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.page",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.app",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.how",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "google-registry-tld",
+            "pattern": "*://*.soy",
+            "active": true
+          }
+]

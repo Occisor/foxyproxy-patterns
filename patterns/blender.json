@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blender",
+            "pattern": "*://*.bigbuckbunny.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blender",
+            "pattern": "*://*.blender.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blender",
+            "pattern": "*://*.elephantsdream.org",
+            "active": true
+          }
+]

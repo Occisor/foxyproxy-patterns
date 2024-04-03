@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snap",
+            "pattern": "*://*.sc-cdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snap",
+            "pattern": "*://*.snap-dev.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snap",
+            "pattern": "*://*.snap.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snap",
+            "pattern": "*://*.snapchat.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "snap",
+            "pattern": "*://*.snapkit.co",
+            "active": true
+          }
+]

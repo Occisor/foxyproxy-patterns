@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-wiki-cn",
+            "pattern": "*://*.fgo.wiki",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-wiki-cn",
+            "pattern": "*://*.huijistatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-wiki-cn",
+            "pattern": "*://*.huijiwiki.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-wiki-cn",
+            "pattern": "*://*.mbalib.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-wiki-cn",
+            "pattern": "*://*.moegirl.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-wiki-cn",
+            "pattern": "*://*.moegirl.org.cn",
+            "active": true
+          }
+]

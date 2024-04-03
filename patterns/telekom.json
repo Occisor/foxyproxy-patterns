@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telekom",
+            "pattern": "*://*.telekom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telekom",
+            "pattern": "*://*.telekom.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telekom",
+            "pattern": "*://*.telesec.de",
+            "active": true
+          }
+]

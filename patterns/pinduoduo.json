@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinduoduo",
+            "pattern": "*://*.pddpic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinduoduo",
+            "pattern": "*://*.pinduoduo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinduoduo",
+            "pattern": "*://*.pinduoduo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinduoduo",
+            "pattern": "*://*.yangkeduo.com",
+            "active": true
+          }
+]

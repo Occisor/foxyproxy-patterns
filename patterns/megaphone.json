@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "megaphone",
+            "pattern": "*://*.megaphone.fm",
+            "active": true
+          }
+]

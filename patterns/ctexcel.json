@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctexcel",
+            "pattern": "*://*.ctexcel.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctexcel",
+            "pattern": "*://*.ctexcel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctexcel",
+            "pattern": "*://*.ctexcel.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctexcel",
+            "pattern": "*://*.ctexcel.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctexcel",
+            "pattern": "*://*.ctexcel.us",
+            "active": true
+          }
+]

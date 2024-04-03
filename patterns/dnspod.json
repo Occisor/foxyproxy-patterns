@@ -1,0 +1,100 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dns.pub",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnsapi.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnspod.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnspod.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnspod.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnspod.mobi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnspod.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnspod.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnsv2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnsv3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnsv4.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dnsv5.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.doh.pub",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dnspod",
+            "pattern": "*://*.dot.pub",
+            "active": true
+          }
+]

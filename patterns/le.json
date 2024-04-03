@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "le",
+            "pattern": "*://*.le.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "le",
+            "pattern": "*://*.lecloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "le",
+            "pattern": "*://*.lemall.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "le",
+            "pattern": "*://*.letv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "le",
+            "pattern": "*://*.letvcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "le",
+            "pattern": "*://*.letvimg.com",
+            "active": true
+          }
+]

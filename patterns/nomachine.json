@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nomachine",
+            "pattern": "*://*.nomachine.com",
+            "active": true
+          }
+]

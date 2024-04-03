@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiyukobo",
+            "pattern": "*://*.jiyu-kobo.co.jp",
+            "active": true
+          }
+]

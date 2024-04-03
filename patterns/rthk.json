@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rthk",
+            "pattern": "*://*.etvonline.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rthk",
+            "pattern": "*://*.rthk.hk",
+            "active": true
+          }
+]

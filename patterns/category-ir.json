@@ -1,0 +1,184 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.blogfa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.blogsky.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.loxblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.niniweblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.rozblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.balad.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.neshan.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.raah.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.varzesh3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.isignal.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.tgju.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.bama.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.car.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.ikco.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.karnameh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.khodro45.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.saipacorp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.porsline.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.time.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.jobinja.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.jobinja.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.jobinjacdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.beytoote.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.setare.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir",
+            "pattern": "*://*.tebyan.net",
+            "active": true
+          }
+]

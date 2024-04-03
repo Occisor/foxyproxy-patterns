@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tianyancha",
+            "pattern": "*://*.jindidata.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tianyancha",
+            "pattern": "*://*.tianyancha.com",
+            "active": true
+          }
+]

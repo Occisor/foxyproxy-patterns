@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "forbes",
+            "pattern": "*://*.forbes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "forbes",
+            "pattern": "*://*.forbesimg.com",
+            "active": true
+          }
+]

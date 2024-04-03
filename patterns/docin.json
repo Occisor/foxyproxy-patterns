@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "docin",
+            "pattern": "*://*.docin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "docin",
+            "pattern": "*://*.douding.cn",
+            "active": true
+          }
+]

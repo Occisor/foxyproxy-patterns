@@ -1,0 +1,639 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.activelearnprimary.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.activelearnprimary.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.activeteachonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.addison-wesley.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.adobepress.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.btec.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.ciscopress.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.connectionsacademy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.connectionseducation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.connectionslearning.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.dombosco.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.ecpa.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.escapestudios.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.ilongman.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.integral7.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.internationalconnectionsacademy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.longman.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.mut.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.myhelpinglab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.mylogiclab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.mypearson.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.mypearsonenglish.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.mypearsonshop.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.mypearsonshop.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.mysocialworklab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.netname.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson-anaya.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson-intl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson-schule.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson-studium.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.com.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearson.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonactivelearn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonassessment.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonassessment.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonassessment.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonassessment.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonassessment.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonassessment.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonassessment.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonassessments.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsoncanada.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonclinical.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsoncmg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsoncred.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsoned.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsoned.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsoneducacion.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsoneducationbooks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonelt.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonelt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonenespanol.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonhighered.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsoninstitute.ac.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonlongman.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsononlineacademy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonperu.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonplaces.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonschoolsandfecolleges.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonvue.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pearsonvue.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pobl-content.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pvue1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.pvue2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.quatrum.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.stark-verlag.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.talentlens.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pearson",
+            "pattern": "*://*.themathsfactor.com",
+            "active": true
+          }
+]

@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "docker",
+            "pattern": "*://*.compose-spec.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "docker",
+            "pattern": "*://*.docker.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "docker",
+            "pattern": "*://*.docker.io",
+            "active": true
+          }
+]

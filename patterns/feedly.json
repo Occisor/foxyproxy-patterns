@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "feedly",
+            "pattern": "*://*.feedly.com",
+            "active": true
+          }
+]

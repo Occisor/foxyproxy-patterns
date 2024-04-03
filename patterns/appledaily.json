@@ -1,0 +1,226 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.appledaily.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.appledaily.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.appledaily.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.appledaily.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.applefruity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.applehealth.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.atnext.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.bestmallawards.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.deluxe.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.eracom.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.next.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextdigital.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextdigital.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextfilm.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextmag.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextmedia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextmedia.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextmgz.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextplus.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nexttv.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextwork.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextwork.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextwork.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nextwork.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nxtdig.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.nxtdig.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.omoplanet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.privilege.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.privilege.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.sharpdaily.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.tomonews.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "appledaily",
+            "pattern": "*://*.twnextdigital.com",
+            "active": true
+          }
+]

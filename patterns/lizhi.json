@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lizhi",
+            "pattern": "*://*.lizhi.fm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lizhi",
+            "pattern": "*://*.lizhifm.com",
+            "active": true
+          }
+]

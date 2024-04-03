@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blinkload",
+            "pattern": "*://*.blinkload.zone",
+            "active": true
+          }
+]

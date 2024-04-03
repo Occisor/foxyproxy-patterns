@@ -1,0 +1,156 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uug22.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uug23.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uug25.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uug26.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uug27.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uuk28.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun78.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun79.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun82.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun83.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun85.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun86.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun87.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun89.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun92.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun93.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun95.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun96.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun97.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun98.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uun99.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uu-chat",
+            "pattern": "*://*.uux68.com",
+            "active": true
+          }
+]

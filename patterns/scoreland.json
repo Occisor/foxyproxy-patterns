@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "scoreland",
+            "pattern": "*://*.scoreland.com",
+            "active": true
+          }
+]

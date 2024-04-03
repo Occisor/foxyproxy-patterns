@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "abc",
+            "pattern": "*://*.abc-studios.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "abc",
+            "pattern": "*://*.abc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "abc",
+            "pattern": "*://*.edgedatg.com",
+            "active": true
+          }
+]

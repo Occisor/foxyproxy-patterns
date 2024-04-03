@@ -1,0 +1,149 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.8008205555.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.8008205555.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cignacmb-ipmi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cignacmb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cignacmbamc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmb-leasing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmbchina.biz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmbchina.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmbchina.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmbi.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmbimg.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmbimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmbt.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmbuat.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmburl.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmbwinglungbank.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmf.biz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmf.ltd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmfchina.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.cmfunds.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cmb",
+            "pattern": "*://*.test-cignacmb.com",
+            "active": true
+          }
+]

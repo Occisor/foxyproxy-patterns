@@ -1,0 +1,548 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.adventofcode.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.alpinelinux.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.apache.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.artixlinux.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.atom.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.badgen.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.bitvise.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.cdnjs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.centos.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.chocolatey.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.clojure.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.cnpmjs.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.codeberg.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.cygwin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.cython.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.deno.land",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.dev.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.elixir-lang.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.elrepo.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.erlang.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.ffmpeg.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.freebsd.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.gentoo.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.getcomposer.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.getzola.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.git-scm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.gnu.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.greenend.org.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.hex.pm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.hexdocs.pm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.ius.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.jenkins.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.js.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.jupyter.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.kali.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.linuxfromscratch.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.linuxmint.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.lua.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.macports.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.mariadb.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.mingw.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.mobatek.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.mysql.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.nixos.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.nodesource.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.notepad-plus-plus.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.openresty.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.openssl.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.opensuse.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.packagist.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.pcre.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.phantomjs.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.php.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.putty.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.postgresql.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.r-project.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.raspberrypi.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.raspbian.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.regex101.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.rpmfusion.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.scientificlinux.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.scoop.sh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.shellcheck.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.shields.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.sqlite.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.sublimetext.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.termius.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.unpkg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.videojs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.videolan.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.wapm.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.wasmer.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.wireshark.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.x.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.xposed.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.yarnpkg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.zsh.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-dev",
+            "pattern": "*://*.huggingface.co",
+            "active": true
+          }
+]

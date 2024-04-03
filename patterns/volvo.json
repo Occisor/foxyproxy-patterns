@@ -1,0 +1,1437 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.dynafleetonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.escandinavia-arg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.independentoperatorcn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.road-crew.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.udfs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vfsco.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.vgcareers.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvo-truck.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvo.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvo.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobrandshop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.com.kw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.com.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.jo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.ma",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.om",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.tn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvobuses.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvoce.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvodefense.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogroup.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvogrouptruckcenter.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvomerchandise.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvopenta.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvopenta.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvopenta.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvopenta.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvopenta.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvopenta.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvopenta.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvopenta.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvopenta.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvosaatio.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvospares.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.al",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.am",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.az",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.ba",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.by",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.co.ao",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.co.bw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.co.mz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.co.na",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.co.zm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.co.zw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com.bn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com.kw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.com.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.ge",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.kg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.kz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.ma",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.md",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.mk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.mn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.ps",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.qa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.tm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.tn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotrucks.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckcenter.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckcenter.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckcenter.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckcenter.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckcenter.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckcenter.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckcenter.kz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckcenter.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckcenter.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckcenter.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.volvotruckrental.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volvo",
+            "pattern": "*://*.udtrucksmeena.com",
+            "active": true
+          }
+]

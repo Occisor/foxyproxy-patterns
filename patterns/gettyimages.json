@@ -1,0 +1,177 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gettyimages",
+            "pattern": "*://*.gettyimages.se",
+            "active": true
+          }
+]

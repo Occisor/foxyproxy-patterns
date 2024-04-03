@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "warroom",
+            "pattern": "*://*.warroom.org",
+            "active": true
+          }
+]

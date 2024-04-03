@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qingcloud",
+            "pattern": "*://*.frontwize.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qingcloud",
+            "pattern": "*://*.qingcache.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qingcloud",
+            "pattern": "*://*.qingcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qingcloud",
+            "pattern": "*://*.qingstor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qingcloud",
+            "pattern": "*://*.routewize.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qingcloud",
+            "pattern": "*://*.yunify.com",
+            "active": true
+          }
+]

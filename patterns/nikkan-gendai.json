@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nikkan-gendai",
+            "pattern": "*://*.gendai.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nikkan-gendai",
+            "pattern": "*://*.nikkan-gendai.com",
+            "active": true
+          }
+]

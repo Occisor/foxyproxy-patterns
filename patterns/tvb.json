@@ -1,0 +1,79 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.bigbigchannel.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.bigbigshop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.encoretvb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.tvb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.tvb.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.tvbanywhere.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.tvbanywhere.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.tvbeventpower.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.tvbusa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.tvbweekly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvb",
+            "pattern": "*://*.tvmedia.net.au",
+            "active": true
+          }
+]

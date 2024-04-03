@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aiqicha",
+            "pattern": "*://*.aiqicha.baidu.com",
+            "active": true
+          }
+]

@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gimy",
+            "pattern": "*://*.gimy.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gimy",
+            "pattern": "*://*.gimy.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gimy",
+            "pattern": "*://*.gimy.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gimy",
+            "pattern": "*://*.gimy.tv",
+            "active": true
+          }
+]

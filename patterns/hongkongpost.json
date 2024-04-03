@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hongkongpost",
+            "pattern": "*://*.hongkongpost.gov.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hongkongpost",
+            "pattern": "*://*.ecert.gov.hk",
+            "active": true
+          }
+]

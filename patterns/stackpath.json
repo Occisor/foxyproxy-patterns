@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackpath",
+            "pattern": "*://*.stackpath.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stackpath",
+            "pattern": "*://*.stackpath.dev",
+            "active": true
+          }
+]

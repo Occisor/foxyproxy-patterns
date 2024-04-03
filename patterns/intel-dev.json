@@ -1,0 +1,79 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.01.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.hyperscan.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.intellinuxgraphics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.intellinuxgraphics.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.oneapi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.openvinotoolkit.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.snap-telemetry.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.acpica.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.clearlinux.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.ospray.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intel-dev",
+            "pattern": "*://*.ospray.org",
+            "active": true
+          }
+]

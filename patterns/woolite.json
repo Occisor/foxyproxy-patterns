@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "woolite",
+            "pattern": "*://*.woolite.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "woolite",
+            "pattern": "*://*.woolite.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "woolite",
+            "pattern": "*://*.woolite.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "woolite",
+            "pattern": "*://*.woolite.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "woolite",
+            "pattern": "*://*.woolitecarpet.com",
+            "active": true
+          }
+]

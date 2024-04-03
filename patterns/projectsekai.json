@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "projectsekai",
+            "pattern": "*://*.sekai.colorfulpalette.org",
+            "active": true
+          }
+]

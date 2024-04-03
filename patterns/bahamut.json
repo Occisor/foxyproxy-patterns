@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bahamut",
+            "pattern": "*://*.bahamut.akamaized.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bahamut",
+            "pattern": "*://*.bahamut.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bahamut",
+            "pattern": "*://*.gamer.com.tw",
+            "active": true
+          }
+]

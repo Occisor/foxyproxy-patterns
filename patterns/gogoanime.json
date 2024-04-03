@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gogoanime",
+            "pattern": "*://*.gogocdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gogoanime",
+            "pattern": "*://*.gogoanime.vc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gogoanime",
+            "pattern": "*://*.gogoanime.wiki",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gogoanime",
+            "pattern": "*://*.gogo-load.com",
+            "active": true
+          }
+]

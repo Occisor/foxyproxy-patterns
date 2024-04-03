@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eastmoney",
+            "pattern": "*://*.1234567.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eastmoney",
+            "pattern": "*://*.18.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eastmoney",
+            "pattern": "*://*.18.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eastmoney",
+            "pattern": "*://*.dfcfw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eastmoney",
+            "pattern": "*://*.eastmoney.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eastmoney",
+            "pattern": "*://*.eastmoneyfutures.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eastmoney",
+            "pattern": "*://*.emsec.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eastmoney",
+            "pattern": "*://*.guba.com.cn",
+            "active": true
+          }
+]

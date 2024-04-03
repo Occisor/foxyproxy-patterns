@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "identrust",
+            "pattern": "*://*.identrust.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "identrust",
+            "pattern": "*://*.identrust.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "identrust",
+            "pattern": "*://*.identrust.net",
+            "active": true
+          }
+]

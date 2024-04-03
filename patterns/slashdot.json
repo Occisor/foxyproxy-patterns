@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "slashdot",
+            "pattern": "*://*.slashdot.org",
+            "active": true
+          }
+]

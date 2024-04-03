@@ -1,0 +1,380 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.tryengineering.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-ccnc.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-ecce.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeemce.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.standardsuniversity.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-region6.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeer10.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeer5.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeer8.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeeusa.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeefoundation.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-into-focus.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-vics.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeeday.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.datasheets360.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.globalspec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-isto.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.techstreet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.computer.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.comsoc.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.embs.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.emcs.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.grss-ieee.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-aess.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-cas.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-ceda.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-edusociety.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-ies.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-ims.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-npss.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-pels.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-pes.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-ras.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-sensors.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-tems.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieee-uffc.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeeaps.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeecsc.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeecss.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeedeis.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeemagnetics.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeenano.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeeoes.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeesmc.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.ieeesystemscouncil.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.itsoc.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.mtt.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.photonicssociety.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.signalprocessingsociety.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.technologyandsociety.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ieee",
+            "pattern": "*://*.vtsociety.org",
+            "active": true
+          }
+]

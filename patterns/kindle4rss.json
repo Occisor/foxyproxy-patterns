@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kindle4rss",
+            "pattern": "*://*.kindle4rss.com",
+            "active": true
+          }
+]

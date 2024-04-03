@@ -1,0 +1,261 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.xn--d1acpjx3f.xn--p1ai",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.dzen.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.ya.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.aero",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.az",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.by",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.com.am",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.com.ge",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.com.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.com.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.jobs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.kg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.kz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.md",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.st",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.sx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.tj",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.tm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandex.uz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yandexcloud.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yandex",
+            "pattern": "*://*.yastatic.net",
+            "active": true
+          }
+]

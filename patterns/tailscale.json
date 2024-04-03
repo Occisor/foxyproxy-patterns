@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tailscale",
+            "pattern": "*://*.tailscale.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tailscale",
+            "pattern": "*://*.tailscale.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tailscale",
+            "pattern": "*://*.ts.net",
+            "active": true
+          }
+]

@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thetype",
+            "pattern": "*://*.thetype.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thetype",
+            "pattern": "*://*.typeisbeautiful.com",
+            "active": true
+          }
+]

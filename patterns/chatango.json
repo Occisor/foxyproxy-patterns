@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chatango",
+            "pattern": "*://*.chatango.com",
+            "active": true
+          }
+]

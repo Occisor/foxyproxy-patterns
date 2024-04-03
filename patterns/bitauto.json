@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitauto",
+            "pattern": "*://*.bitauto.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitauto",
+            "pattern": "*://*.bitautoimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitauto",
+            "pattern": "*://*.cheyisou.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitauto",
+            "pattern": "*://*.yiche.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitauto",
+            "pattern": "*://*.yccdn.com",
+            "active": true
+          }
+]

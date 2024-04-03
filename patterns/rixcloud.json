@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rixcloud",
+            "pattern": "*://*.rixcloud.com",
+            "active": true
+          }
+]

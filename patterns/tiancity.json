@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tiancity",
+            "pattern": "*://*.tiancity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tiancity",
+            "pattern": "*://*.tiancitycdn.com",
+            "active": true
+          }
+]

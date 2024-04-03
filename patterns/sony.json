@@ -1,0 +1,639 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.ginzasonypark.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony-africa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony-asia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony-europe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony-hes.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony-latin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony-mea.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony-olympus-medical.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony-promotion.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony-semicon.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.ba",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.do",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.gt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.hn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.mk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.ni",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.pa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.sv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.com.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.kz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sony.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonybo.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonybsc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonybuilding.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonydesign.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonydna.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonyglobalsolutions.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonykigyo.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonylatvija.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonypcl.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonyprotechnosupport.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonystoragemedia.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sonytc.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sony",
+            "pattern": "*://*.sovec.net",
+            "active": true
+          }
+]

@@ -1,0 +1,72 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sumkoo",
+            "pattern": "*://*.gongqingyun.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sumkoo",
+            "pattern": "*://*.jzfz.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sumkoo",
+            "pattern": "*://*.sumkoo.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sumkoo",
+            "pattern": "*://*.sumkoo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sumkoo",
+            "pattern": "*://*.sumkoo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sumkoo",
+            "pattern": "*://*.veeqi.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sumkoo",
+            "pattern": "*://*.wenmingban.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sumkoo",
+            "pattern": "*://*.zhiyuanhe.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sumkoo",
+            "pattern": "*://*.zhiyuanyun.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sumkoo",
+            "pattern": "*://*.zyhe.com.cn",
+            "active": true
+          }
+]

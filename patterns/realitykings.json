@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "realitykings",
+            "pattern": "*://*.realitykings.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "realitykings",
+            "pattern": "*://*.rk.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "solidot",
+            "pattern": "*://*.solidot.org",
+            "active": true
+          }
+]

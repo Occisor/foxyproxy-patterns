@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitch",
+            "pattern": "*://*.ext-twitch.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitch",
+            "pattern": "*://*.jtvnw.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitch",
+            "pattern": "*://*.ttvnw.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitch",
+            "pattern": "*://*.twitch.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitch",
+            "pattern": "*://*.twitchcdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitch",
+            "pattern": "*://*.twitchsvc.net",
+            "active": true
+          }
+]

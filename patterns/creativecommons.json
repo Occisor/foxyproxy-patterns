@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "creativecommons",
+            "pattern": "*://*.ccstatic.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "creativecommons",
+            "pattern": "*://*.creativecommons.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "creativecommons",
+            "pattern": "*://*.creativecommons.engineering",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "creativecommons",
+            "pattern": "*://*.licensebuttons.net",
+            "active": true
+          }
+]

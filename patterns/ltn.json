@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ltn",
+            "pattern": "*://*.ltn.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ltn",
+            "pattern": "*://*.yes123.com.tw",
+            "active": true
+          }
+]

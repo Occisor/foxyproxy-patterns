@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amp",
+            "pattern": "*://*.amp.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amp",
+            "pattern": "*://*.ampproject.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amp",
+            "pattern": "*://*.ampproject.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amp",
+            "pattern": "*://*.ampproject.org",
+            "active": true
+          }
+]

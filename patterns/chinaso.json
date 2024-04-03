@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinaso",
+            "pattern": "*://*.chinaso.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinaso",
+            "pattern": "*://*.pg0.cn",
+            "active": true
+          }
+]

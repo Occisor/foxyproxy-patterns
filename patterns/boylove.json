@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boylove",
+            "pattern": "*://*.boylove.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boylove",
+            "pattern": "*://*.boylove.live",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boylove",
+            "pattern": "*://*.boylove1.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boylove",
+            "pattern": "*://*.boyloves.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boylove",
+            "pattern": "*://*.fuhouse.club",
+            "active": true
+          }
+]

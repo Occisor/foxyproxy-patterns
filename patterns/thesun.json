@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thesun",
+            "pattern": "*://*.dreamteamfc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thesun",
+            "pattern": "*://*.page3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thesun",
+            "pattern": "*://*.sunbingo.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thesun",
+            "pattern": "*://*.talksport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thesun",
+            "pattern": "*://*.thescottishsun.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thesun",
+            "pattern": "*://*.thesun.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thesun",
+            "pattern": "*://*.thesun.ie",
+            "active": true
+          }
+]

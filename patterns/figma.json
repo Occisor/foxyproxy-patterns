@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "figma",
+            "pattern": "*://*.figma.com",
+            "active": true
+          }
+]

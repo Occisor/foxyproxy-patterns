@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gatewaypundit",
+            "pattern": "*://*.thegatewaypundit.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adblock",
+            "pattern": "*://*.getadblock.com",
+            "active": true
+          }
+]

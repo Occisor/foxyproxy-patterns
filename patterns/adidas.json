@@ -1,0 +1,128 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.com.sa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "adidas",
+            "pattern": "*://*.adidas.se",
+            "active": true
+          }
+]

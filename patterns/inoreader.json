@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "inoreader",
+            "pattern": "*://*.inoreader.com",
+            "active": true
+          }
+]

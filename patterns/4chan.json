@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "4chan",
+            "pattern": "*://*.4cdn.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "4chan",
+            "pattern": "*://*.4chan.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "4chan",
+            "pattern": "*://*.4channel.org",
+            "active": true
+          }
+]

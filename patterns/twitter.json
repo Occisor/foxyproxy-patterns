@@ -1,0 +1,163 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.ads-twitter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.cms-twdigitalassets.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.periscope.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.pscp.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.t.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.tellapart.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.tweetdeck.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twitpic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twitter.biz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twitter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twitter.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twittercommunity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twitterflightschool.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twitterinc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twitteroauth.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twitterstat.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twtrdns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twttr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twttr.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.twvid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.vine.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "twitter",
+            "pattern": "*://*.x.com",
+            "active": true
+          }
+]

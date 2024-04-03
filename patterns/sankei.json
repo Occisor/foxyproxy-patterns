@@ -1,0 +1,212 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.business-i.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.ign.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.innovations-i.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.ironna.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.iza.ne.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.japan-forward.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.keiba.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.knowswho.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.metropolitana.tokyo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.mostly.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei-ad-info.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei-ad.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei-books.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei-call.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei-digital.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei-eiga.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei-kaihatsu.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei-kurashi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei-shougakukai.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei-tours.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankei.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankeibiz.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sankeishop.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.sanspo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.seasidestory.tokyo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.seiron-sankei.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.tvnaviweb.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sankei",
+            "pattern": "*://*.zakzak.co.jp",
+            "active": true
+          }
+]

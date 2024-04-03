@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rubychina",
+            "pattern": "*://*.ruby-china.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rubychina",
+            "pattern": "*://*.rubyconfchina.org",
+            "active": true
+          }
+]

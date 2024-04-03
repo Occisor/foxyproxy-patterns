@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nikke",
+            "pattern": "*://*.nikke-de.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nikke",
+            "pattern": "*://*.nikke-en.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nikke",
+            "pattern": "*://*.nikke-fr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nikke",
+            "pattern": "*://*.nikke-jp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nikke",
+            "pattern": "*://*.nikke-kr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nikke",
+            "pattern": "*://*.nikke-sea.com",
+            "active": true
+          }
+]

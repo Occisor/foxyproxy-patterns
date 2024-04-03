@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zhangtao",
+            "pattern": "*://*.mob.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zhangtao",
+            "pattern": "*://*.dutils.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zhangtao",
+            "pattern": "*://*.accuratead.cn",
+            "active": true
+          }
+]

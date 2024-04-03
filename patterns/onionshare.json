@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onionshare",
+            "pattern": "*://*.onionshare.org",
+            "active": true
+          }
+]

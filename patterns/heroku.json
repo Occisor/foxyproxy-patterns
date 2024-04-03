@@ -1,0 +1,86 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.heroku.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.heroku.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.heroku.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.herokuapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.herokucdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.herokucharge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.herokussl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.heroku-app.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.heroku-charge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.codei.sh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.codeish.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heroku",
+            "pattern": "*://*.codeish.io",
+            "active": true
+          }
+]

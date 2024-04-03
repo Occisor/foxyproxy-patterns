@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "launchpad",
+            "pattern": "*://*.launchpad.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "launchpad",
+            "pattern": "*://*.launchpadcontent.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "launchpad",
+            "pattern": "*://*.launchpadlibrarian.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "launchpad",
+            "pattern": "*://*.launchpadlibrarian.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "launchpad",
+            "pattern": "*://*.launchpadlibrarian.org",
+            "active": true
+          }
+]

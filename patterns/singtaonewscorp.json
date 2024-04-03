@@ -1,0 +1,128 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.singtaonewscorp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.sing68.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.singtao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.singtaobooks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.singtaola.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.singtaousa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.stheadline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.singtaoopo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.hkheadline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.thestandard.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.eastweek.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.easttouch.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.bastillepost.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.eduplus.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.headlinejobs.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.jobmarket.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.my-magazine.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "singtaonewscorp",
+            "pattern": "*://*.pcmarket.com.hk",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "w3schools",
+            "pattern": "*://*.w3schools.com",
+            "active": true
+          }
+]

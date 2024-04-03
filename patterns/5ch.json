@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "5ch",
+            "pattern": "*://*.2ch.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "5ch",
+            "pattern": "*://*.5ch.net",
+            "active": true
+          }
+]

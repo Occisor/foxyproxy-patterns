@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gfashion",
+            "pattern": "*://*.gfashion.com",
+            "active": true
+          }
+]

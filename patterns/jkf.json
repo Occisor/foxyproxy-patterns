@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jkf",
+            "pattern": "*://*.jkf.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jkf",
+            "pattern": "*://*.jkface.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jkf",
+            "pattern": "*://*.jkforum.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jkf",
+            "pattern": "*://*.jr24h.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jkf",
+            "pattern": "*://*.jvid.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qmap",
+            "pattern": "*://*.qmap.pub",
+            "active": true
+          }
+]

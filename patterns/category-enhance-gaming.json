@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-enhance-gaming",
+            "pattern": "*://*.bluestacks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-enhance-gaming",
+            "pattern": "*://*.maa.plus",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-enhance-gaming",
+            "pattern": "*://*.prts.plus",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-enhance-gaming",
+            "pattern": "*://*.poi.moe",
+            "active": true
+          }
+]

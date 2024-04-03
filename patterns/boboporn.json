@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boboporn",
+            "pattern": "*://*.boboporn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boboporn",
+            "pattern": "*://*.boboporn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boboporn",
+            "pattern": "*://*.bobovip.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "boboporn",
+            "pattern": "*://*.sesez.com",
+            "active": true
+          }
+]

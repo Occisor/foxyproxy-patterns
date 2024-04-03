@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kodi",
+            "pattern": "*://*.kodi.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kodi",
+            "pattern": "*://*.kodi.wiki",
+            "active": true
+          }
+]

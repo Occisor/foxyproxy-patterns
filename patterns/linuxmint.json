@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "linuxmint",
+            "pattern": "*://*.linuxmint.com",
+            "active": true
+          }
+]

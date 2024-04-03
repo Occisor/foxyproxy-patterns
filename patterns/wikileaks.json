@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wikileaks",
+            "pattern": "*://*.wikileaks.org",
+            "active": true
+          }
+]

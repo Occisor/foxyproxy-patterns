@@ -1,0 +1,79 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.mi-img.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.mi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.mifile.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.miui.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.miwifi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.xiaomi.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.xiaomi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.xiaomi.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.xiaomiev.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.xiaomiyoupin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xiaomi",
+            "pattern": "*://*.saxyit.com",
+            "active": true
+          }
+]

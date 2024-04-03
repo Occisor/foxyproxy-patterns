@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "livejasmin",
+            "pattern": "*://*.dditsadn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "livejasmin",
+            "pattern": "*://*.dditscdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "livejasmin",
+            "pattern": "*://*.livejasmin.com",
+            "active": true
+          }
+]

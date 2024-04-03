@@ -1,0 +1,1416 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.acctdns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.acctdns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.aitransfy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.apaas-zone-test.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.apigwtencent.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.bkapigw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.bkapps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.bkclouds.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.bktencent.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.build9s.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.byodonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cdn-go.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cdndoctor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cdngot.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cdntip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cdntips.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cdntips.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cdnv1.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cdnv2.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cdnv3.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cloud-industry-delivery.site",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cloudbase.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cloudbase.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cloudidaas.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cloudsite.vip",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.cncqcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.computeinit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.coolsite.vip",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.dnsv1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.dnsv1.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.dothework.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.ectencent.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.ectencent.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.edgeonedy1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.essurl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.exmailgz.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.fsphere.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.gaapqcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.gitdrone.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.gmedev.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.govqcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.gsadds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.gtm.pub",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.hr-welink.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.idcgcloudcs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.iemiq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.igtm.pub",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.isd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.ispqcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.itopsdk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.jrzk.net.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.my-qcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.myelasticsearch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.myqcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.onexmail.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.openapp.run",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.ovscdns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.ovscdns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.pn1waq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloud-edumall.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloud.la",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudapps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudcdntest.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudclass.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudcos.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudcos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudcos.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qclouder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudgme.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudipv6.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudmarket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudsmartiot.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudtcic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudtiw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudtrip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudtt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qcloudwaf.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qdwebim.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qeodns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qeodns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qqmra.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qqmra.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.qyunapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.serverlesscloud.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.smtcdns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.smtcdns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.spcdntip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.spcdntipbak.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.spcloudhw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.spcloudhw.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.srmkp.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.starlakelab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tamaegis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tapd.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdlive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdnhw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdnkcbak.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdnlive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdnlivebak1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdnlivebak2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdnos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdnos.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdntip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdnvod.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcdnvodbak.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcloudbase.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcloudbase.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcloudbaseapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcloudbi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tclouddrive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcloudedu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcloudhw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcloudhw.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcloudscdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tcloudscdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tdnsx1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.techo.chat",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tefscloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tefscloud.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tenant-zone-dev.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencdns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencent-cloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencent-cloud.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentapps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentbyod.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcdb.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcdb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcdb.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentclb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcloud-aiot.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcloudapi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcloudclub.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcloudcr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcloudmarket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcloudns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcloudsec.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcloudses.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcos.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcos.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentcs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentdayu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentdb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentdevices.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentdigitalassistant.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentdms.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencenteiam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentelasticsearch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentidentity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentproxy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentrio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencenttid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentwemeet.club",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentwepark.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tencentyun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tendbcluster.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tendis.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.testjrzk.net.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.testmeet.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.testwaf.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tgovcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tidaas.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.timatrix.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.timmerse.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tlivecdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tourismshow.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tourismuser.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tsparkling.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.tx-exhibition.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.txbyod.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.txidc.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.txtyxg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.txyscdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.txyscdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.uncnn.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.vcloudstc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.vcloudstc.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.vcloudvod.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.vodtcbk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.vxo7tu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.wework-studio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.xqymuy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.yufuid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.yufuid.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.yufuid.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.yunjitele.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.oracle-tencent.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.oracle-tencent.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.oracle-tencent.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.oracle-tencent.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.oracle-tencent.net.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.m1.run",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.m6.run",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.m9.run",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.ma.run",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.um.run",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcloud",
+            "pattern": "*://*.ym.run",
+            "active": true
+          }
+]

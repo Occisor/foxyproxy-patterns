@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "raspbian",
+            "pattern": "*://*.raspbian.org",
+            "active": true
+          }
+]

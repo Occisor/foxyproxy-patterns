@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "erlang",
+            "pattern": "*://*.erlang.org",
+            "active": true
+          }
+]

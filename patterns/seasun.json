@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "seasun",
+            "pattern": "*://*.seasungames.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "seasun",
+            "pattern": "*://*.xishanju.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "seasun",
+            "pattern": "*://*.xoyo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "seasun",
+            "pattern": "*://*.testplus.cn",
+            "active": true
+          }
+]

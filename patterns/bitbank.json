@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitbank",
+            "pattern": "*://*.bitbank.cc",
+            "active": true
+          }
+]

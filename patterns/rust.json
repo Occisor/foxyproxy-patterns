@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rust",
+            "pattern": "*://*.rust-lang.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rust",
+            "pattern": "*://*.rustup.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rust",
+            "pattern": "*://*.crates.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rust",
+            "pattern": "*://*.docs.rs",
+            "active": true
+          }
+]

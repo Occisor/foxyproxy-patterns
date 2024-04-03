@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifanr",
+            "pattern": "*://*.coolbuy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifanr",
+            "pattern": "*://*.ifanr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifanr",
+            "pattern": "*://*.ifanr.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifanr",
+            "pattern": "*://*.ifanrusercontent.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifanr",
+            "pattern": "*://*.ifanrx.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifanr",
+            "pattern": "*://*.minapp.com",
+            "active": true
+          }
+]

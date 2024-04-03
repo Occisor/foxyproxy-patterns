@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chocolatey",
+            "pattern": "*://*.chocolatey.org",
+            "active": true
+          }
+]

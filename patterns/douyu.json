@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "douyu",
+            "pattern": "*://*.douyu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "douyu",
+            "pattern": "*://*.douyu.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "douyu",
+            "pattern": "*://*.douyucdn.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "douyu",
+            "pattern": "*://*.douyucdn2.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "douyu",
+            "pattern": "*://*.douyuscdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "douyu",
+            "pattern": "*://*.douyutv.com",
+            "active": true
+          }
+]

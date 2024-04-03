@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitfinex",
+            "pattern": "*://*.bitfinex.com",
+            "active": true
+          }
+]

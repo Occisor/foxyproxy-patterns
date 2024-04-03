@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fteproxy",
+            "pattern": "*://*.fteproxy.org",
+            "active": true
+          }
+]

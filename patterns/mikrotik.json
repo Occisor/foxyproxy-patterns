@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mikrotik",
+            "pattern": "*://*.mikrotik.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mikrotik",
+            "pattern": "*://*.mt.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mikrotik",
+            "pattern": "*://*.mynetname.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mikrotik",
+            "pattern": "*://*.routerboard.com",
+            "active": true
+          }
+]

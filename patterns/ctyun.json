@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctyun",
+            "pattern": "*://*.ctyun.online",
+            "active": true
+          }
+]

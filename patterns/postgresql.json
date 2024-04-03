@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "postgresql",
+            "pattern": "*://*.postgresql.org",
+            "active": true
+          }
+]

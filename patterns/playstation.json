@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "playstation",
+            "pattern": "*://*.playstation",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "playstation",
+            "pattern": "*://*.playstation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "playstation",
+            "pattern": "*://*.playstation.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "playstation",
+            "pattern": "*://*.sonyentertainmentnetwork.com",
+            "active": true
+          }
+]

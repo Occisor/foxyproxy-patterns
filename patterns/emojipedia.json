@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "emojipedia",
+            "pattern": "*://*.emojipedia.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "emojipedia",
+            "pattern": "*://*.worldemojiawards.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "emojipedia",
+            "pattern": "*://*.worldemojiday.com",
+            "active": true
+          }
+]

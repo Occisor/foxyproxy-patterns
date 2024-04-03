@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uproxy",
+            "pattern": "*://*.uproxy.org",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wikihow",
+            "pattern": "*://*.wikihow.com",
+            "active": true
+          }
+]

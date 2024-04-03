@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fastly",
+            "pattern": "*://*.fastly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fastly",
+            "pattern": "*://*.fastly.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fastly",
+            "pattern": "*://*.fastlylabs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fastly",
+            "pattern": "*://*.fastlylb.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fastly",
+            "pattern": "*://*.fastly-terrarium.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fastly",
+            "pattern": "*://*.zencdn.net",
+            "active": true
+          }
+]

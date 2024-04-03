@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitly",
+            "pattern": "*://*.bit.ly",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitly",
+            "pattern": "*://*.bitly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitly",
+            "pattern": "*://*.bitly.is",
+            "active": true
+          }
+]

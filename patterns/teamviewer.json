@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "teamviewer",
+            "pattern": "*://*.teamviewer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "teamviewer",
+            "pattern": "*://*.teamviewer.us",
+            "active": true
+          }
+]

@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "protonmail",
+            "pattern": "*://*.pm.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "protonmail",
+            "pattern": "*://*.proton.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "protonmail",
+            "pattern": "*://*.protonmail.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "protonmail",
+            "pattern": "*://*.protonmail.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "protonmail",
+            "pattern": "*://*.protonstatus.com",
+            "active": true
+          }
+]

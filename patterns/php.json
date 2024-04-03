@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "php",
+            "pattern": "*://*.php.net",
+            "active": true
+          }
+]

@@ -1,0 +1,219 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.bebepremium3.com.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfa.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfa.com.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfaaplus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfababy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfabebe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfabebe.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfabebe.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfabebe.com.do",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfabebe.com.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfabebe.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfabebe.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfabebe.com.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfabebe3.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfagrow.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfagrow.com.bn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfagrow.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfagrow.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfagrow.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfagrow4.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfamama.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfamama.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfamil.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfamil.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfamil.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfamil.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfamil.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enfasmart.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.enspireformula.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.nutramigen.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "enfa",
+            "pattern": "*://*.nutramigen.pl",
+            "active": true
+          }
+]

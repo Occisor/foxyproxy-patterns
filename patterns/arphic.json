@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "arphic",
+            "pattern": "*://*.arphic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "arphic",
+            "pattern": "*://*.arphic.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "arphic",
+            "pattern": "*://*.arphic.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "arphic",
+            "pattern": "*://*.ifontcloud.com",
+            "active": true
+          }
+]

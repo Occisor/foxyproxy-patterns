@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meitu",
+            "pattern": "*://*.meitu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meitu",
+            "pattern": "*://*.meitudata.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meitu",
+            "pattern": "*://*.meitustat.com",
+            "active": true
+          }
+]

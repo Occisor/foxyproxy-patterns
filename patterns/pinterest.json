@@ -1,0 +1,366 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pin.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.co.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.com.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.com.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.com.py",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.com.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.com.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.engineering",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterestmail.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinimg.com.cdn.cloudflare.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pinterest",
+            "pattern": "*://*.pinterest.map.fastly.net",
+            "active": true
+          }
+]

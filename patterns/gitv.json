@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gitv",
+            "pattern": "*://*.gitv.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gitv",
+            "pattern": "*://*.gitv.tv",
+            "active": true
+          }
+]

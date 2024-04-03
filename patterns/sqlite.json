@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sqlite",
+            "pattern": "*://*.sqlite.org",
+            "active": true
+          }
+]

@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rebrandly",
+            "pattern": "*://*.rb.gy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rebrandly",
+            "pattern": "*://*.rebrandly.com",
+            "active": true
+          }
+]

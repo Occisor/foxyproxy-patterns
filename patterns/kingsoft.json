@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kingsoft",
+            "pattern": "*://*.kimg.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kingsoft",
+            "pattern": "*://*.kingsoft.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kingsoft",
+            "pattern": "*://*.ksmobile.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kingsoft",
+            "pattern": "*://*.ks-cdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kingsoft",
+            "pattern": "*://*.ks-cdn1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kingsoft",
+            "pattern": "*://*.ksyun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kingsoft",
+            "pattern": "*://*.ksyuncdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kingsoft",
+            "pattern": "*://*.ksyungslb.com",
+            "active": true
+          }
+]

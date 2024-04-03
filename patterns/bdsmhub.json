@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bdsmhub",
+            "pattern": "*://*.bdsm123.xyz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bdsmhub",
+            "pattern": "*://*.bondagesm.xyz",
+            "active": true
+          }
+]

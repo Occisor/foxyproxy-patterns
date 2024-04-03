@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kindgirls",
+            "pattern": "*://*.kindgirls.com",
+            "active": true
+          }
+]

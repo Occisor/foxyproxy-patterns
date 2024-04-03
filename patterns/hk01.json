@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hk01",
+            "pattern": "*://*.hk01.com",
+            "active": true
+          }
+]

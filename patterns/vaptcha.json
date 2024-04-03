@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vaptcha",
+            "pattern": "*://*.vaptcha.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vaptcha",
+            "pattern": "*://*.vaptcha.net",
+            "active": true
+          }
+]

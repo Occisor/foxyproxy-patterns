@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dlsite",
+            "pattern": "*://*.chobit.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dlsite",
+            "pattern": "*://*.ci-en.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dlsite",
+            "pattern": "*://*.ci-en.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dlsite",
+            "pattern": "*://*.dlsite.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dlsite",
+            "pattern": "*://*.dlsite.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dlsite",
+            "pattern": "*://*.dlsite.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dlsite",
+            "pattern": "*://*.dlsitestudio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dlsite",
+            "pattern": "*://*.nijiyome.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dlsite",
+            "pattern": "*://*.triokini.com",
+            "active": true
+          }
+]

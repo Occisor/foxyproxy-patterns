@@ -1,0 +1,205 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.c-ctrip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.colinker.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctrip.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctrip.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctrip.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctrip.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctrip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctrip.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctrip.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctrip.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctripbiz.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctripbuy.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.ctripteam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.doticloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.easytrip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.hhtravel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.hhtravel.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.izuchebao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.lvtds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.shuntu.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.skysea.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.suanya.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.suanya.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.tieyou.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.toptown.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.toursbms.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.trip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.tripcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ctrip",
+            "pattern": "*://*.vipdlt.com",
+            "active": true
+          }
+]

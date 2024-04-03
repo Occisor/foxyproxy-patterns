@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hongdunwang",
+            "pattern": "*://*.hongdunwang.com.cn",
+            "active": true
+          }
+]

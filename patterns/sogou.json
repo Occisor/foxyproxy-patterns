@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sogou",
+            "pattern": "*://*.go2map.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sogou",
+            "pattern": "*://*.sogo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sogou",
+            "pattern": "*://*.sogou.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sogou",
+            "pattern": "*://*.sogoucdn.com",
+            "active": true
+          }
+]

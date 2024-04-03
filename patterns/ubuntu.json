@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubuntu",
+            "pattern": "*://*.ubuntu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubuntu",
+            "pattern": "*://*.ubuntu.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubuntu",
+            "pattern": "*://*.ubuntuforums.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubuntu",
+            "pattern": "*://*.ubuntu-touch.io",
+            "active": true
+          }
+]

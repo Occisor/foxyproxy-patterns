@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "godaddy",
+            "pattern": "*://*.godaddy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "godaddy",
+            "pattern": "*://*.godaddy",
+            "active": true
+          }
+]

@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vodafone",
+            "pattern": "*://*.myvodafone.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vodafone",
+            "pattern": "*://*.myvodafone.com.ws",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vodafone",
+            "pattern": "*://*.vodafone.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vodafone",
+            "pattern": "*://*.vodafone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vodafone",
+            "pattern": "*://*.vodafone.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vodafone",
+            "pattern": "*://*.vodafone.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vodafone",
+            "pattern": "*://*.vodafone.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vodafone",
+            "pattern": "*://*.vodafone.it",
+            "active": true
+          }
+]

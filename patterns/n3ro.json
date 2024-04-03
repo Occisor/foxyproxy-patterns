@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "n3ro",
+            "pattern": "*://*.n3ro.lol",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "n3ro",
+            "pattern": "*://*.n3ro.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "n3ro",
+            "pattern": "*://*.n3ro.wtf",
+            "active": true
+          }
+]

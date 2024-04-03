@@ -1,0 +1,156 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.chrome",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.chrome.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.chromium.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.basilisk-browser.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.brave.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.bromite.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.cromite.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.decentr.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.dothq.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.floorp.app",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.iridiumbrowser.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.kiwibrowser.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.kmeleonbrowser.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.librewolf.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.minbrowser.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.netsurf-browser.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.opera.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.palemoon.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.pulsebrowser.app",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.qutebrowser.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.vivaldi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-browser-!cn",
+            "pattern": "*://*.waterfox.net",
+            "active": true
+          }
+]

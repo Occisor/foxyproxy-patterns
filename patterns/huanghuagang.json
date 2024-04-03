@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huanghuagang",
+            "pattern": "*://*.huanghuagang.org",
+            "active": true
+          }
+]

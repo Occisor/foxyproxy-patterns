@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "reabble",
+            "pattern": "*://*.reabble.com",
+            "active": true
+          }
+]

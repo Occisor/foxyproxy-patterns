@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "awempire",
+            "pattern": "*://*.awempire.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "awempire",
+            "pattern": "*://*.dditsadn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "awempire",
+            "pattern": "*://*.dditscdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "awempire",
+            "pattern": "*://*.docleradn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "awempire",
+            "pattern": "*://*.doclercdn.com",
+            "active": true
+          }
+]

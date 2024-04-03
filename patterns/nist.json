@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nist",
+            "pattern": "*://*.nist.gov",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nist",
+            "pattern": "*://*.time.gov",
+            "active": true
+          }
+]

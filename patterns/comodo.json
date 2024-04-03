@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "comodo",
+            "pattern": "*://*.comodo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "comodo",
+            "pattern": "*://*.comodo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "comodo",
+            "pattern": "*://*.comodoca.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "comodo",
+            "pattern": "*://*.comodoca2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "comodo",
+            "pattern": "*://*.comodoca3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "comodo",
+            "pattern": "*://*.comodoca4.com",
+            "active": true
+          }
+]

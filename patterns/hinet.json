@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hinet",
+            "pattern": "*://*.cht.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hinet",
+            "pattern": "*://*.chtf.org.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hinet",
+            "pattern": "*://*.emome.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hinet",
+            "pattern": "*://*.hinet.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hinet",
+            "pattern": "*://*.xuite.net",
+            "active": true
+          }
+]

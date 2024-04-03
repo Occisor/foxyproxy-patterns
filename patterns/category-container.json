@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-container",
+            "pattern": "*://*.azurecr.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-container",
+            "pattern": "*://*.docker.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-container",
+            "pattern": "*://*.ecr.aws",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-container",
+            "pattern": "*://*.gcr.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-container",
+            "pattern": "*://*.ghcr.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-container",
+            "pattern": "*://*.mcr.microsoft.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-container",
+            "pattern": "*://*.quay.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-container",
+            "pattern": "*://*.registry.gitlab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-container",
+            "pattern": "*://*.registry.k8s.io",
+            "active": true
+          }
+]

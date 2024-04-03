@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ted",
+            "pattern": "*://*.ted.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ted",
+            "pattern": "*://*.tedcdn.com",
+            "active": true
+          }
+]

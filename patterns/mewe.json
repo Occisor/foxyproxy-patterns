@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mewe",
+            "pattern": "*://*.mewe.com",
+            "active": true
+          }
+]

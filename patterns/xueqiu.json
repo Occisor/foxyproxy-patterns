@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xueqiu",
+            "pattern": "*://*.aiganggu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xueqiu",
+            "pattern": "*://*.danjuanfunds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xueqiu",
+            "pattern": "*://*.imedao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xueqiu",
+            "pattern": "*://*.snowballsecurities.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xueqiu",
+            "pattern": "*://*.xueqiu.com",
+            "active": true
+          }
+]

@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "barrons",
+            "pattern": "*://*.barrons-advisor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "barrons",
+            "pattern": "*://*.barrons-conferences.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "barrons",
+            "pattern": "*://*.barrons.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "barrons",
+            "pattern": "*://*.wsjbarrons.com",
+            "active": true
+          }
+]

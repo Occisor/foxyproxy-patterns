@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "javhd",
+            "pattern": "*://*.javhd.com",
+            "active": true
+          }
+]

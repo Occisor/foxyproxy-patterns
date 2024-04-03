@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sinoinsider",
+            "pattern": "*://*.sinoinsider.com",
+            "active": true
+          }
+]

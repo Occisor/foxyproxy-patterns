@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "linguee",
+            "pattern": "*://*.linguee.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "linguee",
+            "pattern": "*://*.deepl.com",
+            "active": true
+          }
+]

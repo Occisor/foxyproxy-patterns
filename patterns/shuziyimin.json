@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "shuziyimin",
+            "pattern": "*://*.shuziyimin.org",
+            "active": true
+          }
+]

@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "4plebs",
+            "pattern": "*://*.4pcdn.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "4plebs",
+            "pattern": "*://*.4plebs.org",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ali213",
+            "pattern": "*://*.ali213.net",
+            "active": true
+          }
+]

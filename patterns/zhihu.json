@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zhihu",
+            "pattern": "*://*.zhihu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zhihu",
+            "pattern": "*://*.zhimg.com",
+            "active": true
+          }
+]

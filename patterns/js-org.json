@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "js-org",
+            "pattern": "*://*.js.org",
+            "active": true
+          }
+]

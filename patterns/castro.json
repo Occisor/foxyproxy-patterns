@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "castro",
+            "pattern": "*://*.castro.fm",
+            "active": true
+          }
+]

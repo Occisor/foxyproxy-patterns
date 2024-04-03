@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dribbble",
+            "pattern": "*://*.drbl.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dribbble",
+            "pattern": "*://*.dribbble.com",
+            "active": true
+          }
+]

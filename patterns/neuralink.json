@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "neuralink",
+            "pattern": "*://*.neuralink.com",
+            "active": true
+          }
+]

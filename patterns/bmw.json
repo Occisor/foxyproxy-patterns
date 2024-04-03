@@ -1,0 +1,3586 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.approvedusedbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.baltimorebmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bayareabmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-abudhabi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-adventskalender.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-albania.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-antilles.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-art-journey.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-arts-design.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-asia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-auslieferungszentrum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-authority-vehicles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-bahrain.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-businessdrive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-calgary.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-carit.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-classic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-clubs-international.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connected-drive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.com.cy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.com.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.com.kw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.com.mt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-connecteddrive.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-corporate-sales.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-diplomatic-sales.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-driving-center.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-drivingexperience.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-dubai.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-eg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-fleet.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-ghana.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-golfsport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-group.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-group.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-grouparchiv.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-grouparchives.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-gta.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-i-pure-impulse.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-i.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-int1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-iraq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-jordan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-konzernarchiv.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-ksa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-kuwait.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-lao.la",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-lebanon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-m-safetycar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-m.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-mdrivetour.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-me.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-military-sales.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorcycle.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorcycles.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad-abudhabi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad-authorities.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad-dubai.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad-motorsport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad-now-or-never.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad-service-inclusive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad-test-ride.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.bh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com.do",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com.py",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.dz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.gt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.ma",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.pa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.sa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.sv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorrad.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-motorsport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-mountains.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-museum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-museum.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-nigeria.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-oman.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-ottawa.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-pakistan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-plant-munich.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-pma.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-powertrain.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-product-highlights.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-qatar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-routes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-rp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-rrdays.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-saudiarabia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-security-vehicles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-special-sales.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-sports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-sudan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-tahiti.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-tunisia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-vancouver.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-voli.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-welt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-welt.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-welt.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-werk-berlin.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-world.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-world.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-world.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-worldfinal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-yachtsport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-yeg.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw-yemen.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.am",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.az",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ba",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.bb",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.bm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.bs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.by",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.ao",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.ke",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.bd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.bn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.cy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.do",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.ge",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.gt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.kh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.ky",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.mk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.mo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.mt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.ni",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.pa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.py",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.sv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.com.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.cw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.dz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.gp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.hn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ht",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.is",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.kg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.kz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.lc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.lk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ly",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ma",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.md",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.mn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.mq",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.mu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.nc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ps",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.re",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.sn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.tm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.tt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.uz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmw.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwarchiv.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwarchiv.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwartjourney.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwasia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwauslieferungszentrum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwbikes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwbkk.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwccrc.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwcenternet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwchampionship.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwchampionshipusa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwcharitygolf.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwcitychallenge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwclassic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwcolorado.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwconnecteddrive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwcustomapparel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwdcsnet.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwdealercareers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwdealerdirect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwdelawarevalley.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwfilms.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroup-classic-heart.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroup-classic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroup-gaad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroup-plants.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroup-posdigital.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroup-werke.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroup.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroup.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroup.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroup.jobs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroupclassic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroupdesignworks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroupdirect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroupfs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroupinfobahn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwgroupna.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwhk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwi.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwi.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwiventures.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwjamaica.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwlat.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwlifestyle.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmagazine.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmagazine.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmass.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmass.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmc.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmontreal.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmotorcycles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmotorcycleusa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmotorrad.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmotorrad.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmotorrad.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmotorrad.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmotorradhk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmotorshowblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmotorsport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmperformance.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmuseum.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwmyanmar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwofannapolis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwofcentralpa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwoftulsa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwondemandusa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmworegon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwperformancecenter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwpittsburgh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwproductnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwsafari.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwsfl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwsfl.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwshop.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwspecialoffers.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwsports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwstartupgarage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwstep.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwstepconnections.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwsummerschool.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwtampabay.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwusa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwusatires.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwusaservice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwusfactory.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwusrideracademy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwvalueservice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwwholesaleconnect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwworld.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwworld.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.bmwzentrum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.brand-protection-team.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.cencoastbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.chargenow.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.chargenowusa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.chicagolandbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.connected-drive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.daytonbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.dealerspeed.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.desertbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.dreambmw.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.grupobmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.guambmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.hackthedrive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.hawaiibmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.iaablog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.lasvegasbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.m-power.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.minneapolisbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.minneapolisbmw.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.motorshowblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.mybmw.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.mybmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.newhampshirebmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.nmbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.ocbmwdealers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.offresspecialesbmw.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.park-now.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.parkinfo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.pdxbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.phxbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.pre-bmwgroup.jobs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.pugetsoundbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.rentaride.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.rentaride.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.rhodeislandbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.sdcountybmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.shopbmwmotorcycles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.shopbmwusa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.socalbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.stlouisbmw.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.the-m-festival.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.tristatebmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.vancouverbmwretailers.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.washingtondcbmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alfera.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alfera.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alfera.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alfera.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera-finance.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera-finance.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera-finance.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.com.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphera.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alpherafinance.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alpherafinancialservices.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alpherafinancialservices.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alpherafs.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alpherafs.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alpherafs.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alpherafs.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alpherafs.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alpherafs.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alpherafs.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.premiumfs.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.asia",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.biz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.co.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.com.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.com.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.com.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.com.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.org.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabet.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.alphabetfinance.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.electricluxury.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.rolls-roycecullinan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.rolls-roycemotorcars.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.rolls-roycemotorcarsna.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.rrtis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bmw",
+            "pattern": "*://*.spiritofecstasy.com",
+            "active": true
+          }
+]

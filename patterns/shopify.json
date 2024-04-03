@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "shopify",
+            "pattern": "*://*.myshopify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "shopify",
+            "pattern": "*://*.shop.app",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "shopify",
+            "pattern": "*://*.shopify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "shopify",
+            "pattern": "*://*.shopify.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "shopify",
+            "pattern": "*://*.shopifycdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "shopify",
+            "pattern": "*://*.shopifycloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "shopify",
+            "pattern": "*://*.shopifystatus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "shopify",
+            "pattern": "*://*.shopifysvc.com",
+            "active": true
+          }
+]

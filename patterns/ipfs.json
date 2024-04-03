@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ipfs",
+            "pattern": "*://*.ipfs.io",
+            "active": true
+          }
+]

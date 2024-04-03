@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pgyer",
+            "pattern": "*://*.pgyer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pgyer",
+            "pattern": "*://*.tracup.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pgyer",
+            "pattern": "*://*.frontjs.com",
+            "active": true
+          }
+]

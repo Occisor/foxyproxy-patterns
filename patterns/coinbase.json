@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "coinbase",
+            "pattern": "*://*.coinbase.com",
+            "active": true
+          }
+]

@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fengxing",
+            "pattern": "*://*.fspcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fengxing",
+            "pattern": "*://*.fun.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fengxing",
+            "pattern": "*://*.funshion.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fengxing",
+            "pattern": "*://*.funshion.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fengxing",
+            "pattern": "*://*.ibidian.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fengxing",
+            "pattern": "*://*.jvcsmart.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fengxing",
+            "pattern": "*://*.jvcsmart.com.cn",
+            "active": true
+          }
+]

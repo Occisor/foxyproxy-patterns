@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "muncloud",
+            "pattern": "*://*.muncloud.dog",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "i2p",
+            "pattern": "*://*.geti2p.net",
+            "active": true
+          }
+]

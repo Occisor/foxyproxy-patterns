@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "steamunlocked",
+            "pattern": "*://*.steamunlocked.net",
+            "active": true
+          }
+]

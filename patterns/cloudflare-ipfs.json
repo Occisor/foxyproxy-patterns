@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare-ipfs",
+            "pattern": "*://*.cf-ipfs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare-ipfs",
+            "pattern": "*://*.cloudflare-ipfs.com",
+            "active": true
+          }
+]

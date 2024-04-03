@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tidal",
+            "pattern": "*://*.tidal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tidal",
+            "pattern": "*://*.tidalhifi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tidal",
+            "pattern": "*://*.wimpmusic.com",
+            "active": true
+          }
+]

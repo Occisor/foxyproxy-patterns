@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "letsencrypt",
+            "pattern": "*://*.lencr.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "letsencrypt",
+            "pattern": "*://*.letsencrypt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "letsencrypt",
+            "pattern": "*://*.letsencrypt.org",
+            "active": true
+          }
+]

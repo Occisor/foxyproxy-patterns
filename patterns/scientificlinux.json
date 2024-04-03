@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "scientificlinux",
+            "pattern": "*://*.scientificlinux.org",
+            "active": true
+          }
+]

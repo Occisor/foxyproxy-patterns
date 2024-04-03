@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wwe",
+            "pattern": "*://*.wwe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wwe",
+            "pattern": "*://*.wwe9.com",
+            "active": true
+          }
+]

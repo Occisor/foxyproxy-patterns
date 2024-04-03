@@ -1,0 +1,72 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "1337x",
+            "pattern": "*://*.1337x.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "1337x",
+            "pattern": "*://*.1337x.gd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "1337x",
+            "pattern": "*://*.1337x.is",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "1337x",
+            "pattern": "*://*.1337x.st",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "1337x",
+            "pattern": "*://*.1337x.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "1337x",
+            "pattern": "*://*.1337xto.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "1337x",
+            "pattern": "*://*.1337xx.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "1337x",
+            "pattern": "*://*.x1337x.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "1337x",
+            "pattern": "*://*.x1337x.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "1337x",
+            "pattern": "*://*.x1337x.ws",
+            "active": true
+          }
+]

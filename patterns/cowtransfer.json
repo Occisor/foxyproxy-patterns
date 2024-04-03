@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cowtransfer",
+            "pattern": "*://*.c-t.work",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cowtransfer",
+            "pattern": "*://*.cowtransfer.com",
+            "active": true
+          }
+]

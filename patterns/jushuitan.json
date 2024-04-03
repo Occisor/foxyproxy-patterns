@@ -1,0 +1,170 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.315dian.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.doucang.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.doucang.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.drp321.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.erp.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.erp321.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.erp321.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.erp321.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.jsterp.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.jugongdan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.jushuitan.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.jushuitan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.jushuitan.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.jushuitan-inc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.juxieyun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.scm121.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.scm121.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.shopss.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.shuiyaohuo.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.shuiyaohuo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.surerp.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.surerp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.sursung.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jushuitan",
+            "pattern": "*://*.sursung.com",
+            "active": true
+          }
+]

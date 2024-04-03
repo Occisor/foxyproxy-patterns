@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "deribit",
+            "pattern": "*://*.deribit.com",
+            "active": true
+          }
+]

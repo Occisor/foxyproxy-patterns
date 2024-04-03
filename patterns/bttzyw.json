@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bttzyw",
+            "pattern": "*://*.btt804.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bttzyw",
+            "pattern": "*://*.btt904.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bttzyw",
+            "pattern": "*://*.bttzyw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bttzyw",
+            "pattern": "*://*.bttzyw.net",
+            "active": true
+          }
+]

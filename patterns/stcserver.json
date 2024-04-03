@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stcserver",
+            "pattern": "*://*.stc-server.com",
+            "active": true
+          }
+]

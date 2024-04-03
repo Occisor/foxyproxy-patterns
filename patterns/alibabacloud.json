@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "alibabacloud",
+            "pattern": "*://*.alibabacloud.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "alibabacloud",
+            "pattern": "*://*.alibabacloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "alibabacloud",
+            "pattern": "*://*.alibabacloud.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "alibabacloud",
+            "pattern": "*://*.alibabacloud.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "alibabacloud",
+            "pattern": "*://*.alibabacloud.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "alibabacloud",
+            "pattern": "*://*.alibabacloud.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "alibabacloud",
+            "pattern": "*://*.alibabacloud.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "alibabacloud",
+            "pattern": "*://*.alicloud.com",
+            "active": true
+          }
+]

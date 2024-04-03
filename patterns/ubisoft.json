@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubisoft",
+            "pattern": "*://*.ubi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubisoft",
+            "pattern": "*://*.ubisoft.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubisoft",
+            "pattern": "*://*.ubisoftconnect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubisoft",
+            "pattern": "*://*.uplay.com",
+            "active": true
+          }
+]

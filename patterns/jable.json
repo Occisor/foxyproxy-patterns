@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jable",
+            "pattern": "*://*.cdnlab.live",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jable",
+            "pattern": "*://*.jable.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jable",
+            "pattern": "*://*.mushroomtrack.com",
+            "active": true
+          }
+]

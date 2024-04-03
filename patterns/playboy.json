@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "playboy",
+            "pattern": "*://*.playboy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "playboy",
+            "pattern": "*://*.playboy.com.uk",
+            "active": true
+          }
+]

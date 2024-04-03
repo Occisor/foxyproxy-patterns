@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "asus",
+            "pattern": "*://*.asus.com",
+            "active": true
+          }
+]

@@ -1,0 +1,240 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.aws",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.acmvalidations.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.acmvalidationsaws.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.aesworkshops.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.amazonaws-china.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.amazonaws.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.amazonaws.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.amazonaws.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.amazonses.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.amazonworkdocs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.amplifyapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.amplifyframework.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.aws-iot-hackathon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awsautopilot.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awsautoscaling.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awsbraket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awscommandlineinterface.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awsedstart.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awseducate.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awseducate.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awseducate.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awsglobalaccelerator.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awsloft-johannesburg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awsloft-stockholm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awssecworkshops.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awsstatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awsthinkbox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.awstrack.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.cdkworkshop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.cloudfront.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.cloudfront.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.containersonaws.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.elasticbeanstalk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aws",
+            "pattern": "*://*.thinkboxsoftware.com",
+            "active": true
+          }
+]

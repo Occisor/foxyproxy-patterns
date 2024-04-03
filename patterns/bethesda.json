@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bethesda",
+            "pattern": "*://*.beth.games",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bethesda",
+            "pattern": "*://*.bethesda.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bethesda",
+            "pattern": "*://*.bethesdagamestudios.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bethesda",
+            "pattern": "*://*.bethsoft.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bethesda",
+            "pattern": "*://*.doom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bethesda",
+            "pattern": "*://*.elderscrolls.com",
+            "active": true
+          }
+]

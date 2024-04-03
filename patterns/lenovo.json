@@ -1,0 +1,380 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.baiying.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.baiying.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.cftsupport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.con-c-hybris.lenovo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.ileapcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovocloudos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovo.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovo.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovoeservice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovovip.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lxzjjt.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lxzjjt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.thinkcloudlab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.thinkpad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.zhiliaowenda.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.blurdev.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.chainedbox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.fm365.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.idea123.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.jhwan.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.juhuiwan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.juhuiwan.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.juhuiwan.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenauth.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovogame.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovomm.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovomm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lx.pub",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lx.run",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.surepush.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.zui.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.zui.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.zuk.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.zuk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.zuk.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovocare.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovocust.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovomobile.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.cunchuhulian-ln.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovonetapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.dayin8.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.iprintworks.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovoimage.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovoimage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovoprinter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovoprinter.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovoprinter.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.thinkprinter.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.thinkprinter.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.thinkprinter.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.zxsales.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lenovo",
+            "pattern": "*://*.lenovo.com.cdn.cloudflare.net",
+            "active": true
+          }
+]

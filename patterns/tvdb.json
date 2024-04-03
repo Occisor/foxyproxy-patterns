@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tvdb",
+            "pattern": "*://*.thetvdb.com",
+            "active": true
+          }
+]

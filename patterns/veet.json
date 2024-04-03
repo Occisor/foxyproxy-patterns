@@ -1,0 +1,303 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.bd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veet.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veetarabia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veetbangladesh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veetcentroamerica.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "veet",
+            "pattern": "*://*.veetclub.it",
+            "active": true
+          }
+]

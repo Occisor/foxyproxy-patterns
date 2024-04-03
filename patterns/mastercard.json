@@ -1,0 +1,1255 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.az",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.ba",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.by",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.ke",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.bh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.bz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.cy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.eg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.ge",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.gt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.kw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.lb",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.ng",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.sa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.com.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.inc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.jo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.ke",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.kz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.md",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.om",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.qa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.areyoucreditwise.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.borderlessprepaid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.branchportal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.idservice.inc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.inclusivegrowthscore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.findacard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercard-email.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardacademy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardadvisors.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardcenter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardcenter.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardcenterforinclusivegrowth.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardconnect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardezsavings.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardidtheftalerts.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardrestaurant.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardservices.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardworldwide.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.masterpassteststore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.masterintelligence.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mcpeaceofmind.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.myaccountglobalcash.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mycardbenefits.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.onedinesfree.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.paypass.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pieceofplastic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.predictivetechnologies.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.priceless.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelessmarketingengine.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.sbitravelcard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.shoppercentre.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.smartcommunitiescoalition.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.smartcommunitiescoalition.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.startpath.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.taptotokyo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.tasteofpremium.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelcontroller.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.wwwpaypass.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.becomeindex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.cashpassport.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.cashpassport.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.cashpassport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.cashpassport.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.cashpassport.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.corporatecashpassport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.icashpassport.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.intercamcashpassport.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.multicurrencycashpassport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.shinhangmc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardbiz.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardbiz.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardbusinessnetwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.nab.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.nabtravellercard.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.53world.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.53worldsweeps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.lovethiscity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.mastercardmoments.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pahabicilemezsurprizler.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.priceless.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.priceless.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelessafrica.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelessarabia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelessaruba.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelessbeijing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelesshongkong.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelesshonolulu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelesspick.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelesssantiago.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelesssydney.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelesssurprises.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelesstoronto.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.pricelesstv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.simplify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.simplifycommerce.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.cashpassportglobe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.gwktravelex.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.bh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.com.om",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelex.qa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelexae.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelexch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.travelexmoneycard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.bidvestbank.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mastercard",
+            "pattern": "*://*.worldcurrencycard.co.za",
+            "active": true
+          }
+]

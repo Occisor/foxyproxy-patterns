@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "webtype",
+            "pattern": "*://*.webtype.com",
+            "active": true
+          }
+]

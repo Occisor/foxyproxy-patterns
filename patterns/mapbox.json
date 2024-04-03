@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mapbox",
+            "pattern": "*://*.mapbox.com",
+            "active": true
+          }
+]

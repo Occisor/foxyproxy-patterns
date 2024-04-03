@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dailymotion",
+            "pattern": "*://*.dailymotion.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dailymotion",
+            "pattern": "*://*.dm-event.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dailymotion",
+            "pattern": "*://*.dmcdn.net",
+            "active": true
+          }
+]

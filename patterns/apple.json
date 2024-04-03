@@ -1,0 +1,4482 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.bs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.cm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.co.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.co.mz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.af",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.do",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.gy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.jm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.lk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.mg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.pa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.pr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.py",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.sv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.com.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.hamburg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.hn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.is",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.jo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.lk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.net.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.sa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.so",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.tt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.xyz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.aplestore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-store.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-store.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.cm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.co.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.co.ug",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.bn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.eg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.jo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.sn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.net.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.qa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestore.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestoreonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applestorepro.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.onlineapplestore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.app-store.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appe-store.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleappstore.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleappstore.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appsto.re",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appstore.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appstore.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appstore.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appstore.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.asto.re",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.tvappstore.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-imac.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleimac.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imac-apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imac-applecomputer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imac.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imac.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imac.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imac.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imac.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imac.one",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imac.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imacapple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imacapplecomputer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ebookforipad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.euroipad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.findmyipad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.indiaipad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipad.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipad.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipad.host",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipad.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipad3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadair.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadair.cm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadair.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadair.com.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadair.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadair.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadair.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadair.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadair.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadaustralia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadmini.cm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadmini.com.lk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadmini.lk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipadpro.buzz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ukipad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleiphone.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleiphone.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleiphonecell.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.bestiphonestuff.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.cooliphonecasesstore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.custom-iphonecase.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.designeriphonescases.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.dl-iphone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.fundaiphone5s.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.hebiphone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.hf-iphone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphine.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-cd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-cn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-sh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-vip1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-vip2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-vip3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-vip4.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-vip5.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-x.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-yh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone-zh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.cm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.com.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.host",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.net.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone4.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone4.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone4s.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone5.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone5casescovers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphone5s5case.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphoneacessorios.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonecase2013.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonecase5.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonecases100.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonecases5.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphoneclaro.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonecollcase.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonefc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonegermany.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonehangzhou.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphoneimessage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphoneplus.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonerip.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonese.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphoneunlockimei.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphonexs.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.onlyiphone5case.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.aplleipods.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleclassicipod.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.downloadsforipod.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.cm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.com.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.is",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipod.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipodcentre.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipodcleaner.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipoditouch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipodnano.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipodnano.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipodprices.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipodrip.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipodrocks.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipods.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipodshop.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipodtouch.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipodtouch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.myipod.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.offrezdesipods.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.simplyipod.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.wwwipodlounge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imacsources.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.launchpad.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mac.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbook.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbook.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbook.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbook.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookair.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookair.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookair.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookair.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookair.com.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookair.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookair.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookair.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookair.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookair.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookpro.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookpro.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookpro.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookpro.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookpro.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbookpros.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macbooksale.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.wwwmacbookair.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-watch.com.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applewatch.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applewatch.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applewatch.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applewatch.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applewatchedition.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applewatchseries3.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applewatchsport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemusic.berlin",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemusic.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemusic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemusic.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemusic.hamburg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemusic.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemusicconnect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemusicfestival.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.musickit.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.wwwapplemusic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.comscoreresearch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple.news",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleenews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applenews.berlin",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applenews.hamburg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applenews.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applenewsformat.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-pay.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-pay.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-pay.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepay.berlin",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepay.co.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepay.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepay.hamburg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepay.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepay.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepay.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepay.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepay.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepaycash.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepaycash.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepaymerchantsupplies.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepaysupplies.berlin",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepaysupplies.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepaysupplies.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepaysupplies.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepaysupplies.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applewallet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applewallet.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.i-book.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.i-book.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ibook.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ibook.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ibook.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ibook.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ibookpartner.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ibooksauthor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphoto.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphoto.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphoto.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iphoto.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imovie.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imoviegallery.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imoviestage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecare.berlin",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecare.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecare.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecare.hamburg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecare.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appledarwin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appledarwin.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.darwinsource.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.darwinsource.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.darwinsourcecode.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleaccount.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleid-applemx.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleid-applemx.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleid-iclou.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleid-uk.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleid.berlin",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleid.hamburg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleid.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ids-apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.myappleid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appletv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appletv.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appletv.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appletvapp.apple",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.audio",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.blog",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.chat",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.club",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.community",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.film",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.guide",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.host",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.space",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.tech",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleone.website",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.shazam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.1to1computing.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.1to1conference.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.5lml.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.a0pple.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.aapl.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.aaplimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.airport.brussels",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.airport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.airport.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.airsupportapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.airtunes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.airtunes.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.airtunes.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.alchemysynth.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ap0le.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.aple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apole.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.app0le.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appl-e.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appl4e.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appla.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-darwin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-darwin.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-darwin.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-dns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-dns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-enews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-expo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-expo.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-hk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-inc.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-livephotoskit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-online.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apple-usa.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleafrica.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleantilles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleaustralia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleaustralia.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleaustralia.net.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applebk.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecarbon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecard.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecentar.co.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecentar.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecentre.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecentre.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleclub.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputer-imac.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputer.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputer.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputer.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputer.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputer.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputer.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputerimac.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputerinc.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecomputers.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applecoronavirus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleexpo.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleexpo.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applefilmaker.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applefilmmaker.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applefinalcutproworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applefinalcutproworld.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applefinalcutproworld.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applehongkong.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applehongkong.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleinclegal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleipodsettlement.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleiservices.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applelink.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemagickeyboard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemalaysia.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applemasters.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleonline.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleoriginalproductions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleos.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepencil.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepodcasts.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepremiumreseller.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applepremiumresellers.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applereach.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applereach.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apples-msk.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applescreensavers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applescript.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleshare.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleshop.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applesurveys.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appletaiwan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appletips.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appleweb.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applexpo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applezh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applf.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applfe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applle.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.applw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appmediagroup.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appule.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.appye.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.apyle.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.beddit.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.braeburncapital.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.burstly.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.burstlyrewards.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.buyaapl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.buyaapl.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.buyaple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.camelphat.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.camelspaceeffect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.carbon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.catalina.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.cdn-apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.chomp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.coreml.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.dashwood360.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.desktopmovie.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.desktopmovie.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.desktopmovie.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.desktopmovies.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.desktopmovies.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.developer-advisor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.device-manager.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.digitalhub.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.discussionsapple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.dot-mac.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.dotmac.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.dvdstudiopro.biz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.dvdstudiopro.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.dvdstudiopro.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.dvdstudiopro.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.dvdstudiopro.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.dvdstudiopro.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.earpod.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ecgapp.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.edu-research.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.emac.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.emac.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.emagic.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.eworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.faceid99.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.faceid99.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.faceidglobal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.facetime.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.finalcutpro.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.find-apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.firewire.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.firewire.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.geoport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.hopstop.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ichat.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.idvd.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ikids.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ilecture.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ilife.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ilife.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ilife.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.imessage.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.insidemacintosh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iosinthecar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipa-iphone.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ipple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.ischool.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.itools.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iwork.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.iwork.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.jetfuelapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.jetfuelapps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.latticedata.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.livephotos.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.lojaiphone.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mac-mini.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mac.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mac.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mac.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mac.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macappsto.re",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macboxset.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mach-os.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mach-os.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.machos.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macintosh.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macintoshsoftware.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macmini.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macos.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macossierra.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macosx.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macosxlion.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macpazar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macreach.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.macreach.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mobileme.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mr-apple.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.mzstatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.newton.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.next.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.overapple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.powerbook.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.pullstring.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.quatrowireless.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.quicktime.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.quicktime.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.quicktime.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.quicktime.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.quicktime.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.quicktime.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.reform-apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.services-apple.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.siri.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.spektral.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.texture.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.thinkdifferent.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.touchid.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.touchid.wang",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.tracking-location.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.truedepth3d.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.tryrating.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.webobjects.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.webobjects.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.webobjects.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.webobjects.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.wuxiapple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.wwapple.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.www-sms-apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.wwwapple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.wwwapple.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple",
+            "pattern": "*://*.wwwlapple.com",
+            "active": true
+          }
+]

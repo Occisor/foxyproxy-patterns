@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "f-droid",
+            "pattern": "*://*.f-dro1d.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "f-droid",
+            "pattern": "*://*.f-droid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "f-droid",
+            "pattern": "*://*.f-droid.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "f-droid",
+            "pattern": "*://*.fdroid.org",
+            "active": true
+          }
+]

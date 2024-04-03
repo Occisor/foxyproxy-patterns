@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hkcnews",
+            "pattern": "*://*.hkcnews.com",
+            "active": true
+          }
+]

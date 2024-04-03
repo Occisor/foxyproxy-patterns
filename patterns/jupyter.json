@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jupyter",
+            "pattern": "*://*.jupyter.org",
+            "active": true
+          }
+]

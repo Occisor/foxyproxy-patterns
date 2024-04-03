@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eleme",
+            "pattern": "*://*.ele.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eleme",
+            "pattern": "*://*.elemecdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "eleme",
+            "pattern": "*://*.eleme.cn",
+            "active": true
+          }
+]

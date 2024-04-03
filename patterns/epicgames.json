@@ -1,0 +1,100 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.battlebreakers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.eac-cdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.easy.ac",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.easyanticheat.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.epicgames.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.epicgames.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.fortnite.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.paragon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.playparagon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.roborecall.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.shadowcomplex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.spyjinx.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.unrealengine.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "epicgames",
+            "pattern": "*://*.unrealtournament.com",
+            "active": true
+          }
+]

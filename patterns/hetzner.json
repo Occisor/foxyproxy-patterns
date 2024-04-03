@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hetzner",
+            "pattern": "*://*.hetzner.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hetzner",
+            "pattern": "*://*.hetzner.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hetzner",
+            "pattern": "*://*.hetzner.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hetzner",
+            "pattern": "*://*.your-server.de",
+            "active": true
+          }
+]

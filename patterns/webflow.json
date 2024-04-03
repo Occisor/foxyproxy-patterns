@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "webflow",
+            "pattern": "*://*.webflow.com",
+            "active": true
+          }
+]

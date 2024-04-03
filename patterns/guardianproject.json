@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "guardianproject",
+            "pattern": "*://*.guardianproject.info",
+            "active": true
+          }
+]

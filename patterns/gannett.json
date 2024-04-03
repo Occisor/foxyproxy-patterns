@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gannett",
+            "pattern": "*://*.gannett-cdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gannett",
+            "pattern": "*://*.gannett.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gannett",
+            "pattern": "*://*.gannettdigital.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gannett",
+            "pattern": "*://*.usatoday.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gannett",
+            "pattern": "*://*.usatodaynetworkservice.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mpv",
+            "pattern": "*://*.mpv.io",
+            "active": true
+          }
+]

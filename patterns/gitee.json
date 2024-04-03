@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gitee",
+            "pattern": "*://*.gitee.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gitee",
+            "pattern": "*://*.gitee.io",
+            "active": true
+          }
+]

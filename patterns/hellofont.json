@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hellofont",
+            "pattern": "*://*.hellofont.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hellofont",
+            "pattern": "*://*.hellowebfont.com",
+            "active": true
+          }
+]

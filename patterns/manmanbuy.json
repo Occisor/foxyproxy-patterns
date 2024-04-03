@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "manmanbuy",
+            "pattern": "*://*.manmanbuy.com",
+            "active": true
+          }
+]

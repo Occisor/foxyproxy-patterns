@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnpmjs",
+            "pattern": "*://*.cnpmjs.org",
+            "active": true
+          }
+]

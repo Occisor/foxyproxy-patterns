@@ -1,0 +1,219 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.digital-id.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.digitalid.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.managed-pki.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.managed-pki.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.pki-post.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.pki-posta.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.pki-poste.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.root-signing.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.rootsigning.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.ssl-certificate.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swissid.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swissign.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swissign.li",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssign-group.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssign-group.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssign-group.li",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssign.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssign.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssign.li",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssign.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssign.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssigner.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssigner.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssigngroup.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisssigngroup.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swissstick.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisstsa.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.swisstsa.li",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.trustdoc.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.trustsign.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "swisssign",
+            "pattern": "*://*.zert.ch",
+            "active": true
+          }
+]

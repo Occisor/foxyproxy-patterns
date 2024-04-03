@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pigav",
+            "pattern": "*://*.pigav.com",
+            "active": true
+          }
+]

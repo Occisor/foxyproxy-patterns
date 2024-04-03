@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pincong",
+            "pattern": "*://*.pincong.rocks",
+            "active": true
+          }
+]

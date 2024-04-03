@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "citizenlab",
+            "pattern": "*://*.citizenlab.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "citizenlab",
+            "pattern": "*://*.citizenlab.org",
+            "active": true
+          }
+]

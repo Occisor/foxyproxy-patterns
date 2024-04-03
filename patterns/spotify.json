@@ -1,0 +1,93 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.byspotify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.pscdn.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.scdn.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.spoti.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.spotify-everywhere.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.spotify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.spotify.design",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.spotifycdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.spotifycdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.spotifycharts.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.spotifycodes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.spotifyforbrands.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spotify",
+            "pattern": "*://*.spotifyjobs.com",
+            "active": true
+          }
+]

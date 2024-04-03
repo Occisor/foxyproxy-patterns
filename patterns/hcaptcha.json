@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hcaptcha",
+            "pattern": "*://*.botstop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hcaptcha",
+            "pattern": "*://*.hcaptcha.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hcaptcha",
+            "pattern": "*://*.hcaptchastatus.com",
+            "active": true
+          }
+]

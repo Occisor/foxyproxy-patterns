@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tencent-dev",
+            "pattern": "*://*.openmidas.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tencent-dev",
+            "pattern": "*://*.qq.design",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tencent-dev",
+            "pattern": "*://*.qqgamedesign.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tencent-dev",
+            "pattern": "*://*.tencent.design",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tencent-dev",
+            "pattern": "*://*.tjstats.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tencent-dev",
+            "pattern": "*://*.wegamedeveloper.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tencent-dev",
+            "pattern": "*://*.weixinbridge.com",
+            "active": true
+          }
+]

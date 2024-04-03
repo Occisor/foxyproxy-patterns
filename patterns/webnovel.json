@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "webnovel",
+            "pattern": "*://*.webnovel.com",
+            "active": true
+          }
+]

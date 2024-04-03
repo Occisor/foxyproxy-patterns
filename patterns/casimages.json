@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "casimages",
+            "pattern": "*://*.casimages.com",
+            "active": true
+          }
+]

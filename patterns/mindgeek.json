@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mindgeek",
+            "pattern": "*://*.mindgeek.com",
+            "active": true
+          }
+]

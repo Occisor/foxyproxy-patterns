@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cygames",
+            "pattern": "*://*.cygames.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cygames",
+            "pattern": "*://*.cygames.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cygames",
+            "pattern": "*://*.worldflipper.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cygames",
+            "pattern": "*://*.worldflipper.akamaized.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cygames",
+            "pattern": "*://*.umamusume.akamaized.net",
+            "active": true
+          }
+]

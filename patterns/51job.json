@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "51job",
+            "pattern": "*://*.51job.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "51job",
+            "pattern": "*://*.51jobcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "51job",
+            "pattern": "*://*.yingjiesheng.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "51job",
+            "pattern": "*://*.yingjiesheng.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "51job",
+            "pattern": "*://*.zhiding.com.cn",
+            "active": true
+          }
+]

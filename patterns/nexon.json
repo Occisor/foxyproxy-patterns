@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nexon",
+            "pattern": "*://*.nexon.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nexon",
+            "pattern": "*://*.nexon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nexon",
+            "pattern": "*://*.nexoncdn.co.kr",
+            "active": true
+          }
+]

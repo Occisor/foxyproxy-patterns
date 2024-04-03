@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lark",
+            "pattern": "*://*.larksuite.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lark",
+            "pattern": "*://*.larksuitecdn.com",
+            "active": true
+          }
+]

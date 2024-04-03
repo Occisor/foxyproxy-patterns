@@ -1,0 +1,275 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.appcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.appexchange.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.attic.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.beyondcore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.buddymedia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.chatter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.cloudcraze.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.cotweet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.data.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.demandware.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.desk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.documentforce.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.dreamforce.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.einstein.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.exacttarget.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.force.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.govforce.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.gravitytank.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.heywire.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.krux.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.marketingcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.metamind.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.pardot.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.quotable.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.radian6.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.relateiq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.salesforce.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.salesforce.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.salesforceiq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.salesforceliveagent.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.salesforcemarketingcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.sequence.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.sfdcstatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.sforce.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.site.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.social.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.steelbrick.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.twinprime.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "salesforce",
+            "pattern": "*://*.weinvoiceit.com",
+            "active": true
+          }
+]

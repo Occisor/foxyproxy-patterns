@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "addthis",
+            "pattern": "*://*.addthis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "addthis",
+            "pattern": "*://*.addthiscdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "addthis",
+            "pattern": "*://*.addthisedge.com",
+            "active": true
+          }
+]

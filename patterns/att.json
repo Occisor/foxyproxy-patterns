@@ -1,0 +1,919 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.accbusiness.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.atandt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.att-bundles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.att-japan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.att-mail.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.att-promotions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.att-rsvp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.att.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.att.jobs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.att.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.att.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attalascom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attbelieves.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attbusiness.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attcenter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attcollaborate.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attexperts.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attglobal.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attinnovationspace.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attinternetservice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attjoy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attnetclient.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attonlineoffers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attproxy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attpublicpolicy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attpurchasing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attsavings.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attspecial.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attssl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attstadium.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attsuppliers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.atttvnow.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attuverseoffers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attuverseonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attvoip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attwifi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attwirelessinternet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attwirelessonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attwirelesssolutions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.bellsouth.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.budatt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.cobatt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.currently.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.currently.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvbusinessmarket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.enterprisepaging.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.itcanwait.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.mymmode.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.naturalvoices.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.nettyinternet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.openapiplatform.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.openapiservice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.patentgold.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.paygonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.raponlinereview.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.signalbar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.sundayready.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.synaptic.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.thanksloyalty.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.tvpromise.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.uverse.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.webhosting.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.att-idns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attdns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.attdns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.na-att-idns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.audiencenetwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.audiencenetwork.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.cabletvdirectv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.dierectv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.dirctv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.direcpath.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.direcpath.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directtv-deals.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directtv-dish.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.dkrecttv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directtv.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directtvdeals.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directtvreviews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directv-4-you.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directv-newyork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvadsales.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvatlantaga.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvboston.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvbundles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvbusiness.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvcincinnatioh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvcinema.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvconnect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvcookevilletn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvcrossvilletn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvdealer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvdeals.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvdealsnow.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvdsl.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvforhotels.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvgrandslam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvhouston.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvinternet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvkentucky.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvlebanontn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvlosangeles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvmetropolisil.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvmonitoring.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvmurfreesborotn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvnewhampshire.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvnow.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvoffercodes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvplans.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvpomise.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvpromise.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvpromotions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvrebate.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvrichmond.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvsavings.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvsports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.directvsundayticket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.direectv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.diretv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.dtv2009offers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.freedirecttvspecial.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.getdirect.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.hddirectv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.le-direct.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.mydirectgroove.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.mydirectvchannels.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.redzonechannel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.txdirectv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "att",
+            "pattern": "*://*.xandr.com",
+            "active": true
+          }
+]

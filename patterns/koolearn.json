@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "koolearn",
+            "pattern": "*://*.koocdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "koolearn",
+            "pattern": "*://*.koolearn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "koolearn",
+            "pattern": "*://*.koopass.com",
+            "active": true
+          }
+]

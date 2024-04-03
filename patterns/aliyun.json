@@ -1,0 +1,331 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.alibabadns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.alicdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.alicloudapi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.alidayu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.alidns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.alikunlun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.aliyun-inc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.aliyun-iot-share.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.aliyun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.aliyuncdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.cdngslb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.hichina.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.ica-alliance.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunaq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunca.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunluncan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunea.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlungem.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlungr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunhuf.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunle.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunli.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunno.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunpi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunra.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunsa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunsc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunsl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunso.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunta.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunvi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.kunlunwe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.mxhichina.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.myalicdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-beijing.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-chengdu.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-guangzhou.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-hangzhou.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-heyuan.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-huhehaote.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-nanjing.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-qingdao.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-shanghai.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-shenzhen.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-wulanchabu.aliyuncs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aliyun",
+            "pattern": "*://*.oss-cn-zhangjiakou.aliyuncs.com",
+            "active": true
+          }
+]

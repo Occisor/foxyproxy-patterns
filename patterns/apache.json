@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apache",
+            "pattern": "*://*.apache.org",
+            "active": true
+          }
+]

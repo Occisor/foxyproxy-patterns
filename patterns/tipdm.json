@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tipdm",
+            "pattern": "*://*.tipdim.org",
+            "active": true
+          }
+]

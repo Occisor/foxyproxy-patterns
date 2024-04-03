@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cavporn",
+            "pattern": "*://*.cavporn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cavporn",
+            "pattern": "*://*.cavporn.github.io",
+            "active": true
+          }
+]

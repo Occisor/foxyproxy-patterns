@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "juejin",
+            "pattern": "*://*.juejin.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "juejin",
+            "pattern": "*://*.juejin.im",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "juejin",
+            "pattern": "*://*.xitu.io",
+            "active": true
+          }
+]

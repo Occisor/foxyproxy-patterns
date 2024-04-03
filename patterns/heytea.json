@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "heytea",
+            "pattern": "*://*.heytea.com",
+            "active": true
+          }
+]

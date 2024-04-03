@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "baicaonetwork",
+            "pattern": "*://*.baicaonetwork.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gab",
+            "pattern": "*://*.gab.com",
+            "active": true
+          }
+]

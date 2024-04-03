@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fans66",
+            "pattern": "*://*.fans66.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fans66",
+            "pattern": "*://*.fansking.tw",
+            "active": true
+          }
+]

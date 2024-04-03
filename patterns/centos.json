@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "centos",
+            "pattern": "*://*.centos.org",
+            "active": true
+          }
+]

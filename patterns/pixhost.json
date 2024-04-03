@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pixhost",
+            "pattern": "*://*.pixhost.to",
+            "active": true
+          }
+]

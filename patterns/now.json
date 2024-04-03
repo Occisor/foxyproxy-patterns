@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "now",
+            "pattern": "*://*.now.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "now",
+            "pattern": "*://*.now.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "now",
+            "pattern": "*://*.nowe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "now",
+            "pattern": "*://*.nowe.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "now",
+            "pattern": "*://*.now-tv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "now",
+            "pattern": "*://*.now-ashare.com",
+            "active": true
+          }
+]

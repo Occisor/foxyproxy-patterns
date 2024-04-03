@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "python",
+            "pattern": "*://*.pycon.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "python",
+            "pattern": "*://*.pypa.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "python",
+            "pattern": "*://*.pypi.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "python",
+            "pattern": "*://*.pypi.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "python",
+            "pattern": "*://*.python.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "python",
+            "pattern": "*://*.pythonhosted.org",
+            "active": true
+          }
+]

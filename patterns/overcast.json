@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "overcast",
+            "pattern": "*://*.overcast.fm",
+            "active": true
+          }
+]

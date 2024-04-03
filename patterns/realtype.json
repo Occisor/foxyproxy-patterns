@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "realtype",
+            "pattern": "*://*.realtype.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "realtype",
+            "pattern": "*://*.realtype.jp",
+            "active": true
+          }
+]

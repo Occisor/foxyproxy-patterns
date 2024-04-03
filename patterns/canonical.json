@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "canonical",
+            "pattern": "*://*.canonical.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ark",
+            "pattern": "*://*.ark.to",
+            "active": true
+          }
+]

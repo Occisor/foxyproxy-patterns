@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "safechat",
+            "pattern": "*://*.safechat.com",
+            "active": true
+          }
+]

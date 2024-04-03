@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "raspberrypi",
+            "pattern": "*://*.raspberrypi.org",
+            "active": true
+          }
+]

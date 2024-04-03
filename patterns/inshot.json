@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "inshot",
+            "pattern": "*://*.inshot.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "inshot",
+            "pattern": "*://*.inshot.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "inshot",
+            "pattern": "*://*.inshotapp.com",
+            "active": true
+          }
+]

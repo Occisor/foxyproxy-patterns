@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinanews",
+            "pattern": "*://*.chinanews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinanews",
+            "pattern": "*://*.chinanews.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinanews",
+            "pattern": "*://*.cns.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinanews",
+            "pattern": "*://*.ecns.cn",
+            "active": true
+          }
+]

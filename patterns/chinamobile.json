@@ -1,0 +1,114 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.10086.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.139.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.chinamobile.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.chinamobileltd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.migucloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.migu.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.cmvideo.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.miguvideo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.andfx.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.andfx.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.cmicrwx.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.cmpassport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.fetion-portal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.fetionpic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.mmarket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chinamobile",
+            "pattern": "*://*.mmarket6.com",
+            "active": true
+          }
+]

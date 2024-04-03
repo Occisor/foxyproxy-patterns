@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kemono",
+            "pattern": "*://*.cooer.su",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kemono",
+            "pattern": "*://*.coomer.party",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kemono",
+            "pattern": "*://*.kemono.party",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kemono",
+            "pattern": "*://*.kemono.su",
+            "active": true
+          }
+]

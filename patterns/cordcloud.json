@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cordcloud",
+            "pattern": "*://*.cordcloud.org",
+            "active": true
+          }
+]

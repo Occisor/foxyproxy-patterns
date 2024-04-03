@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "caoliu",
+            "pattern": "*://*.t66y.com",
+            "active": true
+          }
+]

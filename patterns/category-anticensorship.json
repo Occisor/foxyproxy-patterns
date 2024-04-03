@@ -1,0 +1,275 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.ahmia.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.akasha.world",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.browserleaks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.bypasscensorship.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.censorship.ai",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.dat.foundation",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.democracy.earth",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.eff.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.ffprofile.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.freenetproject.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.fteproxy.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.geti2p.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.getoutline.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.gfw.report",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.guardianproject.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.hiddify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.jitsi.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.lokinet.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.ntc.party",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.onionshare.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.ooni.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.openvpn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.privacytools.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.psiphon3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.sagernet.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.shadowsocks.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.sspanel.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.stunnel.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.telex.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.tribler.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.tunsafe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.turkeyblocks.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.twister.net.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.uproxy.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.vuvuzela.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.whonix.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.wikileaks.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.wireguard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-anticensorship",
+            "pattern": "*://*.zeronet.io",
+            "active": true
+          }
+]

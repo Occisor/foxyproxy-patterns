@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volmoe",
+            "pattern": "*://*.mox.moe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "volmoe",
+            "pattern": "*://*.vol.moe",
+            "active": true
+          }
+]

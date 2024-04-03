@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gentoo",
+            "pattern": "*://*.gentoo.org",
+            "active": true
+          }
+]

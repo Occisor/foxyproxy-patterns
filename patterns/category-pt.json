@@ -1,0 +1,436 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.audiences.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.avistaz.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.beyond-hd.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.bibliotik.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.bitpt.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.blutopia.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.broadcasthe.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.bt.byr.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.byr.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.ccfbits.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.chdbits.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.cinemaz.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.dicmusic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.eastgame.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.et8.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.exoticaz.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.filelist.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.greatposterwall.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.hdbits.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.hdchina.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.hdcity.city",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.hdfans.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.hdhome.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.hdsky.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.hdtime.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.hhanclub.top",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.hudbt.hust.edu.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.iptorrents.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.jpopsuki.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.jptv.club",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.keepfrds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.lemonhd.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.m-team.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.m-team.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.morethantv.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.nanyangpt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.npupt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.open.cd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.ourbits.club",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.passthepopcorn.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.privatehd.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.pt.btschool.club",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.pt.eastgame.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.pt.hd4fans.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.pt.keepfrds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.pt.nwsuaf6.edu.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.pt.sjtu.edu.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.pt.soulvoice.club",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.pt.xauat.edu.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.pterclub.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.pthome.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.ptsbao.club",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.sharkpt.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.skyey2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.springsunday.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.tju.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.tjupt.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.torrentleech.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.totheglory.im",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.u2.dmhy.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.uhdbits.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-pt",
+            "pattern": "*://*.zhuque.in",
+            "active": true
+          }
+]

@@ -1,0 +1,1696 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox-corporation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox-news.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox10.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox10news.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox10phoenix.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox11.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox13memphis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox13news.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox23.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox23maine.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox247.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox247.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox26.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox26houston.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox28media.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox29.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox2detroit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox2news.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox32.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox32chicago.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox35orlando.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox38corpuschristi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox42kptm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox46.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox46charlotte.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox47.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox49.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox4news.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox51tns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox5atlanta.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox5dc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox5ny.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox5storm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox6now.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox7.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox7austin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fox9.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxacrossamerica.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxaffiliateportal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxandfriends.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxbet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxbusiness.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxbusiness.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxbusinessgo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcanvasroom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcareers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcharlotte.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcincy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcincy.jobs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcincy.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcollegesports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcorporation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcreativeuniversity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcredit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxcredit.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxd.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxdcg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxdeportes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxdeportes.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxdeportes.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxdigitalmovies.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxdoua.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxentertainment.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxest.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxfaq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxfdm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxfiles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxinc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxkansas.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxla.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxla.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxlexington.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxmediacloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnebraska.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxneo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxneodigital.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnetworks.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnetworksinfo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnews.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnews.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnews.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnews.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsaffiliates.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsaroundtheworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsb2b.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewschannel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsgo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsgo.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsgo.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewshealth.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewslatino.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsmagazine.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsnetwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsopinion.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewspodcasts.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewspolitics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsradio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewsrundown.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxnewssunday.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxphiladelphia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxplus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxpoker.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxrad.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxredeem.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxrelease.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxrichmond.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxrobots.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsmallbusinesscenter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsmallbusinesscenter.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsmallbusinesscenter.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsoccer.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsoccer.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsoccermatchpass.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsoccerplus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsoccerplus.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsoccerplus.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsoccershop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports-chicago.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports-newyork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports-world.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.co.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.gt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.py",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.com.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.gt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.net.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.sv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsports2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsportsflorida.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsportsgo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsportsla.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsportsnetmilwaukee.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsportsneworleans.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsportsracing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsportssupports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsportsuniversity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsportsworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxstudiolot.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxsuper6.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxtel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxtel.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxtelevisionstations.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxtv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxtvdvd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxuv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.foxweatherwatch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fssta.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fxn.ws",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fxnetwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fxnetworks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.bentobox.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.kicu.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.ktvu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxsanfran.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.afewmomentswith.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.anidom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.casoneexchange.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.coronavirusnow.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.fse.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.geraldoatlarge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.gooddaychicago.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.joeswall.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.kilmeadeandfriends.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.maskedsingerfox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.my13la.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.my20dc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.my20houston.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.my29tv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.my45.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.my9nj.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxatlanta.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxaustin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxboston.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxcharlotte.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxchicago.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxdc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxdetroit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxdfw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxhouston.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxhurricane.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxla.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxlosangeles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxlubbock.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxmaine.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxny.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxorlando.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxphilly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxphoenix.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxtampa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxtampabay.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxtwincities.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myfoxzone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.myq2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.newsnowfox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.orlandohurricane.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.paradisehotelquizfox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.q13.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.q13fox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.realamericanstories.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.realamericanstories.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.realamericanstories.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.realamericanstories.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.realamericanstories.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.realmilwaukeenow.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.rprimelab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.shopspeedtv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.soccermatchpass.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.speeddreamride.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.speedfantasybid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.speedracegear.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.speedxtra.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.teenchoice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.testonfox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.theclasshroom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.thefoxnation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.thegeorgiascene.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.whatthefox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.whosthehost.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.wofl.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.woflthenewsstation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fox",
+            "pattern": "*://*.wogx.com",
+            "active": true
+          }
+]

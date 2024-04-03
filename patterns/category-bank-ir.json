@@ -1,0 +1,226 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.agri-bank.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.ansarbank.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.bank-maskan.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.bankmellat.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.banksepah.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.bim.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.blubank.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.bmi.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.bpi.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.bsi.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.cbi.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.day24.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.edbi.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.enbank.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.ghbi.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.hibank24.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.izbank.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.karafarinbank.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.mebank.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.mresalat.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.parsian-bank.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.postbank.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.qmb.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.rb24.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.refah-bank.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.rqbank.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.sb24.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.sbank.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.shahr-bank.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.shaparak.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.sinabank.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-bank-ir",
+            "pattern": "*://*.tejaratbank.ir",
+            "active": true
+          }
+]

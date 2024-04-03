@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wanfang",
+            "pattern": "*://*.wanfangdata.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wanfang",
+            "pattern": "*://*.wf.pub",
+            "active": true
+          }
+]

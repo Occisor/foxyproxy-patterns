@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "glyphs",
+            "pattern": "*://*.glyphsapp.com",
+            "active": true
+          }
+]

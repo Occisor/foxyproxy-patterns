@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "54647",
+            "pattern": "*://*.54647.global",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "54647",
+            "pattern": "*://*.54647.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "54647",
+            "pattern": "*://*.54647.online",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "54647",
+            "pattern": "*://*.54647.org",
+            "active": true
+          }
+]

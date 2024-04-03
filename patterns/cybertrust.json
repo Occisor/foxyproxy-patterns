@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cybertrust",
+            "pattern": "*://*.cybertrust.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cybertrust",
+            "pattern": "*://*.cybertrust.ne.jp",
+            "active": true
+          }
+]

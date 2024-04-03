@@ -1,0 +1,135 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.cdn-telegram.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.comments.app",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.contest.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.fragment.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.graph.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.quiz.directory",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.t.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.tdesktop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.telega.one",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.telegra.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.telegram-cdn.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.telegram.dog",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.telegram.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.telegram.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.telegram.space",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.telesco.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.tg.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.tx.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "telegram",
+            "pattern": "*://*.usercontent.dev",
+            "active": true
+          }
+]

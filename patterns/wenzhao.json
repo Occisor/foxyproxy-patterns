@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wenzhao",
+            "pattern": "*://*.wenzhao.ca",
+            "active": true
+          }
+]

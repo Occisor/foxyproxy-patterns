@@ -1,0 +1,387 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.aftabnews.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.alef.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.asriran.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.bornanews.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.ecobourse.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.eghtesadnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.entekhab.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.fararu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.farsnews.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.hawzahnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.ibena.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.ibna.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.ilna.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.imna.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.ipna.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.iqna.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.iraneconomist.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.irdiplomacy.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.irib.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.irna.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.isna.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.khabaronline.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.mashreghnews.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.mehrnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.pana.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.parsine.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.qodsna.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.saat24.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.shabestan.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.shana.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.snn.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.sobhanehonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.tabnak.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.tasnimnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.tejaratnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.yjc.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.7sobh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.abrarnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.aftabeyazd.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.asianews.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.donya-e-eqtesad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.ebtekarnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.ettelaat.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.financialtribune.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.hamshahrionline.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.iran-newspaper.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.jamejamonline.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.kayhan.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.khabarvarzeshi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.khorasannews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.mardomsalari.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.newspaper.fdn.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.resalat-news.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.sharghdaily.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-news-ir",
+            "pattern": "*://*.tehrantimes.com",
+            "active": true
+          }
+]

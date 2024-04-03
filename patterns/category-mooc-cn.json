@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-mooc-cn",
+            "pattern": "*://*.chinesemooc.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-mooc-cn",
+            "pattern": "*://*.cnmooc.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-mooc-cn",
+            "pattern": "*://*.icourse163.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-mooc-cn",
+            "pattern": "*://*.icourses.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-mooc-cn",
+            "pattern": "*://*.icve.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-mooc-cn",
+            "pattern": "*://*.mooc.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-mooc-cn",
+            "pattern": "*://*.openlearning.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-mooc-cn",
+            "pattern": "*://*.pmphmooc.com",
+            "active": true
+          }
+]

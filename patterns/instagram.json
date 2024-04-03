@@ -1,0 +1,506 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.achat-followers-instagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.acheter-followers-instagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.acheterdesfollowersinstagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.acheterfollowersinstagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.bookstagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.carstagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.cdninstagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.chickstagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.ig.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.igcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.igsonar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.igtv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.imstagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.imtagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instaadder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instachecker.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instafallow.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instafollower.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagainer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagda.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagmania.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagram-brand.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagram-engineering.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagram-help.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagram-press.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagram-press.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramci.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramcn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramdi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramhashtags.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramhilecim.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramhilesi.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramium.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramizlenme.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramkusu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramlogin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagrampartners.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramphoto.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramsepeti.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramtakipcisatinal.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramtakiphilesi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramtips.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagramtr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagran.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagranm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagrem.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagrm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagtram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instagy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instamgram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instangram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instanttelegram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instaplayer.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instastyle.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.instgram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.intagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.intagrm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.intgram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.kingstagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.lnstagram-help.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.theinstagramhack.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.oninstagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.online-instagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.onlineinstagram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.web-instagram.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "instagram",
+            "pattern": "*://*.wwwinstagram.com",
+            "active": true
+          }
+]

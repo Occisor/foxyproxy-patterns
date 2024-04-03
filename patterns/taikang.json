@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "taikang",
+            "pattern": "*://*.taikang.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "taikang",
+            "pattern": "*://*.taikanglife.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "taikang",
+            "pattern": "*://*.taikangzhijia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "taikang",
+            "pattern": "*://*.tkhealthcare.com",
+            "active": true
+          }
+]

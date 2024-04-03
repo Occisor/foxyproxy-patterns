@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hoyoverse",
+            "pattern": "*://*.genshinimpact.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hoyoverse",
+            "pattern": "*://*.honkaiimpact3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hoyoverse",
+            "pattern": "*://*.honkaistarrail.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hoyoverse",
+            "pattern": "*://*.hoyo.link",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hoyoverse",
+            "pattern": "*://*.hoyolab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hoyoverse",
+            "pattern": "*://*.hoyoverse.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hoyoverse",
+            "pattern": "*://*.n0vadesktop.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dida365",
+            "pattern": "*://*.dida365.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mysql",
+            "pattern": "*://*.mysql.com",
+            "active": true
+          }
+]

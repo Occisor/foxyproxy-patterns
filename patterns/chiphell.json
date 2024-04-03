@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "chiphell",
+            "pattern": "*://*.chiphell.com",
+            "active": true
+          }
+]

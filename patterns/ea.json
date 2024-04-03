@@ -1,0 +1,1122 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.awayoutgame.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlefieldbadcompany2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlefront2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlefrontii.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.bejewled-stars.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.bejeweledstars.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.capitalgames.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.chillingo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.commandandconquer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.conquerwithcharacter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.crysis.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dawngate.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dawngatechronicles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dicela.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dicela.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.ea-anz-press.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.ea.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eaaccess.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eacashcard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eacodigos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eakorea.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eamobile.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eanordic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eaplay.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.easports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.easports.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.easportsactive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.easportsactiveonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.easportsfootball.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.easportsfootballclub.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.easportsmma.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.easportsworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.electronicarts.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.electronicarts.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.futpromos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.futunited.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.ghostgames.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.heroesofdragonage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.hutpromos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.maddenchampionship.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.maddenrewards.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.maddenseason.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.maddenseason.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.maddenseason.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.maxis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.mysimsracing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.play4free.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.playapex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.pogo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.pogobeta.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.popcap.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.projectapex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.pvzheroes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.spearhead.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.speedhunters.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.spore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.ssx3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.starwarsbattlefront.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.starwarsbattlefront2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.tiberiumalliances.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.tiburon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.tnt-ea.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.ultimaforever.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.unravel2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.unraveltwo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.visceralgames.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.yogify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.anthemgame.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.anthemthegame.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.apexlegends.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.projectapex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlefield.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlefield1943.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlefield3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlefield4.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlefield5.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlefieldheroes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlefieldv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.battlelog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.bioware.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.biowarestore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eamythic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eamythic.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.cncrivals.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.commandandconquer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.tiberiumalliances.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.camelot-europe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.camelotherald.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.camelotherald.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.daoc.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.darkageofcamelot.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.darkness-risen.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.deadspacegame.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dice.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dragonage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dragonagekeep.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dragonagemovie.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.thedreadwolfrises.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dungeonkeeper.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dungeonkeeper.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.dungeonkeeper.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eafootballworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.fifastreet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.fifastreet3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.frostbite.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.industrialtoys.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.masseffect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.masseffectarchives.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eamirrorsedge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.mirrorsedge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.mirrorsedge.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.mirrorsedge.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.mirrorsedge2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.mirrorsedge2d.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.blackboxgames.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.eablackbox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeed.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedboost.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeeddriftkings.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedeliminator.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedlightning.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedoverdrive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedproven.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedredline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedshowdown.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedstreetkings.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedtakedown.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedtherun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedtimeattack.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.needforspeedundergroundeast.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.nfsworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.teamneedforspeed.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.plantsvszombies2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.pvzgw2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.pvzheroes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.seaofsolitude.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.simcity-buildit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.simcity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.skate2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.spearhead.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.starwarsfallenorder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.starwarsjedifallenorder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.starwarstheoldrepublic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.swjedifallenorder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.swjfo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.swtor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.swtor.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.mysims.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.thesims.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.thesims3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.thesims4.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.thesimssocial.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.titanfall.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.mythicentertainment.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.mythicentertainment.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.mythicgames.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.ultimaonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.uo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.uoherald.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ea",
+            "pattern": "*://*.xdsummit.com",
+            "active": true
+          }
+]

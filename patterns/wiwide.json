@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wiwide",
+            "pattern": "*://*.wamawama.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wiwide",
+            "pattern": "*://*.wiwide.com",
+            "active": true
+          }
+]

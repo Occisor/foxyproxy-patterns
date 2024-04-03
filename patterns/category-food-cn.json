@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-food-cn",
+            "pattern": "*://*.3songshu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-food-cn",
+            "pattern": "*://*.haidilao.com",
+            "active": true
+          }
+]

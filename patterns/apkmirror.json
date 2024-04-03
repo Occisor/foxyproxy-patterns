@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apkmirror",
+            "pattern": "*://*.apkmirror.com",
+            "active": true
+          }
+]

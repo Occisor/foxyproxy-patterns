@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsecurity",
+            "pattern": "*://*.globalsecurity.org",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitquick",
+            "pattern": "*://*.bitquick.co",
+            "active": true
+          }
+]

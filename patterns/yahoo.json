@@ -1,0 +1,1150 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.am",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.as",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.az",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ba",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.bi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.bs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.bt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.by",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.cat",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.cd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.cg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.cm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.ao",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.bw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.ck",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.mz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.tz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.uz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.vi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.af",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.ag",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.ai",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.bd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.bz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.do",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.eg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.fj",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.gi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.gt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.kw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.lb",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.ly",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.mt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.na",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.nf",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.om",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.pa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.pr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.py",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.sa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.sb",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.sv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.tj",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.vc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.com.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.dj",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.dm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.fm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ge",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.gg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.gl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.gm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.gp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.gy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.im",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.is",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.je",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.jo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.la",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.md",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.mk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.mw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.nu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.pn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ps",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.rw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.sh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.sm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.sn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.so",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.sr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.st",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.tg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.tk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.tl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.tm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.tn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.vg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo.ws",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.maktoob.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.myguide.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.techcrunch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoo-news.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahooapis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoodns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoofinance.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoohealth.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoomusic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoosandbox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yahoosportsbook.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yho.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yimg.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.ymail.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "yahoo",
+            "pattern": "*://*.yusercontent.com",
+            "active": true
+          }
+]

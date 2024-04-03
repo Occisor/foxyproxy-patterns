@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "autodesk",
+            "pattern": "*://*.autodesk.com",
+            "active": true
+          }
+]

@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gigabyte",
+            "pattern": "*://*.aorus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gigabyte",
+            "pattern": "*://*.gigabyte.com",
+            "active": true
+          }
+]

@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tongcheng",
+            "pattern": "*://*.40017.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tongcheng",
+            "pattern": "*://*.17u.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tongcheng",
+            "pattern": "*://*.17u.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tongcheng",
+            "pattern": "*://*.17usoft.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tongcheng",
+            "pattern": "*://*.17usoft.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tongcheng",
+            "pattern": "*://*.elong.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tongcheng",
+            "pattern": "*://*.elongstatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tongcheng",
+            "pattern": "*://*.ly.com",
+            "active": true
+          }
+]

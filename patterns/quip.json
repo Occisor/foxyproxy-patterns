@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "quip",
+            "pattern": "*://*.quip-cdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "quip",
+            "pattern": "*://*.quip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "quip",
+            "pattern": "*://*.quipelements.com",
+            "active": true
+          }
+]

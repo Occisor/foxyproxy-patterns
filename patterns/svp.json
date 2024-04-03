@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "svp",
+            "pattern": "*://*.svp-team.com",
+            "active": true
+          }
+]

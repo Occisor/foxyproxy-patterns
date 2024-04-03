@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gfw",
+            "pattern": "*://*.gfw.press",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gfw",
+            "pattern": "*://*.gfw.report",
+            "active": true
+          }
+]

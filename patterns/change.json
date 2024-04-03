@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "change",
+            "pattern": "*://*.change.org",
+            "active": true
+          }
+]

@@ -1,0 +1,100 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign-media.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "globalsign",
+            "pattern": "*://*.globalsign.nl",
+            "active": true
+          }
+]

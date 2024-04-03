@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnn",
+            "pattern": "*://*.cnn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnn",
+            "pattern": "*://*.cnn.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnn",
+            "pattern": "*://*.cnn.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnn",
+            "pattern": "*://*.cnnarabic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnn",
+            "pattern": "*://*.cnnlabs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnn",
+            "pattern": "*://*.cnnmoney.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnn",
+            "pattern": "*://*.cnnmoney.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnn",
+            "pattern": "*://*.cnnmoneystream.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnn",
+            "pattern": "*://*.cnnpolitics.com",
+            "active": true
+          }
+]

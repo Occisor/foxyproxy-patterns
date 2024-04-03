@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blurams",
+            "pattern": "*://*.blurams.com",
+            "active": true
+          }
+]

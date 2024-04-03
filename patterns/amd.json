@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amd",
+            "pattern": "*://*.amd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amd",
+            "pattern": "*://*.amd.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amd",
+            "pattern": "*://*.amdfanstore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amd",
+            "pattern": "*://*.radeon.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "macrumors",
+            "pattern": "*://*.macrumors.com",
+            "active": true
+          }
+]

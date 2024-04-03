@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "collabora",
+            "pattern": "*://*.collabora.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "collabora",
+            "pattern": "*://*.collabora.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "collabora",
+            "pattern": "*://*.collabora.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "collabora",
+            "pattern": "*://*.collaboraoffice.com",
+            "active": true
+          }
+]

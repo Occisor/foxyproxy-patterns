@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ftv",
+            "pattern": "*://*.4gtv.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ftv",
+            "pattern": "*://*.ftv.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ftv",
+            "pattern": "*://*.ftvnews.com.tw",
+            "active": true
+          }
+]

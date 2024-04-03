@@ -1,0 +1,303 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.accountkit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.atscaleconference.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.botorch.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.buck.build",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.buckbuild.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.componentkit.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.draftjs.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.f8.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.facebookappcenter.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.facebookappcenter.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.facebookappcenter.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.facebookconnect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.facebookdevelopergarage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.faciometrics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.fasttext.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.fbf8.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.fbinfer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.fblitho.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.fbredex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.fbrell.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.flow.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.flow.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.flowtype.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.frescolib.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.hacklang.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.hhvm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.makeitopen.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.mcrouter.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.mcrouter.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.messengerdevelopers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.ogp.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.opengraphprotocol.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.opengraphprotocol.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.parse.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.pyrobot.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.react.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.reactjs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.reactjs.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.recoiljs.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.rocksdb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.rocksdb.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.rocksdb.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "facebook-dev",
+            "pattern": "*://*.yogalayout.com",
+            "active": true
+          }
+]

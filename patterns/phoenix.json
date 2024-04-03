@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "phoenix",
+            "pattern": "*://*.fengcx.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "phoenix",
+            "pattern": "*://*.ifeng.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "phoenix",
+            "pattern": "*://*.ifengimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "phoenix",
+            "pattern": "*://*.phoenixcenter.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "phoenix",
+            "pattern": "*://*.fengedu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "phoenix",
+            "pattern": "*://*.ifengweekly.com",
+            "active": true
+          }
+]

@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "acfun",
+            "pattern": "*://*.acfun.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "acfun",
+            "pattern": "*://*.aixifan.com",
+            "active": true
+          }
+]

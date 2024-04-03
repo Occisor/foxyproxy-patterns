@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blubrry",
+            "pattern": "*://*.blubrry.com",
+            "active": true
+          }
+]

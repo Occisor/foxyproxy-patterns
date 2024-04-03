@@ -1,0 +1,247 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.argotunnel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cfl.re",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflare-dns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflare-ech.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflare-esni.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflare-gateway.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflare-quic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflare.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflare.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflare.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflareaccess.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflareapps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflarebolt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflareclient.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflareinsights.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflareok.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflarepartners.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflareportal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflarepreview.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflareresolve.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflaressl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflarestatus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflarestorage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflarestream.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflaretest.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.cloudflarewarp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.every1dns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.isbgpsafeyet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.one.one.one",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.pacloudflare.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.pages.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.trycloudflare.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.videodelivery.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.warp.plus",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cloudflare",
+            "pattern": "*://*.workers.dev",
+            "active": true
+          }
+]

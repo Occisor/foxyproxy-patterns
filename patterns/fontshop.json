@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fontshop",
+            "pattern": "*://*.fontbook.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fontshop",
+            "pattern": "*://*.fontshop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fontshop",
+            "pattern": "*://*.fstopimages.com",
+            "active": true
+          }
+]

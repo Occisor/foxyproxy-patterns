@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "umeng",
+            "pattern": "*://*.mobmore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "umeng",
+            "pattern": "*://*.umeng.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "umeng",
+            "pattern": "*://*.umengcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "umeng",
+            "pattern": "*://*.umsns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "umeng",
+            "pattern": "*://*.umtrack.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "umeng",
+            "pattern": "*://*.uyunad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "umeng",
+            "pattern": "*://*.whalecloud.com",
+            "active": true
+          }
+]

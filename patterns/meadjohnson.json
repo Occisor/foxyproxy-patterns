@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meadjohnson",
+            "pattern": "*://*.meadjohnson.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meadjohnson",
+            "pattern": "*://*.meadjohnson.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meadjohnson",
+            "pattern": "*://*.meadjohnson.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meadjohnson",
+            "pattern": "*://*.meadjohnson.net",
+            "active": true
+          }
+]

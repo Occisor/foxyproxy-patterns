@@ -1,0 +1,114 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccb-life.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccb.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccb.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbcos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbfund.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbfund.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbfund.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbfutures.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbfutures.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbintl.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbleasing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccblife-test.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbseoul.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbtrust.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ccb",
+            "pattern": "*://*.ccbxt.com",
+            "active": true
+          }
+]

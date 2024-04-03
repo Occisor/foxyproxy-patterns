@@ -1,0 +1,86 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.clock.isc.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.ntp.fiord.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.ntp.nat.ms",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.ntp.nic.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.ntp.nict.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.ntp.ripe.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.ntp.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.ntp.ufe.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.pool.ntp.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.time.cloudflare.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.time.nrc.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ntp",
+            "pattern": "*://*.time.windows.com",
+            "active": true
+          }
+]

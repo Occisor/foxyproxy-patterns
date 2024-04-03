@@ -1,0 +1,142 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.digital-rb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rb-crisis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rb.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbbusinessshop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbdigitalab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbdigitallab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbeuroinfo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbgrads.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbgraduates.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbmavericks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbnainternational.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbplc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbrandlibrary.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.rbspeakup.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.reckitt.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.reckittbenckiser.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.reckittbenckiser.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.reckittbenckiser.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rb",
+            "pattern": "*://*.reckittprofessional.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "typenetwork",
+            "pattern": "*://*.typenetwork.com",
+            "active": true
+          }
+]

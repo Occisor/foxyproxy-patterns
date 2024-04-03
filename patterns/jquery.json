@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jquery",
+            "pattern": "*://*.jquery.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jquery",
+            "pattern": "*://*.jquerymobile.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jquery",
+            "pattern": "*://*.jqueryui.com",
+            "active": true
+          }
+]

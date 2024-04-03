@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "justmysocks",
+            "pattern": "*://*.justmysocks.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "justmysocks",
+            "pattern": "*://*.justmysocks1.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "justmysocks",
+            "pattern": "*://*.justmysocks2.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "justmysocks",
+            "pattern": "*://*.justmysocks4.net",
+            "active": true
+          }
+]

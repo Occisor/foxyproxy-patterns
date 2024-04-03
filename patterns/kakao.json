@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kakao",
+            "pattern": "*://*.kakao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kakao",
+            "pattern": "*://*.kakaocdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kakao",
+            "pattern": "*://*.kakaocorp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kakao",
+            "pattern": "*://*.kakaotalk.jp",
+            "active": true
+          }
+]

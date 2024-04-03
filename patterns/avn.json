@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "avn",
+            "pattern": "*://*.avn.com",
+            "active": true
+          }
+]

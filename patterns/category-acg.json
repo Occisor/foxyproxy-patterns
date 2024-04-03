@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-acg",
+            "pattern": "*://*.colorfulstage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-acg",
+            "pattern": "*://*.crypton.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-acg",
+            "pattern": "*://*.lapriere.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-acg",
+            "pattern": "*://*.magicalmirai.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-acg",
+            "pattern": "*://*.mikuexpo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-acg",
+            "pattern": "*://*.piapro.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-acg",
+            "pattern": "*://*.snowmiku.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-acg",
+            "pattern": "*://*.bowlroll.net",
+            "active": true
+          }
+]

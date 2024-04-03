@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "51nod",
+            "pattern": "*://*.51nod.com",
+            "active": true
+          }
+]

@@ -1,0 +1,72 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "primevideo",
+            "pattern": "*://*.aiv-cdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "primevideo",
+            "pattern": "*://*.amazonprimevideos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "primevideo",
+            "pattern": "*://*.amazonvideo.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "primevideo",
+            "pattern": "*://*.amazonvideo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "primevideo",
+            "pattern": "*://*.prime-video.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "primevideo",
+            "pattern": "*://*.primevideo.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "primevideo",
+            "pattern": "*://*.primevideo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "primevideo",
+            "pattern": "*://*.primevideo.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "primevideo",
+            "pattern": "*://*.primevideo.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "primevideo",
+            "pattern": "*://*.primevideo.tv",
+            "active": true
+          }
+]

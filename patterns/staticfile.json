@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "staticfile",
+            "pattern": "*://*.staticfile.org",
+            "active": true
+          }
+]

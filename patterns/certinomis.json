@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "certinomis",
+            "pattern": "*://*.certinomis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "certinomis",
+            "pattern": "*://*.certinomis.fr",
+            "active": true
+          }
+]

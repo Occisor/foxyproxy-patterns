@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jetbrains",
+            "pattern": "*://*.intellij.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jetbrains",
+            "pattern": "*://*.intellij.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jetbrains",
+            "pattern": "*://*.intellij.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jetbrains",
+            "pattern": "*://*.jetbrains.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jetbrains",
+            "pattern": "*://*.jetbrains.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jetbrains",
+            "pattern": "*://*.jetbrains.space",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jetbrains",
+            "pattern": "*://*.jetbrains.team",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jetbrains",
+            "pattern": "*://*.datalore.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jetbrains",
+            "pattern": "*://*.kotlinlang.org",
+            "active": true
+          }
+]

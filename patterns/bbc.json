@@ -1,0 +1,93 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbc-reporting-api.app",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbc.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbc.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbc.mp-pxcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbc.net.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbcfmt.s.llnwi.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbci.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbcmedia.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbcpersian.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bbcverticals.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bbc",
+            "pattern": "*://*.bidi.net.uk",
+            "active": true
+          }
+]

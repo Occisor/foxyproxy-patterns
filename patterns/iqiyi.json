@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "iqiyi",
+            "pattern": "*://*.71.am",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "iqiyi",
+            "pattern": "*://*.iqiyi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "iqiyi",
+            "pattern": "*://*.iqiyipic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "iqiyi",
+            "pattern": "*://*.pps.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "iqiyi",
+            "pattern": "*://*.ppsimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "iqiyi",
+            "pattern": "*://*.qiyi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "iqiyi",
+            "pattern": "*://*.qiyipic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "iqiyi",
+            "pattern": "*://*.qy.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "iqiyi",
+            "pattern": "*://*.71edge.com",
+            "active": true
+          }
+]

@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qt",
+            "pattern": "*://*.qt.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qt",
+            "pattern": "*://*.qt-project.org",
+            "active": true
+          }
+]

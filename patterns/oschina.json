@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oschina",
+            "pattern": "*://*.oschina.net",
+            "active": true
+          }
+]

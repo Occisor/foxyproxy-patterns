@@ -1,0 +1,401 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.geforce.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.geforce.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.geforce.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.geforce.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.gputechconf.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.gputechconf.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.gputechconf.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.gputechconf.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.gputechconf.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.gputechconf.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.gputechconf.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.asia",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.co.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.com.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.com.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.com.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidia.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidiaforhp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.nvidiagrid.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.shotwithgeforce.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.tegrazone.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.tegrazone.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.tegrazone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.tegrazone.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nvidia",
+            "pattern": "*://*.tegrazone.kr",
+            "active": true
+          }
+]

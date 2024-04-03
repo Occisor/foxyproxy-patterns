@@ -1,0 +1,639 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.bh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.om",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.cy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.do",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.eg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.kw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.om",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.pr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.sa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.do",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.eg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.is",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.jo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.ma",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.om",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.pr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.qa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.sa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ikea.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ingka.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ingka.dev",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ikea",
+            "pattern": "*://*.ingkacentres.com",
+            "active": true
+          }
+]

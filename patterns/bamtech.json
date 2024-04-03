@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bamtech",
+            "pattern": "*://*.bamgrid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bamtech",
+            "pattern": "*://*.dmed.technology",
+            "active": true
+          }
+]

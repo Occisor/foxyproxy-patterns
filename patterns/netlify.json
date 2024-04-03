@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netlify",
+            "pattern": "*://*.bitballoon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netlify",
+            "pattern": "*://*.netlify.app",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netlify",
+            "pattern": "*://*.netlify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netlify",
+            "pattern": "*://*.netlifystatus.com",
+            "active": true
+          }
+]

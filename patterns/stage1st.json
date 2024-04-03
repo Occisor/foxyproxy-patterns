@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stage1st",
+            "pattern": "*://*.saraba1st.com",
+            "active": true
+          }
+]

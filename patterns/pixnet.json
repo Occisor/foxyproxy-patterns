@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pixnet",
+            "pattern": "*://*.pimg.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pixnet",
+            "pattern": "*://*.pixanalytics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pixnet",
+            "pattern": "*://*.pixfs.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pixnet",
+            "pattern": "*://*.pixinsight.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pixnet",
+            "pattern": "*://*.pixnet.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pixnet",
+            "pattern": "*://*.pixnet.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pixnet",
+            "pattern": "*://*.pixnet.pro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pixnet",
+            "pattern": "*://*.pixnet.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pixnet",
+            "pattern": "*://*.pixplug.in",
+            "active": true
+          }
+]

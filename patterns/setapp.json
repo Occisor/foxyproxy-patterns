@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "setapp",
+            "pattern": "*://*.setapp.com",
+            "active": true
+          }
+]

@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onekey",
+            "pattern": "*://*.onekey-asset.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onekey",
+            "pattern": "*://*.onekey.so",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "onekey",
+            "pattern": "*://*.onekeycn.com",
+            "active": true
+          }
+]

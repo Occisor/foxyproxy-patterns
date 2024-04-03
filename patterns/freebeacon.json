@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "freebeacon",
+            "pattern": "*://*.freebeacon.com",
+            "active": true
+          }
+]

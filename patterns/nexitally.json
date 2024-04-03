@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nexitally",
+            "pattern": "*://*.nexitally.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nexitally",
+            "pattern": "*://*.nexitallysafe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nexitally",
+            "pattern": "*://*.nexitcore.com",
+            "active": true
+          }
+]

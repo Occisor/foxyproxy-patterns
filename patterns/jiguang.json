@@ -1,0 +1,121 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.42r.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.5566ua.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.aurorapush.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.e0n.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.japps.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.jchat.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.jiguang.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.jmlk.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.jpush.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.jpush.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.jpushoa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.jsurvey.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.jvoice.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.kc9.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.n0q.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.pushcfg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jiguang",
+            "pattern": "*://*.s0n.cn",
+            "active": true
+          }
+]

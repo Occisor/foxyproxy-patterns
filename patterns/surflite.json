@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "surflite",
+            "pattern": "*://*.surflite.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "surflite",
+            "pattern": "*://*.surflite.net",
+            "active": true
+          }
+]

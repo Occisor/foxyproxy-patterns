@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spiceworks",
+            "pattern": "*://*.spiceworks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "spiceworks",
+            "pattern": "*://*.spiceworksstatic.com",
+            "active": true
+          }
+]

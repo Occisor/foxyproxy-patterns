@@ -1,0 +1,156 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.fast.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflix.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflix.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflix.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixinvestor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixtechblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.nflxext.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.nflximg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.nflximg.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.nflxsearch.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.nflxso.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.nflxvideo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixdnstest1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixdnstest2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixdnstest3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixdnstest4.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixdnstest5.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixdnstest6.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixdnstest7.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixdnstest8.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixdnstest9.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflix",
+            "pattern": "*://*.netflixdnstest10.com",
+            "active": true
+          }
+]

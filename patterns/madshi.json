@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "madshi",
+            "pattern": "*://*.madshi.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "madshi",
+            "pattern": "*://*.madvr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "madshi",
+            "pattern": "*://*.madvr.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "madshi",
+            "pattern": "*://*.madvrlabs.llc",
+            "active": true
+          }
+]

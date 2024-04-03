@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "applysquare",
+            "pattern": "*://*.applysquare.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "applysquare",
+            "pattern": "*://*.applysquare.net",
+            "active": true
+          }
+]

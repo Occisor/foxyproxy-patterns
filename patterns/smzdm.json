@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "smzdm",
+            "pattern": "*://*.smzdm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "smzdm",
+            "pattern": "*://*.zdmimg.com",
+            "active": true
+          }
+]

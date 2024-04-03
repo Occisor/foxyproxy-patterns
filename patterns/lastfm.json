@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lastfm",
+            "pattern": "*://*.last.fm",
+            "active": true
+          }
+]

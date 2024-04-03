@@ -1,0 +1,93 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zoho.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zoho.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zoho.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zoho.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zohocdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zohomeetups.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zohomerchandise.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zohopublic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zohoschools.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zohostatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zohostatic.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zohouniversity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zoho",
+            "pattern": "*://*.zohowebstatic.com",
+            "active": true
+          }
+]

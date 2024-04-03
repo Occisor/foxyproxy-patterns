@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "trello",
+            "pattern": "*://*.trello.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "trello",
+            "pattern": "*://*.trellocdn.com",
+            "active": true
+          }
+]

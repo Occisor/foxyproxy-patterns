@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "torproject",
+            "pattern": "*://*.torproject.org",
+            "active": true
+          }
+]

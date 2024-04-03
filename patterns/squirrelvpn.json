@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "squirrelvpn",
+            "pattern": "*://*.squirrelvpn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "squirrelvpn",
+            "pattern": "*://*.squirrelgroup.net",
+            "active": true
+          }
+]

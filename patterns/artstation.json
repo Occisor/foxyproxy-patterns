@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "artstation",
+            "pattern": "*://*.artstation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "artstation",
+            "pattern": "*://*.artstationmedia.com",
+            "active": true
+          }
+]

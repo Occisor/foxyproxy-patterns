@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mocloudplus",
+            "pattern": "*://*.mocloudplus.com",
+            "active": true
+          }
+]

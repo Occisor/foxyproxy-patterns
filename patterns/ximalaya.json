@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ximalaya",
+            "pattern": "*://*.ximalaya.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ximalaya",
+            "pattern": "*://*.xmcdn.com",
+            "active": true
+          }
+]

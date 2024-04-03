@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aixcoder",
+            "pattern": "*://*.aixcoder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aixcoder",
+            "pattern": "*://*.nnthink.com",
+            "active": true
+          }
+]

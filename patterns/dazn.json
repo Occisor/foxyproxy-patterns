@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dazn",
+            "pattern": "*://*.dazn-api.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dazn",
+            "pattern": "*://*.dazn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dazn",
+            "pattern": "*://*.dazndn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dazn",
+            "pattern": "*://*.indazn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dazn",
+            "pattern": "*://*.indaznlab.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "b3log",
+            "pattern": "*://*.b3log.org",
+            "active": true
+          }
+]

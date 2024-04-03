@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ntc",
+            "pattern": "*://*.ntc.party",
+            "active": true
+          }
+]

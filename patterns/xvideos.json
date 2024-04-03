@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xvideos",
+            "pattern": "*://*.xvideos-cdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xvideos",
+            "pattern": "*://*.xvideos.com",
+            "active": true
+          }
+]

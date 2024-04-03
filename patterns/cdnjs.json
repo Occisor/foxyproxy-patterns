@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cdnjs",
+            "pattern": "*://*.cdnjs.com",
+            "active": true
+          }
+]

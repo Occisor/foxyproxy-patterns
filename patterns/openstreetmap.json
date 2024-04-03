@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openstreetmap",
+            "pattern": "*://*.openmaps.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openstreetmap",
+            "pattern": "*://*.openstreetmap.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openstreetmap",
+            "pattern": "*://*.openstreetmap.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openstreetmap",
+            "pattern": "*://*.openstreetmap.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openstreetmap",
+            "pattern": "*://*.openstreetmaps.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openstreetmap",
+            "pattern": "*://*.osm.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openstreetmap",
+            "pattern": "*://*.osmfoundation.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openstreetmap",
+            "pattern": "*://*.stateofthemap.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openstreetmap",
+            "pattern": "*://*.stateofthemap.org",
+            "active": true
+          }
+]

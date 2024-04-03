@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cabletv",
+            "pattern": "*://*.cabletv.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cabletv",
+            "pattern": "*://*.i-cable.com",
+            "active": true
+          }
+]

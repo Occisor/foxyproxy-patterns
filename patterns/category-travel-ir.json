@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-travel-ir",
+            "pattern": "*://*.alibaba.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-travel-ir",
+            "pattern": "*://*.flightio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-travel-ir",
+            "pattern": "*://*.mrbilit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-travel-ir",
+            "pattern": "*://*.tapsi.ir",
+            "active": true
+          }
+]

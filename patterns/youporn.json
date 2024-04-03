@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youporn",
+            "pattern": "*://*.extremetube.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youporn",
+            "pattern": "*://*.keezmovies.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youporn",
+            "pattern": "*://*.youporn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youporn",
+            "pattern": "*://*.youporngay.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youporn",
+            "pattern": "*://*.youpornpremium.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youporn",
+            "pattern": "*://*.youpornru.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youporn",
+            "pattern": "*://*.yopornshop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youporn",
+            "pattern": "*://*.ypncdn.com",
+            "active": true
+          }
+]

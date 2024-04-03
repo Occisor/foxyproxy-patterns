@@ -1,0 +1,464 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.sbux.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.sbuxcard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks-stars.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.ad",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.bn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.cy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.kh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.kz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.com.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.tt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucks.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucksathome.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucksavie.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbuckscard.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbuckscardb2b.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbuckscoffee.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbuckscoffeegear.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbuckscoffeegearstore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucksforlife.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucksforlife.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbuckspoq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucksreserve.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucksrewardsstarland.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucksrewardsstarland.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucksromania.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucksrtd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbucksslovakia.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbuckssummergame.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "starbucks",
+            "pattern": "*://*.starbuckssummergame.com",
+            "active": true
+          }
+]

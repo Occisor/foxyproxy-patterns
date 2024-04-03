@@ -1,0 +1,100 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.cell.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.clinicalkey.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.els-cdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.elsevier-ae.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.elsevier.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.elsevier.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.engineeringvillage.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.evise.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.fundinginstitutional.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.knovel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.mendeley.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.reaxys.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.scival.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "elsevier",
+            "pattern": "*://*.scopus.com",
+            "active": true
+          }
+]

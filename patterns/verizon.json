@@ -1,0 +1,114 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.oath.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.oath.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.ouroath.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.static-verizon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.uplynk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.verizon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.verizon.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.verizonbusinessfios.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.verizondigitalmedia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.verizonenterprise.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.verizonfios.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.verizonmedia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.verizonwireless.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.vzw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.xo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "verizon",
+            "pattern": "*://*.omniroot.com",
+            "active": true
+          }
+]

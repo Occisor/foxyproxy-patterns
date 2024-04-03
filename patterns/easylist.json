@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "easylist",
+            "pattern": "*://*.easylist.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "easylist",
+            "pattern": "*://*.lanik.us",
+            "active": true
+          }
+]

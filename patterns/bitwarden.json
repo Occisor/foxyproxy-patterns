@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitwarden",
+            "pattern": "*://*.bitwarden.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitwarden",
+            "pattern": "*://*.bitwarden.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitwarden",
+            "pattern": "*://*.bitwarden.net",
+            "active": true
+          }
+]

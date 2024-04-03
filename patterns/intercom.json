@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intercom",
+            "pattern": "*://*.intercom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intercom",
+            "pattern": "*://*.intercom.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intercom",
+            "pattern": "*://*.intercomassets.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "intercom",
+            "pattern": "*://*.intercomcdn.com",
+            "active": true
+          }
+]

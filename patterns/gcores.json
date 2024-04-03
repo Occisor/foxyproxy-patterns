@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gcores",
+            "pattern": "*://*.gcores.com",
+            "active": true
+          }
+]

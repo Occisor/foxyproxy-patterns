@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-travel",
+            "pattern": "*://*.alibaba.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-travel",
+            "pattern": "*://*.flightio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-travel",
+            "pattern": "*://*.mrbilit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-travel",
+            "pattern": "*://*.snapp.cab",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-travel",
+            "pattern": "*://*.snapp.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-travel",
+            "pattern": "*://*.snapp.site",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-travel",
+            "pattern": "*://*.snapp.taxi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-travel",
+            "pattern": "*://*.snapp.tech",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-travel",
+            "pattern": "*://*.tapsi.ir",
+            "active": true
+          }
+]

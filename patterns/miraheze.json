@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miraheze",
+            "pattern": "*://*.miraheze.org",
+            "active": true
+          }
+]

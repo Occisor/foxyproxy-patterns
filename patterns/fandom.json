@@ -1,0 +1,79 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.cursecdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.fandom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.wikia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.wikia.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.dndbeyond.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.futhead.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.gamepedia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.muthead.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.cortexrpg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.fanatical.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fandom",
+            "pattern": "*://*.wikia.nocookie.net",
+            "active": true
+          }
+]

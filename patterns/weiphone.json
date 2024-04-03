@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "weiphone",
+            "pattern": "*://*.feng.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "weiphone",
+            "pattern": "*://*.fengimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "weiphone",
+            "pattern": "*://*.wfdata.club",
+            "active": true
+          }
+]

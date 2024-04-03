@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dslreports",
+            "pattern": "*://*.broadbandreports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dslreports",
+            "pattern": "*://*.dslr.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dslreports",
+            "pattern": "*://*.dslreports.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mray",
+            "pattern": "*://*.mray.club",
+            "active": true
+          }
+]

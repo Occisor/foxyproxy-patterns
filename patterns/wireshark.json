@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wireshark",
+            "pattern": "*://*.wireshark.org",
+            "active": true
+          }
+]

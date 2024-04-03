@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apkcombo",
+            "pattern": "*://*.apkcombo.com",
+            "active": true
+          }
+]

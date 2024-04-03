@@ -1,0 +1,100 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.imageworks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.motionpictureser.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.playshow.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.playshowtv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.sonyclassics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.sonypictures.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.sonypicturesanimation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.sonypicturesmuseum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.sonypicturesstudios.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.sonypicturestelevision.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.sonypicturestelevisiongames.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.wheelpop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.wwtbam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sonypictures",
+            "pattern": "*://*.yourfantasybeginsnow.com",
+            "active": true
+          }
+]

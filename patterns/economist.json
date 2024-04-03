@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "economist",
+            "pattern": "*://*.economist.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "economist",
+            "pattern": "*://*.economistgroup.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "economist",
+            "pattern": "*://*.economistgroupcareers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "economist",
+            "pattern": "*://*.eiu.com",
+            "active": true
+          }
+]

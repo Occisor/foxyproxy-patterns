@@ -1,0 +1,1220 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.air-nike-shoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.airmax360.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.beijingnike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.betternike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.buynikechina.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.cheap-nike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.cheapnikedunks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.cheapnikeoutlet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.classicnike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.cnnikebrand.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.customnikeshoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.easynike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.eenike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.fashionnike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.finenike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.foampositeshoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.goldnikeclub.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.gonike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.handbags-nike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.hightopnikes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.idnike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.inikesneakers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.justdoit.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.kicksnike1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.kidsnikeshoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.mynike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike-air-max.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike-dunksb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike-fr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike-org.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike-uk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike-us.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike-usa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike.ci",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike.gy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike.host",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike.shop",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike0594.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nike23.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeadidas.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeairhuarache.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeairmax.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeairmaxs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeairmaxshoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeairrift.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeasia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeaustralia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeaw77.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikebbn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikebetrue.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikebetterworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikebetterworld.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikebetterworld.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikebetterworld.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikebiz.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikebuy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeby.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikecdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikecompany.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeconfluence.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikechosen.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikecloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeclub.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikecraft.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikedawn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikedunks.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikedunksshoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeelite.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefactorystore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefind.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefirm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefoamposites.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefoampositeshoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefootballcleats.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefootballgloves.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefootballjersey.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefoundation.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefrance.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefree.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefreeshoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikefuelband.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikegadgets.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikegenealogy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikegolf.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikegrid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikehelp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikehightops.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikehyperdunk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeidshoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeinc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeincchemistry.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeinstock.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeitalia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeitaly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikekd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikekid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikelink.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeliuxiang.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikelives.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikelunarglide.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikemarketing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikenews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.niken7.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeonlinestore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeoutletstore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeoutletstores.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikepioneer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeplus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeplus.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikepress.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeprice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeproduct.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikepromax.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeresponsibility.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikereuseashoe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikerunner.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikerunningshoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikesb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikesbdunks.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeseason.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeselling.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikesellorder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoemarket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoes-store.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoes21.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoes4u.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoescity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoesgroup.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoesinc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoesmarket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoesretro.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoeswon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoponline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeshoxsale.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikesku.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikesnowboarding.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikesoccercleats.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikesportswear.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikestares.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikestore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikestore.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikestyles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeswim.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.niketaiwan.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.niketracking.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.niketradeweb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.niketrainer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.niketrainers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.niketraining.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikeusa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikewear.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikey.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nikezoom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.nke6.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.outletnike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.runnike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.runningnike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.sale-nikeshoes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.static-nike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.swoo.sh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.swoosh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.swoosh.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.thedailysnkr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.verygoodnike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nike",
+            "pattern": "*://*.womensnikeshox.com",
+            "active": true
+          }
+]

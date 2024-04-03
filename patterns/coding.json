@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "coding",
+            "pattern": "*://*.coding.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "coding",
+            "pattern": "*://*.coding.net",
+            "active": true
+          }
+]

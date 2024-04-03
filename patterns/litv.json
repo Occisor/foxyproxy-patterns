@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "litv",
+            "pattern": "*://*.litv.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "litv",
+            "pattern": "*://*.litvfreepc.akamaized.net",
+            "active": true
+          }
+]

@@ -1,0 +1,170 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.777tv.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.blubrry.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.buzzsprout.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.castro.fm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.egta.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.fireside.fm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.internationalsaimoe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.joox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.linetv.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.litv.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.megaphone.fm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.mikanani.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.moov.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.odysee.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.omobi.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.oranum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.overcast.fm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.syosetu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.thetvdb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.weverse.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.yande.re",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.amp-api.podcast.apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.bag.itunes.apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-entertainment",
+            "pattern": "*://*.bookeeper.itunes.apple.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fontsinuse",
+            "pattern": "*://*.fontsinuse.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zeronet",
+            "pattern": "*://*.zeronet.io",
+            "active": true
+          }
+]

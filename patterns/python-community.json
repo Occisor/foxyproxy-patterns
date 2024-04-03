@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "python-community",
+            "pattern": "*://*.piwheels.org",
+            "active": true
+          }
+]

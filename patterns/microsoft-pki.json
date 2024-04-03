@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "microsoft-pki",
+            "pattern": "*://*.msocsp.com",
+            "active": true
+          }
+]

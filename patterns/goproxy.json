@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "goproxy",
+            "pattern": "*://*.goproxy.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "goproxy",
+            "pattern": "*://*.goproxy.io",
+            "active": true
+          }
+]

@@ -1,0 +1,1626 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.account-paypal.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.account-paypal.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.account-paypal.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.accountpaypal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.accountpaypal.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.accountpaypal.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.anfutong.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.beibao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.bill-safe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.billmelater.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.billmelater.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.billmelater.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.bml.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.buyfast-paysmart.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.cashify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.devtools-paypal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.experiencebillmelater.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.fundpaypal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.gmoney.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.i-o-u.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.login-paypal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.login-paypal.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.mywaytopay.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.mywaytopay.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.pa9pal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paaypal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paily.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paily.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paipal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.pavpal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paydiant.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paylike.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypa1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypa1.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypaal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-activate.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-activate.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-activate.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-apac.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-apps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-biz.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-brandcentral.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-business.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-business.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-business.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-cardcash.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-cash.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-center.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-center.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-center.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-center.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-communication.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-communications.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-communications.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-community.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-community.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-comunidad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-corp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-database.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-database.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-donations.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-dynamic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-engineering.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-europe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-excelinvoicing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-exchanges.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-forward.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-galactic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-gift.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-gifts.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-gpplus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-here.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-hrsystem.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-innovationlab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-integration.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-japan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-knowledge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-labs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-latam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-learning.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-login.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-login.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-login.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-login.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-luxury.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-mainstreet.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-marketing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-media.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-merchantloyalty.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-mobilemoney.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-network.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-notice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-notify.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-online.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-online.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-online.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-optimizer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-pages.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-photocard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-plaza.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-portal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-prepagata.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-prepagata.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-prepaid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-profile.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-proserv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-qrshopping.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-recargacelular.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-redeem.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-referral.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-retail.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-scoop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-search.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-secure.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-secure.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-security.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-security.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-service.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-signin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-signin.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-special.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-specialoffers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-sptam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-support.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-survey.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-survey.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-status.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-team.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal-viewpoints.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal.so",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypal.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalbeacon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalbenefits.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalbrasil.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalcommunity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalcommunity.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalcommunity.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalcorp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalcredit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalcreditcard.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalgivingfund.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalhere.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalhere.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalhere.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalhere.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalhere.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypali.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalinc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalindia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalinsuranceservices.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypall.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypallabs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalme.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalnet.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalnet.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalnetwork.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalnetwork.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalnetwork.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalobjects.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalonline.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalonline.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalprepagata.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalprepagata.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalservice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalshopping.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalshopping.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalsurvey.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypalx.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.paypaly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.payppal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.payypal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.pdncommunity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.pp-soc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.ppaypal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.pppds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.pypl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.pypl.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.pypl.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.pypl.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.secure-paypal.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.securepaypal.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.sslpaypal.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.thepaypalshop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.theshoppingexpresslane.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.www-paypal.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.www-paypal.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.braintreegateway.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.braintreegateway.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.braintreepayments.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.braintreepayments.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.braintreepayments.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.braintreepayments.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.braintreepaymentsolutions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.braintreeps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.briantreepayments.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.briantreepayments.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.card.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.getbraintree.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.krakenjs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.loanbuilder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.swiftcapital.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.simility.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.cashify.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.swiftbank.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.swiftbank.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.swiftfinancial.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.swiftfinancial.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.swiftfinancial.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.venmo-touch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.venmo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.venmo.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.venmo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.venmo.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.cash2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.filipino-music.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.s-xoom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.webmoneyinfo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.wiremoneytoirelandwithxoomeasierandcheaper.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.wwwxoom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.xoom-experience.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.xoom.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.xoom.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.xoom.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "paypal",
+            "pattern": "*://*.xoomcom.com",
+            "active": true
+          }
+]

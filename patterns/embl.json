@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "embl",
+            "pattern": "*://*.ebi.ac.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "embl",
+            "pattern": "*://*.embl-hamburg.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "embl",
+            "pattern": "*://*.embl.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "embl",
+            "pattern": "*://*.embl.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "embl",
+            "pattern": "*://*.embl.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "embl",
+            "pattern": "*://*.embl.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "embl",
+            "pattern": "*://*.emblstatic.net",
+            "active": true
+          }
+]

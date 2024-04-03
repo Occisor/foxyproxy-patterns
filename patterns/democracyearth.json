@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "democracyearth",
+            "pattern": "*://*.democracy.earth",
+            "active": true
+          }
+]

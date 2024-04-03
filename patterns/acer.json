@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "acer",
+            "pattern": "*://*.acer-group.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "acer",
+            "pattern": "*://*.acer.com",
+            "active": true
+          }
+]

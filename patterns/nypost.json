@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nypost",
+            "pattern": "*://*.nypost.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nypost",
+            "pattern": "*://*.nypost.help",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nypost",
+            "pattern": "*://*.nypostreprints.com",
+            "active": true
+          }
+]

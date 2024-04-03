@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "akasha",
+            "pattern": "*://*.akasha.world",
+            "active": true
+          }
+]

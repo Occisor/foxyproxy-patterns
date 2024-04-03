@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "w3c",
+            "pattern": "*://*.w3.org",
+            "active": true
+          }
+]

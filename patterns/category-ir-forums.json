@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-forums",
+            "pattern": "*://*.quera.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ir-forums",
+            "pattern": "*://*.quera.org",
+            "active": true
+          }
+]

@@ -1,0 +1,149 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mediachinese.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mysinchew.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.sinchew.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.sinchew.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.soccerfanz.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.enanyang.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.chinapress.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.guangming.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mingpao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mingpaocanada.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mingpaomonthly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mingpaotor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mingpaovan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mingshengbao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mingwatch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mpfinance.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mpweekly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.yzzk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.omghk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mings.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mediachinesegroup",
+            "pattern": "*://*.mings-fashion.com",
+            "active": true
+          }
+]

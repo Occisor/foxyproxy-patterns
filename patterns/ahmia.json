@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ahmia",
+            "pattern": "*://*.ahmia.fi",
+            "active": true
+          }
+]

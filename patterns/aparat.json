@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aparat",
+            "pattern": "*://*.aparat.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aparat",
+            "pattern": "*://*.aparatkids.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "aparat",
+            "pattern": "*://*.aparatsport.com",
+            "active": true
+          }
+]

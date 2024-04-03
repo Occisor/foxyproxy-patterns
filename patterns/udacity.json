@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "udacity",
+            "pattern": "*://*.udacity.com",
+            "active": true
+          }
+]

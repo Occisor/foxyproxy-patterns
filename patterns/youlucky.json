@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youlucky",
+            "pattern": "*://*.youlucky.com",
+            "active": true
+          }
+]

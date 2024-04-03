@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gfycat",
+            "pattern": "*://*.gfycat.com",
+            "active": true
+          }
+]

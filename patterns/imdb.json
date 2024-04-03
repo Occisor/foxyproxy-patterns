@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imdb",
+            "pattern": "*://*.imdb",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imdb",
+            "pattern": "*://*.boxofficemojo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imdb",
+            "pattern": "*://*.imdb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imdb",
+            "pattern": "*://*.imdb.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imdb",
+            "pattern": "*://*.media-imdb.com",
+            "active": true
+          }
+]

@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "atlassian",
+            "pattern": "*://*.atlassian.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "atlassian",
+            "pattern": "*://*.atlassian.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "atlassian",
+            "pattern": "*://*.bitbucket.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "atlassian",
+            "pattern": "*://*.bitbucket.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "atlassian",
+            "pattern": "*://*.statuspage.io",
+            "active": true
+          }
+]

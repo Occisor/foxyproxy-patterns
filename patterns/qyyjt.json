@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qyyjt",
+            "pattern": "*://*.qyyjt.cn",
+            "active": true
+          }
+]

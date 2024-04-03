@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ads-ir",
+            "pattern": "*://*.adivery.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ads-ir",
+            "pattern": "*://*.adivery.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ads-ir",
+            "pattern": "*://*.kaprila.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ads-ir",
+            "pattern": "*://*.najva.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ads-ir",
+            "pattern": "*://*.sabavision.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ads-ir",
+            "pattern": "*://*.tapsell.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ads-ir",
+            "pattern": "*://*.yektanet.com",
+            "active": true
+          }
+]

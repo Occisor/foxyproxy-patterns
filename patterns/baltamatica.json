@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "baltamatica",
+            "pattern": "*://*.baltamatica.com",
+            "active": true
+          }
+]

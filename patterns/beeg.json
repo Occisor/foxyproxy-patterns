@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "beeg",
+            "pattern": "*://*.beeg.com",
+            "active": true
+          }
+]

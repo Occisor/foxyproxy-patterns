@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "freenode",
+            "pattern": "*://*.freenode.net",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "addtoany",
+            "pattern": "*://*.addtoany.com",
+            "active": true
+          }
+]

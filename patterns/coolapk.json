@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "coolapk",
+            "pattern": "*://*.coolapk.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "coolapk",
+            "pattern": "*://*.coolapkmarket.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "coolapk",
+            "pattern": "*://*.coolapkmarket.net",
+            "active": true
+          }
+]

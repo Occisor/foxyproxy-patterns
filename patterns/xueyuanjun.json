@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xueyuanjun",
+            "pattern": "*://*.xueyuanjun.com",
+            "active": true
+          }
+]

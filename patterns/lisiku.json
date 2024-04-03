@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lisiku",
+            "pattern": "*://*.lisiku.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lisiku",
+            "pattern": "*://*.lisiku1.com",
+            "active": true
+          }
+]

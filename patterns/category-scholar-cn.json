@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-scholar-cn",
+            "pattern": "*://*.apabi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-scholar-cn",
+            "pattern": "*://*.ccf.org.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-scholar-cn",
+            "pattern": "*://*.cnsciedu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-scholar-cn",
+            "pattern": "*://*.cnthinkers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-scholar-cn",
+            "pattern": "*://*.cqvip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-scholar-cn",
+            "pattern": "*://*.er07.com",
+            "active": true
+          }
+]

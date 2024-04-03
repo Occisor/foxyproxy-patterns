@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-network-security-cn",
+            "pattern": "*://*.cnmstl.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-network-security-cn",
+            "pattern": "*://*.fofa.so",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-network-security-cn",
+            "pattern": "*://*.t00ls.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-network-security-cn",
+            "pattern": "*://*.t00ls.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-network-security-cn",
+            "pattern": "*://*.tools.team",
+            "active": true
+          }
+]

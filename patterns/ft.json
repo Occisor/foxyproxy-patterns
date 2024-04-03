@@ -1,0 +1,156 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.agendaweek.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.excedo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.exec-appointments.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.fdiintelligence.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.financialadvisoriq.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.ft.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.ftadviser.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.ftchinese.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.ftiecla.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.fundfire.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.gisplanning.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.globalriskregulator.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.ignites.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.ignitesasia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.igniteseurope.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.investorschronicle.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.mandatewire.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.pensions-expert.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.pwmnet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.thebanker.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.thebankerdatabase.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ft",
+            "pattern": "*://*.thenextweb.com",
+            "active": true
+          }
+]

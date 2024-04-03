@@ -1,0 +1,1227 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.ggpht.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.googlevideo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.wide-youtube.l.google.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.withyoutube.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtu.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube-nocookie.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube-ui.l.google.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.al",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.am",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.az",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ba",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.bh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.by",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.cat",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.ke",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.ma",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.tz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.ug",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.co.zw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.az",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.bd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.bh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.bo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.by",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.do",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.ec",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.eg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.gh",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.gt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.hn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.jm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.jo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.kw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.lb",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.ly",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.mk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.mt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.ng",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.ni",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.om",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.pa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.py",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.qa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.sa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.sv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.tn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.com.ve",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ge",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.googleapis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.gt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.iq",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.is",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.jo",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.kz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.la",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.lk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ly",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ma",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.md",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.mk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.mn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ng",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ni",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.pa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.pr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.qa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.sa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.sn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.soy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.sv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.tn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.ug",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtube.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubeeducation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubeembeddedplayer.googleapis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubefanfest.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubegaming.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubego.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubego.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubego.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubego.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubego.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubego.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubei.googleapis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubekids.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.youtubemobilesupport.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.yt.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "youtube",
+            "pattern": "*://*.ytimg.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "peppy",
+            "pattern": "*://*.ppy.sh",
+            "active": true
+          }
+]

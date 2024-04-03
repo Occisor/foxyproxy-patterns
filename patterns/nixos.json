@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nixos",
+            "pattern": "*://*.nixos.org",
+            "active": true
+          }
+]

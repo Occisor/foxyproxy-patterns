@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "musixmatch",
+            "pattern": "*://*.musixmatch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "musixmatch",
+            "pattern": "*://*.mxmcdn.net",
+            "active": true
+          }
+]

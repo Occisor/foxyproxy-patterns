@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tld-cn",
+            "pattern": "*://*.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tld-cn",
+            "pattern": "*://*.citic",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tld-cn",
+            "pattern": "*://*.baidu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tld-cn",
+            "pattern": "*://*.unicom",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tld-cn",
+            "pattern": "*://*.sohu",
+            "active": true
+          }
+]

@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fflogs",
+            "pattern": "*://*.fflogs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fflogs",
+            "pattern": "*://*.rpglogs.com",
+            "active": true
+          }
+]

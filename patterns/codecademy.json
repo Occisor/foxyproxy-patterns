@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "codecademy",
+            "pattern": "*://*.codecademy.com",
+            "active": true
+          }
+]

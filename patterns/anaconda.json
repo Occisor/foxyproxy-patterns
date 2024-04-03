@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "anaconda",
+            "pattern": "*://*.anaconda.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "anaconda",
+            "pattern": "*://*.anaconda.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "anaconda",
+            "pattern": "*://*.anaconda.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "anaconda",
+            "pattern": "*://*.conda.io",
+            "active": true
+          }
+]

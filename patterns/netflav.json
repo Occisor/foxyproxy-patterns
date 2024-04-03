@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflav",
+            "pattern": "*://*.netflav.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflav",
+            "pattern": "*://*.netflav1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netflav",
+            "pattern": "*://*.netflav5.com",
+            "active": true
+          }
+]

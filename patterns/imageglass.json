@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imageglass",
+            "pattern": "*://*.imageglass.org",
+            "active": true
+          }
+]

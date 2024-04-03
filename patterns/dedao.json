@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dedao",
+            "pattern": "*://*.biji.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dedao",
+            "pattern": "*://*.ddmogo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dedao",
+            "pattern": "*://*.igetget.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dedao",
+            "pattern": "*://*.igetget.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dedao",
+            "pattern": "*://*.luojilab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dedao",
+            "pattern": "*://*.mogoo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dedao",
+            "pattern": "*://*.sao.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dedao",
+            "pattern": "*://*.saolife.com",
+            "active": true
+          }
+]

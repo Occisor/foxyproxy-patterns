@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rfi",
+            "pattern": "*://*.rfi.fr",
+            "active": true
+          }
+]

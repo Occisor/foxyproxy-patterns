@@ -1,0 +1,282 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilicomic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilicomics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.acg.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.acgvideo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.animetamashi.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.animetamashi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.anitama.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.anitama.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.b23.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bigfun.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bigfunapp.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bili22.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bili2233.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bili23.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bili33.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.biliapi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.biliapi.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilibili.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilibili.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilibili.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilibili.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilibilipay.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilibilipay.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilicdn1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilicdn2.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilicdn3.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilicdn4.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilicdn5.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.biligo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.biliimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilivideo.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilivideo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.bilivideo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.dreamcast.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.hdslb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.hdslb.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.im9.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.maoercdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.mincdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bilibili",
+            "pattern": "*://*.yo9.com",
+            "active": true
+          }
+]

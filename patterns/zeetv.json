@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zeetv",
+            "pattern": "*://*.z5.app",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zeetv",
+            "pattern": "*://*.z5.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zeetv",
+            "pattern": "*://*.zee5.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zeetv",
+            "pattern": "*://*.zee5.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zeetv",
+            "pattern": "*://*.zee5.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zeetv",
+            "pattern": "*://*.zeebioskop.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zeetv",
+            "pattern": "*://*.zeetv.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zeetv",
+            "pattern": "*://*.zeetv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zeetv",
+            "pattern": "*://*.zeeuk.com",
+            "active": true
+          }
+]

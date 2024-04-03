@@ -1,0 +1,667 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bandag.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bandag.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.blizzak-juken.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bookmybridgestonetyre.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone-asiapacific.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone-bandag.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone-brand.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone-business-service.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone-korea.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone-plt-eng.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone-tac-oman.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestone.com.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestoneamericas.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonearena.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonecntc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonecomercial.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonecomercial.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonecomercial.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonecomercial.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonecomercial.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonecomercial.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonegolf.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonegz.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonela.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonemarketing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonemerchandise.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonenationalfleet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestoneperformance.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestoneperformancemedia.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonerapiddelivery.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonerewards.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonesyb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonetire.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonetire.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonetyre.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonevan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bridgestonewx.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bs-adreview.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bs-awh.ne.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bsw.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bsw.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.carcare-and-tireshop.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.daytontrucktires.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.ecoforme.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.gcrtires.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.jsbridgestone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.menshin-channel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.monitrix.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.mr-tireman.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.mybridgestoneeducation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.playz.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.potenza.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.prodrive-japan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.store-bridgestonesports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.thetread.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.tiresplus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.cfna.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.bastropfirestone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.crossfitfirestone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestone.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestone.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestone.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestone.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestone.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestone.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonebpco.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonecomercial.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonecomercial.co.cr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonecomercial.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonecomercial.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonecomercial.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonecomercial.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonecompleteautocare.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonedrivestore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestoneip.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonerewards.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonetire.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.firestonetire.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.hibdontire.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.wheelworks.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bridgestone",
+            "pattern": "*://*.nokiantyres.com",
+            "active": true
+          }
+]

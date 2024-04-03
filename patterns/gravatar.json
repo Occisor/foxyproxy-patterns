@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gravatar",
+            "pattern": "*://*.gravatar.com",
+            "active": true
+          }
+]

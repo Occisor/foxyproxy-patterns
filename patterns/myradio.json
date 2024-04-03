@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "myradio",
+            "pattern": "*://*.myradio.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "myradio",
+            "pattern": "*://*.myradio.com.hk",
+            "active": true
+          }
+]

@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcc",
+            "pattern": "*://*.qcc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "qcc",
+            "pattern": "*://*.qichacha.com",
+            "active": true
+          }
+]

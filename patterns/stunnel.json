@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "stunnel",
+            "pattern": "*://*.stunnel.org",
+            "active": true
+          }
+]

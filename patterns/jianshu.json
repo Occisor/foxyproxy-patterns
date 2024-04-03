@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jianshu",
+            "pattern": "*://*.jianshu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jianshu",
+            "pattern": "*://*.jianshu.io",
+            "active": true
+          }
+]

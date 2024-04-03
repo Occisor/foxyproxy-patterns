@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kkbox",
+            "pattern": "*://*.kfs.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kkbox",
+            "pattern": "*://*.kk.stream",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kkbox",
+            "pattern": "*://*.kkbox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kkbox",
+            "pattern": "*://*.kkbox.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kkbox",
+            "pattern": "*://*.kktix.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kkbox",
+            "pattern": "*://*.kktv.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kkbox",
+            "pattern": "*://*.kktv.me",
+            "active": true
+          }
+]

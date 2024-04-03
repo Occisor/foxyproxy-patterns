@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ntd",
+            "pattern": "*://*.ntd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ntd",
+            "pattern": "*://*.ntdtv.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "demonoid",
+            "pattern": "*://*.demonoid.is",
+            "active": true
+          }
+]

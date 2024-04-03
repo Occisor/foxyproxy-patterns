@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "skillshare",
+            "pattern": "*://*.skillshare.com",
+            "active": true
+          }
+]

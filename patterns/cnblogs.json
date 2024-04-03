@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnblogs",
+            "pattern": "*://*.blogjava.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnblogs",
+            "pattern": "*://*.cnblogs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnblogs",
+            "pattern": "*://*.cnitblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnblogs",
+            "pattern": "*://*.cnweblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnblogs",
+            "pattern": "*://*.cppblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnblogs",
+            "pattern": "*://*.phpweblog.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cnblogs",
+            "pattern": "*://*.teachblog.net",
+            "active": true
+          }
+]

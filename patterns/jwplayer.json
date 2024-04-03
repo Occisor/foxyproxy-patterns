@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jwplayer",
+            "pattern": "*://*.jwpcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jwplayer",
+            "pattern": "*://*.jwplatform.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jwplayer",
+            "pattern": "*://*.jwplayer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jwplayer",
+            "pattern": "*://*.jwpltx.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jwplayer",
+            "pattern": "*://*.jwpsrv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "jwplayer",
+            "pattern": "*://*.longtailvideo.com",
+            "active": true
+          }
+]

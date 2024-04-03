@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "piratebay",
+            "pattern": "*://*.pirates-forum.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "piratebay",
+            "pattern": "*://*.torrindex.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "piratebay",
+            "pattern": "*://*.thepiratebay.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "piratebay",
+            "pattern": "*://*.apibay.org",
+            "active": true
+          }
+]

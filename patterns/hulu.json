@@ -1,0 +1,331 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.112263.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.callhulu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.findyourlimits.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.freehulu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hooloo.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hoolu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hoolu.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hu1u.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huloo.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huloo.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulu.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulu.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulu.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluaction.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluasks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulucall.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulufree.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulugans.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulugermany.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulugo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluim.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluinstantmessenger.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluitaly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulunet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulunetwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluplus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulupremium.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulupurchase.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluqa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulurussia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluspain.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulusports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulustream.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluteam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.hulutv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.huluusa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.joinmaidez.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.mushymush.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.myhulu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.originalhulu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.payhulu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.registerhulu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.thehulubraintrust.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hulu",
+            "pattern": "*://*.wwwhuluplus.com",
+            "active": true
+          }
+]

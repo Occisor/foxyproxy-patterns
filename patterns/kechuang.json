@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kechuang",
+            "pattern": "*://*.kechuang.org",
+            "active": true
+          }
+]

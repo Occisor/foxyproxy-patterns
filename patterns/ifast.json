@@ -1,0 +1,93 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.fsmone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.fsmone.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.fsmone.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.fundsupermart.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.ifastcapital.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.ifastcorp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.ifastfinancial.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.ifastfinancial.co.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.ifastgb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.ifastgp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.ifastgp.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.ifastnetwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ifast",
+            "pattern": "*://*.ifasttv.com",
+            "active": true
+          }
+]

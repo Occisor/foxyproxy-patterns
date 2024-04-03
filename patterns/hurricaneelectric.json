@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hurricaneelectric",
+            "pattern": "*://*.he.net",
+            "active": true
+          }
+]

@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ecommerce",
+            "pattern": "*://*.axbdoll.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ecommerce",
+            "pattern": "*://*.i69.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ecommerce",
+            "pattern": "*://*.pornhubapparel.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ecommerce",
+            "pattern": "*://*.readmoo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-ecommerce",
+            "pattern": "*://*.redino.tw",
+            "active": true
+          }
+]

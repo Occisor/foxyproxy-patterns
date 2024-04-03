@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mingw",
+            "pattern": "*://*.mingw.org",
+            "active": true
+          }
+]

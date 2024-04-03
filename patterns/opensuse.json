@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "opensuse",
+            "pattern": "*://*.opensuse.org",
+            "active": true
+          }
+]

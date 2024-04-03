@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bestore",
+            "pattern": "*://*.517lppz.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bestore",
+            "pattern": "*://*.lppz.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bestore",
+            "pattern": "*://*.lppzimg.com",
+            "active": true
+          }
+]

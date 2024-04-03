@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "rpmfusion",
+            "pattern": "*://*.rpmfusion.org",
+            "active": true
+          }
+]

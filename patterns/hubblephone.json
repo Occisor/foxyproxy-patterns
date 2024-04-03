@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hubblephone",
+            "pattern": "*://*.hubblephone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "hubblephone",
+            "pattern": "*://*.tsi.ai",
+            "active": true
+          }
+]

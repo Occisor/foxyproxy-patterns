@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ptt",
+            "pattern": "*://*.ptt.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ptt",
+            "pattern": "*://*.ptt2.cc",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ptt",
+            "pattern": "*://*.ptt3.cc",
+            "active": true
+          }
+]

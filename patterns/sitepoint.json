@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sitepoint",
+            "pattern": "*://*.sitepoint.com",
+            "active": true
+          }
+]

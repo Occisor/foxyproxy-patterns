@@ -1,0 +1,184 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.126.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.126.link",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.126.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.127.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.127.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.163.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.163cn.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.163industry.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.163mail.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.163qiyukf.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.163yun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.166.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.166.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.haowu.link",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.icourse163.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.kaola.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.lofter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.nease.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.netease-inc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.netease.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.netease.im",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.qiyukf.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.ydstatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.yeah.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.youdao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "netease",
+            "pattern": "*://*.zhuanzfx.com",
+            "active": true
+          }
+]

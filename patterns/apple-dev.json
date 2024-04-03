@@ -1,0 +1,170 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.calendarserver.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.apple-cloudkit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.cups.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.developer.apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.devimages-cdn.apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.devstreaming-cdn.apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.foundationdb.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.macosforge.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.macruby.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.macruby.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.macruby.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.apple-mapkit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.playgrounds-cdn.apple.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.carekit.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.researchandcare.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.researchkit.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.researchkit.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.researchkit.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.researchkit.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.servicetalk.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.webkit.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.webkitgtk.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.wpewebkit.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "apple-dev",
+            "pattern": "*://*.webobjects.com",
+            "active": true
+          }
+]

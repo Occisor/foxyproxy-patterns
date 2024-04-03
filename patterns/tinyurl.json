@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tinyurl",
+            "pattern": "*://*.tinyurl.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "localpresshk",
+            "pattern": "*://*.localpresshk.com",
+            "active": true
+          }
+]

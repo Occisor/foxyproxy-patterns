@@ -1,0 +1,779 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.100classicbooks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.amiibo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.ayudanintendo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.bowsersinsidestory.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.excitebots.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.flipnotestudio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.gloryofheracles.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.hackyourconsole.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.kirbysuperstarultra.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.kirbysepicyarn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.miitomo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.miiverse.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nentindo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo-europe-sales.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo-europe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.com.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.com.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendo3ds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendodsi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendoeurope.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendonetwork.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendonyc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendostore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendoswitch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendoswitch.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendoswitchtogether.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.personaltrainermath.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.playnintendo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.thelegendarystarfy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.thewonderful101.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.wariolandshakeit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.wariowarediy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.yoshisnewisland.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.ac-pocketcamp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.diddykongracing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.dkr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.donkeykongcountryreturns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.fire-emblem-heroes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.fireemblemawakening.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.dialga.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.giratina.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.kyurem.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokedex3d.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemon-moon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemon-sun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemon-sunmoon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemon-unitepgame.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonbank.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonblackwhite.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonbw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonchampionships.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemongoldsilver.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonhome.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonletsgoeevee.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonletsgopikachu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonmysterydungeon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonpicross.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonplatinum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonrubysapphire.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonsunmoon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonswordshield.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonultrasunmoon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonvgc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.pokemonwifi.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.splatoon2tournament.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.starfox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.drmario-world.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.marioandluigidreamteam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.mariobroswii.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.mariokart7.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.mariokart8.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.mariosupersluggers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.newsupermariobrosu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.supermario.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.supermario3dworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.supermariogalaxy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.supermariorun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.superpapermario.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.nintendowii.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.wii-u.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.wiifit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.wiifitu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.wiipartyu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.wiisports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.wiisportsresort.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.wiiugamepad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.wiivc.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nintendo",
+            "pattern": "*://*.xenoblade.com",
+            "active": true
+          }
+]

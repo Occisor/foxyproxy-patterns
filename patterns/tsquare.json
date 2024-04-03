@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tsquare",
+            "pattern": "*://*.tsquare.tv",
+            "active": true
+          }
+]

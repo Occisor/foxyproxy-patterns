@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "git",
+            "pattern": "*://*.git-scm.com",
+            "active": true
+          }
+]

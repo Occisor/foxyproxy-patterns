@@ -1,0 +1,681 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cisco",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.academynetriders.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cciernslabs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cciesecuritylabs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ccievoicelabs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ccna5.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cisco-returns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cisco-warrantyfinder.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cisco.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cisco.mobi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscoccservice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscoconnectcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscoconnectcloud.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscoconnectcloud.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscocontest.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscoerate.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscofax.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscoinvestments.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscojabbervideo.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscokinetic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscoknowledgenetwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscolearningsociety.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscolearningsystem.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscolive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cisconetspace.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cisconetspace.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cisconetspace.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cisconetapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscopartnermarketing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscopowercube.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscoprice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscoresearch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscosoftware.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscospark.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscospark.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscospark.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscotaccc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscotr.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscoturk.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscovideo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ciscowebseminars.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cloudlock.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cloupia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cloupia.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.connect-in-canada.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.coreoptics.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.cs.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.devm2m.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.dnaspaces.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.flipshare.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.gpstheseries.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.inlethd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.internetofeverything.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.ioe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.kscisco.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.m2m.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.mcisco.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.mediafiles-cisco.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.metacloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.mindmeld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.multiplydiversity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.myciscobenefits.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.mysdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.mysdn.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.mysdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.netacad.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.netacad.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.observable.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.obsrvbl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.parstream.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.parstream.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.parstream.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.services-exchange.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.static-cisco.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.tandberg-china.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.tandberg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.versly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.videochampion.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.virtuata.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.wballiance.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.whyiwantciscotelepresence.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.wifi-mx.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.youtubecisco.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.app-dynamics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.appdynamics.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.appdynamics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.appdynamics.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.appdynamics.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.appdynamics.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.appdynamics.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.appdynamics.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.mearki.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.meraki-go.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.meraki.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.merakigo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.tail-f.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cisco",
+            "pattern": "*://*.tailf.com",
+            "active": true
+          }
+]

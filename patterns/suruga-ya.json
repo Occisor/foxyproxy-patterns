@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "suruga-ya",
+            "pattern": "*://*.suruga-ya.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "suruga-ya",
+            "pattern": "*://*.suruga-ya.jp",
+            "active": true
+          }
+]

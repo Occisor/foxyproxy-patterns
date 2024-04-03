@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pagecdn",
+            "pattern": "*://*.pagecdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "pagecdn",
+            "pattern": "*://*.pagecdn.io",
+            "active": true
+          }
+]

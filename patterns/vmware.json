@@ -1,0 +1,716 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.cfblob.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.cloudchoose.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.cloudvolumes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.cmpaas.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.cpedge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.crit-staging.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.experience-vmware.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.gemfire.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.geodesummit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.getboxer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.gitstar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.gitstar.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.gopivotal.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.greenplum.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.hwslabs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.immidio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.itfromtheinside.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.latamvmwareforum.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.pivotalinitiative.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.snapvolumes.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.ssdevrd.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vcanedge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vcloudair.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vfabric.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vidmpreview.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.virsto.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.virsto.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmglobal.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmmark.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmtestdrive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmware-cloudmanagement.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmware-techcenter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmware.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmware20mosaic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwareausnews.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwarecertificationvideos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwarecloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwaredemandcenter.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwareemeablog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwaregrid.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwarehorizon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwareidentity.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwarelearning.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwarelearningplatform.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwarestuff.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwareusergroupstore.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwareviewpoint.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwarevmc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwdemo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwgcomms.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwhorizonair.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwidm-ads.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwidm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwlabconnect.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwlearningplatform.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmworld2010.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmworld2013.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwsalesrewards.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vmwservices.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vnware.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.whychoosehorizon.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.whychooseview.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.whychoosevmwareeuc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.windowsuem.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.workspaceair.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.xlstudio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.avinetworks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.badaas.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.bitnami.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.bitnamiapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.bitnamistudio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.dockerizer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.cloudcredibility.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.cloudhealthtech.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.cloudlive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.kubeacademy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.kubeapps.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.nyansa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.velocloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.gopivotal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.heptio.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.aliveipc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.aliveitsm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.aliveprofiler.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.alivercm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.aliverewind.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.alivertsm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.alivevm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.alivevmax.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.alivevue.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vsphere.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.vsphere.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.air-watch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.airwatchexpress.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.airwatchqa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.getws1.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.getwsone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.whatisairwatch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.whatisworkspaceone.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vmware",
+            "pattern": "*://*.workspaceone.com",
+            "active": true
+          }
+]

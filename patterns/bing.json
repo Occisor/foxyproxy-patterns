@@ -1,0 +1,191 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bing",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bing.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bing.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bing123.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bingads.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bingagencyawards.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bingapis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bingapistatistics.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bingparachute.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bingsandbox.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bingvisualsearch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bingworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.bluehatnights.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.dictate.ms",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.flipwithsurface.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.masalladeloslimites.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.microsoft-give.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.microsoftcloudsummit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.microsoftdiplomados.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.microsoftlatamholiday.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.microsoftmxfilantropia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.microsoftpartnersolutions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.msunlimitedcloudsummit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.office365love.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.office365tw.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.renovacionoffice.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bing",
+            "pattern": "*://*.sprinklesapp.com",
+            "active": true
+          }
+]

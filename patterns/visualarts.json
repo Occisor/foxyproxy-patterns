@@ -1,0 +1,100 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.abow.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.angelbeats.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.anigema.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.charlotte-anime.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.clannad-movie.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.heaven-burns-red.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.kamisama-day.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.kamisama-maeda-lab.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.koubaibu.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.litbus-anime.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.product.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.rewrite-anime.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.visualarts.gr.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "visualarts",
+            "pattern": "*://*.visual-arts.jp",
+            "active": true
+          }
+]

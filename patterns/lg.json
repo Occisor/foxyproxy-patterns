@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lg",
+            "pattern": "*://*.lg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lg",
+            "pattern": "*://*.lgappstv.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lg",
+            "pattern": "*://*.lge.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lg",
+            "pattern": "*://*.lge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lg",
+            "pattern": "*://*.lgecareers.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lg",
+            "pattern": "*://*.lghvac.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lg",
+            "pattern": "*://*.lghvacstory.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lg",
+            "pattern": "*://*.lgrecyclingprogram.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lg",
+            "pattern": "*://*.lgsalesportal.com",
+            "active": true
+          }
+]

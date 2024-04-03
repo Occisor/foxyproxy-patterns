@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lkcoffee",
+            "pattern": "*://*.lkcoffee.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lkcoffee",
+            "pattern": "*://*.luckincoffeecdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "lkcoffee",
+            "pattern": "*://*.yyds.co",
+            "active": true
+          }
+]

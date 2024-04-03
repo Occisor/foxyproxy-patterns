@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cygwin",
+            "pattern": "*://*.cygwin.com",
+            "active": true
+          }
+]

@@ -1,0 +1,86 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.ibm",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.weatherchannel",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.weather",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.appdomain.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.bluemix.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.bluemix.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.ibm.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.ibm.eu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.ibm.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.ibm.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.s-bluemix.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ibm",
+            "pattern": "*://*.s81c.com",
+            "active": true
+          }
+]

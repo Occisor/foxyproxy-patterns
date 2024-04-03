@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zaobao",
+            "pattern": "*://*.zaobao.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zaobao",
+            "pattern": "*://*.zaobao.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "zaobao",
+            "pattern": "*://*.zaobao.sg",
+            "active": true
+          }
+]

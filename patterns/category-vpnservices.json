@@ -1,0 +1,156 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.aaex.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.amytele.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.ark.to",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.baicaonetwork.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.bighead.group",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.blinkload.zone",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.cloudn.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.conair.me",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.cordcloud.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.ctyun.online",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.geph.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.gfw.press",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.maying.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.mocloudplus.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.mray.club",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.mudfish.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.muncloud.dog",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.renzhe.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.ssplive.pw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.ssrpass.pw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.stc-server.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-vpnservices",
+            "pattern": "*://*.hutao.cloud",
+            "active": true
+          }
+]

@@ -1,0 +1,415 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.dewitwithdurex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.dotherex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex-shop.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex-shopline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex-slovenia.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.bd",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.ng",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.lv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durex.us",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durexcam.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durexcanada.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durexchina.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durexindia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durexloveclub.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durexukraine.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.durexusa.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.lovesexdurex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.playbydurex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.shopdurex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.trydurex.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "durex",
+            "pattern": "*://*.trydurex.tv",
+            "active": true
+          }
+]

@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imperialcollege",
+            "pattern": "*://*.ic.ac.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imperialcollege",
+            "pattern": "*://*.imperial.ac.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "imperialcollege",
+            "pattern": "*://*.imperialbusiness.school",
+            "active": true
+          }
+]

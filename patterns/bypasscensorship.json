@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bypasscensorship",
+            "pattern": "*://*.bypasscensorship.org",
+            "active": true
+          }
+]

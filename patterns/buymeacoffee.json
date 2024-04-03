@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "buymeacoffee",
+            "pattern": "*://*.buymeacoff.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "buymeacoffee",
+            "pattern": "*://*.buymeacoffee.com",
+            "active": true
+          }
+]

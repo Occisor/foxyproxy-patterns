@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "walmart",
+            "pattern": "*://*.walmart",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "walmart",
+            "pattern": "*://*.w-mt.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "walmart",
+            "pattern": "*://*.wal-mart.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "walmart",
+            "pattern": "*://*.wal.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "walmart",
+            "pattern": "*://*.walmart-content.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "walmart",
+            "pattern": "*://*.walmart.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "walmart",
+            "pattern": "*://*.walmart.pharmacy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "walmart",
+            "pattern": "*://*.walmartimages.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "walmart",
+            "pattern": "*://*.wmt.co",
+            "active": true
+          }
+]

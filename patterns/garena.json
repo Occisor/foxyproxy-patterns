@@ -1,0 +1,86 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garena.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garena.co.th",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garena.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garena.live",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garena.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garena.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garena.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garena.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garena.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garena.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.garenanow.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "garena",
+            "pattern": "*://*.seagroup.com",
+            "active": true
+          }
+]

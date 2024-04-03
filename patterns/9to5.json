@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "9to5",
+            "pattern": "*://*.9to5google.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "9to5",
+            "pattern": "*://*.9to5mac.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "9to5",
+            "pattern": "*://*.9to5terminal.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "9to5",
+            "pattern": "*://*.9to5toys.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "9to5",
+            "pattern": "*://*.dronedj.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "9to5",
+            "pattern": "*://*.electrek.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "9to5",
+            "pattern": "*://*.spaceexplored.com",
+            "active": true
+          }
+]

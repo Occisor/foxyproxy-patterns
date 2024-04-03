@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "watchout",
+            "pattern": "*://*.watchout.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "watchout",
+            "pattern": "*://*.waa.tw",
+            "active": true
+          }
+]

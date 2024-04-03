@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sling",
+            "pattern": "*://*.dishworld.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sling",
+            "pattern": "*://*.slinginternational.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sling",
+            "pattern": "*://*.sling.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sling",
+            "pattern": "*://*.movenetworks.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sling",
+            "pattern": "*://*.movetv.com",
+            "active": true
+          }
+]

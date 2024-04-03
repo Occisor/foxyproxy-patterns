@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazontrust",
+            "pattern": "*://*.amazontrust.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazontrust",
+            "pattern": "*://*.awstrust.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "amazontrust",
+            "pattern": "*://*.ss2.us",
+            "active": true
+          }
+]

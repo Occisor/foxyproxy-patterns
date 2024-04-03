@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "coursera",
+            "pattern": "*://*.coursera-for-business.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "coursera",
+            "pattern": "*://*.coursera.community",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "coursera",
+            "pattern": "*://*.coursera.help",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "coursera",
+            "pattern": "*://*.coursera.org",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vultr",
+            "pattern": "*://*.vultr.com",
+            "active": true
+          }
+]

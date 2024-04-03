@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "esri",
+            "pattern": "*://*.arcgis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "esri",
+            "pattern": "*://*.arcgisonline.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "esri",
+            "pattern": "*://*.esri.com",
+            "active": true
+          }
+]

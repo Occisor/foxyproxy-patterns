@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitsquare",
+            "pattern": "*://*.bisq.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitsquare",
+            "pattern": "*://*.bisq.network",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitsquare",
+            "pattern": "*://*.bitsquare.io",
+            "active": true
+          }
+]

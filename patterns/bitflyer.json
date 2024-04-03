@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitflyer",
+            "pattern": "*://*.bitflyer.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bitflyer",
+            "pattern": "*://*.bitflyer.jp",
+            "active": true
+          }
+]

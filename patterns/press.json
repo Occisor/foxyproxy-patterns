@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "press",
+            "pattern": "*://*.press.vin",
+            "active": true
+          }
+]

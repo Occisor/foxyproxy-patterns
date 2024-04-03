@@ -1,0 +1,51 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sb",
+            "pattern": "*://*.dns.sb",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sb",
+            "pattern": "*://*.ip.sb",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sb",
+            "pattern": "*://*.loli.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sb",
+            "pattern": "*://*.sb.sb",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sb",
+            "pattern": "*://*.sm.ms",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sb",
+            "pattern": "*://*.u.nu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "sb",
+            "pattern": "*://*.www.sb",
+            "active": true
+          }
+]

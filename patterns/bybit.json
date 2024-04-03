@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bybit",
+            "pattern": "*://*.bybit.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bybit",
+            "pattern": "*://*.bycsi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bybit",
+            "pattern": "*://*.bytick.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bybit",
+            "pattern": "*://*.byapis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bybit",
+            "pattern": "*://*.bycbe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bybit",
+            "pattern": "*://*.bymj.io",
+            "active": true
+          }
+]

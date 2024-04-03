@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "fanhaodian",
+            "pattern": "*://*.fanhaodian.com",
+            "active": true
+          }
+]

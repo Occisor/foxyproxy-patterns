@@ -1,0 +1,233 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.loveminiso.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso-au.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso-bh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso-np.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso-nz.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.by",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.co.tz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.com.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.com.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.com.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.com.pl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.com.py",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.ge",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.ma",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.pk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.ua",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.miniso.uz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.minisoindia.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.minisojordan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.minisokorea.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.minisolife.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.minisothailand.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.minisovietam.vn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "miniso",
+            "pattern": "*://*.myminiso.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "bittrex",
+            "pattern": "*://*.bittrex.com",
+            "active": true
+          }
+]

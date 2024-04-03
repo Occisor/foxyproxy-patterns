@@ -1,0 +1,65 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kyodonews",
+            "pattern": "*://*.47gyosei.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kyodonews",
+            "pattern": "*://*.47news.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kyodonews",
+            "pattern": "*://*.kyodo-d.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kyodonews",
+            "pattern": "*://*.kyodo-d.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kyodonews",
+            "pattern": "*://*.kyodoimages.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kyodonews",
+            "pattern": "*://*.kyodonews.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kyodonews",
+            "pattern": "*://*.kyodonews.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kyodonews",
+            "pattern": "*://*.newsmart.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "kyodonews",
+            "pattern": "*://*.nna.jp",
+            "active": true
+          }
+]

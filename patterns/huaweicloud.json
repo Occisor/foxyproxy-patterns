@@ -1,0 +1,1416 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.ami-alliance.org.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.b2bgo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.eduapaashwc.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hc-cdn.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hc-cdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hc-sre.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweiapaas.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweiapaas.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloud-dns.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloud-dns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloud-smn.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloud-smn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloud-smn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloud.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloudapis.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloudapis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloudlive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloudsite.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloudsite.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloudwaf.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweicloudwaf.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweioneaccess.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweioneaccess.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweimarketplace.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweisafedns.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweisafedns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweisafehub.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweisre.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweisre.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweiyun.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.huaweiyun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwastro.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwastro.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwcdnsre.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwcdnsre.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwclouds-dns.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwclouds-dns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwclouds-dns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwclouds.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwclouds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwclouds.mobi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwclouds.org.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwcloudsite.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwcloudsite.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwcloudvis.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hwcloudvis.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.imc-oneaccess.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.imcapptest.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.km6g.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.km7g.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.km8g.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.km9g.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.kmcb-cn-east-3.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.kmcb-cn-north-4.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.kmop-cn-east-3.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.kmop-cn-north-4.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.livehwc3.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.myhuaweicloud.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.myhwcdn.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.myhwcdn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.myhwcloudlive.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.myhwclouds.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.myhwclouds.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.myhwclouds.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.myhwclouds.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.pagescube.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.pagescube.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.powerapp.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwchcg02.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcurq03.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwczba04.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwclxw05.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcupf06.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcxcy07.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcatq08.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcztu09.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcedi10.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcoem01.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcllh11.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcjog12.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcpsd13.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcqwg14.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcqir15.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcvix16.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcajk17.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcchh18.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcohm19.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwczjt20.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcggk22.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwczth23.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwctxz24.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcgrb01.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcyxb02.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcywp03.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwclkl04.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcjbj05.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwconz06.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcgqa21.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwckbw08.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcsjs09.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcjkl10.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwctmz11.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcrpp12.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcpqh13.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcxsi14.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcfzp15.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcgvs16.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcrgg07.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwceft18.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwccvo19.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcbvo20.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcdkd21.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcdvg22.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwclnh23.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwckfd24.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwczxh101.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcbzj102.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcjqv17.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcljk104.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwclxu105.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcbqs106.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwctnm107.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcbni108.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwczks109.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcick110.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcead111.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcjlg112.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwckon103.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwczmn114.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcqgw115.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwckfz116.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcqve117.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcgnc118.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcuim119.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcjsb120.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwccmz121.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcibv122.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcprh113.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcedt124.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcofl101.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwclrd102.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcurr103.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwczid104.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcqvk105.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwczoy106.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcuwd107.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcogx108.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcoph123.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwceod109.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcpcw110.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwczic111.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcozb112.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcqrr114.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcaoc115.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwctyd116.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcidu117.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwclsl119.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcsux118.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcbie120.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcuxc121.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcaip122.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcwqz113.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcojn124.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cdnhwcscc123.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.o7mu8.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.59bob.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.tc3bl.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.hiu58.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.kfomn.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.azkr2.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.vm45e.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.buf35.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.uwtmy.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.fpxyo.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.tm2a8.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.r8zc9.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.6ts7c.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.2gkjr.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.ns95c.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.tm7sg.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.le5vb.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.y43f6.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.8n82b.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.x9exk.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.ms2tg.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.ka9bv.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.acgab.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.mle5p.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.26r9y.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.9coof.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.tzygd.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.z95rr.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.3ili6.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.vo6z2.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.lu1da.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.ivwi3.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.7k2k1.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.cza84.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.8gcdp.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.kma1g.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "huaweicloud",
+            "pattern": "*://*.576nt.cn",
+            "active": true
+          }
+]

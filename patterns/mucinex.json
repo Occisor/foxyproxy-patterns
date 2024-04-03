@@ -1,0 +1,58 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mucinex",
+            "pattern": "*://*.mucinex.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mucinex",
+            "pattern": "*://*.mucinex.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mucinex",
+            "pattern": "*://*.mucinex.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mucinex",
+            "pattern": "*://*.mucinex.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mucinex",
+            "pattern": "*://*.mucinex.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mucinex",
+            "pattern": "*://*.mucinex.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mucinex",
+            "pattern": "*://*.mucinex.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mucinex",
+            "pattern": "*://*.mucinexprofessional.com",
+            "active": true
+          }
+]

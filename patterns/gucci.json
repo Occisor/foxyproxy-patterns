@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gucci",
+            "pattern": "*://*.gucci",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gucci",
+            "pattern": "*://*.chimeforchange.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gucci",
+            "pattern": "*://*.gucci.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gucci",
+            "pattern": "*://*.guccimuseo.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gucci",
+            "pattern": "*://*.guccitimeless.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gucci",
+            "pattern": "*://*.regiongold.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "threads",
+            "pattern": "*://*.threads.net",
+            "active": true
+          }
+]

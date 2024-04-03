@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uc",
+            "pattern": "*://*.uc.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "uc",
+            "pattern": "*://*.ucweb.com",
+            "active": true
+          }
+]

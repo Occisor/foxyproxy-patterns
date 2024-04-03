@@ -1,0 +1,44 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "familymart",
+            "pattern": "*://*.famifun.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "familymart",
+            "pattern": "*://*.family.co.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "familymart",
+            "pattern": "*://*.family.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "familymart",
+            "pattern": "*://*.familymart.com.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "familymart",
+            "pattern": "*://*.familymart.com.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "familymart",
+            "pattern": "*://*.famima.vn",
+            "active": true
+          }
+]

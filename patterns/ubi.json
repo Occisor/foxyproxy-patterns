@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubi",
+            "pattern": "*://*.ubi.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubi",
+            "pattern": "*://*.ubisoft.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ubi",
+            "pattern": "*://*.uplay.com",
+            "active": true
+          }
+]

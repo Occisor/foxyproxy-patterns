@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "firebase",
+            "pattern": "*://*.firebase.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "firebase",
+            "pattern": "*://*.firebase.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "firebase",
+            "pattern": "*://*.firebaseapp.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "firebase",
+            "pattern": "*://*.firebaseio.com",
+            "active": true
+          }
+]

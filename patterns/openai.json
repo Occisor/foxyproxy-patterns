@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openai",
+            "pattern": "*://*.chatgpt.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openai",
+            "pattern": "*://*.oaistatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openai",
+            "pattern": "*://*.oaiusercontent.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "openai",
+            "pattern": "*://*.openai.com",
+            "active": true
+          }
+]

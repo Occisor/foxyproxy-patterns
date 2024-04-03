@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meizu",
+            "pattern": "*://*.flyme.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meizu",
+            "pattern": "*://*.meizu.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meizu",
+            "pattern": "*://*.meizu.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "meizu",
+            "pattern": "*://*.mzres.com",
+            "active": true
+          }
+]

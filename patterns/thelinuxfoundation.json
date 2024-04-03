@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thelinuxfoundation",
+            "pattern": "*://*.lfai.foundation",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "thelinuxfoundation",
+            "pattern": "*://*.linuxfoundation.org",
+            "active": true
+          }
+]

@@ -1,0 +1,527 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogger.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogblog.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.ae",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.al",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.am",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.ba",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.be",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.bg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.bj",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.cf",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.ch",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.cl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.co.at",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.co.id",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.co.il",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.co.ke",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.co.nz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.co.uk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.co.za",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.ar",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.au",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.br",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.by",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.co",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.cy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.ee",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.eg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.es",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.mt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.ng",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.tr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.com.uy",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.cv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.cz",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.de",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.dk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.fi",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.fr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.gr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.hk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.hr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.hu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.ie",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.in",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.is",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.it",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.li",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.lt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.lu",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.md",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.mk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.mx",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.my",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.nl",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.no",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.pe",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.pt",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.qa",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.re",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.ro",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.rs",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.se",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.sg",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.si",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.sk",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.sn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.td",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.ug",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "blogspot",
+            "pattern": "*://*.blogspot.vn",
+            "active": true
+          }
+]

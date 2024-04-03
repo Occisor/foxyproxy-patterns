@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cambridge",
+            "pattern": "*://*.cambridge.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cambridge",
+            "pattern": "*://*.cambridgeschoolshakespeare.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cambridge",
+            "pattern": "*://*.cambridgedigital.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cambridge",
+            "pattern": "*://*.cambridgemaths.org",
+            "active": true
+          }
+]

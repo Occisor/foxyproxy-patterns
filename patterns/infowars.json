@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "infowars",
+            "pattern": "*://*.banned.video",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "infowars",
+            "pattern": "*://*.infowars.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "infowars",
+            "pattern": "*://*.infowarsmedia.com",
+            "active": true
+          }
+]

@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "divar",
+            "pattern": "*://*.divar.cloud",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "divar",
+            "pattern": "*://*.divar.ir",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "divar",
+            "pattern": "*://*.divarcdn.com",
+            "active": true
+          }
+]

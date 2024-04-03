@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ooni",
+            "pattern": "*://*.ooni.org",
+            "active": true
+          }
+]

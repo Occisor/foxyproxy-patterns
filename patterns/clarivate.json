@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "clarivate",
+            "pattern": "*://*.clarivate.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "clarivate",
+            "pattern": "*://*.webofknowledge.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "clarivate",
+            "pattern": "*://*.webofscience.com",
+            "active": true
+          }
+]

@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mailru",
+            "pattern": "*://*.imgsmail.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mailru",
+            "pattern": "*://*.mail.ru",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "mailru",
+            "pattern": "*://*.mycdn.me",
+            "active": true
+          }
+]

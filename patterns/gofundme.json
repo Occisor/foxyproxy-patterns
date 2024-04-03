@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "gofundme",
+            "pattern": "*://*.gofundme.com",
+            "active": true
+          }
+]

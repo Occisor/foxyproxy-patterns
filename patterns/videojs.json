@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "videojs",
+            "pattern": "*://*.videojs.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cup",
+            "pattern": "*://*.cup.com.hk",
+            "active": true
+          }
+]

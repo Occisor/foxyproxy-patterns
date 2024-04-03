@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xart",
+            "pattern": "*://*.x-art.com",
+            "active": true
+          }
+]

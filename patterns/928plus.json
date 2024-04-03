@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "928plus",
+            "pattern": "*://*.928.plus",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "928plus",
+            "pattern": "*://*.zind.cloud",
+            "active": true
+          }
+]

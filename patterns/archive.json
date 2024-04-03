@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "archive",
+            "pattern": "*://*.archive-it.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "archive",
+            "pattern": "*://*.archive.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "archive",
+            "pattern": "*://*.archive.ph",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "archive",
+            "pattern": "*://*.archive.today",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "archive",
+            "pattern": "*://*.openlibrary.org",
+            "active": true
+          }
+]

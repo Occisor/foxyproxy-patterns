@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "cython",
+            "pattern": "*://*.cython.org",
+            "active": true
+          }
+]

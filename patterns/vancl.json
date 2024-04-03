@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vancl",
+            "pattern": "*://*.vancl.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vancl",
+            "pattern": "*://*.vanclimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "vancl",
+            "pattern": "*://*.vcimg.com",
+            "active": true
+          }
+]

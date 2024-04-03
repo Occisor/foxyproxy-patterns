@@ -1,0 +1,30 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tendcloud",
+            "pattern": "*://*.tendcloud.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tendcloud",
+            "pattern": "*://*.talkingdata.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tendcloud",
+            "pattern": "*://*.talkinggame.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "tendcloud",
+            "pattern": "*://*.cpatrk.net",
+            "active": true
+          }
+]

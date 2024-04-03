@@ -1,0 +1,254 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.stcn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.caijing.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.hexun.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.cnfol.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.cnfolimg.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.zqrb.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.nbd.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.cnstock.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.21jingji.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.yicai.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.cs.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.ssajax.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.ssimg.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.stockstar.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.jrj.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.jrjimg.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.cls.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.cailianpress.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.wallstreetcn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.jianyuweb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.wallstcn.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.10jqka.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.thsi.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.ths123.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.dzh.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.gw.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.yundzh.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.caixin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.news.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.xinhuanet.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.people.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.people.com.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.expreview.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.anzhuo.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.idcquan.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "category-media-cn",
+            "pattern": "*://*.admin5.com",
+            "active": true
+          }
+]

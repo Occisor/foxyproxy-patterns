@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "dmzj",
+            "pattern": "*://*.dmzj.com",
+            "active": true
+          }
+]

@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "target",
+            "pattern": "*://*.target",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "target",
+            "pattern": "*://*.target.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "target",
+            "pattern": "*://*.targetimg1.com",
+            "active": true
+          }
+]

@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "nat-test",
+            "pattern": "*://*.nattest-china.com",
+            "active": true
+          }
+]

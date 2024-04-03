@@ -1,0 +1,37 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oreilly",
+            "pattern": "*://*.oreil.ly",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oreilly",
+            "pattern": "*://*.oreilly.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oreilly",
+            "pattern": "*://*.oreilly.review",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oreilly",
+            "pattern": "*://*.oreillystatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "oreilly",
+            "pattern": "*://*.orl.ly",
+            "active": true
+          }
+]

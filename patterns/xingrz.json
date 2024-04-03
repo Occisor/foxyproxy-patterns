@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "xingrz",
+            "pattern": "*://*.xingrz.me",
+            "active": true
+          }
+]

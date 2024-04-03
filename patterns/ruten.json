@@ -1,0 +1,16 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ruten",
+            "pattern": "*://*.rimg.com.tw",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "ruten",
+            "pattern": "*://*.ruten.com.tw",
+            "active": true
+          }
+]

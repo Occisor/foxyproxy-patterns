@@ -1,0 +1,366 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure-devices-int.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure-devices.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure-mobile.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure-sphere.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure-test.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azurecomcdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azurecomm.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azurecontainer.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azurecosmos.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azurecosmosdb.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azurecosmosdb.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azurecosmosdb.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azuredatabricks.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azuredevopslaunch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azuredigitaltwin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azuredigitaltwins.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azuredigitaltwins.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azuredns-prd.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azuredns-prd.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azureedge-test.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azureedge.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azurefd.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azureiotcentral.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azureiotsolutions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azureiotsuite.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azureplanetscale.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azureplanetscale.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azureserviceprofiler.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azuresmartspaces.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azurestackvalidation.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azurewebsites.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.cosmosdb.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.cosmosdb.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.devopsms.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.gotcosmos.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.management-azure-devices-int.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.management-azure-devices.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.microsoftazuresponsorships.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.microsofteca.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.microsoftiotcentral.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.msn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.serverlesslibrary.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.trafficmanager.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.tryfunctions.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.windowsazure.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure-dns.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure-dns.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure-dns.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "azure",
+            "pattern": "*://*.azure-dns.org",
+            "active": true
+          }
+]

@@ -1,0 +1,359 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.historyofdota.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.historyofdota.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.historyofdota.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.instituteofwar.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.molesports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.rgpub.io",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riot-games.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riot.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riot.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riotcdn.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riotgames.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riotgames.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riotgames.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riotgames.jp",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riotgames.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riotgames.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riotpin.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riotpoints.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.rstatic.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.supremacy.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.supremacy.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.championshipseriesleague.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.lcsmerch.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leaguehighschool.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leagueoflegends.ca",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leagueoflegends.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leagueoflegends.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leagueoflegends.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leagueoflegends.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leagueoflegends.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leagueoflegends.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leagueoflegendsscripts.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leaguesharp.info",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.leaguoflegends.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.learnwithleague.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.lol-europe.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.lolclub.org",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.lolespor.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.lolesports.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.lolfanart.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.lolpcs.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.lolshop.co.kr",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.lolstatic.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.lolusercontent.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.pvp.net",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.pvp.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.ulol.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.playvalorant.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.riotforgegames.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.ruinedking.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "riot",
+            "pattern": "*://*.convrgencegame.com",
+            "active": true
+          }
+]

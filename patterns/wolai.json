@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wolai",
+            "pattern": "*://*.wolai.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wolai",
+            "pattern": "*://*.wol.tv",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "wolai",
+            "pattern": "*://*.wostatic.cn",
+            "active": true
+          }
+]
