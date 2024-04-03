@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "naver",
-            "pattern": "*://*.grafolio.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "naver",
+    "pattern": "*://*.grafolio.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "naver",
-            "pattern": "*://*.naver.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "naver",
+    "pattern": "*://*.naver.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "naver",
-            "pattern": "*://*.naver.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "naver",
+    "pattern": "*://*.naver.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "naver",
-            "pattern": "*://*.naver.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "naver",
+    "pattern": "*://*.naver.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "naver",
-            "pattern": "*://*.navercorp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "naver",
+    "pattern": "*://*.navercorp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "naver",
-            "pattern": "*://*.plug.game",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "naver",
+    "pattern": "*://*.plug.game",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "naver",
-            "pattern": "*://*.pstatic.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "naver",
+    "pattern": "*://*.pstatic.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "naver",
-            "pattern": "*://*.webtoons.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "naver",
+    "pattern": "*://*.webtoons.com",
+    "active": true
+  }
 ]

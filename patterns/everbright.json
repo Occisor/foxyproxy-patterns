@@ -1,107 +1,107 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.cebbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.cebbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.ceblease.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.ceblease.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.eb-ind.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.eb-ind.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.ebasset.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.ebasset.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.ebchina.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.ebchina.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.ebchinaintl.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.ebchinaintl.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.ebf.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.ebf.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.ebfcn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.ebfcn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.ebfortune.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.ebfortune.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.ebtrust.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.ebtrust.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.ebscn-am.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.ebscn-am.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.ebscn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.ebscn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.everbright.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.everbright.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.secec.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.secec.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "everbright",
-            "pattern": "*://*.sunlife-everbright.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "everbright",
+    "pattern": "*://*.sunlife-everbright.com",
+    "active": true
+  }
 ]

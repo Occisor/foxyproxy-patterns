@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "op",
-            "pattern": "*://*.op.gg",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "op",
+    "pattern": "*://*.op.gg",
+    "active": true
+  }
 ]

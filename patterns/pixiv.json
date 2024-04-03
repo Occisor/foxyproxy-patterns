@@ -1,51 +1,51 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pixiv",
-            "pattern": "*://*.booth.pm",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pixiv",
+    "pattern": "*://*.booth.pm",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pixiv",
-            "pattern": "*://*.fanbox.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pixiv",
+    "pattern": "*://*.fanbox.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pixiv",
-            "pattern": "*://*.pixiv.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pixiv",
+    "pattern": "*://*.pixiv.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pixiv",
-            "pattern": "*://*.pixiv.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pixiv",
+    "pattern": "*://*.pixiv.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pixiv",
-            "pattern": "*://*.pixiv.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pixiv",
+    "pattern": "*://*.pixiv.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pixiv",
-            "pattern": "*://*.pixiv.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pixiv",
+    "pattern": "*://*.pixiv.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pixiv",
-            "pattern": "*://*.pximg.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "pixiv",
+    "pattern": "*://*.pximg.net",
+    "active": true
+  }
 ]

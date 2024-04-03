@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "asahi",
-            "pattern": "*://*.aiasahi.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "asahi",
+    "pattern": "*://*.aiasahi.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "asahi",
-            "pattern": "*://*.asagaku.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "asahi",
+    "pattern": "*://*.asagaku.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "asahi",
-            "pattern": "*://*.asahi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "asahi",
+    "pattern": "*://*.asahi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "asahi",
-            "pattern": "*://*.asahicom.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "asahi",
+    "pattern": "*://*.asahicom.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "asahi",
-            "pattern": "*://*.asakonet.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "asahi",
+    "pattern": "*://*.asakonet.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "asahi",
-            "pattern": "*://*.nikkansports.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "asahi",
+    "pattern": "*://*.nikkansports.com",
+    "active": true
+  }
 ]

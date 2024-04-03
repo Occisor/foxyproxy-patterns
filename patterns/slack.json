@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slack-core.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slack-core.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slack-edge.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slack-edge.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slack-files.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slack-files.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slack-imgs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slack-imgs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slack-msgs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slack-msgs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slack-redir.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slack-redir.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slack.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slack.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slackb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slackb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slackcertified.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slackcertified.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slackdemo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slackdemo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "slack",
-            "pattern": "*://*.slackhq.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "slack",
+    "pattern": "*://*.slackhq.com",
+    "active": true
+  }
 ]

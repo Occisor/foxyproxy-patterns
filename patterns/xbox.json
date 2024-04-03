@@ -1,191 +1,191 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xbox",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xbox",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.forzamotorsport.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.forzamotorsport.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.forzaracingchampionship.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.forzaracingchampionship.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.forzarc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.forzarc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.gamepass.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.gamepass.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.orithegame.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.orithegame.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.renovacionxboxlive.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.renovacionxboxlive.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.tellmewhygame.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.tellmewhygame.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xbox.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xbox.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xbox.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xbox.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xbox.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xbox.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xbox.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xbox.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xbox360.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xbox360.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xbox360.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xbox360.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xbox360.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xbox360.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xbox360.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xbox360.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xboxab.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xboxab.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xboxgamepass.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xboxgamepass.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xboxgamestudios.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xboxgamestudios.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xboxlive.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xboxlive.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xboxone.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xboxone.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xboxone.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xboxone.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xboxone.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xboxone.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xboxplayanywhere.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xboxplayanywhere.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xboxservices.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xboxservices.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xboxstudios.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xboxstudios.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xbox",
-            "pattern": "*://*.xbx.lv",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "xbox",
+    "pattern": "*://*.xbx.lv",
+    "active": true
+  }
 ]

@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xda",
-            "pattern": "*://*.xda-cdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xda",
+    "pattern": "*://*.xda-cdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xda",
-            "pattern": "*://*.xda-developers.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xda",
+    "pattern": "*://*.xda-developers.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xda",
-            "pattern": "*://*.xdaforums.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "xda",
+    "pattern": "*://*.xdaforums.com",
+    "active": true
+  }
 ]

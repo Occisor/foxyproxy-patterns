@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xiaohongshu",
-            "pattern": "*://*.xhscdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xiaohongshu",
+    "pattern": "*://*.xhscdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xiaohongshu",
-            "pattern": "*://*.xhscdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xiaohongshu",
+    "pattern": "*://*.xhscdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xiaohongshu",
-            "pattern": "*://*.xiaohongshu.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "xiaohongshu",
+    "pattern": "*://*.xiaohongshu.com",
+    "active": true
+  }
 ]

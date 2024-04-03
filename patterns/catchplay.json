@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "catchplay",
-            "pattern": "*://*.catchplay.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "catchplay",
+    "pattern": "*://*.catchplay.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "catchplay",
-            "pattern": "*://*.tra-ww000-cp.akamaized.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "catchplay",
+    "pattern": "*://*.tra-ww000-cp.akamaized.net",
+    "active": true
+  }
 ]

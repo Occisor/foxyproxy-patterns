@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dangdang",
-            "pattern": "*://*.dangdang.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dangdang",
+    "pattern": "*://*.dangdang.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dangdang",
-            "pattern": "*://*.ddimg.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dangdang",
+    "pattern": "*://*.ddimg.cn",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "miaomiaozhe",
-            "pattern": "*://*.miaomiaoz.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "miaomiaozhe",
+    "pattern": "*://*.miaomiaoz.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "miaomiaozhe",
-            "pattern": "*://*.miaomiaozhe.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "miaomiaozhe",
+    "pattern": "*://*.miaomiaozhe.com",
+    "active": true
+  }
 ]

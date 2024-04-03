@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hqporner",
-            "pattern": "*://*.hqporner.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hqporner",
+    "pattern": "*://*.hqporner.com",
+    "active": true
+  }
 ]

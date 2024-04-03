@@ -1,107 +1,107 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.co.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.co.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.co.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.co.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.co.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.co.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.com.mx",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.com.mx",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "webex",
-            "pattern": "*://*.webex.fr",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "webex",
+    "pattern": "*://*.webex.fr",
+    "active": true
+  }
 ]

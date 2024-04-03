@@ -1,331 +1,331 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.arman-ati.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.arman-ati.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.bourseiness.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.bourseiness.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.codal.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.codal.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.farasahm.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.farasahm.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.ifb.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.ifb.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.ime.co.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.ime.co.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.irenex.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.irenex.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.sukuk.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.sukuk.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.talarebourse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.talarebourse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.tse.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.tse.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.tsetmc.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.tsetmc.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.abanbroker.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.abanbroker.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.bahmanbroker.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.bahmanbroker.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.bkisecurities.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.bkisecurities.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.bmibourse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.bmibourse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.bt-broker.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.bt-broker.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.danabroker.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.danabroker.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.emofid.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.emofid.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.etminansahm.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.etminansahm.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.hafezbourse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.hafezbourse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.irfarabi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.irfarabi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.kmsco.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.kmsco.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.maskanbourse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.maskanbourse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.mellatbroker.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.mellatbroker.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.novinbourse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.novinbourse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.oibroker.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.oibroker.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.omidsahm.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.omidsahm.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.rbc.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.rbc.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.saderatbourse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.saderatbourse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.sahandbroker.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.sahandbroker.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.samanbourse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.samanbourse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.sdbhouse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.sdbhouse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.sepahbourse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.sepahbourse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.tadbirgar.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.tadbirgar.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.abantether.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.abantether.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.bit24.cash",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.bit24.cash",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.bitpin.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.bitpin.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.exir.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.exir.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.farhad-exchange.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.farhad-exchange.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.jibitex.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.jibitex.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.nobitex.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.nobitex.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.ok-ex.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.ok-ex.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.ompfinex.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.ompfinex.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.ramzinex.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.ramzinex.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.tabdeal.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.tabdeal.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.tetherland.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.tetherland.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-bourse",
-            "pattern": "*://*.wallex.ir",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-bourse",
+    "pattern": "*://*.wallex.ir",
+    "active": true
+  }
 ]

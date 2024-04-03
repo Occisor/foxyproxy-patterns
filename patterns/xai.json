@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xai",
-            "pattern": "*://*.x.ai",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "xai",
+    "pattern": "*://*.x.ai",
+    "active": true
+  }
 ]

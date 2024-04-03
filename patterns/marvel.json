@@ -1,72 +1,72 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "marvel",
-            "pattern": "*://*.marvel.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "marvel",
+    "pattern": "*://*.marvel.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "marvel",
-            "pattern": "*://*.marvel10thanniversary.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "marvel",
+    "pattern": "*://*.marvel10thanniversary.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "marvel",
-            "pattern": "*://*.marveldimensionofheroes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "marvel",
+    "pattern": "*://*.marveldimensionofheroes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "marvel",
-            "pattern": "*://*.marvelparty.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "marvel",
+    "pattern": "*://*.marvelparty.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "marvel",
-            "pattern": "*://*.marvelpinball.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "marvel",
+    "pattern": "*://*.marvelpinball.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "marvel",
-            "pattern": "*://*.marvelsdoubleagent.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "marvel",
+    "pattern": "*://*.marvelsdoubleagent.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "marvel",
-            "pattern": "*://*.marvelspotlightplays.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "marvel",
+    "pattern": "*://*.marvelspotlightplays.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "marvel",
-            "pattern": "*://*.marvelsuperheroseptember.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "marvel",
+    "pattern": "*://*.marvelsuperheroseptember.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "marvel",
-            "pattern": "*://*.marvelsuperwar.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "marvel",
+    "pattern": "*://*.marvelsuperwar.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "marvel",
-            "pattern": "*://*.themarvelexperiencetour.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "marvel",
+    "pattern": "*://*.themarvelexperiencetour.com",
+    "active": true
+  }
 ]

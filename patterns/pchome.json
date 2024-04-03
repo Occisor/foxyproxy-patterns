@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.ecimg.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.ecimg.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.pchome.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.pchome.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.pchomeec.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.pchomeec.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.pchomeonline.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.pchomeonline.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.pchomepay.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.pchomepay.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.pcloud.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.pcloud.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.pcstore.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.pcstore.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.piapp.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.piapp.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.rakuya.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.rakuya.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.tagapie.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.tagapie.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pchome",
-            "pattern": "*://*.toget.com.tw",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "pchome",
+    "pattern": "*://*.toget.com.tw",
+    "active": true
+  }
 ]

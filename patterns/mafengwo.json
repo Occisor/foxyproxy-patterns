@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mafengwo",
-            "pattern": "*://*.mafengwo.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mafengwo",
+    "pattern": "*://*.mafengwo.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mafengwo",
-            "pattern": "*://*.mafengwo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mafengwo",
+    "pattern": "*://*.mafengwo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mafengwo",
-            "pattern": "*://*.mafengwo.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mafengwo",
+    "pattern": "*://*.mafengwo.net",
+    "active": true
+  }
 ]

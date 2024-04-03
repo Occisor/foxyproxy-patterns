@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hm",
-            "pattern": "*://*.hm.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hm",
+    "pattern": "*://*.hm.com",
+    "active": true
+  }
 ]

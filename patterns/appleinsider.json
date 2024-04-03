@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "appleinsider",
-            "pattern": "*://*.appleinsider.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "appleinsider",
+    "pattern": "*://*.appleinsider.com",
+    "active": true
+  }
 ]

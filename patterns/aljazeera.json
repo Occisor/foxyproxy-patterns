@@ -1,51 +1,51 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "aljazeera",
-            "pattern": "*://*.ajplus.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "aljazeera",
+    "pattern": "*://*.ajplus.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "aljazeera",
-            "pattern": "*://*.aljazeera.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "aljazeera",
+    "pattern": "*://*.aljazeera.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "aljazeera",
-            "pattern": "*://*.aljazeera.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "aljazeera",
+    "pattern": "*://*.aljazeera.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "aljazeera",
-            "pattern": "*://*.palestineremix.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "aljazeera",
+    "pattern": "*://*.palestineremix.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "aljazeera",
-            "pattern": "*://*.sarajevopodopsadom.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "aljazeera",
+    "pattern": "*://*.sarajevopodopsadom.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "aljazeera",
-            "pattern": "*://*.srebrenica360.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "aljazeera",
+    "pattern": "*://*.srebrenica360.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "aljazeera",
-            "pattern": "*://*.syhacked.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "aljazeera",
+    "pattern": "*://*.syhacked.com",
+    "active": true
+  }
 ]

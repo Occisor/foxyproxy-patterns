@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discuz",
-            "pattern": "*://*.comsenz.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discuz",
+    "pattern": "*://*.comsenz.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discuz",
-            "pattern": "*://*.discuz.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discuz",
+    "pattern": "*://*.discuz.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discuz",
-            "pattern": "*://*.discuz.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "discuz",
+    "pattern": "*://*.discuz.org",
+    "active": true
+  }
 ]

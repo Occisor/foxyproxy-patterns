@@ -1,135 +1,135 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.4everland.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.4everland.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.c4rex.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.c4rex.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.crustwebsites.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.crustwebsites.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.dweb.link",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.dweb.link",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.gateway.pinata.cloud",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.gateway.pinata.cloud",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipfs-gateway.cloud",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipfs-gateway.cloud",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipfs.anonymize.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipfs.anonymize.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipfs.best-practice.se",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipfs.best-practice.se",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipfs.eternum.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipfs.eternum.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipfs.eth.aragon.network",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipfs.eth.aragon.network",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipfs.fleek.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipfs.fleek.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipfs.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipfs.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipfs.lain.la",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipfs.lain.la",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipfs.runfission.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipfs.runfission.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipfs.tech",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipfs.tech",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.ipns.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.ipns.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.jorropo.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.jorropo.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.nftstorage.link",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.nftstorage.link",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ipfs",
-            "pattern": "*://*.via0.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ipfs",
+    "pattern": "*://*.via0.com",
+    "active": true
+  }
 ]

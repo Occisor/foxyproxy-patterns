@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jitsi",
-            "pattern": "*://*.jitsi.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "jitsi",
+    "pattern": "*://*.jitsi.org",
+    "active": true
+  }
 ]

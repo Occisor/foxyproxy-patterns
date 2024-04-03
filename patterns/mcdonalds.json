@@ -1,177 +1,177 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcd",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcd",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonalds",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonalds",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.aboutmcdonalds.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.aboutmcdonalds.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.happymeal.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.happymeal.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.happymeal.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.happymeal.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcd.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcd.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdelivery.co.id",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdelivery.co.id",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdelivery.co.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdelivery.co.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdelivery.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdelivery.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdelivery.com.my",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdelivery.com.my",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdelivery.com.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdelivery.com.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdelivery.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdelivery.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdindonesia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdindonesia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonalds.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonalds.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonalds.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonalds.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonalds.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonalds.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonalds.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonalds.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonalds.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonalds.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonalds.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonalds.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonalds.no",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonalds.no",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonalds.se",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonalds.se",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonaldsarabia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonaldsarabia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonaldsparties.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonaldsparties.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.mcdonaldsparties.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.mcdonaldsparties.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mcdonalds",
-            "pattern": "*://*.xn--qhrx81fxh2a.xn--55qx5d.hk",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mcdonalds",
+    "pattern": "*://*.xn--qhrx81fxh2a.xn--55qx5d.hk",
+    "active": true
+  }
 ]

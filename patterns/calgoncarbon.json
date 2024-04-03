@@ -1,128 +1,128 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.at",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.at",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.be",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.be",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.ch",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.ch",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.com.tr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.com.tr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.ie",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.ie",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.nl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.nl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.pt",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.pt",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgon.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgon.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgoncarbon-china.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgoncarbon-china.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgoncarbon.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgoncarbon.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "calgoncarbon",
-            "pattern": "*://*.calgonit.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "calgoncarbon",
+    "pattern": "*://*.calgonit.com",
+    "active": true
+  }
 ]

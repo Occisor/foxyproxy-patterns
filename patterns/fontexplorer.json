@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fontexplorer",
-            "pattern": "*://*.fontexplorerx.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "fontexplorer",
+    "pattern": "*://*.fontexplorerx.com",
+    "active": true
+  }
 ]

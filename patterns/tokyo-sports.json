@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tokyo-sports",
-            "pattern": "*://*.tokyo-sports.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tokyo-sports",
+    "pattern": "*://*.tokyo-sports.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tokyo-sports",
-            "pattern": "*://*.tospo-keiba.jp",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tokyo-sports",
+    "pattern": "*://*.tospo-keiba.jp",
+    "active": true
+  }
 ]

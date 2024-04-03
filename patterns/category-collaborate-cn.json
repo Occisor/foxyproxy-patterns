@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-collaborate-cn",
-            "pattern": "*://*.shimo.im",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-collaborate-cn",
+    "pattern": "*://*.shimo.im",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-collaborate-cn",
-            "pattern": "*://*.yuque.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-collaborate-cn",
+    "pattern": "*://*.yuque.com",
+    "active": true
+  }
 ]

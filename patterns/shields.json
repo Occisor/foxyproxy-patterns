@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shields",
-            "pattern": "*://*.shields.io",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "shields",
+    "pattern": "*://*.shields.io",
+    "active": true
+  }
 ]

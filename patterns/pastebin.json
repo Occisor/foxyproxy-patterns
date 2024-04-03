@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pastebin",
-            "pattern": "*://*.pastebin.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "pastebin",
+    "pattern": "*://*.pastebin.com",
+    "active": true
+  }
 ]

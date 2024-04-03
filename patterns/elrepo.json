@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "elrepo",
-            "pattern": "*://*.elrepo.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "elrepo",
+    "pattern": "*://*.elrepo.org",
+    "active": true
+  }
 ]

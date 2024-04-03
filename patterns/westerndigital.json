@@ -1,156 +1,156 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.g-technology.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.g-technology.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.ae",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.ae",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.co.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.co.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.com.tr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.com.tr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.id",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.id",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.nl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.nl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.sandisk.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.sandisk.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.wd.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.wd.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.wdc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.wdc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "westerndigital",
-            "pattern": "*://*.westerndigital.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "westerndigital",
+    "pattern": "*://*.westerndigital.com",
+    "active": true
+  }
 ]

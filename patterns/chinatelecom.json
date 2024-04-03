@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinatelecom",
-            "pattern": "*://*.189.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinatelecom",
+    "pattern": "*://*.189.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinatelecom",
-            "pattern": "*://*.chinatelecom-h.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinatelecom",
+    "pattern": "*://*.chinatelecom-h.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinatelecom",
-            "pattern": "*://*.chinatelecom.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinatelecom",
+    "pattern": "*://*.chinatelecom.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinatelecom",
-            "pattern": "*://*.chinatelecomglobal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinatelecom",
+    "pattern": "*://*.chinatelecomglobal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinatelecom",
-            "pattern": "*://*.chntel.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinatelecom",
+    "pattern": "*://*.chntel.com",
+    "active": true
+  }
 ]

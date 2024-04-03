@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anon-v",
-            "pattern": "*://*.anon-v.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anon-v",
+    "pattern": "*://*.anon-v.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anon-v",
-            "pattern": "*://*.anon-v.lol",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "anon-v",
+    "pattern": "*://*.anon-v.lol",
+    "active": true
+  }
 ]

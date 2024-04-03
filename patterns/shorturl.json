@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shorturl",
-            "pattern": "*://*.shorturl.at",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "shorturl",
+    "pattern": "*://*.shorturl.at",
+    "active": true
+  }
 ]

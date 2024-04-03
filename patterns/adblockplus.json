@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adblockplus",
-            "pattern": "*://*.adblockplus.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "adblockplus",
+    "pattern": "*://*.adblockplus.org",
+    "active": true
+  }
 ]

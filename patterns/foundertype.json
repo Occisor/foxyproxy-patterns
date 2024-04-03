@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "foundertype",
-            "pattern": "*://*.foundertype.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "foundertype",
+    "pattern": "*://*.foundertype.com",
+    "active": true
+  }
 ]

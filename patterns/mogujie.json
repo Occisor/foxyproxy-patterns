@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mogujie",
-            "pattern": "*://*.mogu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mogujie",
+    "pattern": "*://*.mogu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mogujie",
-            "pattern": "*://*.mogucdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mogujie",
+    "pattern": "*://*.mogucdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mogujie",
-            "pattern": "*://*.mogujie.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mogujie",
+    "pattern": "*://*.mogujie.com",
+    "active": true
+  }
 ]

@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.bcove.video",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.bcove.video",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.bcovlive.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.bcovlive.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.bcvp0rtal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.bcvp0rtal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.boltdns.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.boltdns.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.brightcove.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.brightcove.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.brightcove.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.brightcove.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.brightcove.services",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.brightcove.services",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.brightcovecdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.brightcovecdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.videojs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.videojs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.zencdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.zencdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "brightcove",
-            "pattern": "*://*.zencoder.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "brightcove",
+    "pattern": "*://*.zencoder.com",
+    "active": true
+  }
 ]

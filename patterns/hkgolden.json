@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkgolden",
-            "pattern": "*://*.hkgolden.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkgolden",
+    "pattern": "*://*.hkgolden.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkgolden",
-            "pattern": "*://*.hkgolden.media",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkgolden",
+    "pattern": "*://*.hkgolden.media",
+    "active": true
+  }
 ]

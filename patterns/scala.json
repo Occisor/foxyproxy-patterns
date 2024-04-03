@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "scala",
-            "pattern": "*://*.scala-lang.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "scala",
+    "pattern": "*://*.scala-lang.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "scala",
-            "pattern": "*://*.scala-sbt.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "scala",
+    "pattern": "*://*.scala-sbt.org",
+    "active": true
+  }
 ]

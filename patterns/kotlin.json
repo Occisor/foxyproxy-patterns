@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kotlin",
-            "pattern": "*://*.kotlinlang.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "kotlin",
+    "pattern": "*://*.kotlinlang.org",
+    "active": true
+  }
 ]

@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "buypass",
-            "pattern": "*://*.buypass-ssl.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "buypass",
+    "pattern": "*://*.buypass-ssl.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "buypass",
-            "pattern": "*://*.buypass.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "buypass",
+    "pattern": "*://*.buypass.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "buypass",
-            "pattern": "*://*.buypass.no",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "buypass",
+    "pattern": "*://*.buypass.no",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "buypass",
-            "pattern": "*://*.buypass.se",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "buypass",
+    "pattern": "*://*.buypass.se",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "buypass",
-            "pattern": "*://*.minid.no",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "buypass",
+    "pattern": "*://*.minid.no",
+    "active": true
+  }
 ]

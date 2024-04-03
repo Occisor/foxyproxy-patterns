@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "suishouji",
-            "pattern": "*://*.feidee.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "suishouji",
+    "pattern": "*://*.feidee.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "suishouji",
-            "pattern": "*://*.feidee.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "suishouji",
+    "pattern": "*://*.feidee.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "suishouji",
-            "pattern": "*://*.feidee.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "suishouji",
+    "pattern": "*://*.feidee.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "suishouji",
-            "pattern": "*://*.ssjlicai.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "suishouji",
+    "pattern": "*://*.ssjlicai.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "suishouji",
-            "pattern": "*://*.sui.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "suishouji",
+    "pattern": "*://*.sui.com",
+    "active": true
+  }
 ]

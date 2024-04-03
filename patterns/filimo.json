@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "filimo",
-            "pattern": "*://*.filimo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "filimo",
+    "pattern": "*://*.filimo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "filimo",
-            "pattern": "*://*.filimo.school",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "filimo",
+    "pattern": "*://*.filimo.school",
+    "active": true
+  }
 ]

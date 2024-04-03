@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jenkins",
-            "pattern": "*://*.jenkins.io",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "jenkins",
+    "pattern": "*://*.jenkins.io",
+    "active": true
+  }
 ]

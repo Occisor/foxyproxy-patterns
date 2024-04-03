@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cheetahmobile",
-            "pattern": "*://*.cmcm.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cheetahmobile",
+    "pattern": "*://*.cmcm.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cheetahmobile",
-            "pattern": "*://*.cmcmcdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cheetahmobile",
+    "pattern": "*://*.cmcmcdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cheetahmobile",
-            "pattern": "*://*.liebao.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cheetahmobile",
+    "pattern": "*://*.liebao.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cheetahmobile",
-            "pattern": "*://*.duba.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cheetahmobile",
+    "pattern": "*://*.duba.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cheetahmobile",
-            "pattern": "*://*.duba.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cheetahmobile",
+    "pattern": "*://*.duba.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cheetahmobile",
-            "pattern": "*://*.ijinshan.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "cheetahmobile",
+    "pattern": "*://*.ijinshan.com",
+    "active": true
+  }
 ]

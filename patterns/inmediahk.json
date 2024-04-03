@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "inmediahk",
-            "pattern": "*://*.inmediahk.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "inmediahk",
+    "pattern": "*://*.inmediahk.net",
+    "active": true
+  }
 ]

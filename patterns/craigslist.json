@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "craigslist",
-            "pattern": "*://*.craigslist.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "craigslist",
+    "pattern": "*://*.craigslist.org",
+    "active": true
+  }
 ]

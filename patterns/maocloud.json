@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "maocloud",
-            "pattern": "*://*.maoyun.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "maocloud",
+    "pattern": "*://*.maoyun.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "maocloud",
-            "pattern": "*://*.maoyuncloud.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "maocloud",
+    "pattern": "*://*.maoyuncloud.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "maocloud",
-            "pattern": "*://*.maoyuncloud.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "maocloud",
+    "pattern": "*://*.maoyuncloud.com",
+    "active": true
+  }
 ]

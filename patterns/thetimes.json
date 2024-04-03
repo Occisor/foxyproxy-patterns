@@ -1,65 +1,65 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thetimes",
-            "pattern": "*://*.driving.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thetimes",
+    "pattern": "*://*.driving.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thetimes",
-            "pattern": "*://*.mytimesplus.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thetimes",
+    "pattern": "*://*.mytimesplus.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thetimes",
-            "pattern": "*://*.sportswomanoftheyear.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thetimes",
+    "pattern": "*://*.sportswomanoftheyear.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thetimes",
-            "pattern": "*://*.sportswomenoftheyear.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thetimes",
+    "pattern": "*://*.sportswomenoftheyear.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thetimes",
-            "pattern": "*://*.the-tls.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thetimes",
+    "pattern": "*://*.the-tls.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thetimes",
-            "pattern": "*://*.thesundaytimes.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thetimes",
+    "pattern": "*://*.thesundaytimes.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thetimes",
-            "pattern": "*://*.thetimes.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thetimes",
+    "pattern": "*://*.thetimes.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thetimes",
-            "pattern": "*://*.thetimes.ie",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thetimes",
+    "pattern": "*://*.thetimes.ie",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thetimes",
-            "pattern": "*://*.timesmembership.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "thetimes",
+    "pattern": "*://*.timesmembership.com",
+    "active": true
+  }
 ]

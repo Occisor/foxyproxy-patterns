@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaexpressair",
-            "pattern": "*://*.chinaexpressair.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaexpressair",
+    "pattern": "*://*.chinaexpressair.com",
+    "active": true
+  }
 ]

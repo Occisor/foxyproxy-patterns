@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pingsx",
-            "pattern": "*://*.ping.sx",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "pingsx",
+    "pattern": "*://*.ping.sx",
+    "active": true
+  }
 ]

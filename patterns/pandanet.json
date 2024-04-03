@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pandanet",
-            "pattern": "*://*.joyjoy.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pandanet",
+    "pattern": "*://*.joyjoy.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pandanet",
-            "pattern": "*://*.pandanet-igs.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "pandanet",
+    "pattern": "*://*.pandanet-igs.com",
+    "active": true
+  }
 ]

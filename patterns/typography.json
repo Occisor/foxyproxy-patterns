@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "typography",
-            "pattern": "*://*.typography.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "typography",
+    "pattern": "*://*.typography.com",
+    "active": true
+  }
 ]

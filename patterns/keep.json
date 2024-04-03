@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "keep",
-            "pattern": "*://*.gotokeep.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "keep",
+    "pattern": "*://*.gotokeep.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "keep",
-            "pattern": "*://*.keepcdn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "keep",
+    "pattern": "*://*.keepcdn.com",
+    "active": true
+  }
 ]

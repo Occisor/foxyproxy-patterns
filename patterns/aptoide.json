@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "aptoide",
-            "pattern": "*://*.aptoide.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "aptoide",
+    "pattern": "*://*.aptoide.com",
+    "active": true
+  }
 ]

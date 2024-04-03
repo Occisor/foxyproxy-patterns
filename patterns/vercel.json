@@ -1,170 +1,170 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.err.sh",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.err.sh",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.hyper.is",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.hyper.is",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.nextjs.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.nextjs.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.now.sh",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.now.sh",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.static.fun",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.static.fun",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.title.sh",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.title.sh",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.turborepo.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.turborepo.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.vercel-dns.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.vercel-dns.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.vercel-status.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.vercel-status.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.vercel.app",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.vercel.app",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.vercel.blog",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.vercel.blog",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.vercel.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.vercel.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.vercel.events",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.vercel.events",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.vercel.live",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.vercel.live",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.vercel.pub",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.vercel.pub",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.vercel.sh",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.vercel.sh",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.vercel.store",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.vercel.store",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.zeit-world.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.zeit-world.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.zeit-world.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.zeit-world.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.zeit-world.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.zeit-world.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.zeit-world.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.zeit-world.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.zeit.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.zeit.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.zeit.sh",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.zeit.sh",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vercel",
-            "pattern": "*://*.zeitworld.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "vercel",
+    "pattern": "*://*.zeitworld.com",
+    "active": true
+  }
 ]

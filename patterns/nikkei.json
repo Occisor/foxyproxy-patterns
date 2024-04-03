@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nikkei",
-            "pattern": "*://*.nikkei-cnbc.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nikkei",
+    "pattern": "*://*.nikkei-cnbc.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nikkei",
-            "pattern": "*://*.nikkei.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nikkei",
+    "pattern": "*://*.nikkei.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nikkei",
-            "pattern": "*://*.nikkei.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nikkei",
+    "pattern": "*://*.nikkei.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nikkei",
-            "pattern": "*://*.nikkei.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nikkei",
+    "pattern": "*://*.nikkei.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nikkei",
-            "pattern": "*://*.nikkei4946.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nikkei",
+    "pattern": "*://*.nikkei4946.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nikkei",
-            "pattern": "*://*.nikkeibp.co.jp",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "nikkei",
+    "pattern": "*://*.nikkeibp.co.jp",
+    "active": true
+  }
 ]

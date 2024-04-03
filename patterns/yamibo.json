@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yamibo",
-            "pattern": "*://*.yamibo.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "yamibo",
+    "pattern": "*://*.yamibo.com",
+    "active": true
+  }
 ]

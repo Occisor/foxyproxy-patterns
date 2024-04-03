@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apkpure",
-            "pattern": "*://*.apkpure.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apkpure",
+    "pattern": "*://*.apkpure.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apkpure",
-            "pattern": "*://*.apkpure.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apkpure",
+    "pattern": "*://*.apkpure.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apkpure",
-            "pattern": "*://*.cdnpure.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apkpure",
+    "pattern": "*://*.cdnpure.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apkpure",
-            "pattern": "*://*.pureapk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apkpure",
+    "pattern": "*://*.pureapk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apkpure",
-            "pattern": "*://*.winudf.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "apkpure",
+    "pattern": "*://*.winudf.com",
+    "active": true
+  }
 ]

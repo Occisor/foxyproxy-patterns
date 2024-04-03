@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "uber",
-            "pattern": "*://*.uber-assets.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "uber",
+    "pattern": "*://*.uber-assets.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "uber",
-            "pattern": "*://*.uber.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "uber",
+    "pattern": "*://*.uber.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "uber",
-            "pattern": "*://*.ubereats.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "uber",
+    "pattern": "*://*.ubereats.com",
+    "active": true
+  }
 ]

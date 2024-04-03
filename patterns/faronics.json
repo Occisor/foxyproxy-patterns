@@ -1,121 +1,121 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.clickedu.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.clickedu.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.deepfreeze.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.deepfreeze.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.deepfreeze.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.deepfreeze.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.deepfreeze.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.deepfreeze.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.deepfreeze.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.deepfreeze.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.deepfreeze.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.deepfreeze.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.deepfreeze.tech",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.deepfreeze.tech",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.faronics.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.faronics.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.faronics.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.faronics.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.faronics.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.faronics.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.faronics.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.faronics.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.faronics.com.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.faronics.com.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.faronics.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.faronics.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.faronics.tech",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.faronics.tech",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.faronicslabs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.faronicslabs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.faronicswise.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.faronicswise.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "faronics",
-            "pattern": "*://*.faronicswise.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "faronics",
+    "pattern": "*://*.faronicswise.com",
+    "active": true
+  }
 ]

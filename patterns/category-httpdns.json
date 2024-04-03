@@ -1,142 +1,142 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.dns.jd.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.dns.jd.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.dns.weibo.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.dns.weibo.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.dns.weixin.qq.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.dns.weixin.qq.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.dns.weixin.qq.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.dns.weixin.qq.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns-api.aliyuncs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns-api.aliyuncs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns-sc.aliyuncs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns-sc.aliyuncs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns.alicdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns.alicdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns.baidu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns.baidu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns.baidubce.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns.baidubce.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns.bilivideo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns.bilivideo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns.c.cdnhwc2.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns.c.cdnhwc2.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns.meituan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns.meituan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns.music.163.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns.music.163.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns.n.netease.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns.n.netease.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns.push.oppomobile.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns.push.oppomobile.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpdns.volcengineapi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpdns.volcengineapi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.httpsdns.baidu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.httpsdns.baidu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.kuaishou.httpdns.pro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.kuaishou.httpdns.pro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.lofter.httpdns.c.163.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.lofter.httpdns.c.163.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-httpdns",
-            "pattern": "*://*.music.httpdns.c.163.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-httpdns",
+    "pattern": "*://*.music.httpdns.c.163.com",
+    "active": true
+  }
 ]

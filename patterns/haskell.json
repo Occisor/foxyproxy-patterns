@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "haskell",
-            "pattern": "*://*.haskell.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "haskell",
+    "pattern": "*://*.haskell.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "haskell",
-            "pattern": "*://*.haskellstack.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "haskell",
+    "pattern": "*://*.haskellstack.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "haskell",
-            "pattern": "*://*.stackage.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "haskell",
+    "pattern": "*://*.stackage.org",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jetbrains-ai",
-            "pattern": "*://*.grazie.ai",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "jetbrains-ai",
+    "pattern": "*://*.grazie.ai",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jetbrains-ai",
-            "pattern": "*://*.grazie.aws.intellij.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "jetbrains-ai",
+    "pattern": "*://*.grazie.aws.intellij.net",
+    "active": true
+  }
 ]

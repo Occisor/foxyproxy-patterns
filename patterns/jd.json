@@ -1,1619 +1,1619 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.1huizhan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.3.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.300hu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.360buy.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.360buy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.360buy.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.360buyimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.360buyinternational.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.360top.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.7fresh.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.baitiao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.blackdragon.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.caiyu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.chicalot.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.chinabank.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-beijing.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-hebi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-ningbo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-ordos.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-shenzhen.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-shiyan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-wuhan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-xian.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-xm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-zhaoqing.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloud-zhongwei.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudanqing.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudbaoshan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudbeibei.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudbinzhou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudchangde.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudchangsha.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudchangzhou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudchaozhou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudchengde.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudchengdu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudchuzhou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudczs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.clouddalian.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.clouddatong.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.clouddongying.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudfoshan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudfuqing.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudganzhou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudguangzhou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudhaidong.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudhefei.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudhengshui.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudhuaihua.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudhuizhou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudjinan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudjinchang.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudjingzhou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudjining.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudjiujiang.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudkunming.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudleshan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudlijiang.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudlishui.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudluohe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudluoyang.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudmeishan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudnanan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudnanjing.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudnanning.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudnantong.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudquanzhou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudsanya.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudshanghai.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudshaoyang.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudshenfuxingqu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudsiping.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudsuqian.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudtangshan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudtianjin.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudtongchuan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudtongliang.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudweinan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudxiangtan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudxianyou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudxining.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudyanan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudyancheng.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudyantai.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudyinchuan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudyueyang.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudyuncheng.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudyuxi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudzhongshan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.cloudzhuhai.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.dao123.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.duiou.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.goselling.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.healthjd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.isvjcloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.isvjd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloud-cache.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloud-cache.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloud-cdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloud-live.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloud-oss.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudcache.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudcache.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudcs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jclouddn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jclouddns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jclouddns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudec.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudedge.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudedge.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudgslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudgslb.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudimg.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudlb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudlb.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudlive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudlv.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudoss.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudresolve.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudresolve.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudss.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudstatic.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudvideo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jcloudvideo.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jclps.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd-app.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd-ex.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd-ex.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd-ex.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd-ex.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd.co.th",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd.id",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd.ru",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jd.shop",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdbusiness.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcache.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloud-api.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloud-api.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloud-edu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloud-elite.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloud-elive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloud-livebuy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloud-mail.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloud-openapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloud-oss.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudcache.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudcache.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudcdn.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudcs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdclouddns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdclouddns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudedge.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudedge.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudlb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudlb.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudlive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudlive.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudresolve.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudresolve.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudsite.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudstatic.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudstatus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudstatus.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudvideo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudvideo.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdcloudwaf.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jddapeigou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jddebug.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jddglobal.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdemall.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdfw1.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdgslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdgslb.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdh.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdjinrong.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdl.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdl.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdl.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdlike.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdpay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdpaydns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdwl.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jdx.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jhscm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jingdong.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jingdongjinrong.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jingpinhui.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jingxi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.jkcsjd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.joybuy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.joybuy.es",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.linglonglife.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.logiseasy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.mayshijia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.minitiao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.missjia.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.ocwms.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.paidaojia.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.paipai.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.prestodb.net.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.prestodb-china.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.qianxun.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.qingzhouip.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.sgsic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.toplife.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.vg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.vipmro.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.vipmro.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.wangyin.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.wdfok.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.wuliujie.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.wuliujie.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.xianjiqun.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.xjoycity.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.yhd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.yihaodian.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.yihaodianimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.yiyaojd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.yizhitou.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jd",
-            "pattern": "*://*.duolabao.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.1huizhan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.3.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.300hu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.360buy.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.360buy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.360buy.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.360buyimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.360buyinternational.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.360top.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.7fresh.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.baitiao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.blackdragon.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.caiyu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.chicalot.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.chinabank.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-beijing.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-hebi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-ningbo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-ordos.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-shenzhen.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-shiyan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-wuhan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-xian.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-xm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-zhaoqing.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloud-zhongwei.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudanqing.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudbaoshan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudbeibei.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudbinzhou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudchangde.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudchangsha.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudchangzhou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudchaozhou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudchengde.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudchengdu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudchuzhou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudczs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.clouddalian.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.clouddatong.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.clouddongying.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudfoshan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudfuqing.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudganzhou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudguangzhou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudhaidong.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudhefei.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudhengshui.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudhuaihua.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudhuizhou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudjinan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudjinchang.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudjingzhou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudjining.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudjiujiang.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudkunming.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudleshan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudlijiang.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudlishui.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudluohe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudluoyang.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudmeishan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudnanan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudnanjing.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudnanning.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudnantong.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudquanzhou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudsanya.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudshanghai.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudshaoyang.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudshenfuxingqu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudsiping.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudsuqian.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudtangshan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudtianjin.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudtongchuan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudtongliang.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudweinan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudxiangtan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudxianyou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudxining.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudyanan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudyancheng.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudyantai.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudyinchuan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudyueyang.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudyuncheng.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudyuxi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudzhongshan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.cloudzhuhai.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.dao123.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.duiou.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.goselling.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.healthjd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.isvjcloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.isvjd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloud-cache.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloud-cache.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloud-cdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloud-live.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloud-oss.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudcache.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudcache.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudcs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jclouddn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jclouddns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jclouddns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudec.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudedge.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudedge.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudgslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudgslb.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudimg.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudlb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudlb.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudlive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudlv.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudoss.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudresolve.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudresolve.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudss.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudstatic.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudvideo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jcloudvideo.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jclps.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd-app.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd-ex.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd-ex.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd-ex.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd-ex.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd.co.th",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd.id",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd.ru",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jd.shop",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdbusiness.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcache.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloud-api.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloud-api.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloud-edu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloud-elite.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloud-elive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloud-livebuy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloud-mail.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloud-openapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloud-oss.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudcache.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudcache.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudcdn.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudcs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdclouddns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdclouddns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudedge.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudedge.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudlb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudlb.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudlive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudlive.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudresolve.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudresolve.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudsite.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudstatic.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudstatus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudstatus.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudvideo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudvideo.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdcloudwaf.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jddapeigou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jddebug.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jddglobal.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdemall.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdfw1.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdgslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdgslb.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdh.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdjinrong.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdl.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdl.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdl.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdlike.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdpay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdpaydns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdwl.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jdx.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jhscm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jingdong.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jingdongjinrong.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jingpinhui.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jingxi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.jkcsjd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.joybuy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.joybuy.es",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.linglonglife.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.logiseasy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.mayshijia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.minitiao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.missjia.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.ocwms.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.paidaojia.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.paipai.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.prestodb.net.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.prestodb-china.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.qianxun.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.qingzhouip.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.sgsic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.toplife.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.vg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.vipmro.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.vipmro.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.wangyin.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.wdfok.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.wuliujie.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.wuliujie.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.xianjiqun.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.xjoycity.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.yhd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.yihaodian.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.yihaodianimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.yiyaojd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.yizhitou.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jd",
+    "pattern": "*://*.duolabao.com",
+    "active": true
+  }
 ]

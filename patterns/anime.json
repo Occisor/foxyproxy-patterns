@@ -1,107 +1,107 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.9anime.cz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.9anime.cz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.9anime.id",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.9anime.id",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.9anime.to",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.9anime.to",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.9anime.ws",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.9anime.ws",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.animedao-tv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.animedao-tv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.crunchyroll.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.crunchyroll.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.funimation.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.funimation.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.gogo-load.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.gogo-load.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.gogoanime.vc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.gogoanime.vc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.gogoanime.wiki",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.gogoanime.wiki",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.gogocdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.gogocdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.hidive.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.hidive.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.vrv.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.vrv.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.age.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.age.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anime",
-            "pattern": "*://*.agedm.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "anime",
+    "pattern": "*://*.agedm.org",
+    "active": true
+  }
 ]

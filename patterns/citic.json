@@ -1,107 +1,107 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.citic",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.citic",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.chinaamc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.chinaamc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.citic-prudential.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.citic-prudential.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.citicbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.citicbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.citiccapital.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.citiccapital.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.citiciam.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.citiciam.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.citicifh.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.citicifh.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.citicprufunds.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.citicprufunds.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.citics.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.citics.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.citicsf.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.citicsf.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.clsa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.clsa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.cncbinternational.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.cncbinternational.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.csc108.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.csc108.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.csci.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.csci.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "citic",
-            "pattern": "*://*.ecitic.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "citic",
+    "pattern": "*://*.ecitic.com",
+    "active": true
+  }
 ]

@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "springer",
-            "pattern": "*://*.apress.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "springer",
+    "pattern": "*://*.apress.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "springer",
-            "pattern": "*://*.springer.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "springer",
+    "pattern": "*://*.springer.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "springer",
-            "pattern": "*://*.springerlink.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "springer",
+    "pattern": "*://*.springerlink.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "springer",
-            "pattern": "*://*.springernature.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "springer",
+    "pattern": "*://*.springernature.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "springer",
-            "pattern": "*://*.wkap.nl",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "springer",
+    "pattern": "*://*.wkap.nl",
+    "active": true
+  }
 ]

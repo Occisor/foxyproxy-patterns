@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tribler",
-            "pattern": "*://*.tribler.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tribler",
+    "pattern": "*://*.tribler.org",
+    "active": true
+  }
 ]

@@ -1,65 +1,65 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "olevod",
-            "pattern": "*://*.haiwaikan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "olevod",
+    "pattern": "*://*.haiwaikan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "olevod",
-            "pattern": "*://*.iole.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "olevod",
+    "pattern": "*://*.iole.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "olevod",
-            "pattern": "*://*.olehd.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "olevod",
+    "pattern": "*://*.olehd.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "olevod",
-            "pattern": "*://*.olelive.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "olevod",
+    "pattern": "*://*.olelive.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "olevod",
-            "pattern": "*://*.olevod.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "olevod",
+    "pattern": "*://*.olevod.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "olevod",
-            "pattern": "*://*.olevod.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "olevod",
+    "pattern": "*://*.olevod.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "olevod",
-            "pattern": "*://*.olevod.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "olevod",
+    "pattern": "*://*.olevod.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "olevod",
-            "pattern": "*://*.olevodtv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "olevod",
+    "pattern": "*://*.olevodtv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "olevod",
-            "pattern": "*://*.olemovienews.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "olevod",
+    "pattern": "*://*.olemovienews.com",
+    "active": true
+  }
 ]

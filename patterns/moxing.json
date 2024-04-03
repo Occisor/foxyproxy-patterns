@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "moxing",
-            "pattern": "*://*.moxing.mobi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "moxing",
+    "pattern": "*://*.moxing.mobi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "moxing",
-            "pattern": "*://*.moxing.news",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "moxing",
+    "pattern": "*://*.moxing.news",
+    "active": true
+  }
 ]

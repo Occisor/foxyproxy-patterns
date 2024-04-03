@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "goodreads",
-            "pattern": "*://*.goodreads.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "goodreads",
+    "pattern": "*://*.goodreads.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "goodreads",
-            "pattern": "*://*.gr-assets.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "goodreads",
+    "pattern": "*://*.gr-assets.com",
+    "active": true
+  }
 ]

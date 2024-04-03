@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "taptap",
-            "pattern": "*://*.tapimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "taptap",
+    "pattern": "*://*.tapimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "taptap",
-            "pattern": "*://*.tapimg.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "taptap",
+    "pattern": "*://*.tapimg.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "taptap",
-            "pattern": "*://*.taptap.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "taptap",
+    "pattern": "*://*.taptap.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "taptap",
-            "pattern": "*://*.taptap.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "taptap",
+    "pattern": "*://*.taptap.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "taptap",
-            "pattern": "*://*.taptap.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "taptap",
+    "pattern": "*://*.taptap.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "taptap",
-            "pattern": "*://*.taptapdada.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "taptap",
+    "pattern": "*://*.taptapdada.com",
+    "active": true
+  }
 ]

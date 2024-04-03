@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "doom9",
-            "pattern": "*://*.doom9.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "doom9",
+    "pattern": "*://*.doom9.org",
+    "active": true
+  }
 ]

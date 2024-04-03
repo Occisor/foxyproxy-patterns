@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "okx",
-            "pattern": "*://*.okex.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "okx",
+    "pattern": "*://*.okex.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "okx",
-            "pattern": "*://*.okx.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "okx",
+    "pattern": "*://*.okx.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "okx",
-            "pattern": "*://*.okx-dns.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "okx",
+    "pattern": "*://*.okx-dns.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "okx",
-            "pattern": "*://*.okx-dns1.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "okx",
+    "pattern": "*://*.okx-dns1.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "okx",
-            "pattern": "*://*.okx-dns2.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "okx",
+    "pattern": "*://*.okx-dns2.com",
+    "active": true
+  }
 ]

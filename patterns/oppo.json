@@ -1,142 +1,142 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.coloros.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.coloros.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.finzfin.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.finzfin.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.heytap.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.heytap.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.heytapcs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.heytapcs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.heytapdownload.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.heytapdownload.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.heytapimage.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.heytapimage.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.heytapmobi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.heytapmobi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.myoppo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.myoppo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.nearme.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.nearme.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.oppo.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.oppo.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.oppo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.oppo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.oppo.mobi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.oppo.mobi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.oppodigital.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.oppodigital.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.oppoer.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.oppoer.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.oppomobile.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.oppomobile.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.oppopay.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.oppopay.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.opposhop.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.opposhop.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.realme.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.realme.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.realmebbs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.realmebbs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oppo",
-            "pattern": "*://*.realmemobile.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "oppo",
+    "pattern": "*://*.realmemobile.com",
+    "active": true
+  }
 ]

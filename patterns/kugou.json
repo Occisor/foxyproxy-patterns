@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kugou",
-            "pattern": "*://*.kgimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kugou",
+    "pattern": "*://*.kgimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kugou",
-            "pattern": "*://*.kugou.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "kugou",
+    "pattern": "*://*.kugou.com",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gamersky",
-            "pattern": "*://*.gamersky.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "gamersky",
+    "pattern": "*://*.gamersky.com",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "openvpn",
-            "pattern": "*://*.openvpn.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "openvpn",
+    "pattern": "*://*.openvpn.net",
+    "active": true
+  }
 ]

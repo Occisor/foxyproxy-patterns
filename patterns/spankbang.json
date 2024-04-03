@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "spankbang",
-            "pattern": "*://*.spankbang.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "spankbang",
+    "pattern": "*://*.spankbang.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "spankbang",
-            "pattern": "*://*.spankbang.party",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "spankbang",
+    "pattern": "*://*.spankbang.party",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "spankbang",
-            "pattern": "*://*.sb-cd.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "spankbang",
+    "pattern": "*://*.sb-cd.com",
+    "active": true
+  }
 ]

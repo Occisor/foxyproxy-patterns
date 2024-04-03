@@ -1,30 +1,30 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dlercloud",
-            "pattern": "*://*.dlercloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dlercloud",
+    "pattern": "*://*.dlercloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dlercloud",
-            "pattern": "*://*.dlercloud.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dlercloud",
+    "pattern": "*://*.dlercloud.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dlercloud",
-            "pattern": "*://*.dlercloud.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dlercloud",
+    "pattern": "*://*.dlercloud.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dlercloud",
-            "pattern": "*://*.dleris.best",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dlercloud",
+    "pattern": "*://*.dleris.best",
+    "active": true
+  }
 ]

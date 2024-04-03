@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "quora",
-            "pattern": "*://*.poe.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "quora",
+    "pattern": "*://*.poe.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "quora",
-            "pattern": "*://*.poecdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "quora",
+    "pattern": "*://*.poecdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "quora",
-            "pattern": "*://*.qr.ae",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "quora",
+    "pattern": "*://*.qr.ae",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "quora",
-            "pattern": "*://*.quora.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "quora",
+    "pattern": "*://*.quora.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "quora",
-            "pattern": "*://*.quoracdn.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "quora",
+    "pattern": "*://*.quoracdn.net",
+    "active": true
+  }
 ]

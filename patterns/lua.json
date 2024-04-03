@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "lua",
-            "pattern": "*://*.lua.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "lua",
+    "pattern": "*://*.lua.org",
+    "active": true
+  }
 ]

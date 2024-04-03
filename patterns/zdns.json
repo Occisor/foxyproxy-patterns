@@ -1,86 +1,86 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zcmbc.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zcmbc.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdns.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdns.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdns.net.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdns.net.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdns.org.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdns.org.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdnscloud.biz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdnscloud.biz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdnscloud.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdnscloud.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdnscloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdnscloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdnscloud.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdnscloud.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdnscloud.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdnscloud.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdnscloud.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdnscloud.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdnscloud.net.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdnscloud.net.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zdns",
-            "pattern": "*://*.zdnscloud.org.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "zdns",
+    "pattern": "*://*.zdnscloud.org.cn",
+    "active": true
+  }
 ]

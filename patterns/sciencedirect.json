@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sciencedirect",
-            "pattern": "*://*.sciencedirect.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sciencedirect",
+    "pattern": "*://*.sciencedirect.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sciencedirect",
-            "pattern": "*://*.sciencedirectassets.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "sciencedirect",
+    "pattern": "*://*.sciencedirectassets.com",
+    "active": true
+  }
 ]

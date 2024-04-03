@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qiniu",
-            "pattern": "*://*.qbox.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qiniu",
+    "pattern": "*://*.qbox.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qiniu",
-            "pattern": "*://*.qiniu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qiniu",
+    "pattern": "*://*.qiniu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qiniu",
-            "pattern": "*://*.qiniucdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qiniu",
+    "pattern": "*://*.qiniucdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qiniu",
-            "pattern": "*://*.qiniudn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qiniu",
+    "pattern": "*://*.qiniudn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qiniu",
-            "pattern": "*://*.qiniudns.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qiniu",
+    "pattern": "*://*.qiniudns.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qiniu",
-            "pattern": "*://*.qiniup.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qiniu",
+    "pattern": "*://*.qiniup.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qiniu",
-            "pattern": "*://*.qnsdk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qiniu",
+    "pattern": "*://*.qnsdk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qiniu",
-            "pattern": "*://*.qnssl.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "qiniu",
+    "pattern": "*://*.qnssl.com",
+    "active": true
+  }
 ]

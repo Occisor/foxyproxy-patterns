@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gateio",
-            "pattern": "*://*.gate.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gateio",
+    "pattern": "*://*.gate.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gateio",
-            "pattern": "*://*.gatedata.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gateio",
+    "pattern": "*://*.gatedata.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gateio",
-            "pattern": "*://*.gateimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gateio",
+    "pattern": "*://*.gateimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gateio",
-            "pattern": "*://*.gateio.live",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gateio",
+    "pattern": "*://*.gateio.live",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gateio",
-            "pattern": "*://*.gateio.services",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "gateio",
+    "pattern": "*://*.gateio.services",
+    "active": true
+  }
 ]

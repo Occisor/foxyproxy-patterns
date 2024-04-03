@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hacpai",
-            "pattern": "*://*.hacpai.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hacpai",
+    "pattern": "*://*.hacpai.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hacpai",
-            "pattern": "*://*.ld246.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hacpai",
+    "pattern": "*://*.ld246.com",
+    "active": true
+  }
 ]

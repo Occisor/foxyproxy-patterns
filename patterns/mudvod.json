@@ -1,72 +1,72 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mudvod",
-            "pattern": "*://*.biggggg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mudvod",
+    "pattern": "*://*.biggggg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mudvod",
-            "pattern": "*://*.mudvod.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mudvod",
+    "pattern": "*://*.mudvod.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mudvod",
-            "pattern": "*://*.nbys.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mudvod",
+    "pattern": "*://*.nbys.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mudvod",
-            "pattern": "*://*.nbys1.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mudvod",
+    "pattern": "*://*.nbys1.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mudvod",
-            "pattern": "*://*.nbyy.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mudvod",
+    "pattern": "*://*.nbyy.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mudvod",
-            "pattern": "*://*.newpppp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mudvod",
+    "pattern": "*://*.newpppp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mudvod",
-            "pattern": "*://*.nivod.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mudvod",
+    "pattern": "*://*.nivod.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mudvod",
-            "pattern": "*://*.nivodi.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mudvod",
+    "pattern": "*://*.nivodi.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mudvod",
-            "pattern": "*://*.nivodz.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mudvod",
+    "pattern": "*://*.nivodz.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mudvod",
-            "pattern": "*://*.vod360.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mudvod",
+    "pattern": "*://*.vod360.net",
+    "active": true
+  }
 ]

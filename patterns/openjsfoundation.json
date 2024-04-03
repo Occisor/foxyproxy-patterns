@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "openjsfoundation",
-            "pattern": "*://*.openjsf.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "openjsfoundation",
+    "pattern": "*://*.openjsf.org",
+    "active": true
+  }
 ]

@@ -1,100 +1,100 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.asanpardakht.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.asanpardakht.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.asanpardakht.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.asanpardakht.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.behpardakht.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.behpardakht.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.iranicard.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.iranicard.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.mydigipay.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.mydigipay.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.pay.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.pay.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.payping.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.payping.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.pec.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.pec.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.pep.co.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.pep.co.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.sadadpsp.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.sadadpsp.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.sep.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.sep.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.shaparak.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.shaparak.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.weswap.digital",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.weswap.digital",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-payment-ir",
-            "pattern": "*://*.zarinpal.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-payment-ir",
+    "pattern": "*://*.zarinpal.com",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ceno",
-            "pattern": "*://*.censorship.no",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ceno",
+    "pattern": "*://*.censorship.no",
+    "active": true
+  }
 ]

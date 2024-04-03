@@ -1,93 +1,93 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.got001.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.got001.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.got002.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.got002.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.jstucdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.jstucdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.playcvn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.playcvn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.rrys.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.rrys.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.rrys2019.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.rrys2019.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.rrys2020.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.rrys2020.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.rrysapp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.rrysapp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.yyets.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.yyets.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.zimuzu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.zimuzu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.zimuzu.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.zimuzu.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.zmz2019.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.zmz2019.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yyets",
-            "pattern": "*://*.zmzapi.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "yyets",
+    "pattern": "*://*.zmzapi.com",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "c-span",
-            "pattern": "*://*.c-span.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "c-span",
+    "pattern": "*://*.c-span.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "c-span",
-            "pattern": "*://*.c-spanvideo.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "c-span",
+    "pattern": "*://*.c-spanvideo.org",
+    "active": true
+  }
 ]

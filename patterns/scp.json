@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "scp",
-            "pattern": "*://*.scp-wiki.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "scp",
+    "pattern": "*://*.scp-wiki.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "scp",
-            "pattern": "*://*.scpdb.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "scp",
+    "pattern": "*://*.scpdb.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "scp",
-            "pattern": "*://*.scpwiki.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "scp",
+    "pattern": "*://*.scpwiki.com",
+    "active": true
+  }
 ]

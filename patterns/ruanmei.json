@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ruanmei",
-            "pattern": "*://*.6655.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ruanmei",
+    "pattern": "*://*.6655.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ruanmei",
-            "pattern": "*://*.cooldock.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ruanmei",
+    "pattern": "*://*.cooldock.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ruanmei",
-            "pattern": "*://*.ithome.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ruanmei",
+    "pattern": "*://*.ithome.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ruanmei",
-            "pattern": "*://*.lapin365.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ruanmei",
+    "pattern": "*://*.lapin365.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ruanmei",
-            "pattern": "*://*.ruanmei.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ruanmei",
+    "pattern": "*://*.ruanmei.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ruanmei",
-            "pattern": "*://*.saayaa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ruanmei",
+    "pattern": "*://*.saayaa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ruanmei",
-            "pattern": "*://*.win7china.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ruanmei",
+    "pattern": "*://*.win7china.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ruanmei",
-            "pattern": "*://*.win8china.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ruanmei",
+    "pattern": "*://*.win8china.com",
+    "active": true
+  }
 ]

@@ -1,65 +1,65 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nytimes",
-            "pattern": "*://*.nyt.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nytimes",
+    "pattern": "*://*.nyt.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nytimes",
-            "pattern": "*://*.nyt.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nytimes",
+    "pattern": "*://*.nyt.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nytimes",
-            "pattern": "*://*.nytchina.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nytimes",
+    "pattern": "*://*.nytchina.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nytimes",
-            "pattern": "*://*.nytcn.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nytimes",
+    "pattern": "*://*.nytcn.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nytimes",
-            "pattern": "*://*.nytco.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nytimes",
+    "pattern": "*://*.nytco.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nytimes",
-            "pattern": "*://*.nyti.ms",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nytimes",
+    "pattern": "*://*.nyti.ms",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nytimes",
-            "pattern": "*://*.nytimes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nytimes",
+    "pattern": "*://*.nytimes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nytimes",
-            "pattern": "*://*.nytstyle.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nytimes",
+    "pattern": "*://*.nytstyle.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nytimes",
-            "pattern": "*://*.timestalks.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "nytimes",
+    "pattern": "*://*.timestalks.com",
+    "active": true
+  }
 ]

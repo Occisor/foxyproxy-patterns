@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nyaa",
-            "pattern": "*://*.nyaa.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nyaa",
+    "pattern": "*://*.nyaa.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nyaa",
-            "pattern": "*://*.nyaa.si",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "nyaa",
+    "pattern": "*://*.nyaa.si",
+    "active": true
+  }
 ]

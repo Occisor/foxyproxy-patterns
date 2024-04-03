@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "deepin",
-            "pattern": "*://*.deepin.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "deepin",
+    "pattern": "*://*.deepin.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "deepin",
-            "pattern": "*://*.deepin.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "deepin",
+    "pattern": "*://*.deepin.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "deepin",
-            "pattern": "*://*.deepin.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "deepin",
+    "pattern": "*://*.deepin.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "deepin",
-            "pattern": "*://*.deepin.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "deepin",
+    "pattern": "*://*.deepin.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "deepin",
-            "pattern": "*://*.chinauos.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "deepin",
+    "pattern": "*://*.chinauos.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "deepin",
-            "pattern": "*://*.uniontech.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "deepin",
+    "pattern": "*://*.uniontech.com",
+    "active": true
+  }
 ]

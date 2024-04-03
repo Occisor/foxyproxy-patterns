@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wish",
-            "pattern": "*://*.wish.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "wish",
+    "pattern": "*://*.wish.com",
+    "active": true
+  }
 ]

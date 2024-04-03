@@ -1,72 +1,72 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yuewen",
-            "pattern": "*://*.yuewen.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yuewen",
+    "pattern": "*://*.yuewen.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yuewen",
-            "pattern": "*://*.hongxiu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yuewen",
+    "pattern": "*://*.hongxiu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yuewen",
-            "pattern": "*://*.lrts.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yuewen",
+    "pattern": "*://*.lrts.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yuewen",
-            "pattern": "*://*.qdmm.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yuewen",
+    "pattern": "*://*.qdmm.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yuewen",
-            "pattern": "*://*.qidian.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yuewen",
+    "pattern": "*://*.qidian.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yuewen",
-            "pattern": "*://*.readnovel.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yuewen",
+    "pattern": "*://*.readnovel.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yuewen",
-            "pattern": "*://*.tingbook.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yuewen",
+    "pattern": "*://*.tingbook.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yuewen",
-            "pattern": "*://*.webnovel.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yuewen",
+    "pattern": "*://*.webnovel.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yuewen",
-            "pattern": "*://*.xs8.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yuewen",
+    "pattern": "*://*.xs8.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yuewen",
-            "pattern": "*://*.xxsy.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "yuewen",
+    "pattern": "*://*.xxsy.net",
+    "active": true
+  }
 ]

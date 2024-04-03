@@ -1,408 +1,408 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.95588.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.95588.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.95588.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.95588.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.dccnet.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.dccnet.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc-at.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc-at.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc-cz.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc-cz.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc-ltd.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc-ltd.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc-uk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc-uk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc-us.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc-us.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.ae",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.ae",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.be",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.be",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.co.id",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.co.id",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.co.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.co.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.co.nl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.co.nl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.kh",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.kh",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.kw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.kw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.la",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.la",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.mm",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.mm",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.mo",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.mo",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.mx",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.mx",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.pe",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.pe",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.pk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.pk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.qa",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.qa",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.com.vn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.com.vn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbc.lu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbc.lu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcalmaty.kz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcalmaty.kz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcasia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcasia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcbr.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcbr.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbccs.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbccs.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbccstz.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbccstz.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbci.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbci.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcina.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcina.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcindia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcindia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcit.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcit.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbclondon.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbclondon.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcmanila.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcmanila.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcme.ae",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcme.ae",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcmoscow.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcmoscow.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcmy.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcmy.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcnz.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcnz.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcpanama.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcpanama.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcparis.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcparis.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcpl.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcpl.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcstandard.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcstandard.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcstandardbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcstandardbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcstandardresources.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcstandardresources.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcstandardsecurities.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcstandardsecurities.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcswiss.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcswiss.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbcthai.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbcthai.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbkfs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbkfs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "icbc",
-            "pattern": "*://*.icbkus.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "icbc",
+    "pattern": "*://*.icbkus.com",
+    "active": true
+  }
 ]

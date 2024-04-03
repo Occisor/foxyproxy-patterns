@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "clubhouse",
-            "pattern": "*://*.clubhouse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "clubhouse",
+    "pattern": "*://*.clubhouse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "clubhouse",
-            "pattern": "*://*.clubhouseapi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "clubhouse",
+    "pattern": "*://*.clubhouseapi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "clubhouse",
-            "pattern": "*://*.joinclubhouse.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "clubhouse",
+    "pattern": "*://*.joinclubhouse.com",
+    "active": true
+  }
 ]

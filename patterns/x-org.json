@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "x-org",
-            "pattern": "*://*.x.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "x-org",
+    "pattern": "*://*.x.org",
+    "active": true
+  }
 ]

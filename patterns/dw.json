@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dw",
-            "pattern": "*://*.dw.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dw",
+    "pattern": "*://*.dw.com",
+    "active": true
+  }
 ]

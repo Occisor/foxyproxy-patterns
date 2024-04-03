@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinabroadnet",
-            "pattern": "*://*.10099.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinabroadnet",
+    "pattern": "*://*.10099.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinabroadnet",
-            "pattern": "*://*.chn.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinabroadnet",
+    "pattern": "*://*.chn.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinabroadnet",
-            "pattern": "*://*.ahitv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinabroadnet",
+    "pattern": "*://*.ahitv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinabroadnet",
-            "pattern": "*://*.cqccn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinabroadnet",
+    "pattern": "*://*.cqccn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinabroadnet",
-            "pattern": "*://*.gcable.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinabroadnet",
+    "pattern": "*://*.gcable.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinabroadnet",
-            "pattern": "*://*.sc96655.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinabroadnet",
+    "pattern": "*://*.sc96655.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinabroadnet",
-            "pattern": "*://*.isxtv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinabroadnet",
+    "pattern": "*://*.isxtv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinabroadnet",
-            "pattern": "*://*.sdgdwljt.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinabroadnet",
+    "pattern": "*://*.sdgdwljt.com",
+    "active": true
+  }
 ]

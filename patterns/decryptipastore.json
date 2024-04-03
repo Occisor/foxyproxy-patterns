@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "decryptipastore",
-            "pattern": "*://*.decrypt.day",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "decryptipastore",
+    "pattern": "*://*.decrypt.day",
+    "active": true
+  }
 ]

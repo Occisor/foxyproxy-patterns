@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "maying",
-            "pattern": "*://*.maying.co",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "maying",
+    "pattern": "*://*.maying.co",
+    "active": true
+  }
 ]

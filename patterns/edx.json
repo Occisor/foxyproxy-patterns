@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "edx",
-            "pattern": "*://*.edx.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "edx",
+    "pattern": "*://*.edx.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "edx",
-            "pattern": "*://*.edx-cdn.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "edx",
+    "pattern": "*://*.edx-cdn.org",
+    "active": true
+  }
 ]

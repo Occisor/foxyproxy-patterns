@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "badgen",
-            "pattern": "*://*.badgen.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "badgen",
+    "pattern": "*://*.badgen.net",
+    "active": true
+  }
 ]

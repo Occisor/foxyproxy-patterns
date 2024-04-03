@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dmm-porn",
-            "pattern": "*://*.dmm.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dmm-porn",
+    "pattern": "*://*.dmm.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dmm-porn",
-            "pattern": "*://*.dmmrex.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dmm-porn",
+    "pattern": "*://*.dmmrex.com",
+    "active": true
+  }
 ]

@@ -1,142 +1,142 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.bookclubgirl.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.bookclubgirl.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.collins.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.collins.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.collins.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.collins.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.egmontbooks.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.egmontbooks.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.epicreads.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.epicreads.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harperacademic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harperacademic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harperapps.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harperapps.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harpercollins.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harpercollins.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harpercollins.co.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harpercollins.co.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harpercollins.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harpercollins.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harpercollins.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harpercollins.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harpercollins.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harpercollins.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harpercollinsadvantage.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harpercollinsadvantage.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harpercollinschildrensbooks.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harpercollinschildrensbooks.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harpercollinschristian.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harpercollinschristian.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.harpercollinsspeakersbureau.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.harpercollinsspeakersbureau.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.hcpdts.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.hcpdts.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.librarylovefest.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.librarylovefest.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.natgeokidsbooks.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.natgeokidsbooks.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "harpercollins",
-            "pattern": "*://*.shelfstuff.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "harpercollins",
+    "pattern": "*://*.shelfstuff.com",
+    "active": true
+  }
 ]

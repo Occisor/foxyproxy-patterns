@@ -1,30 +1,30 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dcard",
-            "pattern": "*://*.dcard.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dcard",
+    "pattern": "*://*.dcard.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dcard",
-            "pattern": "*://*.dcard.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dcard",
+    "pattern": "*://*.dcard.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dcard",
-            "pattern": "*://*.dcard.link",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dcard",
+    "pattern": "*://*.dcard.link",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dcard",
-            "pattern": "*://*.dcard.tw",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dcard",
+    "pattern": "*://*.dcard.tw",
+    "active": true
+  }
 ]

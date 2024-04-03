@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bitstamp",
-            "pattern": "*://*.bitstamp.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bitstamp",
+    "pattern": "*://*.bitstamp.net",
+    "active": true
+  }
 ]

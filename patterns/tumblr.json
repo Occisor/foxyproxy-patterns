@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tumblr",
-            "pattern": "*://*.tumblr.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tumblr",
+    "pattern": "*://*.tumblr.com",
+    "active": true
+  }
 ]

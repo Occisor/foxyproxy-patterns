@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chemequations",
-            "pattern": "*://*.chemequations.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "chemequations",
+    "pattern": "*://*.chemequations.com",
+    "active": true
+  }
 ]

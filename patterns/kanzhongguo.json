@@ -1,114 +1,114 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.es-visiontimes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.es-visiontimes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.kannewyork.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.kannewyork.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.kanzhongguo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.kanzhongguo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.kanzhongguo.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.kanzhongguo.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.secretchina.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.secretchina.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.trithucvn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.trithucvn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.trithucvn.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.trithucvn.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.vct.news",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.vct.news",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.visiontimes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.visiontimes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.visiontimes.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.visiontimes.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.visiontimes.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.visiontimes.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.visiontimes.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.visiontimes.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.visiontimes.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.visiontimes.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.visiontimesjp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.visiontimesjp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.vtvan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.vtvan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kanzhongguo",
-            "pattern": "*://*.watchinese.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "kanzhongguo",
+    "pattern": "*://*.watchinese.com",
+    "active": true
+  }
 ]

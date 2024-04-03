@@ -1,100 +1,100 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.blizzard.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.blizzard.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.blizzardgearstore.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.blizzardgearstore.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.blz-contentstack.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.blz-contentstack.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.battle.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.battle.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.diablo3.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.diablo3.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.diabloimmortal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.diabloimmortal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.firesidegatherings.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.firesidegatherings.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.playhearthstone.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.playhearthstone.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.heroesofthestorm.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.heroesofthestorm.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.playoverwatch.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.playoverwatch.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.starcraft.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.starcraft.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.starcraft2.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.starcraft2.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.playwarcraft3.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.playwarcraft3.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "blizzard",
-            "pattern": "*://*.worldofwarcraft.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "blizzard",
+    "pattern": "*://*.worldofwarcraft.com",
+    "active": true
+  }
 ]

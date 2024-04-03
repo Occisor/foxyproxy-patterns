@@ -1,135 +1,135 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.cl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.cl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.co.id",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.co.id",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.co.th",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.co.th",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.com.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.com.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.com.mx",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.com.mx",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.com.my",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.com.my",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.id",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.id",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.ph",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.ph",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopee.vn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopee.vn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shopeemobile.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shopeemobile.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shopee",
-            "pattern": "*://*.shp.ee",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "shopee",
+    "pattern": "*://*.shp.ee",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "getcomposer",
-            "pattern": "*://*.getcomposer.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "getcomposer",
+    "pattern": "*://*.getcomposer.org",
+    "active": true
+  }
 ]

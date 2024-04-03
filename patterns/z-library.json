@@ -1,289 +1,289 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.1lib.cloud",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.1lib.cloud",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.1lib.cz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.1lib.cz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.1lib.domains",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.1lib.domains",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.1lib.education",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.1lib.education",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.1lib.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.1lib.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.1lib.limited",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.1lib.limited",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.1lib.pl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.1lib.pl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.1lib.to",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.1lib.to",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.1lib.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.1lib.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.2lib.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.2lib.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.3lib.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.3lib.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.art1lib.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.art1lib.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.b-ok.africa",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.b-ok.africa",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.b-ok.asia",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.b-ok.asia",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.b-ok.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.b-ok.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.b-ok.global",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.b-ok.global",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.b-ok.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.b-ok.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.book4you.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.book4you.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.bookfi.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.bookfi.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.booksc.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.booksc.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.booksc.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.booksc.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.booksc.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.booksc.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.booksc.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.booksc.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.bookshome.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.bookshome.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.bookshome.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.bookshome.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.bookshome.world",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.bookshome.world",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.de1lib.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.de1lib.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.hk1lib.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.hk1lib.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.libsolutions.app",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.libsolutions.app",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.libsolutions.domains",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.libsolutions.domains",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.libsolutions.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.libsolutions.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.ma1lib.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.ma1lib.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.sg1lib.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.sg1lib.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.singlelogin.app",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.singlelogin.app",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.singlelogin.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.singlelogin.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.singlelogin.re",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.singlelogin.re",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.singlelogin.site",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.singlelogin.site",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.z-lib.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.z-lib.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.zlib.life",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.zlib.life",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.zlibcdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.zlibcdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "z-library",
-            "pattern": "*://*.zlibcdn2.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "z-library",
+    "pattern": "*://*.zlibcdn2.com",
+    "active": true
+  }
 ]

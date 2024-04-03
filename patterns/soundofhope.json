@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "soundofhope",
-            "pattern": "*://*.bayvoice.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundofhope",
+    "pattern": "*://*.bayvoice.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "soundofhope",
-            "pattern": "*://*.ozvoice.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundofhope",
+    "pattern": "*://*.ozvoice.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "soundofhope",
-            "pattern": "*://*.sohcradio.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundofhope",
+    "pattern": "*://*.sohcradio.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "soundofhope",
-            "pattern": "*://*.sohfrance.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundofhope",
+    "pattern": "*://*.sohfrance.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "soundofhope",
-            "pattern": "*://*.soundofhope.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundofhope",
+    "pattern": "*://*.soundofhope.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "soundofhope",
-            "pattern": "*://*.soundofhope.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundofhope",
+    "pattern": "*://*.soundofhope.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "soundofhope",
-            "pattern": "*://*.soundofhope.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundofhope",
+    "pattern": "*://*.soundofhope.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "soundofhope",
-            "pattern": "*://*.wanokokorosoh.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundofhope",
+    "pattern": "*://*.wanokokorosoh.com",
+    "active": true
+  }
 ]

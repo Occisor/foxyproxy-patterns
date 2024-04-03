@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mobile01",
-            "pattern": "*://*.5i01.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mobile01",
+    "pattern": "*://*.5i01.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mobile01",
-            "pattern": "*://*.mobile01.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mobile01",
+    "pattern": "*://*.mobile01.com",
+    "active": true
+  }
 ]

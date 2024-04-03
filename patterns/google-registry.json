@@ -1,86 +1,86 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.charlestonroadregistry.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.charlestonroadregistry.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.crr.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.crr.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.registry.google",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.registry.google",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.get.app",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.get.app",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.get.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.get.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.get.how",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.get.how",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.get.new",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.get.new",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.get.page",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.get.page",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.get.rsvp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.get.rsvp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.hey.boo",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.hey.boo",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.iam.soy",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.iam.soy",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-registry",
-            "pattern": "*://*.new.day",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-registry",
+    "pattern": "*://*.new.day",
+    "active": true
+  }
 ]

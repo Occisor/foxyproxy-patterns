@@ -1,121 +1,121 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.anm.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.anm.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.dailym.ai",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.dailym.ai",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.dailymail.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.dailymail.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.dailymail.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.dailymail.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.dailymail.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.dailymail.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.dailymail.dk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.dailymail.dk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.dailymailonline.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.dailymailonline.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.dmgmediaprivacy.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.dmgmediaprivacy.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.mailhealth.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.mailhealth.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.mailonline.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.mailonline.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.mailonline.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.mailonline.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.mailonsunday.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.mailonsunday.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.mailonsunday.ie",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.mailonsunday.ie",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.metro.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.metro.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.mol.im",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.mol.im",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.thisismoney.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.thisismoney.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dailymail",
-            "pattern": "*://*.thismon.ee",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dailymail",
+    "pattern": "*://*.thismon.ee",
+    "active": true
+  }
 ]

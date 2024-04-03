@@ -1,51 +1,51 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "didi",
-            "pattern": "*://*.didi-food.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "didi",
+    "pattern": "*://*.didi-food.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "didi",
-            "pattern": "*://*.didiaustralia.blog",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "didi",
+    "pattern": "*://*.didiaustralia.blog",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "didi",
-            "pattern": "*://*.didichuxing.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "didi",
+    "pattern": "*://*.didichuxing.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "didi",
-            "pattern": "*://*.didiglobal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "didi",
+    "pattern": "*://*.didiglobal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "didi",
-            "pattern": "*://*.didimobility.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "didi",
+    "pattern": "*://*.didimobility.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "didi",
-            "pattern": "*://*.didistatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "didi",
+    "pattern": "*://*.didistatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "didi",
-            "pattern": "*://*.xiaojukeji.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "didi",
+    "pattern": "*://*.xiaojukeji.com",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wise",
-            "pattern": "*://*.transferwise.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wise",
+    "pattern": "*://*.transferwise.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wise",
-            "pattern": "*://*.wise.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "wise",
+    "pattern": "*://*.wise.com",
+    "active": true
+  }
 ]

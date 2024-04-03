@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youzan",
-            "pattern": "*://*.youzan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youzan",
+    "pattern": "*://*.youzan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youzan",
-            "pattern": "*://*.yzcdn.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youzan",
+    "pattern": "*://*.yzcdn.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youzan",
-            "pattern": "*://*.youzanyun.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "youzan",
+    "pattern": "*://*.youzanyun.com",
+    "active": true
+  }
 ]

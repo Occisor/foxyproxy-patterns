@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huya",
-            "pattern": "*://*.huya.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huya",
+    "pattern": "*://*.huya.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huya",
-            "pattern": "*://*.msstatic.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "huya",
+    "pattern": "*://*.msstatic.com",
+    "active": true
+  }
 ]

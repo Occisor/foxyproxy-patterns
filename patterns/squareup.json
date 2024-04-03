@@ -1,86 +1,86 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.cash.app",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.cash.app",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.cashbycashapp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.cashbycashapp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.gosq.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.gosq.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.gosq.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.gosq.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.issquaredown.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.issquaredown.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.issquareup.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.issquareup.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.mkt.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.mkt.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.sellercommunity.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.sellercommunity.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.squarecapital.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.squarecapital.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.squarecdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.squarecdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.squarecloudservices.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.squarecloudservices.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "squareup",
-            "pattern": "*://*.squareup.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "squareup",
+    "pattern": "*://*.squareup.com",
+    "active": true
+  }
 ]

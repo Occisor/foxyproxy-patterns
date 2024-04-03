@@ -1,3299 +1,3299 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.and",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.chrome",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.dclk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gbiz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gle",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gmail",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.goo",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.goog",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.guge",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.hangout",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.nexus",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.xn--flw351e",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.xn--qcka1pmc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ad",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ae",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.al",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.am",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.as",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.at",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.az",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ba",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.be",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.bf",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.bg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.bi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.bj",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.bs",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.bt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.by",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.cat",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.cd",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.cf",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.cg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ch",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ci",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.cl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.cm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.ao",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.bw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.ck",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.cr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.id",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.il",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.in",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.ke",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.kr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.ls",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.ma",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.mz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.nz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.th",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.tz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.ug",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.uz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.ve",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.vi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.za",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.zm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.co.zw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.af",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.ag",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.ai",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.ar",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.au",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.bd",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.bh",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.bn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.bo",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.br",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.bz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.cu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.cy",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.do",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.ec",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.eg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.et",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.fj",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.gh",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.gi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.gt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.jm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.kh",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.kw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.lb",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.ly",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.mm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.mt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.mx",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.my",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.na",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.ng",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.ni",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.np",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.om",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.pa",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.pe",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.pg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.ph",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.pk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.pr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.py",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.qa",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.sa",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.sb",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.sg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.sl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.sv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.tj",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.tr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.tw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.ua",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.uy",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.vc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.com.vn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.cv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.cz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.dj",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.dk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.dm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.dz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ee",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.es",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.fi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.fm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.fr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ga",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ge",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.gg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.gl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.gm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.gr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.gy",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.hn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.hr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ht",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.hu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ie",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.im",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.iq",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.is",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.it",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.je",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.jo",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.kg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ki",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.kz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.la",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.li",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.lk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.lt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.lu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.lv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.md",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.me",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.mg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.mk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ml",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.mn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.mu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.mv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.mw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ne",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.nl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.no",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.nr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.nu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.pl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.pn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ps",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.pt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ro",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.rs",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ru",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.rw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.sc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.se",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.sh",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.si",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.sk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.sm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.sn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.so",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.sr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.st",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.td",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.tg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.tl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.tm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.tn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.to",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.tt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.vg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.vu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ws",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.0emm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.1e100.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.1ucrs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.466453.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.abc.xyz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.adgoogle.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.admeld.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.angulardart.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.api.ai",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.apigee.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.appbridge.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.appbridge.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.appbridge.it",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.appspot.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.apture.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.area120.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.asp-cc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.autodraw.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.bandpage.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.baselinestudy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.baselinestudy.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.bazel.build",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.bdn.dev",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.beatthatquote.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.blink.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.brocaproject.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.brotli.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.bumpshare.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.bumptop.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.bumptop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.bumptop.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.bumptop.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.bumptunes.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.campuslondon.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.certificate-transparency.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.chrome.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.chromebook.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.chromecast.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.chromeos.dev",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.chromium.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.chronicle.security",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.chroniclesec.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.cloudburstresearch.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.cloudfunctions.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.cloudproxy.app",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.cloudrobotics.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.cobrasearch.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.codespot.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.conscrypt.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.conscrypt.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.cookiechoices.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.coova.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.coova.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.coova.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.crossmediapanel.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.cs4hs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.dartsearch.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.dataliberation.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.debug.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.debugproject.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.deepmind.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.devsitetest.how",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.dialogflow.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.digitalassetlinks.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.episodic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.feedburner.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.fflick.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.financeleadsonline.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.foofle.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.froogle.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.fuchsia.dev",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.g-tun.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.g.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.g.dev",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.g.page",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gateway.dev",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gcr.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gerritcodereview.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.getbumptop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.ggoogle.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gipscorp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.globaledu.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gmail.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gmodules.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gogle.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gogole.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gonglchuangl.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.goo.gl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googel.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googil.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googl.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google-access.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google-syndication.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.berlin",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.dev",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.google.ventures",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googleacquisitionmigration.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googleapis.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googleapis.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googleapps.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlearth.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googleblog.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlebot.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlecapital.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlecert.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlecode.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlecommerce.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlecompare.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googledanmark.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googledomains.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googledrive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlee.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googleearth.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlefiber.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlefiber.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlefinland.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlemail.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlemaps.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlepagecreator.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlephotos.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googleplay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googleplus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlesource.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlestore.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlesverige.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googleusercontent.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googleventures.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlezip.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.googlr.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.goolge.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gooogle.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gridaware.app",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gsrc.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gsuite.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gv.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gvt0.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gvt1.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gvt2.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gvt3.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gvt5.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gvt6.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gvt7.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.gvt9.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.haplorrhini.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.hdrplusdata.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.hindiweb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.howtogetmo.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.html5rocks.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.hwgo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.iamremarkable.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.idx.dev",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.igoogle.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.impermium.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.itasoftware.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.j2objc.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.jibemobile.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.keyhole.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.keytransparency.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.keytransparency.foo",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.keytransparency.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.lanternal.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.like.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.madewithcode.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.material.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.mdialog.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.meet.new",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.mfg-inspector.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.mobileview.page",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.moodstocks.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.near.by",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.nest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.nomulus.foo",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.oauthz.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.on.here",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.on2.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.onefifteen.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.onefifteen.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.oneworldmanystories.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.openthread.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.openweave.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.orbitera.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.page.link",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.pagespeedmobilizer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.pageview.mobi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.panoramio.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.partylikeits1986.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.paxlicense.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.picasa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.picasaweb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.picasaweb.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.picasaweb.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.picnik.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.pittpatt.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.pixate.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.postini.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.privacysandbox.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.projectara.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.projectbaseline.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.publishproxy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.questvisual.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.quickoffice.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.quiksee.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.revolv.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.ridepenguin.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.run.app",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.savethedate.foo",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.saynow.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.schemer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.screenwisetrends.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.screenwisetrendspanel.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.snapseed.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.solveforx.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.stadia.dev",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.stcroixmosquito.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.stcroixmosquitoproject.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.studywatchbyverily.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.studywatchbyverily.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.stxmosquito.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.stxmosquitoproject.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.stxmosquitoproject.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.stxmosquitoproject.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.synergyse.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.tensorflow.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.tfhub.dev",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.thecleversense.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.thegooglestore.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.thinkquarterly.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.thinkquarterly.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.thinkwithgoogle.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.tiltbrush.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.txcloud.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.txvia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.unfiltered.news",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.useplannr.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.usvimosquito.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.usvimosquitoproject.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.velostrata.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.verily.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.verilylifesciences.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.verilystudyhub.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.verilystudywatch.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.verilystudywatch.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.wallet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.waymo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.waze.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.web.app",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.web.dev",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.webappfieldguide.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.webmproject.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.webpkgcache.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.webrtc.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.weltweitwachsen.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.whatbrowser.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.widevine.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.withgoogle.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.womenwill.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.womenwill.com.br",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.womenwill.id",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.womenwill.in",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.womenwill.mx",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.x.company",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.x.team",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.xplr.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google",
-            "pattern": "*://*.zukunftswerkstatt.de",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.and",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.chrome",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.dclk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gbiz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gle",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gmail",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.goo",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.goog",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.guge",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.hangout",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.nexus",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.xn--flw351e",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.xn--qcka1pmc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ad",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ae",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.al",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.am",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.as",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.at",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.az",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ba",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.be",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.bf",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.bg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.bi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.bj",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.bs",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.bt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.by",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.cat",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.cd",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.cf",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.cg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ch",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ci",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.cl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.cm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.ao",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.bw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.ck",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.cr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.id",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.il",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.in",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.ke",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.kr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.ls",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.ma",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.mz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.nz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.th",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.tz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.ug",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.uz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.ve",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.vi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.za",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.zm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.co.zw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.af",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.ag",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.ai",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.ar",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.au",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.bd",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.bh",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.bn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.bo",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.br",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.bz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.cu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.cy",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.do",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.ec",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.eg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.et",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.fj",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.gh",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.gi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.gt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.jm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.kh",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.kw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.lb",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.ly",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.mm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.mt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.mx",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.my",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.na",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.ng",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.ni",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.np",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.om",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.pa",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.pe",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.pg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.ph",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.pk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.pr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.py",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.qa",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.sa",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.sb",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.sg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.sl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.sv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.tj",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.tr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.tw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.ua",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.uy",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.vc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.com.vn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.cv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.cz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.dj",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.dk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.dm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.dz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ee",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.es",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.fi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.fm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.fr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ga",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ge",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.gg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.gl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.gm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.gr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.gy",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.hn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.hr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ht",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.hu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ie",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.im",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.iq",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.is",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.it",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.je",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.jo",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.kg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ki",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.kz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.la",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.li",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.lk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.lt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.lu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.lv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.md",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.me",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.mg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.mk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ml",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.mn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.mu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.mv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.mw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ne",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.nl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.no",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.nr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.nu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.pl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.pn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ps",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.pt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ro",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.rs",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ru",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.rw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.sc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.se",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.sh",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.si",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.sk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.sm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.sn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.so",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.sr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.st",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.td",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.tg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.tl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.tm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.tn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.to",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.tt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.vg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.vu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ws",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.0emm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.1e100.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.1ucrs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.466453.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.abc.xyz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.adgoogle.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.admeld.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.angulardart.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.api.ai",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.apigee.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.appbridge.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.appbridge.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.appbridge.it",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.appspot.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.apture.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.area120.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.asp-cc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.autodraw.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.bandpage.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.baselinestudy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.baselinestudy.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.bazel.build",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.bdn.dev",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.beatthatquote.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.blink.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.brocaproject.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.brotli.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.bumpshare.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.bumptop.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.bumptop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.bumptop.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.bumptop.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.bumptunes.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.campuslondon.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.certificate-transparency.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.chrome.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.chromebook.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.chromecast.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.chromeos.dev",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.chromium.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.chronicle.security",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.chroniclesec.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.cloudburstresearch.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.cloudfunctions.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.cloudproxy.app",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.cloudrobotics.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.cobrasearch.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.codespot.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.conscrypt.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.conscrypt.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.cookiechoices.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.coova.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.coova.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.coova.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.crossmediapanel.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.cs4hs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.dartsearch.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.dataliberation.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.debug.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.debugproject.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.deepmind.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.devsitetest.how",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.dialogflow.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.digitalassetlinks.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.episodic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.feedburner.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.fflick.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.financeleadsonline.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.foofle.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.froogle.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.fuchsia.dev",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.g-tun.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.g.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.g.dev",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.g.page",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gateway.dev",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gcr.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gerritcodereview.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.getbumptop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.ggoogle.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gipscorp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.globaledu.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gmail.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gmodules.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gogle.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gogole.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gonglchuangl.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.goo.gl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googel.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googil.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googl.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google-access.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google-syndication.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.berlin",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.dev",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.google.ventures",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googleacquisitionmigration.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googleapis.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googleapis.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googleapps.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlearth.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googleblog.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlebot.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlecapital.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlecert.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlecode.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlecommerce.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlecompare.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googledanmark.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googledomains.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googledrive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlee.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googleearth.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlefiber.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlefiber.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlefinland.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlemail.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlemaps.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlepagecreator.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlephotos.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googleplay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googleplus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlesource.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlestore.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlesverige.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googleusercontent.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googleventures.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlezip.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.googlr.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.goolge.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gooogle.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gridaware.app",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gsrc.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gsuite.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gv.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gvt0.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gvt1.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gvt2.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gvt3.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gvt5.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gvt6.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gvt7.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.gvt9.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.haplorrhini.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.hdrplusdata.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.hindiweb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.howtogetmo.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.html5rocks.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.hwgo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.iamremarkable.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.idx.dev",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.igoogle.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.impermium.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.itasoftware.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.j2objc.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.jibemobile.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.keyhole.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.keytransparency.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.keytransparency.foo",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.keytransparency.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.lanternal.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.like.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.madewithcode.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.material.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.mdialog.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.meet.new",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.mfg-inspector.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.mobileview.page",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.moodstocks.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.near.by",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.nest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.nomulus.foo",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.oauthz.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.on.here",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.on2.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.onefifteen.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.onefifteen.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.oneworldmanystories.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.openthread.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.openweave.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.orbitera.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.page.link",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.pagespeedmobilizer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.pageview.mobi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.panoramio.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.partylikeits1986.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.paxlicense.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.picasa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.picasaweb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.picasaweb.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.picasaweb.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.picnik.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.pittpatt.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.pixate.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.postini.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.privacysandbox.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.projectara.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.projectbaseline.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.publishproxy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.questvisual.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.quickoffice.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.quiksee.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.revolv.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.ridepenguin.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.run.app",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.savethedate.foo",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.saynow.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.schemer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.screenwisetrends.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.screenwisetrendspanel.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.snapseed.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.solveforx.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.stadia.dev",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.stcroixmosquito.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.stcroixmosquitoproject.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.studywatchbyverily.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.studywatchbyverily.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.stxmosquito.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.stxmosquitoproject.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.stxmosquitoproject.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.stxmosquitoproject.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.synergyse.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.tensorflow.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.tfhub.dev",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.thecleversense.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.thegooglestore.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.thinkquarterly.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.thinkquarterly.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.thinkwithgoogle.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.tiltbrush.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.txcloud.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.txvia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.unfiltered.news",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.useplannr.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.usvimosquito.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.usvimosquitoproject.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.velostrata.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.verily.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.verilylifesciences.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.verilystudyhub.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.verilystudywatch.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.verilystudywatch.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.wallet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.waymo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.waze.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.web.app",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.web.dev",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.webappfieldguide.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.webmproject.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.webpkgcache.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.webrtc.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.weltweitwachsen.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.whatbrowser.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.widevine.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.withgoogle.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.womenwill.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.womenwill.com.br",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.womenwill.id",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.womenwill.in",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.womenwill.mx",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.x.company",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.x.team",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.xplr.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "google",
+    "pattern": "*://*.zukunftswerkstatt.de",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nordstrom",
-            "pattern": "*://*.nordstrom.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nordstrom",
+    "pattern": "*://*.nordstrom.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nordstrom",
-            "pattern": "*://*.nordstrommedia.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "nordstrom",
+    "pattern": "*://*.nordstrommedia.com",
+    "active": true
+  }
 ]

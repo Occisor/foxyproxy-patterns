@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mega",
-            "pattern": "*://*.mega.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mega",
+    "pattern": "*://*.mega.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mega",
-            "pattern": "*://*.mega.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mega",
+    "pattern": "*://*.mega.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mega",
-            "pattern": "*://*.mega.nz",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mega",
+    "pattern": "*://*.mega.nz",
+    "active": true
+  }
 ]

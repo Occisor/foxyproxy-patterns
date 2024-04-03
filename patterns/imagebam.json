@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "imagebam",
-            "pattern": "*://*.imagebam.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "imagebam",
+    "pattern": "*://*.imagebam.com",
+    "active": true
+  }
 ]

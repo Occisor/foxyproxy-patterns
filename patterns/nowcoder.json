@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nowcoder",
-            "pattern": "*://*.newcoder.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nowcoder",
+    "pattern": "*://*.newcoder.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nowcoder",
-            "pattern": "*://*.nowcoder.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nowcoder",
+    "pattern": "*://*.nowcoder.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nowcoder",
-            "pattern": "*://*.nowcoder.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "nowcoder",
+    "pattern": "*://*.nowcoder.org",
+    "active": true
+  }
 ]

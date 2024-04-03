@@ -1,303 +1,303 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.cispaletter.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.cispaletter.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.cispaletter.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.cispaletter.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.cometotheduckside.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.cometotheduckside.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.ddg.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.ddg.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.ddg.gg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.ddg.gg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.ddh.gg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.ddh.gg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.dgg.gg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.dgg.gg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.dontbubble.us",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.dontbubble.us",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.donttrack.us",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.donttrack.us",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duck.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duck.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duck.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duck.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckco.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckco.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckco.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckco.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.com.mx",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.com.mx",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.dk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.dk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.ke",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.ke",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.mx",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.mx",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.nl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.nl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.pl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.pl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckgo.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckgo.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckduckhack.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckduckhack.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckgo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckgo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.ducksear.ch",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.ducksear.ch",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.duckside.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.duckside.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.dukgo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.dukgo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.enteentegeh.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.enteentegeh.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.fixtracking.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.fixtracking.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.goduckgo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.goduckgo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.hacksear.ch",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.hacksear.ch",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.justduckit.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.justduckit.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.privacysimplified.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.privacysimplified.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.privatebrowsingmyths.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.privatebrowsingmyths.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "duckduckgo",
-            "pattern": "*://*.spreadprivacy.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "duckduckgo",
+    "pattern": "*://*.spreadprivacy.com",
+    "active": true
+  }
 ]

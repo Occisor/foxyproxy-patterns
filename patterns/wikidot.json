@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikidot",
-            "pattern": "*://*.wdfiles.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikidot",
+    "pattern": "*://*.wdfiles.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikidot",
-            "pattern": "*://*.wikidot.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikidot",
+    "pattern": "*://*.wikidot.com",
+    "active": true
+  }
 ]

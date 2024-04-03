@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ku6",
-            "pattern": "*://*.ku6.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ku6",
+    "pattern": "*://*.ku6.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ku6",
-            "pattern": "*://*.ku6cdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ku6",
+    "pattern": "*://*.ku6cdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ku6",
-            "pattern": "*://*.ku6img.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ku6",
+    "pattern": "*://*.ku6img.com",
+    "active": true
+  }
 ]

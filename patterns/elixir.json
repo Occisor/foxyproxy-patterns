@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "elixir",
-            "pattern": "*://*.elixir-lang.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "elixir",
+    "pattern": "*://*.elixir-lang.org",
+    "active": true
+  }
 ]

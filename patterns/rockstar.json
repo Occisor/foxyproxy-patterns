@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rockstar",
-            "pattern": "*://*.rockstargames.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rockstar",
+    "pattern": "*://*.rockstargames.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rockstar",
-            "pattern": "*://*.rsg.sc",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "rockstar",
+    "pattern": "*://*.rsg.sc",
+    "active": true
+  }
 ]

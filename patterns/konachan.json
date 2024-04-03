@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "konachan",
-            "pattern": "*://*.konachan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "konachan",
+    "pattern": "*://*.konachan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "konachan",
-            "pattern": "*://*.konachan.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "konachan",
+    "pattern": "*://*.konachan.net",
+    "active": true
+  }
 ]

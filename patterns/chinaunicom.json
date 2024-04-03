@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.10010.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.10010.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.10010.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.10010.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.114menhu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.114menhu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.chinaunicom.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.chinaunicom.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.chinaunicom.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.chinaunicom.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.chinaunicom.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.chinaunicom.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.chinaunicomglobal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.chinaunicomglobal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.mychinaunicom.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.mychinaunicom.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.wo.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.wo.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.wo.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.wo.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaunicom",
-            "pattern": "*://*.wo116114.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaunicom",
+    "pattern": "*://*.wo116114.com",
+    "active": true
+  }
 ]

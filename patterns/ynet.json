@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ynet",
-            "pattern": "*://*.ynet.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ynet",
+    "pattern": "*://*.ynet.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ynet",
-            "pattern": "*://*.ynet.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ynet",
+    "pattern": "*://*.ynet.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ynet",
-            "pattern": "*://*.ynet.com.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ynet",
+    "pattern": "*://*.ynet.com.cn",
+    "active": true
+  }
 ]

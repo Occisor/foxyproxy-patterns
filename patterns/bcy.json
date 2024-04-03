@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bcy",
-            "pattern": "*://*.bcy.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bcy",
+    "pattern": "*://*.bcy.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bcy",
-            "pattern": "*://*.bcyimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bcy",
+    "pattern": "*://*.bcyimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bcy",
-            "pattern": "*://*.lf-rc1.yhgfb-cn-static.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bcy",
+    "pattern": "*://*.lf-rc1.yhgfb-cn-static.com",
+    "active": true
+  }
 ]

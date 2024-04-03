@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shadowsockscom",
-            "pattern": "*://*.shadowsocks.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "shadowsockscom",
+    "pattern": "*://*.shadowsocks.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shadowsockscom",
-            "pattern": "*://*.shadowsocks.nl",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "shadowsockscom",
+    "pattern": "*://*.shadowsocks.nl",
+    "active": true
+  }
 ]

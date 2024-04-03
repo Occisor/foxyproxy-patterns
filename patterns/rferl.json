@@ -1,212 +1,212 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.rferl.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.rferl.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.azadiradio.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.azadiradio.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.azadliq.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.azadliq.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.azathabar.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.azathabar.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.azatliq.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.azatliq.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.azattyk.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.azattyk.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.azattyq.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.azattyq.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.azatutyun.am",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.azatutyun.am",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.currenttime.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.currenttime.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.ekhokavkaza.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.ekhokavkaza.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.europalibera.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.europalibera.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.evropaelire.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.evropaelire.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.factograph.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.factograph.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.idelreal.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.idelreal.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.kavkazr.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.kavkazr.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.krymr.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.krymr.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.mashaalradio.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.mashaalradio.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.ozodi.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.ozodi.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.ozodlik.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.ozodlik.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.radiofarda.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.radiofarda.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.radiomarsho.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.radiomarsho.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.radiosvoboda.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.radiosvoboda.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.radiotavisupleba.ge",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.radiotavisupleba.ge",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.severreal.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.severreal.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.sibreal.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.sibreal.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.slobodnaevropa.mk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.slobodnaevropa.mk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.svaboda.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.svaboda.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.svoboda.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.svoboda.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.svobodnaevropa.bg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.svobodnaevropa.bg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rferl",
-            "pattern": "*://*.szabadeuropa.hu",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "rferl",
+    "pattern": "*://*.szabadeuropa.hu",
+    "active": true
+  }
 ]

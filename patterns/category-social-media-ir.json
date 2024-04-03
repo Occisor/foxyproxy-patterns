@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.bale.ai",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.bale.ai",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.eitaa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.eitaa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.eitaa.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.eitaa.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.gap.im",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.gap.im",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.gaplication.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.gaplication.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.mizito.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.mizito.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.niniban.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.niniban.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.ninisite.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.ninisite.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.rubika.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.rubika.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.splus.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.splus.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-social-media-ir",
-            "pattern": "*://*.virasty.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-social-media-ir",
+    "pattern": "*://*.virasty.com",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bbgwatch",
-            "pattern": "*://*.bbgwatch.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bbgwatch",
+    "pattern": "*://*.bbgwatch.com",
+    "active": true
+  }
 ]

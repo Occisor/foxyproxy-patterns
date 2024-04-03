@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "deviantart",
-            "pattern": "*://*.deviantart.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "deviantart",
+    "pattern": "*://*.deviantart.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "deviantart",
-            "pattern": "*://*.deviantart.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "deviantart",
+    "pattern": "*://*.deviantart.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "deviantart",
-            "pattern": "*://*.da-files.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "deviantart",
+    "pattern": "*://*.da-files.com",
+    "active": true
+  }
 ]

@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mdn",
-            "pattern": "*://*.developer.allizom.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mdn",
+    "pattern": "*://*.developer.allizom.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mdn",
-            "pattern": "*://*.developer.mozilla.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mdn",
+    "pattern": "*://*.developer.mozilla.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mdn",
-            "pattern": "*://*.mdn.allizom.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mdn",
+    "pattern": "*://*.mdn.allizom.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mdn",
-            "pattern": "*://*.mdn.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mdn",
+    "pattern": "*://*.mdn.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mdn",
-            "pattern": "*://*.mdn.mozilla.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mdn",
+    "pattern": "*://*.mdn.mozilla.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mdn",
-            "pattern": "*://*.mdn.mozit.cloud",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mdn",
+    "pattern": "*://*.mdn.mozit.cloud",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mdn",
-            "pattern": "*://*.mdnplay.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mdn",
+    "pattern": "*://*.mdnplay.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mdn",
-            "pattern": "*://*.mdnyalp.dev",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mdn",
+    "pattern": "*://*.mdnyalp.dev",
+    "active": true
+  }
 ]

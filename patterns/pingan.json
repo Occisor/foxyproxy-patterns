@@ -1,30 +1,30 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pingan",
-            "pattern": "*://*.pingan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pingan",
+    "pattern": "*://*.pingan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pingan",
-            "pattern": "*://*.pingan.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pingan",
+    "pattern": "*://*.pingan.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pingan",
-            "pattern": "*://*.pingan.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "pingan",
+    "pattern": "*://*.pingan.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pingan",
-            "pattern": "*://*.yqb.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "pingan",
+    "pattern": "*://*.yqb.com",
+    "active": true
+  }
 ]

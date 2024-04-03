@@ -1,198 +1,198 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.bazar",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.bazar",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.bbs",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.bbs",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.chan",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.chan",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.coin",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.coin",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.cyb",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.cyb",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.dyn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.dyn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.emc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.emc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.epic",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.epic",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.free",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.free",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.fur",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.fur",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.geek",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.geek",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.gopher",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.gopher",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.indy",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.indy",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.ko",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.ko",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.ku",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.ku",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.lib",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.lib",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.libre",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.libre",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.neo",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.neo",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.null",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.null",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.o",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.o",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.oss",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.oss",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.oz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.oz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.parody",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.parody",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.pirate",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.pirate",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.rm",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.rm",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.te",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.te",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.ti",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.ti",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-opennic",
-            "pattern": "*://*.uu",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-opennic",
+    "pattern": "*://*.uu",
+    "active": true
+  }
 ]

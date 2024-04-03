@@ -1,842 +1,842 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.10xfotolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.2o7.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.acrobat.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adbecrsl.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobe-aemassets-value.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobe-audience-finder.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobe-video-partner-finder.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobe.ly",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobeaemcloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobeaemcloud.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobeawards.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobecontent.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobecreativityawards.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobedc.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobedemo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobedtm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobeexchange.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobeexperienceawards.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobegov.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobehiddentreasures.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobejanus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobeku.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobelanding.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobelogin.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobeoobe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobeplatinumclub.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobeprojectm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobesc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobesign.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobesigncdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobespark.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobess.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobestock.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobetag.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobetarget.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobetcstrialdvd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobetechcomm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobetechcommcallback.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobetechcommdemo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobexdplatform.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.assetsadobe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.authorxml.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.businesscatalyst.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.ccnsite.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.ccpsx.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.demdex.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.dollarfotoclub.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.dollarphotoclub.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.dollarphotosclub.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.douwriteright.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.echocdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.echosign.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.edgefonts.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.enablementadobe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.ftcdn.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.gostorego.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.imagineecommerce.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.macromedia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.magentoliveconference.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.marketing-nirvana.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.omniture.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.omtrdc.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.photoshop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.placesdocs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.sundanceignite2016.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.worldsecureemail.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.worldsecuresystems.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobe.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.developria.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.behance.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.s2stagehance.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobecc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobecce.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.adobeccstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.creativecloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.creativesdk.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.cotolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.ffotolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.fiotolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.foftolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.fonolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.fotiolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.fotoiia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.fotolia-noticias.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.fotolia.cc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.fotolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.fotolia.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.fotolja.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.fptolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.gfotolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.motolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.photolia.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.tenbyfotolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.votolia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.bluefootcms.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.mageconf.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.mageconf.com.ua",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.magento.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.magento.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.magentocommerce.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.magentomobile.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.marketing-cloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.marketo.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.marketo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.marketo.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.marketo.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.marketodesigner.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.marketolive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.mktdns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.mkto-c0100.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.mktorest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.mktroute.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.mobilemarketo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.revenue-performance-management.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.toutapp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.compresspdf.new",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.pdf.new",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.sign.new",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adobe",
-            "pattern": "*://*.scene7.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.10xfotolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.2o7.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.acrobat.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adbecrsl.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobe-aemassets-value.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobe-audience-finder.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobe-video-partner-finder.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobe.ly",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobeaemcloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobeaemcloud.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobeawards.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobecontent.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobecreativityawards.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobedc.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobedemo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobedtm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobeexchange.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobeexperienceawards.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobegov.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobehiddentreasures.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobejanus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobeku.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobelanding.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobelogin.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobeoobe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobeplatinumclub.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobeprojectm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobesc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobesign.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobesigncdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobespark.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobess.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobestock.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobetag.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobetarget.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobetcstrialdvd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobetechcomm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobetechcommcallback.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobetechcommdemo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobexdplatform.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.assetsadobe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.authorxml.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.businesscatalyst.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.ccnsite.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.ccpsx.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.demdex.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.dollarfotoclub.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.dollarphotoclub.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.dollarphotosclub.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.douwriteright.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.echocdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.echosign.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.edgefonts.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.enablementadobe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.ftcdn.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.gostorego.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.imagineecommerce.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.macromedia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.magentoliveconference.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.marketing-nirvana.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.omniture.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.omtrdc.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.photoshop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.placesdocs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.sundanceignite2016.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.worldsecureemail.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.worldsecuresystems.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobe.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.developria.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.behance.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.s2stagehance.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobecc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobecce.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.adobeccstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.creativecloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.creativesdk.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.cotolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.ffotolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.fiotolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.foftolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.fonolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.fotiolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.fotoiia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.fotolia-noticias.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.fotolia.cc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.fotolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.fotolia.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.fotolja.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.fptolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.gfotolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.motolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.photolia.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.tenbyfotolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.votolia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.bluefootcms.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.mageconf.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.mageconf.com.ua",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.magento.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.magento.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.magentocommerce.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.magentomobile.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.marketing-cloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.marketo.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.marketo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.marketo.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.marketo.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.marketodesigner.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.marketolive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.mktdns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.mkto-c0100.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.mktorest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.mktroute.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.mobilemarketo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.revenue-performance-management.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.toutapp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.compresspdf.new",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.pdf.new",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.sign.new",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobe",
+    "pattern": "*://*.scene7.com",
+    "active": true
+  }
 ]

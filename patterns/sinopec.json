@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sinopec",
-            "pattern": "*://*.sinopec-usa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sinopec",
+    "pattern": "*://*.sinopec-usa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sinopec",
-            "pattern": "*://*.sinopec.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sinopec",
+    "pattern": "*://*.sinopec.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sinopec",
-            "pattern": "*://*.sinopecgroup.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sinopec",
+    "pattern": "*://*.sinopecgroup.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sinopec",
-            "pattern": "*://*.sinopecnews.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sinopec",
+    "pattern": "*://*.sinopecnews.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sinopec",
-            "pattern": "*://*.sinopecsales.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "sinopec",
+    "pattern": "*://*.sinopecsales.com",
+    "active": true
+  }
 ]

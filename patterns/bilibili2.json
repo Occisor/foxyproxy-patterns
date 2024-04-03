@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bilibili2",
-            "pattern": "*://*.bili2.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bilibili2",
+    "pattern": "*://*.bili2.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bilibili2",
-            "pattern": "*://*.bili888.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bilibili2",
+    "pattern": "*://*.bili888.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bilibili2",
-            "pattern": "*://*.bili999.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bilibili2",
+    "pattern": "*://*.bili999.com",
+    "active": true
+  }
 ]

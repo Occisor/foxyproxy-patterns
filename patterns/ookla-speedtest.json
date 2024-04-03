@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.cdnst.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.cdnst.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.cellmaps.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.cellmaps.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.ekahau.cloud",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.ekahau.cloud",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.ekahau.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.ekahau.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.ookla.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.ookla.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.ooklaserver.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.ooklaserver.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.pingtest.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.pingtest.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.speedtest.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.speedtest.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.speedtest.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.speedtest.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.speedtestcustom.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.speedtestcustom.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ookla-speedtest",
-            "pattern": "*://*.webtest.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ookla-speedtest",
+    "pattern": "*://*.webtest.net",
+    "active": true
+  }
 ]

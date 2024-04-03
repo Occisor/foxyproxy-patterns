@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bongacams",
-            "pattern": "*://*.bcicdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bongacams",
+    "pattern": "*://*.bcicdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bongacams",
-            "pattern": "*://*.bcrncdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bongacams",
+    "pattern": "*://*.bcrncdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bongacams",
-            "pattern": "*://*.bongacams.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bongacams",
+    "pattern": "*://*.bongacams.com",
+    "active": true
+  }
 ]

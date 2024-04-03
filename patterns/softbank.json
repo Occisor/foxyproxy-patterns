@@ -1,142 +1,142 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbank",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbank",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.sb-mobile.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.sb-mobile.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.sb-telecom.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.sb-telecom.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbank-ipo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbank-ipo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbank-jp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbank-jp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbank-robotics.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbank-robotics.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbank-telecom.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbank-telecom.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbank-telecom.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbank-telecom.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbank.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbank.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbank.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbank.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbankbb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbankbb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbankbb.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbankbb.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbankci.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbankci.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbankhawksstore.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbankhawksstore.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbankmobile.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbankmobile.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbankrobotics.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbankrobotics.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbanktelecom.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbanktelecom.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbankusa.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbankusa.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbankventuresasia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbankventuresasia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "softbank",
-            "pattern": "*://*.softbankworld.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "softbank",
+    "pattern": "*://*.softbankworld.com",
+    "active": true
+  }
 ]

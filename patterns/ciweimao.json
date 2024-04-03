@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ciweimao",
-            "pattern": "*://*.ciweimao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ciweimao",
+    "pattern": "*://*.ciweimao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ciweimao",
-            "pattern": "*://*.hbooker.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ciweimao",
+    "pattern": "*://*.hbooker.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ciweimao",
-            "pattern": "*://*.kuangxiangit.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ciweimao",
+    "pattern": "*://*.kuangxiangit.com",
+    "active": true
+  }
 ]

@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkedcity",
-            "pattern": "*://*.edcity.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkedcity",
+    "pattern": "*://*.edcity.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkedcity",
-            "pattern": "*://*.hkedcity.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkedcity",
+    "pattern": "*://*.hkedcity.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkedcity",
-            "pattern": "*://*.hkreadingcity.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkedcity",
+    "pattern": "*://*.hkreadingcity.net",
+    "active": true
+  }
 ]

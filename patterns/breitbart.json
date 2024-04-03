@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "breitbart",
-            "pattern": "*://*.breitbart.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "breitbart",
+    "pattern": "*://*.breitbart.com",
+    "active": true
+  }
 ]

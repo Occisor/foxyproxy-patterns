@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tutanota",
-            "pattern": "*://*.tuta.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tutanota",
+    "pattern": "*://*.tuta.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tutanota",
-            "pattern": "*://*.tutanota.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tutanota",
+    "pattern": "*://*.tutanota.com",
+    "active": true
+  }
 ]

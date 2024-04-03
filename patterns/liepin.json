@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "liepin",
-            "pattern": "*://*.liepin.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "liepin",
+    "pattern": "*://*.liepin.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "liepin",
-            "pattern": "*://*.lietou.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "liepin",
+    "pattern": "*://*.lietou.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "liepin",
-            "pattern": "*://*.lietou-static.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "liepin",
+    "pattern": "*://*.lietou-static.com",
+    "active": true
+  }
 ]

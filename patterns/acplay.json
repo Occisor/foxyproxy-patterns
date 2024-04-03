@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "acplay",
-            "pattern": "*://*.acplay.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "acplay",
+    "pattern": "*://*.acplay.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "acplay",
-            "pattern": "*://*.dandanplay.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "acplay",
+    "pattern": "*://*.dandanplay.com",
+    "active": true
+  }
 ]

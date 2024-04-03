@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digitalplayground",
-            "pattern": "*://*.digitalplayground.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digitalplayground",
+    "pattern": "*://*.digitalplayground.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digitalplayground",
-            "pattern": "*://*.digitalplaygroundnetwork.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "digitalplayground",
+    "pattern": "*://*.digitalplaygroundnetwork.com",
+    "active": true
+  }
 ]

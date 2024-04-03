@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smtiaojiaoshi",
-            "pattern": "*://*.jhxl.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smtiaojiaoshi",
+    "pattern": "*://*.jhxl.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smtiaojiaoshi",
-            "pattern": "*://*.xn--sgt856gbjl.cc",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "smtiaojiaoshi",
+    "pattern": "*://*.xn--sgt856gbjl.cc",
+    "active": true
+  }
 ]

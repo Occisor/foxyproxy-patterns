@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gemfury",
-            "pattern": "*://*.fury.blog",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gemfury",
+    "pattern": "*://*.fury.blog",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gemfury",
-            "pattern": "*://*.fury.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gemfury",
+    "pattern": "*://*.fury.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gemfury",
-            "pattern": "*://*.fury.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gemfury",
+    "pattern": "*://*.fury.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gemfury",
-            "pattern": "*://*.fury.help",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gemfury",
+    "pattern": "*://*.fury.help",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gemfury",
-            "pattern": "*://*.fury.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gemfury",
+    "pattern": "*://*.fury.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gemfury",
-            "pattern": "*://*.gemfury.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "gemfury",
+    "pattern": "*://*.gemfury.com",
+    "active": true
+  }
 ]

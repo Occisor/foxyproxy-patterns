@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "aaex",
-            "pattern": "*://*.aaex.uk",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "aaex",
+    "pattern": "*://*.aaex.uk",
+    "active": true
+  }
 ]

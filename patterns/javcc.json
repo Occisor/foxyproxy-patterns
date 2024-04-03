@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javcc",
-            "pattern": "*://*.javcc.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "javcc",
+    "pattern": "*://*.javcc.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javcc",
-            "pattern": "*://*.javcc.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "javcc",
+    "pattern": "*://*.javcc.com",
+    "active": true
+  }
 ]

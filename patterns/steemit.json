@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steemit",
-            "pattern": "*://*.steemit.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "steemit",
+    "pattern": "*://*.steemit.com",
+    "active": true
+  }
 ]

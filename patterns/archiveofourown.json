@@ -1,30 +1,30 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "archiveofourown",
-            "pattern": "*://*.ao3.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "archiveofourown",
+    "pattern": "*://*.ao3.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "archiveofourown",
-            "pattern": "*://*.archiveofourown.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "archiveofourown",
+    "pattern": "*://*.archiveofourown.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "archiveofourown",
-            "pattern": "*://*.archiveofourown.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "archiveofourown",
+    "pattern": "*://*.archiveofourown.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "archiveofourown",
-            "pattern": "*://*.archiveofourown.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "archiveofourown",
+    "pattern": "*://*.archiveofourown.net",
+    "active": true
+  }
 ]

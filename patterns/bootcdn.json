@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bootcdn",
-            "pattern": "*://*.bootcdn.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bootcdn",
+    "pattern": "*://*.bootcdn.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bootcdn",
-            "pattern": "*://*.bootcdn.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bootcdn",
+    "pattern": "*://*.bootcdn.net",
+    "active": true
+  }
 ]

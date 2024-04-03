@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "npmjs",
-            "pattern": "*://*.npm.community",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "npmjs",
+    "pattern": "*://*.npm.community",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "npmjs",
-            "pattern": "*://*.npmjs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "npmjs",
+    "pattern": "*://*.npmjs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "npmjs",
-            "pattern": "*://*.npmjs.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "npmjs",
+    "pattern": "*://*.npmjs.org",
+    "active": true
+  }
 ]

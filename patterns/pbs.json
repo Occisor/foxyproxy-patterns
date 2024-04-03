@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "pbs",
-            "pattern": "*://*.pbs.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "pbs",
+    "pattern": "*://*.pbs.org",
+    "active": true
+  }
 ]

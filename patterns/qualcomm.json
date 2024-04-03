@@ -1,275 +1,275 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.airgonetworks.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.airgonetworks.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.berkanawireless.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.berkanawireless.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.cdmatech.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.cdmatech.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.dragoniscoming.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.dragoniscoming.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.gobianywhere.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.gobianywhere.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.hellosmartbook.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.hellosmartbook.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.imod.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.imod.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.ipleadership.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.ipleadership.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.iskoot.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.iskoot.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.meetsmartbook.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.meetsmartbook.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.patenttruth.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.patenttruth.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.pixtronix.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.pixtronix.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qctconnect.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qctconnect.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qprize.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qprize.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm-email.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm-email.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm.co.id",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm.co.id",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm.co.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm.co.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm.co.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm.co.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcomm.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcomm.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcommhalo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcommhalo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcommlabs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcommlabs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcommmea.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcommmea.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcommretail.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcommretail.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcommventures.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcommventures.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualcommventures.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualcommventures.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.qualphone.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.qualphone.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.quicinc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.quicinc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.snapdragon.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.snapdragon.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.snapdragonbooth.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.snapdragonbooth.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.uplinq.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.uplinq.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.wipower.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.wipower.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.wirelessreach.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.wirelessreach.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qualcomm",
-            "pattern": "*://*.brewmp.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "qualcomm",
+    "pattern": "*://*.brewmp.com",
+    "active": true
+  }
 ]

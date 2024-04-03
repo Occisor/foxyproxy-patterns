@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.sky",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.sky",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.sky.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.sky.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.skyassets.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.skyassets.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.skyoceanrescue.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.skyoceanrescue.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.skyoceanrescue.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.skyoceanrescue.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.skyoceanrescue.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.skyoceanrescue.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.skysports.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.skysports.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.skysports.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.skysports.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.skysports.ie",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.skysports.ie",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.skysportsonline.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.skysportsonline.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sky",
-            "pattern": "*://*.skysportsracing.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "sky",
+    "pattern": "*://*.skysportsracing.com",
+    "active": true
+  }
 ]

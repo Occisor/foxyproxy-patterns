@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mocha",
-            "pattern": "*://*.mochajs.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mocha",
+    "pattern": "*://*.mochajs.org",
+    "active": true
+  }
 ]

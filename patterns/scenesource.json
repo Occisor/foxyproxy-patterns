@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "scenesource",
-            "pattern": "*://*.scenesource.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "scenesource",
+    "pattern": "*://*.scenesource.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "scenesource",
-            "pattern": "*://*.scnsrc.me",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "scenesource",
+    "pattern": "*://*.scnsrc.me",
+    "active": true
+  }
 ]

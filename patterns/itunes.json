@@ -1,331 +1,331 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasdepresentesdeitunes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasdepresentesdeitunes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.cl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.cl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.co.cr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.co.cr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.co.ni",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.co.ni",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.co.ve",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.co.ve",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.com.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.com.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.com.hn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.com.hn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.com.ni",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.com.ni",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.com.ve",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.com.ve",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.cr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.cr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.gt",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.gt",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.hn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.hn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12diasderegalosdeitunes.pe",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12diasderegalosdeitunes.pe",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.12joursdecadeauxdeitunes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.12joursdecadeauxdeitunes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itun.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itun.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunbes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunbes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.ituneas.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.ituneas.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes-apple.com.akadns.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes-apple.com.akadns.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes-radio.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes-radio.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes.co.th",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes.co.th",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes.mx",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes.mx",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes.rio",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes.rio",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes.us",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes.us",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunes12days.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunes12days.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesessentials.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesessentials.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesfestivals.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesfestivals.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesiradio.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesiradio.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.ituneslatino.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.ituneslatino.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.ituneslogin.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.ituneslogin.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesmatch.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesmatch.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesparty.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesparty.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesradio.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesradio.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesradio.rio",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesradio.rio",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesradio.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesradio.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesradio.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesradio.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesstore.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesstore.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.itunesu.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.itunesu.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.iutunes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.iutunes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itunes",
-            "pattern": "*://*.wwwitunes.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "itunes",
+    "pattern": "*://*.wwwitunes.com",
+    "active": true
+  }
 ]

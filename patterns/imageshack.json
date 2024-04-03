@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "imageshack",
-            "pattern": "*://*.imageshack.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "imageshack",
+    "pattern": "*://*.imageshack.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "imageshack",
-            "pattern": "*://*.imageshack.us",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "imageshack",
+    "pattern": "*://*.imageshack.us",
+    "active": true
+  }
 ]

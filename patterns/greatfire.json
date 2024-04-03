@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "greatfire",
-            "pattern": "*://*.applecensorship.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "greatfire",
+    "pattern": "*://*.applecensorship.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "greatfire",
-            "pattern": "*://*.freebrowser.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "greatfire",
+    "pattern": "*://*.freebrowser.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "greatfire",
-            "pattern": "*://*.freewechat.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "greatfire",
+    "pattern": "*://*.freewechat.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "greatfire",
-            "pattern": "*://*.freeweibo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "greatfire",
+    "pattern": "*://*.freeweibo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "greatfire",
-            "pattern": "*://*.freezhihu.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "greatfire",
+    "pattern": "*://*.freezhihu.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "greatfire",
-            "pattern": "*://*.greatfire.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "greatfire",
+    "pattern": "*://*.greatfire.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "greatfire",
-            "pattern": "*://*.pao-pao.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "greatfire",
+    "pattern": "*://*.pao-pao.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "greatfire",
-            "pattern": "*://*.wikiunblocked.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "greatfire",
+    "pattern": "*://*.wikiunblocked.org",
+    "active": true
+  }
 ]

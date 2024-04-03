@@ -1,380 +1,380 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.apimkt.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.apimkt.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.cdndo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.cdndo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.clk1.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.clk1.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.clk1.top",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.clk1.top",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ecloud-gdu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ecloud-gdu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.fshark.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.fshark.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.globalrdp.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.globalrdp.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.globalssh.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.globalssh.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.iprdp.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.iprdp.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ipssh.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ipssh.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.me1.ltd",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.me1.ltd",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.slk1.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.slk1.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.u-cdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.u-cdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucgslb.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucgslb.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucgslb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucgslb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucgslb.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucgslb.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucgslb.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucgslb.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucgslb.top",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucgslb.top",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloud-edm.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloud-edm.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloud.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloud.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloud.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloud.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloud365.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloud365.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudadmin.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudadmin.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudapi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudapi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudgda.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudgda.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudnaming.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudnaming.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudnaming.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudnaming.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudnaming.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudnaming.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudnaming.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudnaming.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudoss.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudoss.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudstack.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudstack.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudstack.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudstack.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudstack.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudstack.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudstor.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudstor.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucloudufile.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucloudufile.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucnaming.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucnaming.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucnaming.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucnaming.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucnaming.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucnaming.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ucnaming.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ucnaming.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.uewaf.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.uewaf.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ufileos.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ufileos.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ugslb.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ugslb.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ugslb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ugslb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ugslb.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ugslb.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ugslb.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ugslb.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ugslb.top",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ugslb.top",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.ugslb2.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.ugslb2.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.uhasadmin.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.uhasadmin.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.unaming.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.unaming.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.unaming.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.unaming.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.unaming.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.unaming.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.urtc.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.urtc.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.uslk.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.uslk.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ucloud",
-            "pattern": "*://*.uucl.vip",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ucloud",
+    "pattern": "*://*.uucl.vip",
+    "active": true
+  }
 ]

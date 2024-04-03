@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "videolan",
-            "pattern": "*://*.videolan.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "videolan",
+    "pattern": "*://*.videolan.org",
+    "active": true
+  }
 ]

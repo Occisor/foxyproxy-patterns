@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "btdig",
-            "pattern": "*://*.btdig.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "btdig",
+    "pattern": "*://*.btdig.com",
+    "active": true
+  }
 ]

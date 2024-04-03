@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "iina",
-            "pattern": "*://*.iina.io",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "iina",
+    "pattern": "*://*.iina.io",
+    "active": true
+  }
 ]

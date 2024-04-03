@@ -1,506 +1,506 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.ak1.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.aka-ai.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.aka-ai.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akacrypto.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akadeem.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akadns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akadns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akadns6.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akadns88.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akadns99.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akaeai.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akafms.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akagtm.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akahost.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akaint.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akam.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamah.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamak.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamam.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-access.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-access.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-cdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-platform-internal.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-platform-staging.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-platform.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-regression.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-staging.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-sucks.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-thailand.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-thailand.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai-trials.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai.co.kr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamai.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaiedge.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaientrypoint.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaietpcnctest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaietpcompromisedcnctest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaietpcompromisedmalwaretest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaietpmalwaretest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaietpphishingtest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaihd-staging.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaihd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaihd.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaimagicmath.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamainewzealand.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaiphillipines.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaiphillipines.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaitech.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaitech.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaitechnologies.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaitechnologies.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaisingapore.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaistream.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaized-staging.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaized.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamaizercentral.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamci.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akami.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akami.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamii.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akamqi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akastream.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akastream.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.akatns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.edgekey.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.edgekey88.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.edgesuite.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.iamakamai.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.iamakamai.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.soasta-dswb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "akamai",
-            "pattern": "*://*.srtcdn.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.ak1.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.aka-ai.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.aka-ai.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akacrypto.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akadeem.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akadns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akadns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akadns6.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akadns88.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akadns99.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akaeai.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akafms.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akagtm.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akahost.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akaint.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akam.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamah.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamak.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamam.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-access.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-access.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-cdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-platform-internal.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-platform-staging.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-platform.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-regression.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-staging.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-sucks.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-thailand.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-thailand.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai-trials.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai.co.kr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamai.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaiedge.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaientrypoint.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaietpcnctest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaietpcompromisedcnctest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaietpcompromisedmalwaretest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaietpmalwaretest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaietpphishingtest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaihd-staging.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaihd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaihd.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaimagicmath.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamainewzealand.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaiphillipines.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaiphillipines.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaitech.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaitech.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaitechnologies.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaitechnologies.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaisingapore.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaistream.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaized-staging.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaized.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamaizercentral.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamci.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akami.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akami.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamii.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akamqi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akastream.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akastream.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.akatns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.edgekey.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.edgekey88.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.edgesuite.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.iamakamai.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.iamakamai.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.soasta-dswb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamai",
+    "pattern": "*://*.srtcdn.net",
+    "active": true
+  }
 ]

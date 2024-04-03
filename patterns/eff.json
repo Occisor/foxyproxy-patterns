@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "eff",
-            "pattern": "*://*.eff.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "eff",
+    "pattern": "*://*.eff.org",
+    "active": true
+  }
 ]

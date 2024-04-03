@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xnxx",
-            "pattern": "*://*.xnxx-cdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xnxx",
+    "pattern": "*://*.xnxx-cdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xnxx",
-            "pattern": "*://*.xnxx.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xnxx",
+    "pattern": "*://*.xnxx.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xnxx",
-            "pattern": "*://*.xnxx.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xnxx",
+    "pattern": "*://*.xnxx.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xnxx",
-            "pattern": "*://*.xnxx.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xnxx",
+    "pattern": "*://*.xnxx.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xnxx",
-            "pattern": "*://*.xnxx3.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "xnxx",
+    "pattern": "*://*.xnxx3.com",
+    "active": true
+  }
 ]

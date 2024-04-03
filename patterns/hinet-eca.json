@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hinet-eca",
-            "pattern": "*://*.eca.hinet.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hinet-eca",
+    "pattern": "*://*.eca.hinet.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hinet-eca",
-            "pattern": "*://*.gtlsca.nat.gov.tw",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hinet-eca",
+    "pattern": "*://*.gtlsca.nat.gov.tw",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "anydesk",
-            "pattern": "*://*.anydesk.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "anydesk",
+    "pattern": "*://*.anydesk.com",
+    "active": true
+  }
 ]

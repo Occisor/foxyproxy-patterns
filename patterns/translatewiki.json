@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "translatewiki",
-            "pattern": "*://*.translatewiki.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "translatewiki",
+    "pattern": "*://*.translatewiki.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "translatewiki",
-            "pattern": "*://*.translatewiki.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "translatewiki",
+    "pattern": "*://*.translatewiki.org",
+    "active": true
+  }
 ]

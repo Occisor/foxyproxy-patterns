@@ -1,72 +1,72 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "geolocation-!cn",
-            "pattern": "*://*.cloudlatex.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "geolocation-!cn",
+    "pattern": "*://*.cloudlatex.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "geolocation-!cn",
-            "pattern": "*://*.overleaf.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "geolocation-!cn",
+    "pattern": "*://*.overleaf.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "geolocation-!cn",
-            "pattern": "*://*.auroraoss.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "geolocation-!cn",
+    "pattern": "*://*.auroraoss.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "geolocation-!cn",
-            "pattern": "*://*.cookiepro.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "geolocation-!cn",
+    "pattern": "*://*.cookiepro.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "geolocation-!cn",
-            "pattern": "*://*.cookielaw.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "geolocation-!cn",
+    "pattern": "*://*.cookielaw.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "geolocation-!cn",
-            "pattern": "*://*.onetrust.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "geolocation-!cn",
+    "pattern": "*://*.onetrust.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "geolocation-!cn",
-            "pattern": "*://*.atwiki.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "geolocation-!cn",
+    "pattern": "*://*.atwiki.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "geolocation-!cn",
-            "pattern": "*://*.touhouwiki.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "geolocation-!cn",
+    "pattern": "*://*.touhouwiki.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "geolocation-!cn",
-            "pattern": "*://*.api.nebula-emby.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "geolocation-!cn",
+    "pattern": "*://*.api.nebula-emby.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "geolocation-!cn",
-            "pattern": "*://*.web.nebula-emby.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "geolocation-!cn",
+    "pattern": "*://*.web.nebula-emby.com",
+    "active": true
+  }
 ]

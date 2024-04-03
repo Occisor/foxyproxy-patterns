@@ -1,184 +1,184 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.dis.gd",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.dis.gd",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.design",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.design",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.gg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.gg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.gift",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.gift",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.gifts",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.gifts",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.media",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.media",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.new",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.new",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.store",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.store",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord.tools",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord.tools",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discord-activities.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discord-activities.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discordactivities.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discordactivities.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discordapp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discordapp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discordapp.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discordapp.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discordmerch.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discordmerch.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discordpartygames.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discordpartygames.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discordsays.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discordsays.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discordstatus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discordstatus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.airhorn.solutions",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.airhorn.solutions",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.airhornbot.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.airhornbot.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.bigbeans.solutions",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.bigbeans.solutions",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.watchanimeattheoffice.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.watchanimeattheoffice.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discordapp.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discordapp.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discord",
-            "pattern": "*://*.discordcdn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord",
+    "pattern": "*://*.discordcdn.com",
+    "active": true
+  }
 ]

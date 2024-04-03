@@ -1,1507 +1,1507 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.4myminicard.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.aboutyourmini.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.atlantaminidealers.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.greatergothammini.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.midatlanticbmwmotorcycles.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-abudhabi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-antilles.fr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-bahrain.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-bosnia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-clubs-international.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.at",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.be",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.ch",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.cz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.dk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.ee",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.es",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.fi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.fr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.ie",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.it",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.lt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.lu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.lv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.nl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.no",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.pl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.pt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-connected.se",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-corporate-sales.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-coupe.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-dubai.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-e.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-egypt.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-georgia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-grouparchiv.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-grouparchive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-jordan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-ksa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-kuwait.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-lebanon.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-me.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-oman.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-qatar.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-srilanka.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-stjohns.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-stjohns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-tahiti.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-vietnam.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-windsor.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini-windsor.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.am",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.at",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.be",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.bg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.by",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.cc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.ch",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.cl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.co.cr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.co.id",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.co.il",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.co.kr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.co.me",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.co.th",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.co.za",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.ar",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.bn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.br",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.cy",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.do",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.ec",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.gr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.gt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.hr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.mk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.mo",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.mt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.mx",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.pa",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.pe",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.ph",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.pl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.py",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.sg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.tr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.tw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.com.uy",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.cz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.dk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.dz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.es",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.fi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.fr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.gp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.hu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.ie",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.in",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.is",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.it",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.kz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.lu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.ma",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.md",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.mq",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.mu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.my",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.nc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.nl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.no",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.pt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.re",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.ro",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.rs",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.ru",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.se",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.si",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.sk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.tm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.tn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini.ua",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mini101.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniargentina.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minibrossard.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minibrossard.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minicanada.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minicaribbean.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniccrc.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minicooper.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minidealer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minidealernet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minidowntown.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minidowntown.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minidrivingexperienceusa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minidurham.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minidurham.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minie.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minifs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minigeorgian.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minigrandriver.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minihalifax.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minihalifax.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minihk.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniinvasion.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniitalianjob.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minikelowna.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minikelowna.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minilangley.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minilangley.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minilat.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minilaval.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minilaval.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minilondon.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minilondon.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minimarkham.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minimarkham.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minimoncton.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minimoncton.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minimontrealcentre.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minimontroyal.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minimontroyal.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minimotoringrewards.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minimotoringschool.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minimotorsport.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mininanaimo.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.mininanaimo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minioakville.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniofmonrovia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minipetfriendly.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minirichmond.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minirichmond.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minisaskatoon.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minisaskatoon.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minishop.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minispace.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minispecialoffers.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minispygear.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.ministcatharines.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.ministeagathe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.ministjohns.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minitakesthestates.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minitoronto.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minitroisrivieres.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniusa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniusaservice.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniusatires.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minivalueservice.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minivancouver.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minivaughanwest.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minivaughanwest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minivictoria.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minivictoria.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minivilledequebec.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.minivilledequebec.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniwholesaleconnect.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniwidget.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniwindsor.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniworkshop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.miniyaletown.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.pugetsoundmini.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.shopminiusa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.southfloridamini.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.trmini.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.troisrivieresmini.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mini",
-            "pattern": "*://*.yours-customised.mini.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.4myminicard.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.aboutyourmini.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.atlantaminidealers.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.greatergothammini.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.midatlanticbmwmotorcycles.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-abudhabi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-antilles.fr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-bahrain.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-bosnia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-clubs-international.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.at",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.be",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.ch",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.cz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.dk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.ee",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.es",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.fi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.fr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.ie",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.it",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.lt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.lu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.lv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.nl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.no",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.pl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.pt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-connected.se",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-corporate-sales.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-coupe.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-dubai.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-e.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-egypt.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-georgia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-grouparchiv.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-grouparchive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-jordan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-ksa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-kuwait.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-lebanon.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-me.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-oman.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-qatar.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-srilanka.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-stjohns.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-stjohns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-tahiti.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-vietnam.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-windsor.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini-windsor.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.am",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.at",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.be",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.bg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.by",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.cc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.ch",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.cl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.co.cr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.co.id",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.co.il",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.co.kr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.co.me",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.co.th",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.co.za",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.ar",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.bn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.br",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.cy",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.do",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.ec",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.gr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.gt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.hr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.mk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.mo",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.mt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.mx",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.pa",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.pe",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.ph",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.pl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.py",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.sg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.tr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.tw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.com.uy",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.cz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.dk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.dz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.es",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.fi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.fr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.gp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.hu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.ie",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.in",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.is",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.it",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.kz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.lu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.ma",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.md",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.mq",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.mu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.my",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.nc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.nl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.no",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.pt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.re",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.ro",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.rs",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.ru",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.se",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.si",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.sk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.tm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.tn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini.ua",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mini101.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniargentina.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minibrossard.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minibrossard.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minicanada.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minicaribbean.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniccrc.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minicooper.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minidealer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minidealernet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minidowntown.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minidowntown.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minidrivingexperienceusa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minidurham.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minidurham.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minie.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minifs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minigeorgian.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minigrandriver.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minihalifax.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minihalifax.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minihk.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniinvasion.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniitalianjob.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minikelowna.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minikelowna.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minilangley.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minilangley.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minilat.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minilaval.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minilaval.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minilondon.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minilondon.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minimarkham.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minimarkham.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minimoncton.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minimoncton.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minimontrealcentre.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minimontroyal.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minimontroyal.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minimotoringrewards.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minimotoringschool.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minimotorsport.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mininanaimo.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.mininanaimo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minioakville.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniofmonrovia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minipetfriendly.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minirichmond.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minirichmond.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minisaskatoon.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minisaskatoon.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minishop.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minispace.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minispecialoffers.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minispygear.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.ministcatharines.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.ministeagathe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.ministjohns.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minitakesthestates.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minitoronto.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minitroisrivieres.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniusa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniusaservice.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniusatires.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minivalueservice.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minivancouver.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minivaughanwest.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minivaughanwest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minivictoria.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minivictoria.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minivilledequebec.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.minivilledequebec.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniwholesaleconnect.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniwidget.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniwindsor.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniworkshop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.miniyaletown.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.pugetsoundmini.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.shopminiusa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.southfloridamini.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.trmini.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.troisrivieresmini.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mini",
+    "pattern": "*://*.yours-customised.mini.com",
+    "active": true
+  }
 ]

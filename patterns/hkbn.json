@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkbn",
-            "pattern": "*://*.csifund.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkbn",
+    "pattern": "*://*.csifund.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkbn",
-            "pattern": "*://*.hkbn.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkbn",
+    "pattern": "*://*.hkbn.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkbn",
-            "pattern": "*://*.hkbn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkbn",
+    "pattern": "*://*.hkbn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkbn",
-            "pattern": "*://*.hkbnes.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkbn",
+    "pattern": "*://*.hkbnes.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkbn",
-            "pattern": "*://*.jos.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkbn",
+    "pattern": "*://*.jos.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkbn",
-            "pattern": "*://*.speedtest.com.hk",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkbn",
+    "pattern": "*://*.speedtest.com.hk",
+    "active": true
+  }
 ]

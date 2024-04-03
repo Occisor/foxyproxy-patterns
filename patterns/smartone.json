@@ -1,107 +1,107 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.barkadahansasmartone.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.barkadahansasmartone.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.healthreach.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.healthreach.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.hkcircleapp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.hkcircleapp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.homephoneplus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.homephoneplus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.ip73.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.ip73.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.s-cashonmobile.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.s-cashonmobile.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.s-rewards.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.s-rewards.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.sahabatsetiasmartone.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.sahabatsetiasmartone.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.smartone.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.smartone.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.smartoneholdings.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.smartoneholdings.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.smartonerobotics.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.smartonerobotics.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.smartonesolutions.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.smartonesolutions.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.smartonesolutions.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.smartonesolutions.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.valuegb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.valuegb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smartone",
-            "pattern": "*://*.wise-research.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartone",
+    "pattern": "*://*.wise-research.com",
+    "active": true
+  }
 ]

@@ -1,198 +1,198 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.activity-zhendingtech.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.activity-zhendingtech.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.changdunovel.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.changdunovel.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fanqienovel.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fanqienovel.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fanqieopen.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fanqieopen.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fanqieopenpic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fanqieopenpic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fanqieopenstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fanqieopenstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fanqieopenvod.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fanqieopenvod.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fanqiesdk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fanqiesdk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fanqiesdkpic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fanqiesdkpic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fanqiesdkstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fanqiesdkstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fanqiesdkvod.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fanqiesdkvod.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fqnovel.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fqnovel.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fqnovelim.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fqnovelim.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fqnovel-op.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fqnovel-op.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fqnovelop.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fqnovelop.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fqnovelpic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fqnovelpic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fqnovelstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fqnovelstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.fqnovelvod.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.fqnovelvod.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.ihaohaoxuexi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.ihaohaoxuexi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.muyewx.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.muyewx.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.novelfm.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.novelfm.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.novelfmpic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.novelfmpic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.novelfmstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.novelfmstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.novelfmvod.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.novelfmvod.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.qznovel.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.qznovel.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.qznovelpic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.qznovelpic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.qznovelstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.qznovelstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fqnovel",
-            "pattern": "*://*.qznovelvod.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "fqnovel",
+    "pattern": "*://*.qznovelvod.com",
+    "active": true
+  }
 ]

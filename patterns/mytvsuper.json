@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mytvsuper",
-            "pattern": "*://*.mytvsuper.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "mytvsuper",
+    "pattern": "*://*.mytvsuper.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mytvsuper",
-            "pattern": "*://*.tvb.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mytvsuper",
+    "pattern": "*://*.tvb.com",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "shadowsocks",
-            "pattern": "*://*.shadowsocks.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "shadowsocks",
+    "pattern": "*://*.shadowsocks.org",
+    "active": true
+  }
 ]

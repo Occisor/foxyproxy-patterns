@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "starfieldtech",
-            "pattern": "*://*.starfieldtech.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "starfieldtech",
+    "pattern": "*://*.starfieldtech.com",
+    "active": true
+  }
 ]

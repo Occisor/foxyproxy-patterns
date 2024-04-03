@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fireside",
-            "pattern": "*://*.fireside.fm",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "fireside",
+    "pattern": "*://*.fireside.fm",
+    "active": true
+  }
 ]

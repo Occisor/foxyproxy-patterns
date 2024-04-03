@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nodesource",
-            "pattern": "*://*.nodesource.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "nodesource",
+    "pattern": "*://*.nodesource.com",
+    "active": true
+  }
 ]

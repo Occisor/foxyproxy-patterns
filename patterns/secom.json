@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "secom",
-            "pattern": "*://*.secom.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "secom",
+    "pattern": "*://*.secom.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "secom",
-            "pattern": "*://*.secomtrust.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "secom",
+    "pattern": "*://*.secomtrust.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "secom",
-            "pattern": "*://*.cybertrust.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "secom",
+    "pattern": "*://*.cybertrust.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "secom",
-            "pattern": "*://*.cybertrust.ne.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "secom",
+    "pattern": "*://*.cybertrust.ne.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "secom",
-            "pattern": "*://*.managedpki.ne.jp",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "secom",
+    "pattern": "*://*.managedpki.ne.jp",
+    "active": true
+  }
 ]

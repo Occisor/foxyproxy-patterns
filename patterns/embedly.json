@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "embedly",
-            "pattern": "*://*.embed.ly",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "embedly",
+    "pattern": "*://*.embed.ly",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "embedly",
-            "pattern": "*://*.embedly.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "embedly",
+    "pattern": "*://*.embedly.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "embedly",
-            "pattern": "*://*.playerjs.io",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "embedly",
+    "pattern": "*://*.playerjs.io",
+    "active": true
+  }
 ]

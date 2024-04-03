@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "d100",
-            "pattern": "*://*.d100.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "d100",
+    "pattern": "*://*.d100.net",
+    "active": true
+  }
 ]

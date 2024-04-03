@@ -1,135 +1,135 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar01.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar01.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar02.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar02.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar03.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar03.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar04.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar04.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar04.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar04.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar05.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar05.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar06.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar06.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar07.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar07.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar07.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar07.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar09.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar09.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar09.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar09.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar1.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar1.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar2.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar2.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar3.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar3.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar4.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar4.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar5.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar5.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar6.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar6.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar8.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar8.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xingkongwuxianmedia",
-            "pattern": "*://*.avstar9.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "xingkongwuxianmedia",
+    "pattern": "*://*.avstar9.com",
+    "active": true
+  }
 ]

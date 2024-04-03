@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "clojure",
-            "pattern": "*://*.clojure.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "clojure",
+    "pattern": "*://*.clojure.org",
+    "active": true
+  }
 ]

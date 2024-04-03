@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wto",
-            "pattern": "*://*.wto.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "wto",
+    "pattern": "*://*.wto.org",
+    "active": true
+  }
 ]

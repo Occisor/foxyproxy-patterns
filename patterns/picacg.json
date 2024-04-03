@@ -1,72 +1,72 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picacg",
-            "pattern": "*://*.bikaa.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picacg",
+    "pattern": "*://*.bikaa.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picacg",
-            "pattern": "*://*.bikac.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picacg",
+    "pattern": "*://*.bikac.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picacg",
-            "pattern": "*://*.bikaios.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picacg",
+    "pattern": "*://*.bikaios.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picacg",
-            "pattern": "*://*.manhuabika.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picacg",
+    "pattern": "*://*.manhuabika.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picacg",
-            "pattern": "*://*.picacgp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picacg",
+    "pattern": "*://*.picacgp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picacg",
-            "pattern": "*://*.picacgy.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picacg",
+    "pattern": "*://*.picacgy.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picacg",
-            "pattern": "*://*.picacn.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picacg",
+    "pattern": "*://*.picacn.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picacg",
-            "pattern": "*://*.picacomic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picacg",
+    "pattern": "*://*.picacomic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picacg",
-            "pattern": "*://*.picacomic.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picacg",
+    "pattern": "*://*.picacomic.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picacg",
-            "pattern": "*://*.wikawika.xyz",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "picacg",
+    "pattern": "*://*.wikawika.xyz",
+    "active": true
+  }
 ]

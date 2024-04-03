@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tonec",
-            "pattern": "*://*.internetdownloadmanager.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tonec",
+    "pattern": "*://*.internetdownloadmanager.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tonec",
-            "pattern": "*://*.registeridm.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tonec",
+    "pattern": "*://*.registeridm.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tonec",
-            "pattern": "*://*.tonec.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tonec",
+    "pattern": "*://*.tonec.com",
+    "active": true
+  }
 ]

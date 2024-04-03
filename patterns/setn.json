@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "setn",
-            "pattern": "*://*.setn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "setn",
+    "pattern": "*://*.setn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "setn",
-            "pattern": "*://*.settv.com.tw",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "setn",
+    "pattern": "*://*.settv.com.tw",
+    "active": true
+  }
 ]

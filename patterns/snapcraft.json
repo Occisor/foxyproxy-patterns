@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "snapcraft",
-            "pattern": "*://*.snapcraft.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "snapcraft",
+    "pattern": "*://*.snapcraft.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "snapcraft",
-            "pattern": "*://*.snapstore.io",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "snapcraft",
+    "pattern": "*://*.snapstore.io",
+    "active": true
+  }
 ]

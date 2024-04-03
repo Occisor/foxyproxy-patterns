@@ -1,177 +1,177 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.at",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.at",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.bg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.bg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.co.il",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.co.il",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.co.za",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.co.za",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.com.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.com.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.cz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.cz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.hr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.hr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.hu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.hu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.ie",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.ie",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.no",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.no",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.pl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.pl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.pt",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.pt",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.ro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.ro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.sk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.sk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofen.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofen.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nurofen",
-            "pattern": "*://*.nurofengel.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "nurofen",
+    "pattern": "*://*.nurofengel.com",
+    "active": true
+  }
 ]

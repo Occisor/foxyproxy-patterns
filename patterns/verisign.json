@@ -1,233 +1,233 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.asia",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.asia",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.biz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.biz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.ch",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.ch",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.co.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.co.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.com.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.com.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.com.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.com.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.com.vn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.com.vn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.dk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.dk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.jobs",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.jobs",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.mobi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.mobi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.name",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.name",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.pro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.pro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.se",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.se",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.us",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.us",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisign.vn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisign.vn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "verisign",
-            "pattern": "*://*.verisigninc.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "verisign",
+    "pattern": "*://*.verisigninc.com",
+    "active": true
+  }
 ]

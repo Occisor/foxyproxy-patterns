@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espressif",
-            "pattern": "*://*.espressif.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "espressif",
+    "pattern": "*://*.espressif.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espressif",
-            "pattern": "*://*.esp32.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "espressif",
+    "pattern": "*://*.esp32.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espressif",
-            "pattern": "*://*.esp8266.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "espressif",
+    "pattern": "*://*.esp8266.com",
+    "active": true
+  }
 ]

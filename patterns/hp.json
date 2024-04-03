@@ -1,1080 +1,1080 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.123-hp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.123hplaserjet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.8008206616.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.as-hp.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.baterias-hp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.campushp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.colorprotechnology.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.compaq.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.david-laserscanner.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.demoprint.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.digitalpack.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.eprintsw.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.gaming-notebooks.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.getprintersupports.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp-imagine.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp-infolab.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp-invent.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp-invent.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp-mns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp-printing.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp-webplatform.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp-ww.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp.company",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp3d.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp3dmetals.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp3dprinter.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hp3dsamplepromo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpallinoneprinter.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpapplicationscenter.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpbestbuy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpbluecarpet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpbluecarpet.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpbuiltforlearning.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpbundle.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcampus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcatridge.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpccp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpceo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcmw.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcodewarsbcn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcomputers.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcomputerservices.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpconnected.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpconnected.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpconnected.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpconnected.us",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpconnectedstage.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcontinuum.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcpi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcu.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcustomersupport.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpcustomersupport.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpdaas.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpdesignjetl25500.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpdesktopcomputer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpdownloadstore.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpdreamcolor.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpdriver.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpdrivers.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpdrivers.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpeclipse.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpengage.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpeprint.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpeprintcenter.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpeurope.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpeventcenter.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpfaqs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpfeedback.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpgift.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpgpas.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpgraphicspartners.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpiie.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpinc.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpinc.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpindigopress.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpinkjet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpinstantink.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpinstantink.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpkeyboard.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hplaptop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hplaptopbattery.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hplargeformatremote.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hplatexknowledgecenter.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hplfmedia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hplip.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hplipopensource.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpmarketplace.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpmemorychips.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpmicrcartridge.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpmini.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpmobile.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpofficejetprinter.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hponlinehelp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hponlineprinting.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hppage5000.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hppavillionlaptop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpphotoscanners.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpprinterdrivers.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpprinterinstalls.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpprintersupplies.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsalescentral.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpserver.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpservices.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpshooping.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpshop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpshoping.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpshopping.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsignage.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsmart.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsmarts.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsmartstage.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsmartupdate.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsoftware.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpspeaker.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsprocket.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsso.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpstore-china.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpstore-emea.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpstore.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpstorethailand.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsupport.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpsuresupply.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hptechventures.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpto.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hptouch.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hptouchpointmanager.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hptrainingcenter.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpuae.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpuniversity.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpusertraining.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpveer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpvirtualthin.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpwallart.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpwellnesscentral.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.hpwsn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.i-123-hp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.inkchoice.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.instantink.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.leavinghpinc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.life-global.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.myhpsupport.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.printeron.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.printersetupsupport.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.printspots.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.printspots.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.serviceshp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.thecompaqstore.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.touchsmartpc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.touchsmartpc.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.touchsmartpc.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.workstations.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hp",
-            "pattern": "*://*.www8-hp.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.123-hp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.123hplaserjet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.8008206616.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.as-hp.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.baterias-hp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.campushp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.colorprotechnology.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.compaq.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.david-laserscanner.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.demoprint.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.digitalpack.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.eprintsw.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.gaming-notebooks.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.getprintersupports.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp-imagine.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp-infolab.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp-invent.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp-invent.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp-mns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp-printing.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp-webplatform.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp-ww.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp.company",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp3d.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp3dmetals.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp3dprinter.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hp3dsamplepromo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpallinoneprinter.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpapplicationscenter.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpbestbuy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpbluecarpet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpbluecarpet.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpbuiltforlearning.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpbundle.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcampus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcatridge.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpccp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpceo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcmw.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcodewarsbcn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcomputers.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcomputerservices.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpconnected.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpconnected.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpconnected.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpconnected.us",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpconnectedstage.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcontinuum.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcpi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcu.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcustomersupport.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpcustomersupport.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpdaas.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpdesignjetl25500.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpdesktopcomputer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpdownloadstore.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpdreamcolor.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpdriver.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpdrivers.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpdrivers.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpeclipse.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpengage.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpeprint.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpeprintcenter.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpeurope.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpeventcenter.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpfaqs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpfeedback.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpgift.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpgpas.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpgraphicspartners.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpiie.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpinc.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpinc.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpindigopress.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpinkjet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpinstantink.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpinstantink.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpkeyboard.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hplaptop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hplaptopbattery.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hplargeformatremote.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hplatexknowledgecenter.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hplfmedia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hplip.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hplipopensource.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpmarketplace.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpmemorychips.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpmicrcartridge.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpmini.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpmobile.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpofficejetprinter.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hponlinehelp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hponlineprinting.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hppage5000.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hppavillionlaptop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpphotoscanners.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpprinterdrivers.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpprinterinstalls.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpprintersupplies.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsalescentral.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpserver.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpservices.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpshooping.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpshop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpshoping.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpshopping.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsignage.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsmart.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsmarts.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsmartstage.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsmartupdate.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsoftware.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpspeaker.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsprocket.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsso.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpstore-china.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpstore-emea.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpstore.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpstorethailand.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsupport.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpsuresupply.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hptechventures.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpto.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hptouch.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hptouchpointmanager.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hptrainingcenter.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpuae.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpuniversity.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpusertraining.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpveer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpvirtualthin.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpwallart.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpwellnesscentral.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.hpwsn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.i-123-hp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.inkchoice.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.instantink.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.leavinghpinc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.life-global.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.myhpsupport.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.printeron.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.printersetupsupport.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.printspots.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.printspots.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.serviceshp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.thecompaqstore.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.touchsmartpc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.touchsmartpc.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.touchsmartpc.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.workstations.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp",
+    "pattern": "*://*.www8-hp.com",
+    "active": true
+  }
 ]

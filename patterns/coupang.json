@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "coupang",
-            "pattern": "*://*.coupang.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "coupang",
+    "pattern": "*://*.coupang.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "coupang",
-            "pattern": "*://*.coupangcdn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "coupang",
+    "pattern": "*://*.coupangcdn.com",
+    "active": true
+  }
 ]

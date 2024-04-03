@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "egghead",
-            "pattern": "*://*.egghead.io",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "egghead",
+    "pattern": "*://*.egghead.io",
+    "active": true
+  }
 ]

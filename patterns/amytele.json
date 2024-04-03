@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "amytele",
-            "pattern": "*://*.amytele.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "amytele",
+    "pattern": "*://*.amytele.com",
+    "active": true
+  }
 ]

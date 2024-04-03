@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "truyen-hentai",
-            "pattern": "*://*.truyen-hentai.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "truyen-hentai",
+    "pattern": "*://*.truyen-hentai.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "truyen-hentai",
-            "pattern": "*://*.truyen-hentai.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "truyen-hentai",
+    "pattern": "*://*.truyen-hentai.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "truyen-hentai",
-            "pattern": "*://*.truyen-hentai.ru",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "truyen-hentai",
+    "pattern": "*://*.truyen-hentai.ru",
+    "active": true
+  }
 ]

@@ -1,366 +1,366 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.adaptivecards.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.adaptivecards.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.api-extractor.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.api-extractor.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.apisof.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.apisof.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.appcenter.ms",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.appcenter.ms",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.blazor.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.blazor.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.botframework.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.botframework.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.codethemicrobit.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.codethemicrobit.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.devopsassessment.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.devopsassessment.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.dot.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.dot.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.gamesstack.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.gamesstack.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.graphengine.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.graphengine.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.insiderdevtour.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.insiderdevtour.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.jwt.ms",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.jwt.ms",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microbit.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microbit.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microsoftadc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microsoftadc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microsoftgamestack.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microsoftgamestack.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microsoftiotinsiderlabs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microsoftiotinsiderlabs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microsoftreactor.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microsoftreactor.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microsoftreactor.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microsoftreactor.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microsoftreactor.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microsoftreactor.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microsoftsilverlight.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microsoftsilverlight.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microsoftsilverlight.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microsoftsilverlight.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microsoftsilverlight.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microsoftsilverlight.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.microsoftsqlserver.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.microsoftsqlserver.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.mmdnn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.mmdnn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.mono-project.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.mono-project.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.msdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.msdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.msinnovationchallenge.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.msinnovationchallenge.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.mspairlift.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.mspairlift.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.msropendata.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.msropendata.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.nuget.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.nuget.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.nugettest.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.nugettest.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.opentranslatorstothings.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.opentranslatorstothings.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.poshtestgallery.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.poshtestgallery.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.pwabuilder.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.pwabuilder.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.sankie.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.sankie.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.sqlserveronlinux.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.sqlserveronlinux.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.timelinestoryteller.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.timelinestoryteller.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.uwpcommunitytoolkit.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.uwpcommunitytoolkit.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.visualstudio-staging.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.visualstudio-staging.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.visualstudio.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.visualstudio.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.visualstudio.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.visualstudio.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.visualstudio.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.visualstudio.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.visualstudio.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.visualstudio.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.visualstudio.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.visualstudio.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.vfsforgit.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.vfsforgit.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.vfsforgit.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.vfsforgit.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.vsassets.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.vsassets.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.vscode.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.vscode.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.vscode-cdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.vscode-cdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.vscode-unpkg.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.vscode-unpkg.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft-dev",
-            "pattern": "*://*.xamarin.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft-dev",
+    "pattern": "*://*.xamarin.com",
+    "active": true
+  }
 ]

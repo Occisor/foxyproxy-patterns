@@ -1,219 +1,219 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.cepacol.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.cepacol.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.cepacol.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.cepacol.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.dobendan.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.dobendan.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.graneodin.com.mx",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.graneodin.com.mx",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.repsils.no",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.repsils.no",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.at",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.at",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.ch",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.ch",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.co.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.co.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.co.za",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.co.za",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.com.ar",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.com.ar",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.com.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.com.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.com.ph",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.com.ph",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.fi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.fi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.hr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.hr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.hu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.hu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.ie",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.ie",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.pl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.pl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.pt",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.pt",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.ro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.ro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.si",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.si",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsils.us",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsils.us",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strepsils",
-            "pattern": "*://*.strepsilsarabia.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "strepsils",
+    "pattern": "*://*.strepsilsarabia.com",
+    "active": true
+  }
 ]

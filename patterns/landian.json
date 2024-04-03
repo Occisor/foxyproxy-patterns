@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "landian",
-            "pattern": "*://*.lancdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "landian",
+    "pattern": "*://*.lancdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "landian",
-            "pattern": "*://*.landiannews.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "landian",
+    "pattern": "*://*.landiannews.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "landian",
-            "pattern": "*://*.landian.vip",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "landian",
+    "pattern": "*://*.landian.vip",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "landian",
-            "pattern": "*://*.landian.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "landian",
+    "pattern": "*://*.landian.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "landian",
-            "pattern": "*://*.ourl.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "landian",
+    "pattern": "*://*.ourl.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "landian",
-            "pattern": "*://*.wsoso.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "landian",
+    "pattern": "*://*.wsoso.com",
+    "active": true
+  }
 ]

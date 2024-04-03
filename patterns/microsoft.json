@@ -1,1661 +1,1661 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.hotmail",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.office",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.skype",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windows",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.az",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.be",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.by",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.cat",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.ch",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.cl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.cz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.dk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.ee",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.es",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.eu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.fi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.ge",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.hu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.is",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.it",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.lt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.lu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.lv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.md",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.pl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.pt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.red",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.ro",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.rs",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.ru",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.se",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.si",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.ua",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.uz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft.vn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.femalefounderscomp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.m12.vc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.a-msedge.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.aka.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.ankarazirvesi2018.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.applicationinsights.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.applicationinsights.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.aria.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.asp.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.aspnetcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.binads.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.bluehatil.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.boswp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.brazilpartneruniversity.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.breakdown.me",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.centralvalidation.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.ch9.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.charticulator.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.cloudapp.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.cloudappsecurity.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.cortanaanalytics.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.cortanaskills.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.crmdynint-gcc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.crmdynint.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.crossborderexpansion.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.docs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.dynamics.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.edgesuite.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.efproject.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.fasttrackreadysupport.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.fluidpreview.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.footprintdns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.gameuxmasterguide.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.gears5.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.gearspop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.gearstactics.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.gfx.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.gigjam.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.hololens.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.hotmail.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.hotmail.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.hotmail.eu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.hotmail.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.hotmail.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.hummingbird.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.ie8.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.ie9.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.ie10.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.ie11.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.internetexplorer.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.internetexplorer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.imaginecup.pl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.ingads.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.intunewiki.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.iotinactionevents.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.kidgrid.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.kumo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.latampartneruniversity.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.live.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.live.com.au",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.live.eu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.live.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.livingyourambition.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.makecode.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.managedmeetingrooms.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.meetfasttrack.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.meetyourdevices.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.mepn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft-falcon.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft-int.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft-ppe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft-sap-events.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft-sbs-domains.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoft365.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftaccountguard.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftads.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftadvertising.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftadvertisingregionalawards.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftaffiliates.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftapp.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftcloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftcloudworkshop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftcommunitytraining.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftedge.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsofthouse.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsofthouse.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftinternetsafety.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftlatamaitour.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftlinc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftonline-p.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftonline.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftpartnercommunity.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftready.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftsiteselection.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftstore.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftstore.com.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftstream.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftteams.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsofttradein.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsofttranslator.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.microsoftuwp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.momentumms.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.morphcharts.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.mpnevolution.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.ms-studiosmedia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.ms365surfaceoffer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msads.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msauth.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.mschallenge2018.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msecnd.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msedge.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msft.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msft.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msftauth.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msfteducation.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msftnet.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msgamesresearch.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msocdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msturing.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.msudalosti.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.mymicrosoft.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.nextechafrica.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.nxta.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.o365weve-dev.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.o365weve-ppe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.o365weve.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.office.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.office.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.office365.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.onenote.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.onenote.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.onestore.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.opticsforthecloud.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.outingsapp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.outlook.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.passport.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.pixapp.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.powerappscdn.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.powerautomate.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.powerbi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.powershellgallery.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.projectmurphy.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.projectsangam.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.pxt.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.s-dc-msedge.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.s-microsoft.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.s-msedge.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.s-msft.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.s-msn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.sfbassets.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.sfbassets.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.sfx.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.sharepoint.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.sharepointonline.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.skype.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.skype.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.skypeassets.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.skypeassets.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.staffhub.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.successwithteams.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.surface.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.svc.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.sway-cdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.sway.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.sysinternals.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.tailwindtraders.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.techhub.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.tfsallin.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.translatetheweb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.unlocklimitlesslearning.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.userpxt.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.videobreakdown.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.videoindexer.ai",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.virtualearth.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.vsallin.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.wbd.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.what-fan.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windows-int.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windows.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windows.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windows.nl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windows8.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windowscommunity.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windowsmarketplace.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windowsphone-int.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windowsphone.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windowssearch.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.windowsupdate.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.winhec.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.winhec.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.yammer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.edge-skype-com.s-0001.s-msedge.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.skype-edf.akadns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "microsoft",
-            "pattern": "*://*.skypedata.akadns.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.hotmail",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.office",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.skype",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windows",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.az",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.be",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.by",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.cat",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.ch",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.cl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.cz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.dk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.ee",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.es",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.eu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.fi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.ge",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.hu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.is",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.it",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.lt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.lu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.lv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.md",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.pl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.pt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.red",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.ro",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.rs",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.ru",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.se",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.si",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.ua",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.uz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft.vn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.femalefounderscomp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.m12.vc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.a-msedge.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.aka.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.ankarazirvesi2018.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.applicationinsights.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.applicationinsights.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.aria.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.asp.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.aspnetcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.binads.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.bluehatil.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.boswp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.brazilpartneruniversity.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.breakdown.me",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.centralvalidation.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.ch9.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.charticulator.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.cloudapp.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.cloudappsecurity.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.cortanaanalytics.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.cortanaskills.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.crmdynint-gcc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.crmdynint.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.crossborderexpansion.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.docs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.dynamics.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.edgesuite.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.efproject.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.fasttrackreadysupport.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.fluidpreview.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.footprintdns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.gameuxmasterguide.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.gears5.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.gearspop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.gearstactics.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.gfx.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.gigjam.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.hololens.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.hotmail.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.hotmail.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.hotmail.eu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.hotmail.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.hotmail.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.hummingbird.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.ie8.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.ie9.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.ie10.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.ie11.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.internetexplorer.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.internetexplorer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.imaginecup.pl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.ingads.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.intunewiki.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.iotinactionevents.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.kidgrid.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.kumo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.latampartneruniversity.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.live.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.live.com.au",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.live.eu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.live.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.livingyourambition.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.makecode.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.managedmeetingrooms.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.meetfasttrack.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.meetyourdevices.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.mepn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft-falcon.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft-int.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft-ppe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft-sap-events.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft-sbs-domains.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoft365.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftaccountguard.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftads.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftadvertising.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftadvertisingregionalawards.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftaffiliates.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftapp.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftcloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftcloudworkshop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftcommunitytraining.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftedge.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsofthouse.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsofthouse.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftinternetsafety.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftlatamaitour.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftlinc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftonline-p.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftonline.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftpartnercommunity.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftready.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftsiteselection.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftstore.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftstore.com.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftstream.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftteams.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsofttradein.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsofttranslator.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.microsoftuwp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.momentumms.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.morphcharts.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.mpnevolution.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.ms-studiosmedia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.ms365surfaceoffer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msads.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msauth.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.mschallenge2018.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msecnd.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msedge.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msft.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msft.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msftauth.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msfteducation.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msftnet.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msgamesresearch.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msocdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msturing.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.msudalosti.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.mymicrosoft.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.nextechafrica.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.nxta.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.o365weve-dev.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.o365weve-ppe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.o365weve.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.office.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.office.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.office365.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.onenote.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.onenote.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.onestore.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.opticsforthecloud.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.outingsapp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.outlook.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.passport.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.pixapp.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.powerappscdn.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.powerautomate.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.powerbi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.powershellgallery.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.projectmurphy.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.projectsangam.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.pxt.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.s-dc-msedge.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.s-microsoft.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.s-msedge.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.s-msft.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.s-msn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.sfbassets.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.sfbassets.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.sfx.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.sharepoint.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.sharepointonline.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.skype.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.skype.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.skypeassets.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.skypeassets.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.staffhub.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.successwithteams.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.surface.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.svc.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.sway-cdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.sway.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.sysinternals.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.tailwindtraders.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.techhub.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.tfsallin.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.translatetheweb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.unlocklimitlesslearning.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.userpxt.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.videobreakdown.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.videoindexer.ai",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.virtualearth.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.vsallin.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.wbd.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.what-fan.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windows-int.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windows.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windows.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windows.nl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windows8.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windowscommunity.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windowsmarketplace.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windowsphone-int.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windowsphone.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windowssearch.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.windowsupdate.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.winhec.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.winhec.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.yammer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.edge-skype-com.s-0001.s-msedge.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.skype-edf.akadns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft",
+    "pattern": "*://*.skypedata.akadns.net",
+    "active": true
+  }
 ]

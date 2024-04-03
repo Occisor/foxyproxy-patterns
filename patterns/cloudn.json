@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cloudn",
-            "pattern": "*://*.cloudn.me",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "cloudn",
+    "pattern": "*://*.cloudn.me",
+    "active": true
+  }
 ]

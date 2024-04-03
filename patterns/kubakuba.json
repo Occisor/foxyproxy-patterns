@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kubakuba",
-            "pattern": "*://*.kubakuba.global",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kubakuba",
+    "pattern": "*://*.kubakuba.global",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kubakuba",
-            "pattern": "*://*.kubakuba1996.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "kubakuba",
+    "pattern": "*://*.kubakuba1996.com",
+    "active": true
+  }
 ]

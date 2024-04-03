@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cnet",
-            "pattern": "*://*.cnet.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "cnet",
+    "pattern": "*://*.cnet.com",
+    "active": true
+  }
 ]

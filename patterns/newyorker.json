@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newyorker",
-            "pattern": "*://*.newyorker.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "newyorker",
+    "pattern": "*://*.newyorker.com",
+    "active": true
+  }
 ]

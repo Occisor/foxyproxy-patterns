@@ -1,100 +1,100 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.acadn.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.acadn.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.acadn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.acadn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.bbbcdns.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.bbbcdns.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.dlgslb.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.dlgslb.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.dlgslb.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.dlgslb.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.dwion.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.dwion.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.fastcdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.fastcdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.fastcdn.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.fastcdn.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.flxdns.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.flxdns.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.flxdns.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.flxdns.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.globalcdn.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.globalcdn.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.mcadn.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.mcadn.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.tlgslb.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.tlgslb.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dwion",
-            "pattern": "*://*.tlgslb.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dwion",
+    "pattern": "*://*.tlgslb.com",
+    "active": true
+  }
 ]

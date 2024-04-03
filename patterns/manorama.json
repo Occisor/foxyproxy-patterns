@@ -1,86 +1,86 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.malayalamanorama.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.malayalamanorama.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.manorama.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.manorama.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.manoramanews.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.manoramanews.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.manoramaonline.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.manoramaonline.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.manoramayearbook.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.manoramayearbook.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.onmanorama.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.onmanorama.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.radiomango.fm",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.radiomango.fm",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.theman.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.theman.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.theweek.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.theweek.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.vanitaonline.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.vanitaonline.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.vanitha.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.vanitha.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manorama",
-            "pattern": "*://*.vanithaveedu.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "manorama",
+    "pattern": "*://*.vanithaveedu.com",
+    "active": true
+  }
 ]

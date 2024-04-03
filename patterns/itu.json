@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "itu",
-            "pattern": "*://*.itu.int",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "itu",
+    "pattern": "*://*.itu.int",
+    "active": true
+  }
 ]

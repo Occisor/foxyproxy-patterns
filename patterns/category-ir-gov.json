@@ -1,198 +1,198 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.adliran.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.adliran.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.bazresi.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.bazresi.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.bia-judiciary.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.bia-judiciary.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.budget.imo.org.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.budget.imo.org.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.dadiran.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.dadiran.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.dadsara.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.dadsara.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.dadsetani.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.dadsetani.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.divan-edalat.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.divan-edalat.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.dmk.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.dmk.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.doe.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.doe.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.dolat.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.dolat.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.eadl.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.eadl.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.enamad.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.enamad.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.gov.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.gov.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.hadafmandi.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.hadafmandi.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.intamedia.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.intamedia.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.irimo.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.irimo.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.moi.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.moi.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.mporg.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.mporg.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.parliran.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.parliran.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.post.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.post.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.president.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.president.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.refahi.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.refahi.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.sahamedalat.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.sahamedalat.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.samandehi.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.samandehi.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.samanese.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.samanese.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.sccr.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.sccr.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-gov",
-            "pattern": "*://*.shora-gc.ir",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-gov",
+    "pattern": "*://*.shora-gc.ir",
+    "active": true
+  }
 ]

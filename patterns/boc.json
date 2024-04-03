@@ -1,142 +1,142 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.boc.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.boc.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bank-of-china.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bank-of-china.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bankofchina.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bankofchina.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocfullertonbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocfullertonbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocamchina.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocamchina.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocaviation.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocaviation.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.boccfc.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.boccfc.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.boccfc.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.boccfc.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocgi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocgi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocgins.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocgins.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bochk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bochk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocichina.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocichina.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocichina.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocichina.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocichina.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocichina.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocifunds.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocifunds.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocifunds.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocifunds.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocifunds.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocifunds.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocigroup.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocigroup.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocim.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocim.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boc",
-            "pattern": "*://*.bocservices.com.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "boc",
+    "pattern": "*://*.bocservices.com.cn",
+    "active": true
+  }
 ]

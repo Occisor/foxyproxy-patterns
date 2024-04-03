@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jsdelivr",
-            "pattern": "*://*.jsdelivr.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "jsdelivr",
+    "pattern": "*://*.jsdelivr.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jsdelivr",
-            "pattern": "*://*.jsdelivr.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "jsdelivr",
+    "pattern": "*://*.jsdelivr.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jsdelivr",
-            "pattern": "*://*.esm.run",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "jsdelivr",
+    "pattern": "*://*.esm.run",
+    "active": true
+  }
 ]

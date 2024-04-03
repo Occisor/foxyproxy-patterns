@@ -1,86 +1,86 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.1010.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.1010.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.esmarthealth.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.esmarthealth.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.hkcsl.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.hkcsl.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.hkt-enterprise.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.hkt-enterprise.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.hkt-eye.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.hkt-eye.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.hkt.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.hkt.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.hkteducation.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.hkteducation.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.hktpremier.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.hktpremier.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.hktshop.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.hktshop.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.netvigator.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.netvigator.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.theclub.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.theclub.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hkt",
-            "pattern": "*://*.uhub.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hkt",
+    "pattern": "*://*.uhub.com",
+    "active": true
+  }
 ]

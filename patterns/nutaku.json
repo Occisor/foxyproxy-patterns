@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nutaku",
-            "pattern": "*://*.nutaku.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nutaku",
+    "pattern": "*://*.nutaku.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nutaku",
-            "pattern": "*://*.nutaku.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "nutaku",
+    "pattern": "*://*.nutaku.net",
+    "active": true
+  }
 ]

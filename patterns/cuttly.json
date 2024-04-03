@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cuttly",
-            "pattern": "*://*.cutt.ly",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "cuttly",
+    "pattern": "*://*.cutt.ly",
+    "active": true
+  }
 ]

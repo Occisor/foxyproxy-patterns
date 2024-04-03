@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "teambition",
-            "pattern": "*://*.teambition.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "teambition",
+    "pattern": "*://*.teambition.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "teambition",
-            "pattern": "*://*.teambition.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "teambition",
+    "pattern": "*://*.teambition.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "teambition",
-            "pattern": "*://*.teambitionapis.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "teambition",
+    "pattern": "*://*.teambitionapis.com",
+    "active": true
+  }
 ]

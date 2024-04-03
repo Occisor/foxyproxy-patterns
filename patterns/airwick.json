@@ -1,275 +1,275 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.at",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.at",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.be",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.be",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.ch",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.ch",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.cl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.cl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.co.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.co.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.co.za",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.co.za",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.com.mx",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.com.mx",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.com.tr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.com.tr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.cz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.cz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.dk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.dk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.fi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.fi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.hr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.hr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.hu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.hu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.ie",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.ie",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.nl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.nl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.no",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.no",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.pl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.pl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.pt",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.pt",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.ro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.ro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.se",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.se",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.si",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.si",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.sk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.sk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwick.us",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwick.us",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.airwickarabia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.airwickarabia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "airwick",
-            "pattern": "*://*.vipoo.es",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "airwick",
+    "pattern": "*://*.vipoo.es",
+    "active": true
+  }
 ]

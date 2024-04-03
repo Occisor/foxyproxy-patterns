@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.wa.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.wa.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.whatsapp-plus.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.whatsapp-plus.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.whatsapp-plus.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.whatsapp-plus.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.whatsapp-plus.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.whatsapp-plus.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.whatsapp.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.whatsapp.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.whatsapp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.whatsapp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.whatsapp.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.whatsapp.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.whatsapp.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.whatsapp.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.whatsapp.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.whatsapp.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.whatsapp.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.whatsapp.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "whatsapp",
-            "pattern": "*://*.whatsappbrand.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp",
+    "pattern": "*://*.whatsappbrand.com",
+    "active": true
+  }
 ]

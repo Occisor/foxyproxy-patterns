@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qnap",
-            "pattern": "*://*.myqnapcloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qnap",
+    "pattern": "*://*.myqnapcloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qnap",
-            "pattern": "*://*.qlink.to",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qnap",
+    "pattern": "*://*.qlink.to",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qnap",
-            "pattern": "*://*.qnap.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "qnap",
+    "pattern": "*://*.qnap.com",
+    "active": true
+  }
 ]

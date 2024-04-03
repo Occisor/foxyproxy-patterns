@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "starplus",
-            "pattern": "*://*.starott.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "starplus",
+    "pattern": "*://*.starott.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "starplus",
-            "pattern": "*://*.starplus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "starplus",
+    "pattern": "*://*.starplus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "starplus",
-            "pattern": "*://*.star.api.edge.bamgrid.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "starplus",
+    "pattern": "*://*.star.api.edge.bamgrid.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "starplus",
-            "pattern": "*://*.star.connections.edge.bamgrid.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "starplus",
+    "pattern": "*://*.star.connections.edge.bamgrid.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "starplus",
-            "pattern": "*://*.star.content.edge.bamgrid.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "starplus",
+    "pattern": "*://*.star.content.edge.bamgrid.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "starplus",
-            "pattern": "*://*.star.playback.edge.bamgrid.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "starplus",
+    "pattern": "*://*.star.playback.edge.bamgrid.com",
+    "active": true
+  }
 ]

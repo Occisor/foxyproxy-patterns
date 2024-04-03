@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "reurl",
-            "pattern": "*://*.reurl.cc",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "reurl",
+    "pattern": "*://*.reurl.cc",
+    "active": true
+  }
 ]

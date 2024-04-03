@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yarnpkg",
-            "pattern": "*://*.yarnpkg.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "yarnpkg",
+    "pattern": "*://*.yarnpkg.com",
+    "active": true
+  }
 ]

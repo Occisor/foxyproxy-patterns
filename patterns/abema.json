@@ -1,107 +1,107 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.abema.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.abema.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.abema.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.abema.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.abema-tv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.abema-tv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.adx.promo",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.adx.promo",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.ameba.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.ameba.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.amebame.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.amebame.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.amebaownd.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.amebaownd.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.amebaowndme.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.amebaowndme.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.ameblo.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.ameblo.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.bucketeer.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.bucketeer.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.dokusho-ojikan.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.dokusho-ojikan.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.hayabusa.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.hayabusa.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.hayabusa.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.hayabusa.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.hayabusa.media",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.hayabusa.media",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "abema",
-            "pattern": "*://*.winticket.jp",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "abema",
+    "pattern": "*://*.winticket.jp",
+    "active": true
+  }
 ]

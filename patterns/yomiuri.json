@@ -1,100 +1,100 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.chuokoron.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.chuokoron.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.fujinkoron.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.fujinkoron.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.hochi.news",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.hochi.news",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.ryokoyomiuri.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.ryokoyomiuri.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.the-japan-news.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.the-japan-news.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.ync.ne.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.ync.ne.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.yomikyo.or.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.yomikyo.or.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.yomilogi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.yomilogi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.yomiuri-johkai.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.yomiuri-johkai.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.yomiuri-johkai.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.yomiuri-johkai.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.yomiuri-ryokou.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.yomiuri-ryokou.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.yomiuri-shimbun.pressreader.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.yomiuri-shimbun.pressreader.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.yomiuri-systec.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.yomiuri-systec.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yomiuri",
-            "pattern": "*://*.yomiuri.co.jp",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "yomiuri",
+    "pattern": "*://*.yomiuri.co.jp",
+    "active": true
+  }
 ]

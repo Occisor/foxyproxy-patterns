@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "subscene",
-            "pattern": "*://*.subscene.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "subscene",
+    "pattern": "*://*.subscene.com",
+    "active": true
+  }
 ]

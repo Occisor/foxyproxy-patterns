@@ -1,86 +1,86 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.95516.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.95516.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.95516.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.95516.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.chinaunionpay.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.chinaunionpay.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.chinaunionpay.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.chinaunionpay.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.chinaunionpay.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.chinaunionpay.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.cup.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.cup.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.cup62.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.cup62.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.unionpay.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.unionpay.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.unionpay.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.unionpay.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.unionpaysecure.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.unionpaysecure.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.unionpayintl.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.unionpayintl.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unionpay",
-            "pattern": "*://*.unionpayintl.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "unionpay",
+    "pattern": "*://*.unionpayintl.com",
+    "active": true
+  }
 ]

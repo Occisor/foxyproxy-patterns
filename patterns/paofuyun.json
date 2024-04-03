@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "paofuyun",
-            "pattern": "*://*.paofu.cloud",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "paofuyun",
+    "pattern": "*://*.paofu.cloud",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "paofuyun",
-            "pattern": "*://*.paofuyun.me",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "paofuyun",
+    "pattern": "*://*.paofuyun.me",
+    "active": true
+  }
 ]

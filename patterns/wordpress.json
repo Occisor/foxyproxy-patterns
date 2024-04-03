@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wordpress",
-            "pattern": "*://*.videopress.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wordpress",
+    "pattern": "*://*.videopress.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wordpress",
-            "pattern": "*://*.w.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wordpress",
+    "pattern": "*://*.w.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wordpress",
-            "pattern": "*://*.wordpress.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wordpress",
+    "pattern": "*://*.wordpress.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wordpress",
-            "pattern": "*://*.wordpress.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wordpress",
+    "pattern": "*://*.wordpress.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wordpress",
-            "pattern": "*://*.wordpress.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wordpress",
+    "pattern": "*://*.wordpress.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wordpress",
-            "pattern": "*://*.wp-themes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wordpress",
+    "pattern": "*://*.wp-themes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wordpress",
-            "pattern": "*://*.wp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wordpress",
+    "pattern": "*://*.wp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wordpress",
-            "pattern": "*://*.wpvip.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "wordpress",
+    "pattern": "*://*.wpvip.com",
+    "active": true
+  }
 ]

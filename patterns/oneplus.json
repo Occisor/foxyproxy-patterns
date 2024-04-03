@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oneplus",
-            "pattern": "*://*.oneplus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oneplus",
+    "pattern": "*://*.oneplus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oneplus",
-            "pattern": "*://*.oneplus.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oneplus",
+    "pattern": "*://*.oneplus.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oneplus",
-            "pattern": "*://*.oneplus.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oneplus",
+    "pattern": "*://*.oneplus.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oneplus",
-            "pattern": "*://*.opstatics.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oneplus",
+    "pattern": "*://*.opstatics.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oneplus",
-            "pattern": "*://*.oneplusbbs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oneplus",
+    "pattern": "*://*.oneplusbbs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oneplus",
-            "pattern": "*://*.h2os.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "oneplus",
+    "pattern": "*://*.h2os.com",
+    "active": true
+  }
 ]

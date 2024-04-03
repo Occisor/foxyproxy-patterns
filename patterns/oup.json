@@ -1,205 +1,205 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.amamanualofstyle.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.amamanualofstyle.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.anb.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.anb.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.blackstonespoliceservice.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.blackstonespoliceservice.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.epigeum.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.epigeum.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oed.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oed.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.omscr.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.omscr.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oup.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oup.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.ouplaw.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.ouplaw.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.ox.ac.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.ox.ac.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordaasc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordaasc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordartonline.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordartonline.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordbibliographies.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordbibliographies.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordclinicalpsych.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordclinicalpsych.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxforddnb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxforddnb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordfirstsource.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordfirstsource.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordhandbooks.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordhandbooks.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordlawtrove.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordlawtrove.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordmedicine.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordmedicine.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordmusiconline.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordmusiconline.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordpoliticstrove.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordpoliticstrove.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordre.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordre.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordreference.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordreference.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordscholarlyeditions.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordscholarlyeditions.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordscholarship.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordscholarship.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.oxfordwesternmusic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.oxfordwesternmusic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.sipriyearbook.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.sipriyearbook.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.ukwhoswho.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.ukwhoswho.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.universitypressscholarship.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.universitypressscholarship.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oup",
-            "pattern": "*://*.veryshortintroductions.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "oup",
+    "pattern": "*://*.veryshortintroductions.com",
+    "active": true
+  }
 ]

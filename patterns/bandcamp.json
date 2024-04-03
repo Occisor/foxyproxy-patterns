@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bandcamp",
-            "pattern": "*://*.bandcamp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bandcamp",
+    "pattern": "*://*.bandcamp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bandcamp",
-            "pattern": "*://*.bcbits.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bandcamp",
+    "pattern": "*://*.bcbits.com",
+    "active": true
+  }
 ]

@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "java",
-            "pattern": "*://*.java",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "java",
+    "pattern": "*://*.java",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "java",
-            "pattern": "*://*.java.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "java",
+    "pattern": "*://*.java.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "java",
-            "pattern": "*://*.java.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "java",
+    "pattern": "*://*.java.net",
+    "active": true
+  }
 ]

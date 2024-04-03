@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "heyzo",
-            "pattern": "*://*.heydoga.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "heyzo",
+    "pattern": "*://*.heydoga.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "heyzo",
-            "pattern": "*://*.heyzo.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "heyzo",
+    "pattern": "*://*.heyzo.com",
+    "active": true
+  }
 ]

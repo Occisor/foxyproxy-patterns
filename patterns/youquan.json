@@ -1,72 +1,72 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youquan",
-            "pattern": "*://*.aitcfw.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youquan",
+    "pattern": "*://*.aitcfw.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youquan",
-            "pattern": "*://*.aizgtc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youquan",
+    "pattern": "*://*.aizgtc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youquan",
-            "pattern": "*://*.hangzhouyq.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youquan",
+    "pattern": "*://*.hangzhouyq.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youquan",
-            "pattern": "*://*.hangzhouyq.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youquan",
+    "pattern": "*://*.hangzhouyq.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youquan",
-            "pattern": "*://*.zgxytc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youquan",
+    "pattern": "*://*.zgxytc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youquan",
-            "pattern": "*://*.zgzsa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youquan",
+    "pattern": "*://*.zgzsa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youquan",
-            "pattern": "*://*.zhonshian.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youquan",
+    "pattern": "*://*.zhonshian.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youquan",
-            "pattern": "*://*.zhonshian.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youquan",
+    "pattern": "*://*.zhonshian.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youquan",
-            "pattern": "*://*.zhonshian.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youquan",
+    "pattern": "*://*.zhonshian.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youquan",
-            "pattern": "*://*.zjzsa.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "youquan",
+    "pattern": "*://*.zjzsa.com",
+    "active": true
+  }
 ]

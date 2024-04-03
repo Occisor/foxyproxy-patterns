@@ -1,114 +1,114 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.co.za",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.co.za",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.com.pl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.com.pl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.mx",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.mx",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.my",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.my",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.nl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.nl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.businessinsider.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.businessinsider.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.insider-intelligence.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.insider-intelligence.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.insider.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.insider.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "insider",
-            "pattern": "*://*.insiderintelligence.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "insider",
+    "pattern": "*://*.insiderintelligence.com",
+    "active": true
+  }
 ]

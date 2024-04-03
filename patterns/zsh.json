@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zsh",
-            "pattern": "*://*.zsh.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "zsh",
+    "pattern": "*://*.zsh.org",
+    "active": true
+  }
 ]

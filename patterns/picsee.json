@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picsee",
-            "pattern": "*://*.pics.ee",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picsee",
+    "pattern": "*://*.pics.ee",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picsee",
-            "pattern": "*://*.picsee.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picsee",
+    "pattern": "*://*.picsee.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picsee",
-            "pattern": "*://*.picsee.pro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picsee",
+    "pattern": "*://*.picsee.pro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picsee",
-            "pattern": "*://*.pise.pw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picsee",
+    "pattern": "*://*.pise.pw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picsee",
-            "pattern": "*://*.pros.ee",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "picsee",
+    "pattern": "*://*.pros.ee",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "picsee",
-            "pattern": "*://*.pse.is",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "picsee",
+    "pattern": "*://*.pse.is",
+    "active": true
+  }
 ]

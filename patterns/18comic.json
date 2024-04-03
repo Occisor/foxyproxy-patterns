@@ -1,107 +1,107 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.18comic-god.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.18comic-god.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.18comic-god.club",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.18comic-god.club",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.18comic-god.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.18comic-god.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.18comic.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.18comic.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.18comic.company",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.18comic.company",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.18comic.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.18comic.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.18comic.vip",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.18comic.vip",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.jmcomic.ltd",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.jmcomic.ltd",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.jmcomic.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.jmcomic.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.jmcomic.mobi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.jmcomic.mobi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.jmcomic.moe",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.jmcomic.moe",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.jmcomic1.city",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.jmcomic1.city",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.jmcomic1.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.jmcomic1.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.jmcomic1.mobi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.jmcomic1.mobi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "18comic",
-            "pattern": "*://*.jmcomic2.moe",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "18comic",
+    "pattern": "*://*.jmcomic2.moe",
+    "active": true
+  }
 ]

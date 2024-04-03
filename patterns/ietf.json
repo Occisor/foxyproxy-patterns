@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ietf",
-            "pattern": "*://*.ietf.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ietf",
+    "pattern": "*://*.ietf.org",
+    "active": true
+  }
 ]

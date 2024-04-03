@@ -1,142 +1,142 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.mvk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.mvk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.userapi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.userapi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vk-cdn.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vk-cdn.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vk-cdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vk-cdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vk-portal.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vk-portal.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vk.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vk.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vk.design",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vk.design",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vk.link",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vk.link",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vk.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vk.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vkcache.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vkcache.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vkgo.app",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vkgo.app",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vklive.app",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vklive.app",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vkmessenger.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vkmessenger.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vkmessenger.app",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vkmessenger.app",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vkontakte.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vkontakte.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vkuseraudio.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vkuseraudio.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vkuserlive.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vkuserlive.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vkuservideo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vkuservideo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vk",
-            "pattern": "*://*.vkuservideo.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "vk",
+    "pattern": "*://*.vkuservideo.net",
+    "active": true
+  }
 ]

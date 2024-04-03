@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "unpkg",
-            "pattern": "*://*.unpkg.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "unpkg",
+    "pattern": "*://*.unpkg.com",
+    "active": true
+  }
 ]

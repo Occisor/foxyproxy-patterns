@@ -1,30 +1,30 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hentaivn",
-            "pattern": "*://*.hentaivn.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hentaivn",
+    "pattern": "*://*.hentaivn.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hentaivn",
-            "pattern": "*://*.hentaivn.la",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hentaivn",
+    "pattern": "*://*.hentaivn.la",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hentaivn",
-            "pattern": "*://*.hentaivn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hentaivn",
+    "pattern": "*://*.hentaivn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hentaivn",
-            "pattern": "*://*.htvncdn.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hentaivn",
+    "pattern": "*://*.htvncdn.net",
+    "active": true
+  }
 ]

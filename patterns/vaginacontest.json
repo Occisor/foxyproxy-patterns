@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vaginacontest",
-            "pattern": "*://*.vaginacontest.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "vaginacontest",
+    "pattern": "*://*.vaginacontest.com",
+    "active": true
+  }
 ]

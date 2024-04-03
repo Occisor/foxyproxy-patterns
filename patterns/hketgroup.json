@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.apexprint.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.apexprint.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.eprc.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.eprc.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.etbc.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.etbc.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.etnet.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.etnet.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.etpress.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.etpress.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.ettrade.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.ettrade.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.etwealth.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.etwealth.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.hket.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.hket.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.hketgroup.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.hketgroup.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.ulifestyle.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.ulifestyle.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hketgroup",
-            "pattern": "*://*.umagazine.com.hk",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hketgroup",
+    "pattern": "*://*.umagazine.com.hk",
+    "active": true
+  }
 ]

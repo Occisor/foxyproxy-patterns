@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "polymer",
-            "pattern": "*://*.polymer-project.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "polymer",
+    "pattern": "*://*.polymer-project.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "polymer",
-            "pattern": "*://*.polymerproject.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "polymer",
+    "pattern": "*://*.polymerproject.org",
+    "active": true
+  }
 ]

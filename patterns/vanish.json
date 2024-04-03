@@ -1,324 +1,324 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.o2action.co.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.o2action.co.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.powerofresolve.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.powerofresolve.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.powerofresolve.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.powerofresolve.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.spraynwash.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.spraynwash.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.at",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.at",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.be",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.be",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.ch",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.ch",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.cl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.cl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.co.id",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.co.id",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.co.il",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.co.il",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.co.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.co.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.co.za",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.co.za",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.com.ar",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.com.ar",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.com.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.com.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.com.hr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.com.hr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.com.mx",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.com.mx",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.com.my",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.com.my",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.com.pe",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.com.pe",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.com.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.com.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.com.tr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.com.tr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.dk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.dk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.fi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.fi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.hu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.hu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.ie",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.ie",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.nl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.nl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.no",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.no",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.pl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.pl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.pt",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.pt",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.ro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.ro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.se",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.se",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.si",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.si",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanish.sk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanish.sk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanisharabia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanisharabia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanishbancaseulook.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanishbancaseulook.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanishcentroamerica.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanishcentroamerica.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanishinfo.cz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanishinfo.cz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanishstains.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanishstains.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vanish",
-            "pattern": "*://*.vanishstains.com.au",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "vanish",
+    "pattern": "*://*.vanishstains.com.au",
+    "active": true
+  }
 ]

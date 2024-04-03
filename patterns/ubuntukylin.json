@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ubuntukylin",
-            "pattern": "*://*.openkylin.top",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ubuntukylin",
+    "pattern": "*://*.openkylin.top",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ubuntukylin",
-            "pattern": "*://*.ubuntukylin.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ubuntukylin",
+    "pattern": "*://*.ubuntukylin.com",
+    "active": true
+  }
 ]

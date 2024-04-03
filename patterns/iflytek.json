@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "iflytek",
-            "pattern": "*://*.iflytek.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "iflytek",
+    "pattern": "*://*.iflytek.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "iflytek",
-            "pattern": "*://*.xunfei.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "iflytek",
+    "pattern": "*://*.xunfei.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "iflytek",
-            "pattern": "*://*.ets100.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "iflytek",
+    "pattern": "*://*.ets100.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "iflytek",
-            "pattern": "*://*.zhixue.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "iflytek",
+    "pattern": "*://*.zhixue.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "iflytek",
-            "pattern": "*://*.changyan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "iflytek",
+    "pattern": "*://*.changyan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "iflytek",
-            "pattern": "*://*.xunfeixxj.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "iflytek",
+    "pattern": "*://*.xunfeixxj.com",
+    "active": true
+  }
 ]

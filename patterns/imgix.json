@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "imgix",
-            "pattern": "*://*.imgix.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "imgix",
+    "pattern": "*://*.imgix.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "imgix",
-            "pattern": "*://*.imgix.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "imgix",
+    "pattern": "*://*.imgix.net",
+    "active": true
+  }
 ]

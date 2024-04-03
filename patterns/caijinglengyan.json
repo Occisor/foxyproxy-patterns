@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "caijinglengyan",
-            "pattern": "*://*.caijinglengyan.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "caijinglengyan",
+    "pattern": "*://*.caijinglengyan.com",
+    "active": true
+  }
 ]

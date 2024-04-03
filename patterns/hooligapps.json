@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hooligapps",
-            "pattern": "*://*.cuntempire.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hooligapps",
+    "pattern": "*://*.cuntempire.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hooligapps",
-            "pattern": "*://*.cuntwars.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hooligapps",
+    "pattern": "*://*.cuntwars.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hooligapps",
-            "pattern": "*://*.dirtyleague.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hooligapps",
+    "pattern": "*://*.dirtyleague.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hooligapps",
-            "pattern": "*://*.faptitans.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hooligapps",
+    "pattern": "*://*.faptitans.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hooligapps",
-            "pattern": "*://*.hooligapps.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hooligapps",
+    "pattern": "*://*.hooligapps.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hooligapps",
-            "pattern": "*://*.slotbitches.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hooligapps",
+    "pattern": "*://*.slotbitches.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hooligapps",
-            "pattern": "*://*.smutstone.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hooligapps",
+    "pattern": "*://*.smutstone.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hooligapps",
-            "pattern": "*://*.townofsins.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hooligapps",
+    "pattern": "*://*.townofsins.com",
+    "active": true
+  }
 ]

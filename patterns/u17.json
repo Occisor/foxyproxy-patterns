@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "u17",
-            "pattern": "*://*.u17.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "u17",
+    "pattern": "*://*.u17.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "u17",
-            "pattern": "*://*.u17i.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "u17",
+    "pattern": "*://*.u17i.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "u17",
-            "pattern": "*://*.u17t.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "u17",
+    "pattern": "*://*.u17t.com",
+    "active": true
+  }
 ]

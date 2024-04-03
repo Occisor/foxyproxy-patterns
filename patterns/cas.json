@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cas",
-            "pattern": "*://*.csdl.ac.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cas",
+    "pattern": "*://*.csdl.ac.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cas",
-            "pattern": "*://*.iscas.ac.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cas",
+    "pattern": "*://*.iscas.ac.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cas",
-            "pattern": "*://*.las.ac.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "cas",
+    "pattern": "*://*.las.ac.cn",
+    "active": true
+  }
 ]

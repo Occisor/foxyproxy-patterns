@@ -1,93 +1,93 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adguard.app",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adguard.app",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adguard.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adguard.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adguard.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adguard.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adguard.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adguard.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adguard.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adguard.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adtidy.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adtidy.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adtidy.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adtidy.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.agrd.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.agrd.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adguard-dns.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adguard-dns.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adguard-dns.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adguard-dns.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adguardvpn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adguardvpn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adguard-vpn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adguard-vpn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "adguard",
-            "pattern": "*://*.adguard-vpn.online",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "adguard",
+    "pattern": "*://*.adguard-vpn.online",
+    "active": true
+  }
 ]

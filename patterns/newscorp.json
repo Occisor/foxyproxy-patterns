@@ -1,422 +1,422 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.1degree.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.1degree.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.adelaidenow.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.adelaidenow.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.adhelpnews.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.adhelpnews.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.api.news",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.api.news",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.bestrecipes.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.bestrecipes.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.bigcharts.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.bigcharts.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.bodyandsoul.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.bodyandsoul.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.bridge-studio.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.bridge-studio.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.cairnspost.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.cairnspost.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.cnivogue.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.cnivogue.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.couriermail.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.couriermail.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.dailytelegraph.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.dailytelegraph.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.delicious.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.delicious.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.escape.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.escape.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.fnlondon.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.fnlondon.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.geelongadvertiser.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.geelongadvertiser.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.goldcoastbulletin.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.goldcoastbulletin.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.heraldsun.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.heraldsun.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.huanyuju.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.huanyuju.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.intheknow.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.intheknow.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.kidspot.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.kidspot.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.mansionglobal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.mansionglobal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.marketwatch.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.marketwatch.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.nativeincolour.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.nativeincolour.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newcastlenewslocal.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newcastlenewslocal.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.news.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.news.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.news.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.news.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.news.net.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.news.net.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newsadds.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newsadds.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newsamerica.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newsamerica.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newsapi.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newsapi.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newscareers.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newscareers.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newscdn.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newscdn.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newscommercial.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newscommercial.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newsconcierge.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newsconcierge.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newscorp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newscorp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newscorpaustralia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newscorpaustralia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newslicensing.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newslicensing.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newsprestigenetwork.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newsprestigenetwork.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newsprinters.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newsprinters.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newssyndication.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newssyndication.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newsukadops.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newsukadops.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.newsxtend.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.newsxtend.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.nlm.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.nlm.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.ntnews.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.ntnews.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.placemyad.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.placemyad.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.savvyshopper.net.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.savvyshopper.net.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.storyful.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.storyful.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.supercoach.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.supercoach.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.taste.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.taste.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.theaustralian.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.theaustralian.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.thechronicle.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.thechronicle.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.themercury.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.themercury.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.themessengeradelaide.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.themessengeradelaide.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.townsvillebulletin.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.townsvillebulletin.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.weeklytimesnow.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.weeklytimesnow.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.whereilive.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.whereilive.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.whimn.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.whimn.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.wireless.radio",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.wireless.radio",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "newscorp",
-            "pattern": "*://*.wirelessgroup.co.uk",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "newscorp",
+    "pattern": "*://*.wirelessgroup.co.uk",
+    "active": true
+  }
 ]

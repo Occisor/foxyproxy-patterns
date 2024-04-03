@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "perl",
-            "pattern": "*://*.perl.apache.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "perl",
+    "pattern": "*://*.perl.apache.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "perl",
-            "pattern": "*://*.perl.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "perl",
+    "pattern": "*://*.perl.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "perl",
-            "pattern": "*://*.cpan.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "perl",
+    "pattern": "*://*.cpan.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "perl",
-            "pattern": "*://*.metacpan.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "perl",
+    "pattern": "*://*.metacpan.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "perl",
-            "pattern": "*://*.modperl.pl",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "perl",
+    "pattern": "*://*.modperl.pl",
+    "active": true
+  }
 ]

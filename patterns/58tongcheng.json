@@ -1,233 +1,233 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.5858.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.5858.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58antenna.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58antenna.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58antenna.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58antenna.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58cdn.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58cdn.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58che.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58che.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58control.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58control.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58corp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58corp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58corp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58corp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58dns.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58dns.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58lovepet.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58lovepet.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58uxd.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58uxd.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58v5.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58v5.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58xinghuo.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58xinghuo.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58xinghuo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58xinghuo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.58xueche.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.58xueche.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.anjuke.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.anjuke.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.anjukestatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.anjukestatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.chinahr.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.chinahr.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.chrstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.chrstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.daojia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.daojia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.diandao.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.diandao.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.fang.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.fang.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.sofun.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.sofun.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.soufunimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.soufunimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.jxedt.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.jxedt.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.jxksw.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.jxksw.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.roomeet.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.roomeet.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.xinchong.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.xinchong.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.zhuancorp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.zhuancorp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.zhuanspirit.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.zhuanspirit.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "58tongcheng",
-            "pattern": "*://*.zhuanzhuan.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "58tongcheng",
+    "pattern": "*://*.zhuanzhuan.com",
+    "active": true
+  }
 ]

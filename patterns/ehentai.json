@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ehentai",
-            "pattern": "*://*.e-hentai.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ehentai",
+    "pattern": "*://*.e-hentai.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ehentai",
-            "pattern": "*://*.ehgt.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ehentai",
+    "pattern": "*://*.ehgt.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ehentai",
-            "pattern": "*://*.ehtracker.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ehentai",
+    "pattern": "*://*.ehtracker.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ehentai",
-            "pattern": "*://*.ehwiki.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ehentai",
+    "pattern": "*://*.ehwiki.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ehentai",
-            "pattern": "*://*.exhentai.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ehentai",
+    "pattern": "*://*.exhentai.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ehentai",
-            "pattern": "*://*.hath.network",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ehentai",
+    "pattern": "*://*.hath.network",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ehentai",
-            "pattern": "*://*.hentaiathome.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ehentai",
+    "pattern": "*://*.hentaiathome.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ehentai",
-            "pattern": "*://*.hentaiverse.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ehentai",
+    "pattern": "*://*.hentaiverse.org",
+    "active": true
+  }
 ]

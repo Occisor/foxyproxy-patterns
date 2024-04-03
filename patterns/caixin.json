@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "caixin",
-            "pattern": "*://*.caixin.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "caixin",
+    "pattern": "*://*.caixin.com",
+    "active": true
+  }
 ]

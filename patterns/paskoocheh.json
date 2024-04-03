@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "paskoocheh",
-            "pattern": "*://*.paskoocheh.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "paskoocheh",
+    "pattern": "*://*.paskoocheh.com",
+    "active": true
+  }
 ]

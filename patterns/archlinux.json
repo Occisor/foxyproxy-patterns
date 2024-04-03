@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "archlinux",
-            "pattern": "*://*.archlinux.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "archlinux",
+    "pattern": "*://*.archlinux.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "archlinux",
-            "pattern": "*://*.archlinuxarm.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "archlinux",
+    "pattern": "*://*.archlinuxarm.org",
+    "active": true
+  }
 ]

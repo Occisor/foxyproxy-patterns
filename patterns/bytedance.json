@@ -1,2557 +1,2557 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.99uri.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.99uri.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.activity01.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.activity02.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.activity03.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.activity04.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.activity05.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.activitybyte.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.activity-dy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.activity-wbsj.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.aihst8.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ali-api-test.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ali-gtm-01.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ali-gtm-pressure.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ali-restore.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.amemv.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.amemv.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.amemv.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.arco.design",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.awemeughun.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.awemeuglang.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.awemeugsoul.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.awemeugwave.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.baikevod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdactivity.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdgslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdispatch.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdispatch.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdns-api-test.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdns-boe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdns-boe.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdns-gtm-01.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdns-gtm-pressure.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdns-restore.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdns-test.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdns-test.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdppe.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdsagslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdsagslbtest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdxigualive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdxiguavod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdzjdsagslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.betaband.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.betadance.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.betastar.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bfcdnbf.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bfcdnrd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bfcdnsc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.boxdouyin.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bvfcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bx0byte.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte000.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte008.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte00.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte00.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte7bw.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteac.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteacct.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteacctimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteactivity11.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteactivity12.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteactivity13.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteactivity14.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteactivity15.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteactivity16.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteactivity.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteadverts.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytecdn.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytecdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytecdn.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytecdntp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytecimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedanceapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedance-boe.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedance.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedance.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedance.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedance.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedapm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byted-dast.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byted-edu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedeliver.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedgames.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedns1.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedns2.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedns3.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedns4.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedns5.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedns6.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedns7.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytednsdoc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byted.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytedsocial.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byted-static.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byted-ug.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte-edge.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte-edgeworker.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytefae.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytefast.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytefcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytefcdnrd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytegecko.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytegeckoext.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytegoofy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytegqpo.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytegrowth.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte-gslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytegslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytehwm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteics.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteics.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteimgc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteintl.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytelb000.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytelb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytelb.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytemaimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytemastatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytemedi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytenewst.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteorg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteorge.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteq5k.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byteq8u.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytescm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytesslb.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytetcc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytetech.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte-test.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte-test.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.byte-test.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytetos.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytetraffic.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytetstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytetstatic.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytevalk.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytevcloudvod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bytexservice.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.cdnbuild.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.cdnbuild.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.cdndns1.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.cdndns2.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.cookicut.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.doubo03.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.douyinact.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.douyinact.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.douyinfe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.draftstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.druid.vip",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.duoshan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.fedlearner.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.feelgood.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.gslbdns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.gslbdns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huaxiong.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshancdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshangroup.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanlive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanparty.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshante8.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanvideo.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanvideo.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanvod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanxiaoshipin.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanxiaoshipin.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanzhibo.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanzhibo.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.hypercachenet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ibdxigualive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ibdxiguavod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ibytedapm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.icphoto.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.idouyinliving.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.idouyinpic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.idouyinstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.idouyinvod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.iesdouyin.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.iesdouyin.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ieshuodong.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ieshuodong.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ihst8.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ihuoshanimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ihuoshanlive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ihuoshanstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ihuoshanvod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.iluckysf.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.itmanager.club",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.itoutiaoliving.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.jokecommunity.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.jokecommunity.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.jokecommunity.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.jstti.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.jtamac.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.kesong.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.kolbuyer.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.livecdnstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.local-ip.online",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.luckysf.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.modernjs.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.myimis.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ndcpp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.neihancommunity.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.neihancommunity.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.neihancommunity.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.nextvid.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.neyetwatcher.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.oortgslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.openbcs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.openve.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.originalimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.originalstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.originalvod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.pacmantwo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ppkankan01.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.pstatp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.qingfuwucdn.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.qishui.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.qishui.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.qishui.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.qishuimusic.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.qishuimusic.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.qualitycloud.top",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.samasty.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.searchstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.searchtoutiaolive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.shidianguji.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.sinflb.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.sinf.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.sinf-test.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.snssdk.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.supercachenet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.tekkenthree.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.tetrisone.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.tiapi.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.tiapi.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.tlbapm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toscdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiao11.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiao12.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiao13.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiao14.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiao15.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaocdn.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaocdn.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaocloud.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaojisu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaolite1.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaolite2.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaolite.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaoliving.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaopic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaowap.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaowap.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaowap.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.tr-test-ali.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.tr-testboe.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.tr-test.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ttbyte.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ttbyte.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ttbyte.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ttjisu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ttwebview.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ugshare-img.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.vcloudapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.vcloud-byte.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.vestack-beta.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.vestack-cicd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.vestack-preview.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.vestack-sandbox.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.vfcdnrd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.volcanicengine.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.volcdns-test.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.volcdns-test.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.voleai.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.woaihuoshan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.wohst8.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.wtturl.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.xiguaapp.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.xiguaapp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.xiguashipin.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.xiguashipin.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.xiguavideo.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.xiguavideo.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.xsgtvacct.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijieapi.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijieapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijieapi.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijiecdn.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijiecdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijiecdn.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijiedj.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijieimg.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijieimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijieimg.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijietiaodong.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijieurl.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijieurl.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijieurl.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijiewap.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijiewap.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zijiewap.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zilrms.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ziyrta.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zjbyte.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zjbyte.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zjbyte.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zjcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zjfcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.zjgslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaoapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaocdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaocloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaocloud.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaohao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaohao.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaoimg.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaoimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaoimg.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaopage.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaostatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.toutiaovod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.douyin.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.douyincdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.douyinliving.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.douyinpic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.douyinstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.douyinvod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.huoshanzhibo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ixigua.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ixiguavideo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ixgvideo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdxiguaimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.bdxiguastatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.baike.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.feishu.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.feishu.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.feishucdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.feishupkg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.wukong.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.wukongwenda.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.wukongwenda.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.dcarapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.dcarimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.dcarlive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.dcarstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.dcarvod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.dcdapp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.dongchedi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.dongchediapp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.365yg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.gogokid.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.gogokid.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.pipix.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.faceu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.ulikecam.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bytedance",
-            "pattern": "*://*.rsproxy.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.99uri.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.99uri.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.activity01.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.activity02.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.activity03.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.activity04.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.activity05.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.activitybyte.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.activity-dy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.activity-wbsj.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.aihst8.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ali-api-test.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ali-gtm-01.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ali-gtm-pressure.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ali-restore.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.amemv.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.amemv.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.amemv.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.arco.design",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.awemeughun.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.awemeuglang.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.awemeugsoul.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.awemeugwave.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.baikevod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdactivity.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdgslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdispatch.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdispatch.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdns-api-test.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdns-boe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdns-boe.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdns-gtm-01.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdns-gtm-pressure.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdns-restore.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdns-test.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdns-test.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdppe.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdsagslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdsagslbtest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdxigualive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdxiguavod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdzjdsagslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.betaband.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.betadance.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.betastar.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bfcdnbf.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bfcdnrd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bfcdnsc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.boxdouyin.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bvfcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bx0byte.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte000.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte008.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte00.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte00.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte7bw.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteac.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteacct.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteacctimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteactivity11.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteactivity12.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteactivity13.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteactivity14.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteactivity15.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteactivity16.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteactivity.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteadverts.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytecdn.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytecdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytecdn.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytecdntp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytecimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedanceapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedance-boe.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedance.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedance.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedance.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedance.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedapm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byted-dast.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byted-edu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedeliver.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedgames.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedns1.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedns2.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedns3.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedns4.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedns5.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedns6.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedns7.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytednsdoc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byted.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytedsocial.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byted-static.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byted-ug.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte-edge.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte-edgeworker.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytefae.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytefast.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytefcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytefcdnrd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytegecko.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytegeckoext.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytegoofy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytegqpo.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytegrowth.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte-gslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytegslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytehwm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteics.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteics.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteimgc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteintl.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytelb000.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytelb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytelb.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytemaimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytemastatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytemedi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytenewst.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteorg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteorge.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteq5k.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byteq8u.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytescm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytesslb.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytetcc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytetech.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte-test.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte-test.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.byte-test.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytetos.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytetraffic.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytetstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytetstatic.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytevalk.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytevcloudvod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bytexservice.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.cdnbuild.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.cdnbuild.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.cdndns1.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.cdndns2.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.cookicut.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.doubo03.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.douyinact.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.douyinact.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.douyinfe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.draftstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.druid.vip",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.duoshan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.fedlearner.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.feelgood.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.gslbdns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.gslbdns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huaxiong.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshancdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshangroup.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanlive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanparty.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshante8.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanvideo.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanvideo.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanvod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanxiaoshipin.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanxiaoshipin.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanzhibo.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanzhibo.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.hypercachenet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ibdxigualive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ibdxiguavod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ibytedapm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.icphoto.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.idouyinliving.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.idouyinpic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.idouyinstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.idouyinvod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.iesdouyin.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.iesdouyin.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ieshuodong.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ieshuodong.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ihst8.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ihuoshanimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ihuoshanlive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ihuoshanstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ihuoshanvod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.iluckysf.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.itmanager.club",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.itoutiaoliving.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.jokecommunity.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.jokecommunity.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.jokecommunity.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.jstti.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.jtamac.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.kesong.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.kolbuyer.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.livecdnstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.local-ip.online",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.luckysf.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.modernjs.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.myimis.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ndcpp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.neihancommunity.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.neihancommunity.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.neihancommunity.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.nextvid.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.neyetwatcher.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.oortgslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.openbcs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.openve.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.originalimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.originalstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.originalvod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.pacmantwo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ppkankan01.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.pstatp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.qingfuwucdn.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.qishui.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.qishui.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.qishui.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.qishuimusic.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.qishuimusic.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.qualitycloud.top",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.samasty.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.searchstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.searchtoutiaolive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.shidianguji.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.sinflb.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.sinf.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.sinf-test.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.snssdk.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.supercachenet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.tekkenthree.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.tetrisone.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.tiapi.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.tiapi.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.tlbapm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toscdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiao11.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiao12.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiao13.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiao14.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiao15.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaocdn.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaocdn.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaocloud.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaojisu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaolite1.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaolite2.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaolite.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaoliving.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaopic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaowap.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaowap.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaowap.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.tr-test-ali.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.tr-testboe.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.tr-test.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ttbyte.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ttbyte.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ttbyte.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ttjisu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ttwebview.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ugshare-img.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.vcloudapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.vcloud-byte.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.vestack-beta.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.vestack-cicd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.vestack-preview.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.vestack-sandbox.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.vfcdnrd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.volcanicengine.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.volcdns-test.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.volcdns-test.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.voleai.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.woaihuoshan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.wohst8.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.wtturl.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.xiguaapp.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.xiguaapp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.xiguashipin.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.xiguashipin.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.xiguavideo.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.xiguavideo.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.xsgtvacct.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijieapi.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijieapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijieapi.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijiecdn.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijiecdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijiecdn.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijiedj.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijieimg.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijieimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijieimg.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijietiaodong.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijieurl.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijieurl.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijieurl.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijiewap.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijiewap.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zijiewap.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zilrms.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ziyrta.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zjbyte.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zjbyte.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zjbyte.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zjcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zjfcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.zjgslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaoapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaocdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaocloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaocloud.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaohao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaohao.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaoimg.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaoimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaoimg.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaopage.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaostatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.toutiaovod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.douyin.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.douyincdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.douyinliving.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.douyinpic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.douyinstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.douyinvod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.huoshanzhibo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ixigua.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ixiguavideo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ixgvideo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdxiguaimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.bdxiguastatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.baike.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.feishu.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.feishu.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.feishucdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.feishupkg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.wukong.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.wukongwenda.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.wukongwenda.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.dcarapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.dcarimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.dcarlive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.dcarstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.dcarvod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.dcdapp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.dongchedi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.dongchediapp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.365yg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.gogokid.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.gogokid.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.pipix.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.faceu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.ulikecam.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bytedance",
+    "pattern": "*://*.rsproxy.cn",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "khanacademy",
-            "pattern": "*://*.khanacademy.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "khanacademy",
+    "pattern": "*://*.khanacademy.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "khanacademy",
-            "pattern": "*://*.kastatic.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "khanacademy",
+    "pattern": "*://*.kastatic.org",
+    "active": true
+  }
 ]

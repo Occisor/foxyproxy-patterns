@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "openwrt",
-            "pattern": "*://*.openwrt.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "openwrt",
+    "pattern": "*://*.openwrt.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "openwrt",
-            "pattern": "*://*.lede-project.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "openwrt",
+    "pattern": "*://*.lede-project.org",
+    "active": true
+  }
 ]

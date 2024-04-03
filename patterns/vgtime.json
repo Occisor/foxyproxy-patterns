@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vgtime",
-            "pattern": "*://*.vgtime.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "vgtime",
+    "pattern": "*://*.vgtime.com",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "openresty",
-            "pattern": "*://*.openresty.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "openresty",
+    "pattern": "*://*.openresty.org",
+    "active": true
+  }
 ]

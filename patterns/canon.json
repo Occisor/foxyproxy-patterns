@@ -1,485 +1,485 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.c-ij.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-cee.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-cmos-sensors.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-cna.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-ebm.com.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-emea.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-emirates.ae",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-europa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-europe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-me.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-ois.qa",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon-se.com.tw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.am",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.at",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.az",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.ba",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.be",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.bg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.ch",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.co.il",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.co.za",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com.al",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com.au",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com.by",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com.cy",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com.mk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com.mt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com.my",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com.tr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.com.tw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.cz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.dk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.ee",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.es",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.fi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.fr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.ge",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.gr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.hr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.hu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.ie",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.it",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.kz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.lt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.lu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.lv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.me",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.nl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.no",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.pl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.pt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.ro",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.rs",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.ru",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.se",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.si",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.sk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.tj",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.ua",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canon.uz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canonfoundation.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "canon",
-            "pattern": "*://*.canonproprinters.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.c-ij.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-cee.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-cmos-sensors.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-cna.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-ebm.com.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-emea.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-emirates.ae",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-europa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-europe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-me.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-ois.qa",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon-se.com.tw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.am",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.at",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.az",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.ba",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.be",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.bg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.ch",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.co.il",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.co.za",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com.al",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com.au",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com.by",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com.cy",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com.mk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com.mt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com.my",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com.tr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.com.tw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.cz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.dk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.ee",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.es",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.fi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.fr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.ge",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.gr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.hr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.hu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.ie",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.it",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.kz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.lt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.lu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.lv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.me",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.nl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.no",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.pl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.pt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.ro",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.rs",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.ru",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.se",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.si",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.sk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.tj",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.ua",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canon.uz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canonfoundation.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "canon",
+    "pattern": "*://*.canonproprinters.com",
+    "active": true
+  }
 ]

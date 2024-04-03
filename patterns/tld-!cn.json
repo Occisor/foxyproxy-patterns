@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-!cn",
-            "pattern": "*://*.gov",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-!cn",
+    "pattern": "*://*.gov",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-!cn",
-            "pattern": "*://*.mil",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-!cn",
+    "pattern": "*://*.mil",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tld-!cn",
-            "pattern": "*://*.edu",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tld-!cn",
+    "pattern": "*://*.edu",
+    "active": true
+  }
 ]

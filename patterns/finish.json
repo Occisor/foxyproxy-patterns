@@ -1,275 +1,275 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.at",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.at",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.bg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.bg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.co.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.co.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.co.za",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.co.za",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.com.hr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.com.hr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.com.tr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.com.tr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.gr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.gr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.hu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.hu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.lv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.lv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.pl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.pl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.pt",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.pt",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.ro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.ro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.si",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.si",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finish.sk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finish.sk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finisharabia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finisharabia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishbrasil.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishbrasil.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishdishwashing.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishdishwashing.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishdishwashing.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishdishwashing.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.be",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.be",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.cl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.cl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.com.ar",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.com.ar",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.cz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.cz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.fi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.fi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.nl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.nl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.no",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.no",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishinfo.se",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishinfo.se",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishkilpailu.fi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishkilpailu.fi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.finishwin.be",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.finishwin.be",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "finish",
-            "pattern": "*://*.yarininsuyu.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "finish",
+    "pattern": "*://*.yarininsuyu.com",
+    "active": true
+  }
 ]

@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dji",
-            "pattern": "*://*.dji.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dji",
+    "pattern": "*://*.dji.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dji",
-            "pattern": "*://*.dji.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dji",
+    "pattern": "*://*.dji.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dji",
-            "pattern": "*://*.djicdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dji",
+    "pattern": "*://*.djicdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dji",
-            "pattern": "*://*.djiops.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dji",
+    "pattern": "*://*.djiops.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dji",
-            "pattern": "*://*.djiservice.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dji",
+    "pattern": "*://*.djiservice.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dji",
-            "pattern": "*://*.skypixel.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dji",
+    "pattern": "*://*.skypixel.com",
+    "active": true
+  }
 ]

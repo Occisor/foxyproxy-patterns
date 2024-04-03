@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "macports",
-            "pattern": "*://*.macports.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "macports",
+    "pattern": "*://*.macports.org",
+    "active": true
+  }
 ]

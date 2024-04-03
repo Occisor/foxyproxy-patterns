@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "moji",
-            "pattern": "*://*.moji.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "moji",
+    "pattern": "*://*.moji.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "moji",
-            "pattern": "*://*.mojichina.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "moji",
+    "pattern": "*://*.mojichina.com",
+    "active": true
+  }
 ]

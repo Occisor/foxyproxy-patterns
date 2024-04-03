@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gitbook",
-            "pattern": "*://*.gitbook.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gitbook",
+    "pattern": "*://*.gitbook.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gitbook",
-            "pattern": "*://*.gitbook.io",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "gitbook",
+    "pattern": "*://*.gitbook.io",
+    "active": true
+  }
 ]

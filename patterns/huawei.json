@@ -1,163 +1,163 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.abhouses.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.abhouses.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.agconnect.link",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.agconnect.link",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.dbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.dbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.dbankcdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.dbankcdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.dbankcloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.dbankcloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.hicloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.hicloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.hihonor.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.hihonor.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.honor.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.honor.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.huawei.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.huawei.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.huawei.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.huawei.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.huawei.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.huawei.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.huaweiacad.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.huaweiacad.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.huaweiief.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.huaweiief.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.huaweiief.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.huaweiief.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.huaweistatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.huaweistatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.hwccpc.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.hwccpc.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.hwccpc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.hwccpc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.hwht.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.hwht.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.hwocloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.hwocloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.hwtrip.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.hwtrip.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.shanhaitujian.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.shanhaitujian.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.vmall.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.vmall.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huawei",
-            "pattern": "*://*.vmallres.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei",
+    "pattern": "*://*.vmallres.com",
+    "active": true
+  }
 ]

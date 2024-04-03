@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dingtalk",
-            "pattern": "*://*.ddurl.to",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dingtalk",
+    "pattern": "*://*.ddurl.to",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dingtalk",
-            "pattern": "*://*.dingding.xin",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dingtalk",
+    "pattern": "*://*.dingding.xin",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dingtalk",
-            "pattern": "*://*.dingtalk.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dingtalk",
+    "pattern": "*://*.dingtalk.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dingtalk",
-            "pattern": "*://*.dingtalk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dingtalk",
+    "pattern": "*://*.dingtalk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dingtalk",
-            "pattern": "*://*.dingtalk.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dingtalk",
+    "pattern": "*://*.dingtalk.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dingtalk",
-            "pattern": "*://*.dingtalkapps.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dingtalk",
+    "pattern": "*://*.dingtalkapps.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dingtalk",
-            "pattern": "*://*.laiwang.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dingtalk",
+    "pattern": "*://*.laiwang.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dingtalk",
-            "pattern": "*://*.lwurl.to",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dingtalk",
+    "pattern": "*://*.lwurl.to",
+    "active": true
+  }
 ]

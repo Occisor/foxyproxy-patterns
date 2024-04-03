@@ -1,268 +1,268 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.aboluowang.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.aboluowang.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.bannedbook.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.bannedbook.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.bannedbook.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.bannedbook.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.broadpressinc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.broadpressinc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.chinaaffairs.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.chinaaffairs.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.dafahao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.dafahao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.donatecarsoh.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.donatecarsoh.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.dongtaiwang.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.dongtaiwang.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.falundafa.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.falundafa.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.falundafa.org.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.falundafa.org.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.falundafamuseum.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.falundafamuseum.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.falungong.club",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.falungong.club",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.faluninfo.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.faluninfo.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.fawanghuihui.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.fawanghuihui.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.fayuanbooks.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.fayuanbooks.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.fgmtv.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.fgmtv.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.ganjing.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.ganjing.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.ganjingworld.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.ganjingworld.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.guangming.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.guangming.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.mhradio.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.mhradio.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.ninecommentaries.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.ninecommentaries.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.starp2p.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.starp2p.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.tiandixing.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.tiandixing.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.tiantibooks.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.tiantibooks.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.tuidang.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.tuidang.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.upholdjustice.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.upholdjustice.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.wujieliulan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.wujieliulan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.xinsheng.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.xinsheng.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.yuanming.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.yuanming.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.yuming.qxbbs.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.yuming.qxbbs.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.zhengjian.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.zhengjian.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.zhengwunet.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.zhengwunet.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.zhenxiang.biz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.zhenxiang.biz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.zhuichaguoji.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.zhuichaguoji.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.shenyun.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.shenyun.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.shenyun.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.shenyun.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.shenyuncreations.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.shenyuncreations.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "falungong",
-            "pattern": "*://*.shenyunperformingarts.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "falungong",
+    "pattern": "*://*.shenyunperformingarts.org",
+    "active": true
+  }
 ]

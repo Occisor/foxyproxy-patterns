@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "soundcloud",
-            "pattern": "*://*.soundcloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundcloud",
+    "pattern": "*://*.soundcloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "soundcloud",
-            "pattern": "*://*.sndcdn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundcloud",
+    "pattern": "*://*.sndcdn.com",
+    "active": true
+  }
 ]

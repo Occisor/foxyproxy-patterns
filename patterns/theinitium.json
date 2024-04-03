@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theinitium",
-            "pattern": "*://*.theinitium.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "theinitium",
+    "pattern": "*://*.theinitium.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theinitium",
-            "pattern": "*://*.init.shop",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "theinitium",
+    "pattern": "*://*.init.shop",
+    "active": true
+  }
 ]

@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "roku",
-            "pattern": "*://*.fandango.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "roku",
+    "pattern": "*://*.fandango.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "roku",
-            "pattern": "*://*.mgo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "roku",
+    "pattern": "*://*.mgo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "roku",
-            "pattern": "*://*.mgo-images.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "roku",
+    "pattern": "*://*.mgo-images.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "roku",
-            "pattern": "*://*.ravm.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "roku",
+    "pattern": "*://*.ravm.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "roku",
-            "pattern": "*://*.roku.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "roku",
+    "pattern": "*://*.roku.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "roku",
-            "pattern": "*://*.rokutime.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "roku",
+    "pattern": "*://*.rokutime.com",
+    "active": true
+  }
 ]

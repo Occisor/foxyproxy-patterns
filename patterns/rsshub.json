@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rsshub",
-            "pattern": "*://*.rsshub.app",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "rsshub",
+    "pattern": "*://*.rsshub.app",
+    "active": true
+  }
 ]

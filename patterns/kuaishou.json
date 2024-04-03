@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kuaishou",
-            "pattern": "*://*.gifshow.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kuaishou",
+    "pattern": "*://*.gifshow.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kuaishou",
-            "pattern": "*://*.ksapisrv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kuaishou",
+    "pattern": "*://*.ksapisrv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kuaishou",
-            "pattern": "*://*.kuaishou.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kuaishou",
+    "pattern": "*://*.kuaishou.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kuaishou",
-            "pattern": "*://*.yximgs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kuaishou",
+    "pattern": "*://*.yximgs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kuaishou",
-            "pattern": "*://*.kwaizt.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kuaishou",
+    "pattern": "*://*.kwaizt.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kuaishou",
-            "pattern": "*://*.kuaishouzt.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "kuaishou",
+    "pattern": "*://*.kuaishouzt.com",
+    "active": true
+  }
 ]

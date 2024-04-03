@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dandanzan",
-            "pattern": "*://*.dandanzan.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dandanzan",
+    "pattern": "*://*.dandanzan.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dandanzan",
-            "pattern": "*://*.nunuyy.cc",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dandanzan",
+    "pattern": "*://*.nunuyy.cc",
+    "active": true
+  }
 ]

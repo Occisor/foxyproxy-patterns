@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-game-accelerator-cn",
-            "pattern": "*://*.uu.163.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-game-accelerator-cn",
+    "pattern": "*://*.uu.163.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-game-accelerator-cn",
-            "pattern": "*://*.bohejiasuqi.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-game-accelerator-cn",
+    "pattern": "*://*.bohejiasuqi.com",
+    "active": true
+  }
 ]

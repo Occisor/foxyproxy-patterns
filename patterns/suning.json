@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "suning",
-            "pattern": "*://*.cnsuning.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "suning",
+    "pattern": "*://*.cnsuning.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "suning",
-            "pattern": "*://*.suning.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "suning",
+    "pattern": "*://*.suning.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "suning",
-            "pattern": "*://*.suningcloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "suning",
+    "pattern": "*://*.suningcloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "suning",
-            "pattern": "*://*.suningestate.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "suning",
+    "pattern": "*://*.suningestate.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "suning",
-            "pattern": "*://*.suningholdings.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "suning",
+    "pattern": "*://*.suningholdings.com",
+    "active": true
+  }
 ]

@@ -1,366 +1,366 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.1inch.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.1inch.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.aave.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.aave.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.bitbank.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.bitbank.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.bitcoin.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.bitcoin.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.bitfinex.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.bitfinex.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.bitget.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.bitget.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.bitmex.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.bitmex.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.bitquick.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.bitquick.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.bitstamp.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.bitstamp.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.bittrex.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.bittrex.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.blockfrost.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.blockfrost.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.btcbox.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.btcbox.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.cex.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.cex.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.clearpool.finance",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.clearpool.finance",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.coinalyze.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.coinalyze.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.coinbase.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.coinbase.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.coindesk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.coindesk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.coingecko.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.coingecko.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.coinglass.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.coinglass.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.coinmap.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.coinmap.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.coinmarketcap.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.coinmarketcap.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.crypto.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.crypto.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.cryptocompare.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.cryptocompare.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.curve.fi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.curve.fi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.cyberx.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.cyberx.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.debank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.debank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.dogecoin.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.dogecoin.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.dydx.exchange",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.dydx.exchange",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.fundingrates.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.fundingrates.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.gemini.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.gemini.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.hashflow.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.hashflow.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.infura.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.infura.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.invity.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.invity.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.maple.finance",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.maple.finance",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.metalpha.finance",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.metalpha.finance",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.mexc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.mexc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.mexcsensors.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.mexcsensors.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.mytokenapi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.mytokenapi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.kraken.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.kraken.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.opensea.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.opensea.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.osl.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.osl.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.paxful.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.paxful.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.ripple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.ripple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.satoshilabs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.satoshilabs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.theblock.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.theblock.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.trezor.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.trezor.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.truefi.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.truefi.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.unisat.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.unisat.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.uniswap.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.uniswap.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.walletconnect.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.walletconnect.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.wintermute.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.wintermute.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cryptocurrency",
-            "pattern": "*://*.zapper.fi",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cryptocurrency",
+    "pattern": "*://*.zapper.fi",
+    "active": true
+  }
 ]

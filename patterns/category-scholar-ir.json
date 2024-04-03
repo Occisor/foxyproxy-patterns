@@ -1,65 +1,65 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-ir",
-            "pattern": "*://*.ac.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-ir",
+    "pattern": "*://*.ac.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-ir",
-            "pattern": "*://*.edu.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-ir",
+    "pattern": "*://*.edu.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-ir",
-            "pattern": "*://*.iau.ac.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-ir",
+    "pattern": "*://*.iau.ac.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-ir",
-            "pattern": "*://*.iranlms.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-ir",
+    "pattern": "*://*.iranlms.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-ir",
-            "pattern": "*://*.jtt.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-ir",
+    "pattern": "*://*.jtt.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-ir",
-            "pattern": "*://*.sanjesh.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-ir",
+    "pattern": "*://*.sanjesh.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-ir",
-            "pattern": "*://*.sharif.edu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-ir",
+    "pattern": "*://*.sharif.edu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-ir",
-            "pattern": "*://*.sharif.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-ir",
+    "pattern": "*://*.sharif.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-ir",
-            "pattern": "*://*.srttu.edu",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-ir",
+    "pattern": "*://*.srttu.edu",
+    "active": true
+  }
 ]

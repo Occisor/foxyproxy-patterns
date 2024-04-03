@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "browserleaks",
-            "pattern": "*://*.browserleaks.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "browserleaks",
+    "pattern": "*://*.browserleaks.com",
+    "active": true
+  }
 ]

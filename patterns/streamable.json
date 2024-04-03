@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "streamable",
-            "pattern": "*://*.embed-cdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "streamable",
+    "pattern": "*://*.embed-cdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "streamable",
-            "pattern": "*://*.streamable.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "streamable",
+    "pattern": "*://*.streamable.com",
+    "active": true
+  }
 ]

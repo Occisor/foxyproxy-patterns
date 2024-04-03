@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "codeforces",
-            "pattern": "*://*.codeforces.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "codeforces",
+    "pattern": "*://*.codeforces.com",
+    "active": true
+  }
 ]

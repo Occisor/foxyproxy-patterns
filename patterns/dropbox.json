@@ -1,107 +1,107 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.db.tt",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.db.tt",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropbox-dns.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropbox-dns.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropbox.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropbox.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropbox.tech",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropbox.tech",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropboxapi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropboxapi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropboxbusiness.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropboxbusiness.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropboxcaptcha.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropboxcaptcha.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropboxforum.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropboxforum.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropboxforums.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropboxforums.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropboxinsiders.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropboxinsiders.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropboxmail.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropboxmail.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropboxpartners.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropboxpartners.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropboxstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropboxstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.dropboxusercontent.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.dropboxusercontent.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dropbox",
-            "pattern": "*://*.getdropbox.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dropbox",
+    "pattern": "*://*.getdropbox.com",
+    "active": true
+  }
 ]

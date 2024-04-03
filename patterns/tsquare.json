@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tsquare",
-            "pattern": "*://*.tsquare.tv",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tsquare",
+    "pattern": "*://*.tsquare.tv",
+    "active": true
+  }
 ]

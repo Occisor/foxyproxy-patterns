@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jinjiang",
-            "pattern": "*://*.jjwxc.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "jinjiang",
+    "pattern": "*://*.jjwxc.net",
+    "active": true
+  }
 ]

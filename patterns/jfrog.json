@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jfrog",
-            "pattern": "*://*.jfrog.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "jfrog",
+    "pattern": "*://*.jfrog.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jfrog",
-            "pattern": "*://*.jfrog.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "jfrog",
+    "pattern": "*://*.jfrog.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jfrog",
-            "pattern": "*://*.bintray.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "jfrog",
+    "pattern": "*://*.bintray.com",
+    "active": true
+  }
 ]

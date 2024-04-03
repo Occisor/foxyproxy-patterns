@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "startpage",
-            "pattern": "*://*.startpage.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "startpage",
+    "pattern": "*://*.startpage.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "startpage",
-            "pattern": "*://*.ixquick.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "startpage",
+    "pattern": "*://*.ixquick.com",
+    "active": true
+  }
 ]

@@ -1,86 +1,86 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.oracle",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.oracle",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.ateam-oracle.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.ateam-oracle.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.bronto.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.bronto.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.covid19-rx.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.covid19-rx.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.covid19rx.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.covid19rx.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.oracle.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.oracle.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.oraclecloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.oraclecloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.oraclefoundation.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.oraclefoundation.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.oracleimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.oracleimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.oracleinfinity.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.oracleinfinity.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.sun.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.sun.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oracle",
-            "pattern": "*://*.virtualbox.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle",
+    "pattern": "*://*.virtualbox.org",
+    "active": true
+  }
 ]

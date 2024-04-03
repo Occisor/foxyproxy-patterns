@@ -1,842 +1,842 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.asia",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.be",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.bg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.ch",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.co.il",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.co.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.co.kr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.co.th",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.co.za",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.com.au",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.com.br",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.com.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.com.tw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.cz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.dk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.es",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.fi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.fr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.gr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.hu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.id",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.in",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.it",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.my",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.nl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.no",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.ph",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.pl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.pt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.ro",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.ru",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.se",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.sg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.20thcenturystudios.com.au",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.20thcenturystudios.com.br",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.20thcenturystudios.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.adventuresbydisney.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.babble.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.babyzone.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.bamgrid.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.beautyandthebeastmusical.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.dilcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney-asia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney-discount.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney-plus.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney-portal.my.onetrust.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney-studio.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney-studio.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disney.my.sentry.io",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyadsales.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyarena.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyaulani.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneybaby.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneycareers.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneychannelonstage.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneychannelroadtrip.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneycruisebrasil.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyenconcert.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyiejobs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyinflight.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyinternational.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyinternationalhd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyjunior.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyjuniortreataday.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneylatino.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmoments.co.il",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmoments.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmoments.co.za",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmoments.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmoments.es",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmoments.fr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmoments.gen.tr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmoments.gr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmoments.it",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmoments.pl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymagicmomentsme.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyme.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymeetingsandevents.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymovieinsiders.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneymusicpromotion.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneynewseries.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneynow.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneypeoplesurveys.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyplus.bn5x.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyplus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyplus.com.ssl.sc.omtrdc.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyredirects.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneysrivieraresort.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneystore.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneystreaming.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneysubscription.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneytickets.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyturkiye.com.tr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneytvajobs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.disneyworld-go.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.dssott.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.go-disneyworldgo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.go.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.mickey.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.moviesanywhere.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.nomadlandmovie.ch",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.playmation.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.shopdisney.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.shops-disney.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.sorcerersarena.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.spaindisney.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.star-brasil.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.star-latam.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.starwars.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.starwarsgalacticstarcruiser.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.starwarskids.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.streamingdisney.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.thestationbymaker.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.thisispolaris.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disney",
-            "pattern": "*://*.watchdisneyfe.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.asia",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.be",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.bg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.ch",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.co.il",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.co.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.co.kr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.co.th",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.co.za",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.com.au",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.com.br",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.com.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.com.tw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.cz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.dk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.es",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.fi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.fr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.gr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.hu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.id",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.in",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.it",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.my",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.nl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.no",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.ph",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.pl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.pt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.ro",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.ru",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.se",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.sg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.20thcenturystudios.com.au",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.20thcenturystudios.com.br",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.20thcenturystudios.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.adventuresbydisney.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.babble.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.babyzone.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.bamgrid.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.beautyandthebeastmusical.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.dilcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney-asia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney-discount.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney-plus.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney-portal.my.onetrust.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney-studio.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney-studio.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disney.my.sentry.io",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyadsales.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyarena.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyaulani.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneybaby.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneycareers.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneychannelonstage.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneychannelroadtrip.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneycruisebrasil.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyenconcert.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyiejobs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyinflight.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyinternational.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyinternationalhd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyjunior.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyjuniortreataday.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneylatino.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmoments.co.il",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmoments.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmoments.co.za",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmoments.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmoments.es",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmoments.fr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmoments.gen.tr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmoments.gr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmoments.it",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmoments.pl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymagicmomentsme.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyme.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymeetingsandevents.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymovieinsiders.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneymusicpromotion.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneynewseries.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneynow.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneypeoplesurveys.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyplus.bn5x.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyplus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyplus.com.ssl.sc.omtrdc.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyredirects.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneysrivieraresort.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneystore.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneystreaming.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneysubscription.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneytickets.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyturkiye.com.tr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneytvajobs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.disneyworld-go.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.dssott.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.go-disneyworldgo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.go.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.mickey.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.moviesanywhere.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.nomadlandmovie.ch",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.playmation.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.shopdisney.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.shops-disney.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.sorcerersarena.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.spaindisney.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.star-brasil.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.star-latam.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.starwars.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.starwarsgalacticstarcruiser.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.starwarskids.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.streamingdisney.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.thestationbymaker.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.thisispolaris.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "disney",
+    "pattern": "*://*.watchdisneyfe.com",
+    "active": true
+  }
 ]

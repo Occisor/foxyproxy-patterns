@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "evernote",
-            "pattern": "*://*.evernote.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "evernote",
+    "pattern": "*://*.evernote.com",
+    "active": true
+  }
 ]

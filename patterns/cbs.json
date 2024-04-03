@@ -1,191 +1,191 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbs",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbs",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.showtime",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.showtime",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbscorporation.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbscorporation.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsi.video",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsi.video",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsiam.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsiam.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsig.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsig.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsimg.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsimg.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsinteractive.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsinteractive.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsistatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsistatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsivideo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsivideo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsnews.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsnews.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbspressexpress.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbspressexpress.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbssports.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbssports.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbssvideo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbssvideo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.viacbs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.viacbs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.viacom.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.viacom.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.viacomcbs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.viacomcbs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.viacomcbspressexpress.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.viacomcbspressexpress.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.paramount.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.paramount.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.amlg.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.amlg.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.cbsaavideo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.cbsaavideo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.mtvnservices.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.mtvnservices.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.paramountplus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.paramountplus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cbs",
-            "pattern": "*://*.pplusstatic.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "cbs",
+    "pattern": "*://*.pplusstatic.com",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "betterexplained",
-            "pattern": "*://*.betterexplained.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "betterexplained",
+    "pattern": "*://*.betterexplained.com",
+    "active": true
+  }
 ]

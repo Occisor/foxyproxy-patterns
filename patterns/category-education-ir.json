@@ -1,51 +1,51 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-ir",
-            "pattern": "*://*.faradars.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-ir",
+    "pattern": "*://*.faradars.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-ir",
-            "pattern": "*://*.git.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-ir",
+    "pattern": "*://*.git.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-ir",
-            "pattern": "*://*.learnby.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-ir",
+    "pattern": "*://*.learnby.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-ir",
-            "pattern": "*://*.toplearn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-ir",
+    "pattern": "*://*.toplearn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-ir",
-            "pattern": "*://*.done.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-ir",
+    "pattern": "*://*.done.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-ir",
-            "pattern": "*://*.iranlms.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-ir",
+    "pattern": "*://*.iranlms.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-ir",
-            "pattern": "*://*.webinarplus.online",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-ir",
+    "pattern": "*://*.webinarplus.online",
+    "active": true
+  }
 ]

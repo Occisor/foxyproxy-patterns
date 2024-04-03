@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.digicert-validation.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.digicert-validation.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.digicert.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.digicert.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.digitalcertvalidation.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.digitalcertvalidation.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.freessl.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.freessl.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.geotrust.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.geotrust.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.rapidssl.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.rapidssl.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.thawte.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.thawte.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.thawte.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.thawte.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.thawte.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.thawte.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.quovadisglobal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.quovadisglobal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "digicert",
-            "pattern": "*://*.public-trust.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "digicert",
+    "pattern": "*://*.public-trust.com",
+    "active": true
+  }
 ]

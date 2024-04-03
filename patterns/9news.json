@@ -1,100 +1,100 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.9cdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.9cdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.9nation.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.9nation.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.9news.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.9news.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.9now.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.9now.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.freeviewplus.net.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.freeviewplus.net.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.mi9.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.mi9.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.mi9cdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.mi9cdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.nine.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.nine.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.nineentertainment.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.nineentertainment.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.nineentertainmentco.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.nineentertainmentco.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.ninemediaroom.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.ninemediaroom.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.ninemsn.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.ninemsn.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.static9.net.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.static9.net.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "9news",
-            "pattern": "*://*.yourtv.com.au",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "9news",
+    "pattern": "*://*.yourtv.com.au",
+    "active": true
+  }
 ]

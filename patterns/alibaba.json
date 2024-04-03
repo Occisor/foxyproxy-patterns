@@ -1,1073 +1,1073 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibaba",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alipay",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.taobao",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.tmall",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.25pp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.56che.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.95095.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.9game.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliapp.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibaba-inc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibaba.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibabacapital.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibabacorp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibabadoctor.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibabafuturehotel.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibabagroup.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibabaplanet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibabaued.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alibabausercontent.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alifanyi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alihealth.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alihealth.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alikmd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alimama.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alimebot.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alimei.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alios.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alipay.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alipay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alipay.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alipaydns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alipayobjects.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliplus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliresearch.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alisoft.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alisports.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alitianji.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliunicorn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliway.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliwork.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alixiaomi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alizhaopin.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alyms.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.asczwa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.asczxcefsv.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.asmlink.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.atatech.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.b2byao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.bazai.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.bcvbw.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.cheng.xin",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.cloudeagle.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.damai.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.dayu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.dfkhgj.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.doctoryou.ai",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.doctoryou.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.dongting.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.dratio.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.emas-poc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.gongyi.xin",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.ialicdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.iconfont.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.ics.design",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.jhgtgb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.kanbox.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.lazada.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.liangxinyao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.m-now.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.maitix.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.mdeer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.mei.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.miaostreet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.mshare.cc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.nic.xin",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.philanthropy.xin",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.phpwind.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.phpwind.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.qingtingtrip.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.rexpos.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.saee.org.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.shenjing.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.shuqi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.shuqireader.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.sparenode.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.supet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.ttpod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.wandoujia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.xin.xin",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.xinlingshou.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.yowhale.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.yunos-inc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.yunos.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.yushanfang.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.zuodao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliexpress.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliexpress.ru",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alipayplus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alicloudccp.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alipan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliyundrive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.aliyundrive.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.cainiao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.cainiao.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.cainiao-inc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.freshhema.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.hemamax.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.hemaos.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.hemashare.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.shyhhema.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.antfortune.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.fund123.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.antfin.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.antgroup.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.antgroup-inc.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.sm.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.1688.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.etao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.juhuasuan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.lingshoujia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.mashort.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.pailitao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.taobao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.taobao.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.taobaocdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.taobizhong.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.taopiaopiao.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.tb.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.tbcache.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.tburl.in",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.tmall.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.tmall.ru",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.tmalltv.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.tmjl.ai",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.quark.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.alitrip.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.feizhu.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.feizhu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.fliggy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.fliggy.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.iuynfg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.amap.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.amapauto.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.autonavi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.gaode.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.xiami.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.xiami.fm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.xiami.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.koubei.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.zhisheng.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.npmmirror.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "alibaba",
-            "pattern": "*://*.goofish.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibaba",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alipay",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.taobao",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.tmall",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.25pp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.56che.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.95095.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.9game.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliapp.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibaba-inc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibaba.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibabacapital.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibabacorp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibabadoctor.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibabafuturehotel.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibabagroup.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibabaplanet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibabaued.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alibabausercontent.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alifanyi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alihealth.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alihealth.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alikmd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alimama.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alimebot.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alimei.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alios.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alipay.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alipay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alipay.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alipaydns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alipayobjects.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliplus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliresearch.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alisoft.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alisports.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alitianji.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliunicorn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliway.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliwork.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alixiaomi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alizhaopin.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alyms.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.asczwa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.asczxcefsv.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.asmlink.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.atatech.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.b2byao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.bazai.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.bcvbw.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.cheng.xin",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.cloudeagle.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.damai.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.dayu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.dfkhgj.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.doctoryou.ai",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.doctoryou.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.dongting.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.dratio.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.emas-poc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.gongyi.xin",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.ialicdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.iconfont.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.ics.design",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.jhgtgb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.kanbox.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.lazada.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.liangxinyao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.m-now.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.maitix.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.mdeer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.mei.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.miaostreet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.mshare.cc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.nic.xin",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.philanthropy.xin",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.phpwind.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.phpwind.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.qingtingtrip.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.rexpos.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.saee.org.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.shenjing.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.shuqi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.shuqireader.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.sparenode.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.supet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.ttpod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.wandoujia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.xin.xin",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.xinlingshou.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.yowhale.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.yunos-inc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.yunos.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.yushanfang.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.zuodao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliexpress.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliexpress.ru",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alipayplus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alicloudccp.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alipan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliyundrive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.aliyundrive.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.cainiao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.cainiao.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.cainiao-inc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.freshhema.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.hemamax.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.hemaos.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.hemashare.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.shyhhema.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.antfortune.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.fund123.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.antfin.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.antgroup.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.antgroup-inc.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.sm.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.1688.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.etao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.juhuasuan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.lingshoujia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.mashort.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.pailitao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.taobao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.taobao.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.taobaocdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.taobizhong.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.taopiaopiao.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.tb.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.tbcache.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.tburl.in",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.tmall.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.tmall.ru",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.tmalltv.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.tmjl.ai",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.quark.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.alitrip.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.feizhu.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.feizhu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.fliggy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.fliggy.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.iuynfg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.amap.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.amapauto.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.autonavi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.gaode.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.xiami.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.xiami.fm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.xiami.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.koubei.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.zhisheng.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.npmmirror.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alibaba",
+    "pattern": "*://*.goofish.com",
+    "active": true
+  }
 ]

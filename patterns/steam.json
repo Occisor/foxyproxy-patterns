@@ -1,163 +1,163 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.playartifact.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.playartifact.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.s.team",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.s.team",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steam-api.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steam-api.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steam-chat.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steam-chat.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steamcommunity.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steamcommunity.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steamcontent.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steamcontent.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steamdeck.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steamdeck.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steamgames.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steamgames.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steampowered.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steampowered.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steamserver.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steamserver.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steamstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steamstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steamusercontent.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steamusercontent.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.underlords.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.underlords.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.valvesoftware.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.valvesoftware.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.edge.steam-dns.top.comcast.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.edge.steam-dns.top.comcast.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steam.apac.qtlglb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steam.apac.qtlglb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steam.eca.qtlglb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steam.eca.qtlglb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steam.naeu.qtlglb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steam.naeu.qtlglb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steam.ru.qtlglb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steam.ru.qtlglb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steam.cdn.on.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steam.cdn.on.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steam.cdn.orcon.net.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steam.cdn.orcon.net.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steam.cdn.slingshot.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steam.cdn.slingshot.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "steam",
-            "pattern": "*://*.steam.cdn.webra.ru",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "steam",
+    "pattern": "*://*.steam.cdn.webra.ru",
+    "active": true
+  }
 ]

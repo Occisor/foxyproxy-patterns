@@ -1,394 +1,394 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360-jr.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360-jr.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360chou.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360chou.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360daikuan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360daikuan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360huzhubao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360huzhubao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360jie.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360jie.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360jinrong.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360jinrong.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360kan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360kan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360kuai.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360kuai.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360os.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360os.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360panyun.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360panyun.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360safe.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360safe.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360shouji.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360shouji.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360taojin.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360taojin.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360totalsecurity.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360totalsecurity.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360tpcdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360tpcdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360tres.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360tres.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360webcache.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360webcache.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.360zqaq.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.360zqaq.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.anquanke.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.anquanke.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.haoso.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.haoso.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.haosou.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.haosou.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.haosou.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.haosou.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.haosou.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.haosou.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.i360mall.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.i360mall.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.ludashi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.ludashi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.nicaifu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.nicaifu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.nzwgs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.nzwgs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhimgs0.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhimgs0.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhimgs1.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhimgs1.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhimgs2.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhimgs2.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhimgs3.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhimgs3.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhimgs4.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhimgs4.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhimgs5.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhimgs5.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhimgs6.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhimgs6.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhmsg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhmsg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhres.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhres.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhres2.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhres2.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qhupdate.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qhupdate.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qihuapi.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qihuapi.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qihucdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qihucdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qihoo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qihoo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qihoo.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qihoo.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.qikucdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.qikucdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.so.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.so.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.sou.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.sou.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.urlqh.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.urlqh.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.xiaoluyouxuan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.xiaoluyouxuan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.xiaoluzhidian.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.xiaoluzhidian.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.xjietiao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.xjietiao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.youhua.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.youhua.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "qihoo360",
-            "pattern": "*://*.yunpan.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "qihoo360",
+    "pattern": "*://*.yunpan.cn",
+    "active": true
+  }
 ]

@@ -1,65 +1,65 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "115",
-            "pattern": "*://*.115.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "115",
+    "pattern": "*://*.115.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "115",
-            "pattern": "*://*.115cdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "115",
+    "pattern": "*://*.115cdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "115",
-            "pattern": "*://*.115cdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "115",
+    "pattern": "*://*.115cdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "115",
-            "pattern": "*://*.115img.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "115",
+    "pattern": "*://*.115img.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "115",
-            "pattern": "*://*.116cd.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "115",
+    "pattern": "*://*.116cd.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "115",
-            "pattern": "*://*.116cd.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "115",
+    "pattern": "*://*.116cd.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "115",
-            "pattern": "*://*.116cd.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "115",
+    "pattern": "*://*.116cd.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "115",
-            "pattern": "*://*.anxia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "115",
+    "pattern": "*://*.anxia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "115",
-            "pattern": "*://*.sq.cc",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "115",
+    "pattern": "*://*.sq.cc",
+    "active": true
+  }
 ]

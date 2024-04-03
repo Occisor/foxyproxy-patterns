@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vivo",
-            "pattern": "*://*.vivo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vivo",
+    "pattern": "*://*.vivo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vivo",
-            "pattern": "*://*.vivo.com.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "vivo",
+    "pattern": "*://*.vivo.com.cn",
+    "active": true
+  }
 ]

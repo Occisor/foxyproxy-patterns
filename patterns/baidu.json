@@ -1,289 +1,289 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.baidu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.baidu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.91.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.91.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.aipage.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.aipage.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.apollo.auto",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.apollo.auto",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.baidu.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.baidu.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.baidu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.baidu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.baidu.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.baidu.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.baidubce.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.baidubce.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.baiducontent.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.baiducontent.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.baidupcs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.baidupcs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.baidustatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.baidustatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.baifae.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.baifae.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.baifubao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.baifubao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.bcebos.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.bcebos.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.bdcloudapi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.bdcloudapi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.bdimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.bdimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.bdstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.bdstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.bdtjrcv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.bdtjrcv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.bdydns.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.bdydns.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.bdydns.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.bdydns.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.bdydns.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.bdydns.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.chuanke.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.chuanke.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.dlnel.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.dlnel.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.dlnel.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.dlnel.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.duapps.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.duapps.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.dwz.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.dwz.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.hao123.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.hao123.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.hao123img.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.hao123img.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.hao222.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.hao222.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.haokan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.haokan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.jomocdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.jomocdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.jomodns.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.jomodns.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.mipcdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.mipcdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.nuomi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.nuomi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.quyaoya.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.quyaoya.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.shifen.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.shifen.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.smartapps.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.smartapps.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.tieba.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.tieba.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.tiebaimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.tiebaimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.xianfae.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.xianfae.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baidu",
-            "pattern": "*://*.xiaodutv.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "baidu",
+    "pattern": "*://*.xiaodutv.com",
+    "active": true
+  }
 ]

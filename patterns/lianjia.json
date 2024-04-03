@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "lianjia",
-            "pattern": "*://*.lianjia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "lianjia",
+    "pattern": "*://*.lianjia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "lianjia",
-            "pattern": "*://*.ljcdn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "lianjia",
+    "pattern": "*://*.ljcdn.com",
+    "active": true
+  }
 ]

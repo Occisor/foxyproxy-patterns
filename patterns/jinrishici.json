@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jinrishici",
-            "pattern": "*://*.jinrishici.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "jinrishici",
+    "pattern": "*://*.jinrishici.com",
+    "active": true
+  }
 ]

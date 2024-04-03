@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "upai",
-            "pattern": "*://*.aicdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "upai",
+    "pattern": "*://*.aicdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "upai",
-            "pattern": "*://*.upai.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "upai",
+    "pattern": "*://*.upai.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "upai",
-            "pattern": "*://*.upaiyun.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "upai",
+    "pattern": "*://*.upaiyun.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "upai",
-            "pattern": "*://*.upcdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "upai",
+    "pattern": "*://*.upcdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "upai",
-            "pattern": "*://*.upyun.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "upai",
+    "pattern": "*://*.upyun.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "upai",
-            "pattern": "*://*.oncdp.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "upai",
+    "pattern": "*://*.oncdp.com",
+    "active": true
+  }
 ]

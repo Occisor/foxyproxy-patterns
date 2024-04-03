@@ -1,65 +1,65 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huobi",
-            "pattern": "*://*.hbabit.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huobi",
+    "pattern": "*://*.hbabit.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huobi",
-            "pattern": "*://*.hbfile.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huobi",
+    "pattern": "*://*.hbfile.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huobi",
-            "pattern": "*://*.huobi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huobi",
+    "pattern": "*://*.huobi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huobi",
-            "pattern": "*://*.huobi.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huobi",
+    "pattern": "*://*.huobi.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huobi",
-            "pattern": "*://*.huobi.pro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huobi",
+    "pattern": "*://*.huobi.pro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huobi",
-            "pattern": "*://*.huobi.sc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huobi",
+    "pattern": "*://*.huobi.sc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huobi",
-            "pattern": "*://*.huobiasia.vip",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huobi",
+    "pattern": "*://*.huobiasia.vip",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huobi",
-            "pattern": "*://*.huobigroup.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "huobi",
+    "pattern": "*://*.huobigroup.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "huobi",
-            "pattern": "*://*.huobitoken.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "huobi",
+    "pattern": "*://*.huobitoken.com",
+    "active": true
+  }
 ]

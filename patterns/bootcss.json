@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bootcss",
-            "pattern": "*://*.bootcss.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bootcss",
+    "pattern": "*://*.bootcss.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bootcss",
-            "pattern": "*://*.bootcdn.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bootcss",
+    "pattern": "*://*.bootcdn.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bootcss",
-            "pattern": "*://*.phpcomposer.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bootcss",
+    "pattern": "*://*.phpcomposer.com",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "twister",
-            "pattern": "*://*.twister.net.co",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "twister",
+    "pattern": "*://*.twister.net.co",
+    "active": true
+  }
 ]

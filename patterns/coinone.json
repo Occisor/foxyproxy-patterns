@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "coinone",
-            "pattern": "*://*.coinone.co.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "coinone",
+    "pattern": "*://*.coinone.co.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "coinone",
-            "pattern": "*://*.coinonecore.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "coinone",
+    "pattern": "*://*.coinonecore.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "coinone",
-            "pattern": "*://*.coinonecorp.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "coinone",
+    "pattern": "*://*.coinonecorp.com",
+    "active": true
+  }
 ]

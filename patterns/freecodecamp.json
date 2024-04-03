@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "freecodecamp",
-            "pattern": "*://*.freecodecamp.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "freecodecamp",
+    "pattern": "*://*.freecodecamp.org",
+    "active": true
+  }
 ]

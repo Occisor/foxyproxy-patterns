@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "mzed",
-            "pattern": "*://*.mzed.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "mzed",
+    "pattern": "*://*.mzed.com",
+    "active": true
+  }
 ]

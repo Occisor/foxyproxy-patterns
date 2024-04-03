@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ziroom",
-            "pattern": "*://*.ziroom.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ziroom",
+    "pattern": "*://*.ziroom.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ziroom",
-            "pattern": "*://*.ziroomapartment.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ziroom",
+    "pattern": "*://*.ziroomapartment.com",
+    "active": true
+  }
 ]

@@ -1,51 +1,51 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "libgen",
-            "pattern": "*://*.libgen.life",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "libgen",
+    "pattern": "*://*.libgen.life",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "libgen",
-            "pattern": "*://*.libgen.fun",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "libgen",
+    "pattern": "*://*.libgen.fun",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "libgen",
-            "pattern": "*://*.gen.lib.rus.ec",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "libgen",
+    "pattern": "*://*.gen.lib.rus.ec",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "libgen",
-            "pattern": "*://*.libgen.is",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "libgen",
+    "pattern": "*://*.libgen.is",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "libgen",
-            "pattern": "*://*.libgen.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "libgen",
+    "pattern": "*://*.libgen.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "libgen",
-            "pattern": "*://*.libgen.rs",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "libgen",
+    "pattern": "*://*.libgen.rs",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "libgen",
-            "pattern": "*://*.libgen.st",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "libgen",
+    "pattern": "*://*.libgen.st",
+    "active": true
+  }
 ]

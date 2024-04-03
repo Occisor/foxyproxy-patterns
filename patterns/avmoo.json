@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "avmoo",
-            "pattern": "*://*.avmoo.click",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "avmoo",
+    "pattern": "*://*.avmoo.click",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "avmoo",
-            "pattern": "*://*.avmoo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "avmoo",
+    "pattern": "*://*.avmoo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "avmoo",
-            "pattern": "*://*.tellme.pw",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "avmoo",
+    "pattern": "*://*.tellme.pw",
+    "active": true
+  }
 ]

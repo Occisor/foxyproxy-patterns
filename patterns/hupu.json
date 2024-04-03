@@ -1,30 +1,30 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hupu",
-            "pattern": "*://*.hoopchina.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hupu",
+    "pattern": "*://*.hoopchina.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hupu",
-            "pattern": "*://*.hupu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hupu",
+    "pattern": "*://*.hupu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hupu",
-            "pattern": "*://*.hupucdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hupu",
+    "pattern": "*://*.hupucdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hupu",
-            "pattern": "*://*.shihuo.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hupu",
+    "pattern": "*://*.shihuo.cn",
+    "active": true
+  }
 ]

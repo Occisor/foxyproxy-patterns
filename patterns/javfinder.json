@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javfinder",
-            "pattern": "*://*.findercdn.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "javfinder",
+    "pattern": "*://*.findercdn.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javfinder",
-            "pattern": "*://*.javfinder.sh",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "javfinder",
+    "pattern": "*://*.javfinder.sh",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javfinder",
-            "pattern": "*://*.o0-2.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "javfinder",
+    "pattern": "*://*.o0-2.com",
+    "active": true
+  }
 ]

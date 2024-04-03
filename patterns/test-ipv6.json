@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "test-ipv6",
-            "pattern": "*://*.test-ipv6.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "test-ipv6",
+    "pattern": "*://*.test-ipv6.com",
+    "active": true
+  }
 ]

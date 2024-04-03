@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apa",
-            "pattern": "*://*.apa.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apa",
+    "pattern": "*://*.apa.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apa",
-            "pattern": "*://*.psyccareers.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "apa",
+    "pattern": "*://*.psyccareers.com",
+    "active": true
+  }
 ]

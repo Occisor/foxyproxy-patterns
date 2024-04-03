@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fontawesome",
-            "pattern": "*://*.fontawesome.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fontawesome",
+    "pattern": "*://*.fontawesome.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fontawesome",
-            "pattern": "*://*.fortawesome.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "fontawesome",
+    "pattern": "*://*.fortawesome.com",
+    "active": true
+  }
 ]

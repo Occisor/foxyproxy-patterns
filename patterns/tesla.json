@@ -1,51 +1,51 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tesla",
-            "pattern": "*://*.solarcity.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tesla",
+    "pattern": "*://*.solarcity.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tesla",
-            "pattern": "*://*.tesla.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tesla",
+    "pattern": "*://*.tesla.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tesla",
-            "pattern": "*://*.tesla.services",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tesla",
+    "pattern": "*://*.tesla.services",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tesla",
-            "pattern": "*://*.teslaenergy.services",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tesla",
+    "pattern": "*://*.teslaenergy.services",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tesla",
-            "pattern": "*://*.teslamotors.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tesla",
+    "pattern": "*://*.teslamotors.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tesla",
-            "pattern": "*://*.teslazta.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tesla",
+    "pattern": "*://*.teslazta.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tesla",
-            "pattern": "*://*.ts.la",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tesla",
+    "pattern": "*://*.ts.la",
+    "active": true
+  }
 ]

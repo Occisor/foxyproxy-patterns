@@ -1,121 +1,121 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.binoculus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.binoculus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.buyoculus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.buyoculus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.ocul.us",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.ocul.us",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculus-china.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculus-china.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculus2014.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculus2014.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculus3d.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculus3d.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculusblog.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculusblog.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculusbrand.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculusbrand.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculuscasino.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculuscasino.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculuscdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculuscdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculusconnect.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculusconnect.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculusdiving.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculusdiving.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculusforbusiness.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculusforbusiness.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculusrift.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculusrift.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.oculusvr.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.oculusvr.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "oculus",
-            "pattern": "*://*.powersunitedvr.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "oculus",
+    "pattern": "*://*.powersunitedvr.com",
+    "active": true
+  }
 ]

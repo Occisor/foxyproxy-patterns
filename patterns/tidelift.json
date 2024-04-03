@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tidelift",
-            "pattern": "*://*.tidelift.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tidelift",
+    "pattern": "*://*.tidelift.com",
+    "active": true
+  }
 ]

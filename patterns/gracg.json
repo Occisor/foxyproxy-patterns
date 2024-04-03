@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gracg",
-            "pattern": "*://*.gracg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gracg",
+    "pattern": "*://*.gracg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gracg",
-            "pattern": "*://*.procg.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "gracg",
+    "pattern": "*://*.procg.cn",
+    "active": true
+  }
 ]

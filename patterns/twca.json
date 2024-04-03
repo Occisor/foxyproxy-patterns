@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "twca",
-            "pattern": "*://*.twca.com.tw",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "twca",
+    "pattern": "*://*.twca.com.tw",
+    "active": true
+  }
 ]

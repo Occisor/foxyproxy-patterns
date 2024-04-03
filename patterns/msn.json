@@ -1,121 +1,121 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftnews.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftnews.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftnews.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftnews.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftnews.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftnews.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftnews.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftnews.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftnewsforkids.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftnewsforkids.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftnewsforkids.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftnewsforkids.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftnewsforkids.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftnewsforkids.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftnewskids.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftnewskids.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftnewskids.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftnewskids.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftnewskids.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftnewskids.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.msn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.msn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.msnewskids.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.msnewskids.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.msnewskids.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.msnewskids.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.msnewskids.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.msnewskids.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.msnkids.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.msnkids.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.microsoftstart.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.microsoftstart.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "msn",
-            "pattern": "*://*.start.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "msn",
+    "pattern": "*://*.start.com",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "lethalhardcore",
-            "pattern": "*://*.lethalhardcore.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "lethalhardcore",
+    "pattern": "*://*.lethalhardcore.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "lethalhardcore",
-            "pattern": "*://*.lethalhardcorevr.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "lethalhardcore",
+    "pattern": "*://*.lethalhardcorevr.com",
+    "active": true
+  }
 ]

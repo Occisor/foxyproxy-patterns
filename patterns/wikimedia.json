@@ -1,128 +1,128 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.mediawiki.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.mediawiki.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikibooks.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikibooks.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikidata.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikidata.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikimediafoundation.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikimediafoundation.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikimedia.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikimedia.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikinews.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikinews.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikipedia.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikipedia.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikiquote.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikiquote.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikisource.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikisource.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikiversity.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikiversity.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikivoyage.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikivoyage.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wiktionary.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wiktionary.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wmfusercontent.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wmfusercontent.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.w.wiki",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.w.wiki",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.toolforge.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.toolforge.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wikimediacloud.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wikimediacloud.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wmcloud.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wmcloud.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wikimedia",
-            "pattern": "*://*.wmflabs.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikimedia",
+    "pattern": "*://*.wmflabs.org",
+    "active": true
+  }
 ]

@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "niconico",
-            "pattern": "*://*.nico",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "niconico",
+    "pattern": "*://*.nico",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "niconico",
-            "pattern": "*://*.nicodic.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "niconico",
+    "pattern": "*://*.nicodic.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "niconico",
-            "pattern": "*://*.nicomanga.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "niconico",
+    "pattern": "*://*.nicomanga.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "niconico",
-            "pattern": "*://*.niconico.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "niconico",
+    "pattern": "*://*.niconico.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "niconico",
-            "pattern": "*://*.nicoseiga.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "niconico",
+    "pattern": "*://*.nicoseiga.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "niconico",
-            "pattern": "*://*.nicovideo.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "niconico",
+    "pattern": "*://*.nicovideo.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "niconico",
-            "pattern": "*://*.nimg.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "niconico",
+    "pattern": "*://*.nimg.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "niconico",
-            "pattern": "*://*.simg.jp",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "niconico",
+    "pattern": "*://*.simg.jp",
+    "active": true
+  }
 ]

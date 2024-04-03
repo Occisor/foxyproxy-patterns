@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kingkonglive",
-            "pattern": "*://*.kingkong.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kingkonglive",
+    "pattern": "*://*.kingkong.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kingkonglive",
-            "pattern": "*://*.kingkongapp.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "kingkonglive",
+    "pattern": "*://*.kingkongapp.com",
+    "active": true
+  }
 ]

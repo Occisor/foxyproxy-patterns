@@ -1,86 +1,86 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.careerjournal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.careerjournal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.collegejournal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.collegejournal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.opinionjournal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.opinionjournal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.realestatejournal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.realestatejournal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.startupjournal.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.startupjournal.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.wsj.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.wsj.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.wsj.jobs",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.wsj.jobs",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.wsj.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.wsj.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.wsjmediakit.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.wsjmediakit.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.wsjplus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.wsjplus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.wsjshop.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.wsjshop.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wsj",
-            "pattern": "*://*.wsjwine.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "wsj",
+    "pattern": "*://*.wsjwine.com",
+    "active": true
+  }
 ]

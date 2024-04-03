@@ -1,142 +1,142 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.aparat.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.aparat.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.filimo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.filimo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.irib.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.irib.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.iribtv.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.iribtv.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.irinn.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.irinn.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.jjtvn.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.jjtvn.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.namava.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.namava.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.qurantv.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.qurantv.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.radio.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.radio.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.radioiran.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.radioiran.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.radiojavan.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.radiojavan.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.radiomaaref.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.radiomaaref.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.radiopayam.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.radiopayam.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.radioquran.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.radioquran.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.radiotehran.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.radiotehran.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.radiovarzesh.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.radiovarzesh.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.telewebion.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.telewebion.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.tv3.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.tv3.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.tv5.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.tv5.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-media",
-            "pattern": "*://*.tv7.ir",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-media",
+    "pattern": "*://*.tv7.ir",
+    "active": true
+  }
 ]

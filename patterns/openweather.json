@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "openweather",
-            "pattern": "*://*.openweather.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "openweather",
+    "pattern": "*://*.openweather.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "openweather",
-            "pattern": "*://*.openweathermap.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "openweather",
+    "pattern": "*://*.openweathermap.org",
+    "active": true
+  }
 ]

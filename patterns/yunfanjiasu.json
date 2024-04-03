@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yunfanjiasu",
-            "pattern": "*://*.yfcache.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yunfanjiasu",
+    "pattern": "*://*.yfcache.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yunfanjiasu",
-            "pattern": "*://*.yfcalc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yunfanjiasu",
+    "pattern": "*://*.yfcalc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yunfanjiasu",
-            "pattern": "*://*.yfcdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yunfanjiasu",
+    "pattern": "*://*.yfcdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yunfanjiasu",
-            "pattern": "*://*.yfcloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yunfanjiasu",
+    "pattern": "*://*.yfcloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yunfanjiasu",
-            "pattern": "*://*.yfdts.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yunfanjiasu",
+    "pattern": "*://*.yfdts.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yunfanjiasu",
-            "pattern": "*://*.yfp2p.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yunfanjiasu",
+    "pattern": "*://*.yfp2p.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yunfanjiasu",
-            "pattern": "*://*.yfscdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "yunfanjiasu",
+    "pattern": "*://*.yfscdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "yunfanjiasu",
-            "pattern": "*://*.yunfancdn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "yunfanjiasu",
+    "pattern": "*://*.yunfancdn.com",
+    "active": true
+  }
 ]

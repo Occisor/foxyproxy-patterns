@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wireguard",
-            "pattern": "*://*.wireguard.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "wireguard",
+    "pattern": "*://*.wireguard.com",
+    "active": true
+  }
 ]

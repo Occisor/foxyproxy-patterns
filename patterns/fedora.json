@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fedora",
-            "pattern": "*://*.getfedora.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fedora",
+    "pattern": "*://*.getfedora.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fedora",
-            "pattern": "*://*.fedoraforum.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fedora",
+    "pattern": "*://*.fedoraforum.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fedora",
-            "pattern": "*://*.fedorapeople.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fedora",
+    "pattern": "*://*.fedorapeople.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fedora",
-            "pattern": "*://*.fedoraproject.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "fedora",
+    "pattern": "*://*.fedoraproject.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "fedora",
-            "pattern": "*://*.fedoramagazine.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "fedora",
+    "pattern": "*://*.fedoramagazine.org",
+    "active": true
+  }
 ]

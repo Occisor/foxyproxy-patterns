@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "books",
-            "pattern": "*://*.book.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "books",
+    "pattern": "*://*.book.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "books",
-            "pattern": "*://*.books.com.tw",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "books",
+    "pattern": "*://*.books.com.tw",
+    "active": true
+  }
 ]

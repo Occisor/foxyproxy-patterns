@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "contentful",
-            "pattern": "*://*.contentful.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "contentful",
+    "pattern": "*://*.contentful.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "contentful",
-            "pattern": "*://*.ctfassets.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "contentful",
+    "pattern": "*://*.ctfassets.net",
+    "active": true
+  }
 ]

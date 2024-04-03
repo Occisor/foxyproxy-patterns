@@ -1,6 +1,7 @@
-### VERSION - 0.2 ###
+### VERSION - 0.3 ###
 
 import os
+import textwrap
 
 # Get the current directory
 current_directory = os.getcwd()
@@ -29,13 +30,15 @@ for file_name in files_to_process:
         output_file = f"{os.path.splitext(file_name)[0]}.json"
 
         # Template for creating a JSON object
-        template = """  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "%s",
-            "pattern": "*://*.%%s",
-            "active": true
-          }""" % file_name
+        template_pre = textwrap.dedent("""\
+        {
+          "include": "include",
+          "type": "wildcard",
+          "title": "%s",
+          "pattern": "*://*.%%s",
+          "active": true
+        }""" % file_name)
+        template = textwrap.indent(template_pre, '  ')
 
         # Writing JSON objects to the file
         with open(output_file, "w") as f_out:

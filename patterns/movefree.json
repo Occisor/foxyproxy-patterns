@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "movefree",
-            "pattern": "*://*.keepmovingwithmovefree.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "movefree",
+    "pattern": "*://*.keepmovingwithmovefree.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "movefree",
-            "pattern": "*://*.move-free.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "movefree",
+    "pattern": "*://*.move-free.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "movefree",
-            "pattern": "*://*.movefrees.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "movefree",
+    "pattern": "*://*.movefrees.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "movefree",
-            "pattern": "*://*.movefreeoffers.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "movefree",
+    "pattern": "*://*.movefreeoffers.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "movefree",
-            "pattern": "*://*.movefreerewards.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "movefree",
+    "pattern": "*://*.movefreerewards.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "movefree",
-            "pattern": "*://*.schiffvitamins.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "movefree",
+    "pattern": "*://*.schiffvitamins.com",
+    "active": true
+  }
 ]

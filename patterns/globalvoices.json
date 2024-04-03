@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "globalvoices",
-            "pattern": "*://*.globalvoices.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "globalvoices",
+    "pattern": "*://*.globalvoices.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "globalvoices",
-            "pattern": "*://*.globalvoicesonline.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "globalvoices",
+    "pattern": "*://*.globalvoicesonline.org",
+    "active": true
+  }
 ]

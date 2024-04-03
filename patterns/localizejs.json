@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "localizejs",
-            "pattern": "*://*.localizecdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "localizejs",
+    "pattern": "*://*.localizecdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "localizejs",
-            "pattern": "*://*.localizejs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "localizejs",
+    "pattern": "*://*.localizejs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "localizejs",
-            "pattern": "*://*.localizestatus.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "localizejs",
+    "pattern": "*://*.localizestatus.com",
+    "active": true
+  }
 ]

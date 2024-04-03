@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sharethis",
-            "pattern": "*://*.sharethis.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "sharethis",
+    "pattern": "*://*.sharethis.com",
+    "active": true
+  }
 ]

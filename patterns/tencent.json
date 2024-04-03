@@ -1,408 +1,408 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.qq.xn--fiqs8s",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.qq.xn--fiqs8s",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.xn--r70as2s.xn--fiqs8s",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.xn--r70as2s.xn--fiqs8s",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.apcdns.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.apcdns.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.foxmail.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.foxmail.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.foxmail.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.foxmail.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.gtimg.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.gtimg.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.gtimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.gtimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.gtimg.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.gtimg.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.idqqimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.idqqimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.imqq.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.imqq.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.myapp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.myapp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.qlogo.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.qlogo.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.qpic.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.qpic.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.qq.cn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.qq.cn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.qq.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.qq.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.qq.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.qq.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.qq.wang",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.qq.wang",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.qqmail.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.qqmail.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.qzone.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.qzone.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.rtx.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.rtx.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.servicewechat.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.servicewechat.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.tencent.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.tencent.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.tencent.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.tencent.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.tencent.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.tencent.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.tencent.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.tencent.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.tencent.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.tencent.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.tencent.net.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.tencent.net.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.tencentmusic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.tencentmusic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.tenpay.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.tenpay.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.tfogc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.tfogc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.wechat.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.wechat.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.wechatpay.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.wechatpay.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.weiyun.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.weiyun.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.alloyteam.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.alloyteam.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.imweb.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.imweb.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.ivweb.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.ivweb.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fyeds.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fyeds.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fyeds0.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fyeds0.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fyeds1.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fyeds1.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fyeds3.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fyeds3.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fyeds4.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fyeds4.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fyeds5.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fyeds5.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fyeds6.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fyeds6.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fyeds7.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fyeds7.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fyeds8.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fyeds8.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fyeds9.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fyeds9.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymall0.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymall0.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymall1.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymall1.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymall4.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymall4.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymall7.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymall7.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymall9.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymall9.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymallqa0.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymallqa0.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymallqa1.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymallqa1.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymallqa2.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymallqa2.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymallqa3.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymallqa3.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymallqa4.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymallqa4.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymallqa7.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymallqa7.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tencent",
-            "pattern": "*://*.fymallqa9.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tencent",
+    "pattern": "*://*.fymallqa9.com",
+    "active": true
+  }
 ]

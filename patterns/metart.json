@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "metart",
-            "pattern": "*://*.metart.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "metart",
+    "pattern": "*://*.metart.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "metart",
-            "pattern": "*://*.metartnetwork.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "metart",
+    "pattern": "*://*.metartnetwork.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "metart",
-            "pattern": "*://*.metcams.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "metart",
+    "pattern": "*://*.metcams.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "metart",
-            "pattern": "*://*.naiadsystems.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "metart",
+    "pattern": "*://*.naiadsystems.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "metart",
-            "pattern": "*://*.nsimg.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "metart",
+    "pattern": "*://*.nsimg.net",
+    "active": true
+  }
 ]

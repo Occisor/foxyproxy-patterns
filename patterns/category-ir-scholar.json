@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-scholar",
-            "pattern": "*://*.ac.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-scholar",
+    "pattern": "*://*.ac.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-scholar",
-            "pattern": "*://*.edu.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-scholar",
+    "pattern": "*://*.edu.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-scholar",
-            "pattern": "*://*.iau.ac.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-scholar",
+    "pattern": "*://*.iau.ac.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-scholar",
-            "pattern": "*://*.iranlms.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-scholar",
+    "pattern": "*://*.iranlms.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-scholar",
-            "pattern": "*://*.jtt.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-scholar",
+    "pattern": "*://*.jtt.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-scholar",
-            "pattern": "*://*.sharif.edu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-scholar",
+    "pattern": "*://*.sharif.edu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-scholar",
-            "pattern": "*://*.sharif.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-scholar",
+    "pattern": "*://*.sharif.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-scholar",
-            "pattern": "*://*.srttu.edu",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-scholar",
+    "pattern": "*://*.srttu.edu",
+    "active": true
+  }
 ]

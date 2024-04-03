@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "btcbox",
-            "pattern": "*://*.btcbox.co.jp",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "btcbox",
+    "pattern": "*://*.btcbox.co.jp",
+    "active": true
+  }
 ]

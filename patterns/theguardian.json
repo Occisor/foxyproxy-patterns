@@ -1,72 +1,72 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theguardian",
-            "pattern": "*://*.theguardian",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "theguardian",
+    "pattern": "*://*.theguardian",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theguardian",
-            "pattern": "*://*.dev-guardianapis.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "theguardian",
+    "pattern": "*://*.dev-guardianapis.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theguardian",
-            "pattern": "*://*.dev-theguardian.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "theguardian",
+    "pattern": "*://*.dev-theguardian.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theguardian",
-            "pattern": "*://*.gu-web.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "theguardian",
+    "pattern": "*://*.gu-web.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theguardian",
-            "pattern": "*://*.guardianapis.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "theguardian",
+    "pattern": "*://*.guardianapis.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theguardian",
-            "pattern": "*://*.guardianapps.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "theguardian",
+    "pattern": "*://*.guardianapps.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theguardian",
-            "pattern": "*://*.guim.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "theguardian",
+    "pattern": "*://*.guim.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theguardian",
-            "pattern": "*://*.guimcode.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "theguardian",
+    "pattern": "*://*.guimcode.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theguardian",
-            "pattern": "*://*.theguardian.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "theguardian",
+    "pattern": "*://*.theguardian.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "theguardian",
-            "pattern": "*://*.theguardiandns.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "theguardian",
+    "pattern": "*://*.theguardiandns.com",
+    "active": true
+  }
 ]

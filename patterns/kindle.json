@@ -1,121 +1,121 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindle",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindle",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindle.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindle.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindle.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindle.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindle.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindle.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindle.de",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindle.de",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindle.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindle.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindle.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindle.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindle.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindle.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindle.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindle.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindle.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindle.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindleoasis.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindleoasis.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindleoasis.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindleoasis.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindleoasis.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindleoasis.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindleoasis.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindleoasis.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindleoasis.us",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindleoasis.us",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindleoasisnews.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindleoasisnews.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kindle",
-            "pattern": "*://*.kindleproject.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "kindle",
+    "pattern": "*://*.kindleproject.com",
+    "active": true
+  }
 ]

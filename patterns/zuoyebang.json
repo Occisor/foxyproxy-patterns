@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zuoyebang",
-            "pattern": "*://*.zuoyebang.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zuoyebang",
+    "pattern": "*://*.zuoyebang.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zuoyebang",
-            "pattern": "*://*.zuoyebang.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zuoyebang",
+    "pattern": "*://*.zuoyebang.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zuoyebang",
-            "pattern": "*://*.zybang.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "zuoyebang",
+    "pattern": "*://*.zybang.com",
+    "active": true
+  }
 ]

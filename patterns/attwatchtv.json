@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "attwatchtv",
-            "pattern": "*://*.att.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "attwatchtv",
+    "pattern": "*://*.att.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "attwatchtv",
-            "pattern": "*://*.atttvnow.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "attwatchtv",
+    "pattern": "*://*.atttvnow.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "attwatchtv",
-            "pattern": "*://*.attwatchtv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "attwatchtv",
+    "pattern": "*://*.attwatchtv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "attwatchtv",
-            "pattern": "*://*.directv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "attwatchtv",
+    "pattern": "*://*.directv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "attwatchtv",
-            "pattern": "*://*.dtvce.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "attwatchtv",
+    "pattern": "*://*.dtvce.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "attwatchtv",
-            "pattern": "*://*.nettyinternet.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "attwatchtv",
+    "pattern": "*://*.nettyinternet.com",
+    "active": true
+  }
 ]

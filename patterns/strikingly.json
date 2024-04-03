@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strikingly",
-            "pattern": "*://*.mystrikingly.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strikingly",
+    "pattern": "*://*.mystrikingly.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strikingly",
-            "pattern": "*://*.strikingly.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "strikingly",
+    "pattern": "*://*.strikingly.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "strikingly",
-            "pattern": "*://*.strikinglycdn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "strikingly",
+    "pattern": "*://*.strikinglycdn.com",
+    "active": true
+  }
 ]

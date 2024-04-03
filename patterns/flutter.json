@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "flutter",
-            "pattern": "*://*.flutter.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "flutter",
+    "pattern": "*://*.flutter.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "flutter",
-            "pattern": "*://*.flutterapp.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "flutter",
+    "pattern": "*://*.flutterapp.com",
+    "active": true
+  }
 ]

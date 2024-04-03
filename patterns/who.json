@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "who",
-            "pattern": "*://*.who.int",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "who",
+    "pattern": "*://*.who.int",
+    "active": true
+  }
 ]

@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "doc88",
-            "pattern": "*://*.doc88.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "doc88",
+    "pattern": "*://*.doc88.com",
+    "active": true
+  }
 ]

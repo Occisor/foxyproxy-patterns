@@ -1,226 +1,226 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.charity",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.charity",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.cloud",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.cloud",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.us",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.us",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binance.vision",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binance.vision",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancecnt.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancecnt.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.be",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.be",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.biz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.biz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.info",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.info",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.ink",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.ink",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.kim",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.kim",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.link",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.link",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.live",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.live",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.mobi",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.mobi",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.pro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.pro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.sh",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.sh",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binancezh.top",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binancezh.top",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.binanceapi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.binanceapi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.bnbstatic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.bnbstatic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.saasexch.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.saasexch.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.saasexch.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.saasexch.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "binance",
-            "pattern": "*://*.appsflayer.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance",
+    "pattern": "*://*.appsflayer.com",
+    "active": true
+  }
 ]

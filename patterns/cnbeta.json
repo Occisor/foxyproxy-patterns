@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cnbeta",
-            "pattern": "*://*.cnbeta.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cnbeta",
+    "pattern": "*://*.cnbeta.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cnbeta",
-            "pattern": "*://*.cnbeta.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cnbeta",
+    "pattern": "*://*.cnbeta.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cnbeta",
-            "pattern": "*://*.cnbetacdn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "cnbeta",
+    "pattern": "*://*.cnbetacdn.com",
+    "active": true
+  }
 ]

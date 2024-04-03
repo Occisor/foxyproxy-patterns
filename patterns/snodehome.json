@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "snodehome",
-            "pattern": "*://*.szbdyd.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "snodehome",
+    "pattern": "*://*.szbdyd.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "snodehome",
-            "pattern": "*://*.snodehome.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "snodehome",
+    "pattern": "*://*.snodehome.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "snodehome",
-            "pattern": "*://*.snodehome.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "snodehome",
+    "pattern": "*://*.snodehome.cn",
+    "active": true
+  }
 ]

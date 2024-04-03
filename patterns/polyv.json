@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "polyv",
-            "pattern": "*://*.polyv.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "polyv",
+    "pattern": "*://*.polyv.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "polyv",
-            "pattern": "*://*.videocc.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "polyv",
+    "pattern": "*://*.videocc.net",
+    "active": true
+  }
 ]

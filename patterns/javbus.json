@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javbus",
-            "pattern": "*://*.javbus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "javbus",
+    "pattern": "*://*.javbus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javbus",
-            "pattern": "*://*.javbus22.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "javbus",
+    "pattern": "*://*.javbus22.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javbus",
-            "pattern": "*://*.javcdn.cc",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "javbus",
+    "pattern": "*://*.javcdn.cc",
+    "active": true
+  }
 ]

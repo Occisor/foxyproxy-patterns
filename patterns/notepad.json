@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "notepad",
-            "pattern": "*://*.notepad-plus-plus.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "notepad",
+    "pattern": "*://*.notepad-plus-plus.org",
+    "active": true
+  }
 ]

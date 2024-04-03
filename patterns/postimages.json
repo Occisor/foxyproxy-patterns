@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "postimages",
-            "pattern": "*://*.postimages.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "postimages",
+    "pattern": "*://*.postimages.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "postimages",
-            "pattern": "*://*.postimg.cc",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "postimages",
+    "pattern": "*://*.postimg.cc",
+    "active": true
+  }
 ]

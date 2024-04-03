@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "redtube",
-            "pattern": "*://*.livehdcams.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "redtube",
+    "pattern": "*://*.livehdcams.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "redtube",
-            "pattern": "*://*.redtube.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "redtube",
+    "pattern": "*://*.redtube.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "redtube",
-            "pattern": "*://*.redtube.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "redtube",
+    "pattern": "*://*.redtube.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "redtube",
-            "pattern": "*://*.redtubepremium.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "redtube",
+    "pattern": "*://*.redtubepremium.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "redtube",
-            "pattern": "*://*.rdtcdn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "redtube",
+    "pattern": "*://*.rdtcdn.com",
+    "active": true
+  }
 ]

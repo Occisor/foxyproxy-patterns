@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hegre",
-            "pattern": "*://*.hegre.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hegre",
+    "pattern": "*://*.hegre.com",
+    "active": true
+  }
 ]

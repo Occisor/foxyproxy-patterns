@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bitmex",
-            "pattern": "*://*.bitmex.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bitmex",
+    "pattern": "*://*.bitmex.com",
+    "active": true
+  }
 ]

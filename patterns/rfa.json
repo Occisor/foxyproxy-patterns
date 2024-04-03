@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rfa",
-            "pattern": "*://*.rfa.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "rfa",
+    "pattern": "*://*.rfa.org",
+    "active": true
+  }
 ]

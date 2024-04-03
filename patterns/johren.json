@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "johren",
-            "pattern": "*://*.johren.games",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "johren",
+    "pattern": "*://*.johren.games",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "johren",
-            "pattern": "*://*.johren.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "johren",
+    "pattern": "*://*.johren.net",
+    "active": true
+  }
 ]

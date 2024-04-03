@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cex",
-            "pattern": "*://*.cex.io",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "cex",
+    "pattern": "*://*.cex.io",
+    "active": true
+  }
 ]

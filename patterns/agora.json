@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "agora",
-            "pattern": "*://*.agora.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "agora",
+    "pattern": "*://*.agora.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "agora",
-            "pattern": "*://*.agoraio.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "agora",
+    "pattern": "*://*.agoraio.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "agora",
-            "pattern": "*://*.agoralab.co",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "agora",
+    "pattern": "*://*.agoralab.co",
+    "active": true
+  }
 ]

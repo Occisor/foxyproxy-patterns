@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cugbonline",
-            "pattern": "*://*.cugbonline.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "cugbonline",
+    "pattern": "*://*.cugbonline.cn",
+    "active": true
+  }
 ]

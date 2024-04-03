@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kktv",
-            "pattern": "*://*.kktv.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kktv",
+    "pattern": "*://*.kktv.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kktv",
-            "pattern": "*://*.kktv.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kktv",
+    "pattern": "*://*.kktv.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kktv",
-            "pattern": "*://*.theater-kktv.cdn.hinet.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "kktv",
+    "pattern": "*://*.theater-kktv.cdn.hinet.net",
+    "active": true
+  }
 ]

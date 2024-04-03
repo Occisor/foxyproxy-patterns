@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "okex",
-            "pattern": "*://*.okex.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "okex",
+    "pattern": "*://*.okex.com",
+    "active": true
+  }
 ]

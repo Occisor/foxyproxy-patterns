@@ -1,30 +1,30 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "2kgames",
-            "pattern": "*://*.2k.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "2kgames",
+    "pattern": "*://*.2k.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "2kgames",
-            "pattern": "*://*.2kcoretech.online",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "2kgames",
+    "pattern": "*://*.2kcoretech.online",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "2kgames",
-            "pattern": "*://*.2kgames.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "2kgames",
+    "pattern": "*://*.2kgames.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "2kgames",
-            "pattern": "*://*.take2games.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "2kgames",
+    "pattern": "*://*.take2games.com",
+    "active": true
+  }
 ]

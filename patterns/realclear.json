@@ -1,121 +1,121 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclear.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclear.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearbooks.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearbooks.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realcleardefense.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realcleardefense.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realcleareducation.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realcleareducation.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearenergy.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearenergy.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearfoundation.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearfoundation.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearhealth.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearhealth.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearhistory.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearhistory.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearinvestigations.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearinvestigations.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearlife.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearlife.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearmarkets.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearmarkets.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearpolicy.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearpolicy.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearpolitics.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearpolitics.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearpublicaffairs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearpublicaffairs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearreligion.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearreligion.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearscience.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearscience.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "realclear",
-            "pattern": "*://*.realclearworld.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "realclear",
+    "pattern": "*://*.realclearworld.com",
+    "active": true
+  }
 ]

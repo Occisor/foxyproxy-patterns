@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "swift",
-            "pattern": "*://*.appleswift.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "swift",
+    "pattern": "*://*.appleswift.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "swift",
-            "pattern": "*://*.swift.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "swift",
+    "pattern": "*://*.swift.org",
+    "active": true
+  }
 ]

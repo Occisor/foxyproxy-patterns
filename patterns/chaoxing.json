@@ -1,226 +1,226 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.16q.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.16q.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.5read.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.5read.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.aichaoxing.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.aichaoxing.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.chaoxing.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.chaoxing.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.chaoxing.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.chaoxing.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.chaoxingv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.chaoxingv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.cxbiji.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.cxbiji.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.hongbo100.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.hongbo100.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.lnlib.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.lnlib.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.mndqlib.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.mndqlib.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.mti100.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.mti100.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.nihaoafrica.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.nihaoafrica.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.nihaorwanda.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.nihaorwanda.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.sslawy.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.sslawy.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.sslibrary.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.sslibrary.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.ssreader.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.ssreader.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.ssreader.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.ssreader.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.ssvideo.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.ssvideo.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.ssvideo.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.ssvideo.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.study360.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.study360.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.superlib.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.superlib.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.superlib.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.superlib.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.uonline-sh.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.uonline-sh.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.uonline-sh.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.uonline-sh.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.xuexi365.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.xuexi365.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.xuexi365.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.xuexi365.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.xuexi365.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.xuexi365.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.xxtmail.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.xxtmail.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.ylike.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.ylike.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.zaifan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.zaifan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.zaifan.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.zaifan.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chaoxing",
-            "pattern": "*://*.zhihang100.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "chaoxing",
+    "pattern": "*://*.zhihang100.com",
+    "active": true
+  }
 ]

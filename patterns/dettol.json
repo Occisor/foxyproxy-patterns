@@ -1,240 +1,240 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol-prize.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol-prize.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.at",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.at",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.be",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.be",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.ch",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.ch",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.cl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.cl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.co.id",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.co.id",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.co.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.co.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.co.ke",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.co.ke",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.com.bd",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.com.bd",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.com.eg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.com.eg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.com.my",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.com.my",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.com.ng",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.com.ng",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.com.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.com.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.cz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.cz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.fr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.fr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.hu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.hu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.ie",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.ie",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.nl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.nl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.pk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.pk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.pl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.pl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.pt",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.pt",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettol.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettol.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettolarabia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettolarabia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettolcleannaija.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettolcleannaija.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettolsitishield.co.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettolsitishield.co.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.dettolthailand.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.dettolthailand.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dettol",
-            "pattern": "*://*.espadoldettol.com.ar",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dettol",
+    "pattern": "*://*.espadoldettol.com.ar",
+    "active": true
+  }
 ]

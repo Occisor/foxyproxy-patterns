@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.feng1.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.feng1.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.rongechain.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.rongechain.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.sf-airlines.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.sf-airlines.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.sf-cityrush.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.sf-cityrush.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.sf-express.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.sf-express.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.sf-financial.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.sf-financial.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.sf-saas.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.sf-saas.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.sf-tech.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.sf-tech.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.sfcar.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.sfcar.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.sffix.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.sffix.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sf-express",
-            "pattern": "*://*.sfgy.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "sf-express",
+    "pattern": "*://*.sfgy.org",
+    "active": true
+  }
 ]

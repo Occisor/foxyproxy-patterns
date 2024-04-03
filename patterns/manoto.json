@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manoto",
-            "pattern": "*://*.manoto1.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "manoto",
+    "pattern": "*://*.manoto1.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "manoto",
-            "pattern": "*://*.manototv.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "manoto",
+    "pattern": "*://*.manototv.com",
+    "active": true
+  }
 ]

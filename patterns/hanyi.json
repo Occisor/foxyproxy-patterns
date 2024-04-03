@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hanyi",
-            "pattern": "*://*.hanyi.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hanyi",
+    "pattern": "*://*.hanyi.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hanyi",
-            "pattern": "*://*.fontstar.com.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hanyi",
+    "pattern": "*://*.fontstar.com.cn",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "v8",
-            "pattern": "*://*.v8.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "v8",
+    "pattern": "*://*.v8.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "v8",
-            "pattern": "*://*.v8project.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "v8",
+    "pattern": "*://*.v8project.org",
+    "active": true
+  }
 ]

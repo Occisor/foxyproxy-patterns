@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-companies",
-            "pattern": "*://*.auth0.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-companies",
+    "pattern": "*://*.auth0.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-companies",
-            "pattern": "*://*.civitai.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-companies",
+    "pattern": "*://*.civitai.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-companies",
-            "pattern": "*://*.porkbun.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-companies",
+    "pattern": "*://*.porkbun.com",
+    "active": true
+  }
 ]

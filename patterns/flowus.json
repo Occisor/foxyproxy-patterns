@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "flowus",
-            "pattern": "*://*.allflow.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "flowus",
+    "pattern": "*://*.allflow.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "flowus",
-            "pattern": "*://*.flowus.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "flowus",
+    "pattern": "*://*.flowus.cn",
+    "active": true
+  }
 ]

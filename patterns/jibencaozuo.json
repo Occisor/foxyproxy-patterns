@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jibencaozuo",
-            "pattern": "*://*.jbcz.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "jibencaozuo",
+    "pattern": "*://*.jbcz.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jibencaozuo",
-            "pattern": "*://*.jibencaozuo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "jibencaozuo",
+    "pattern": "*://*.jibencaozuo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "jibencaozuo",
-            "pattern": "*://*.media.paperclipclub.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "jibencaozuo",
+    "pattern": "*://*.media.paperclipclub.net",
+    "active": true
+  }
 ]

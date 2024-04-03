@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nubia",
-            "pattern": "*://*.nubia.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "nubia",
+    "pattern": "*://*.nubia.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "nubia",
-            "pattern": "*://*.nubia.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "nubia",
+    "pattern": "*://*.nubia.com",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "asproex",
-            "pattern": "*://*.asproex.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "asproex",
+    "pattern": "*://*.asproex.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "asproex",
-            "pattern": "*://*.asproexapi.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "asproex",
+    "pattern": "*://*.asproexapi.com",
+    "active": true
+  }
 ]

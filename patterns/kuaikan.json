@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kuaikan",
-            "pattern": "*://*.kkmh.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "kuaikan",
+    "pattern": "*://*.kkmh.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "kuaikan",
-            "pattern": "*://*.kuaikanmanhua.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "kuaikan",
+    "pattern": "*://*.kuaikanmanhua.com",
+    "active": true
+  }
 ]

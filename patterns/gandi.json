@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gandi",
-            "pattern": "*://*.gandi.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "gandi",
+    "pattern": "*://*.gandi.net",
+    "active": true
+  }
 ]

@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chatwhores",
-            "pattern": "*://*.chatwhores.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chatwhores",
+    "pattern": "*://*.chatwhores.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chatwhores",
-            "pattern": "*://*.chatwhores.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chatwhores",
+    "pattern": "*://*.chatwhores.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chatwhores",
-            "pattern": "*://*.chatwhores.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chatwhores",
+    "pattern": "*://*.chatwhores.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chatwhores",
-            "pattern": "*://*.chatwhores.sex",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chatwhores",
+    "pattern": "*://*.chatwhores.sex",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chatwhores",
-            "pattern": "*://*.chatwhores.tv",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "chatwhores",
+    "pattern": "*://*.chatwhores.tv",
+    "active": true
+  }
 ]

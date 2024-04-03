@@ -1,2193 +1,2193 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.21centuryaccess.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.4ebaytraders.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.adcommerce.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.appsonebay.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.asebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.baazee.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.bidbay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.bidorbuyindia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.billpoint.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.billpoint.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.billpoint.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.billpoint.us",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.billpointnewzealand.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.blogebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.bookclubcorner.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.builtfromebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.buyitnow.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.buyitnow.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.buyitnow.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.buyitnow.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.buyitnowshop.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.cafr.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.carebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.cargigileads.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.cebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.collective99.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.commerceos.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.connectcommerce.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.connectcommerce.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.connectcommerce.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.connectedcommerce.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.connectedcommerce.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.crececonebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.creditcardsbay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.cyber-bay.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.cyber-bay.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.dba.dk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.dealbay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.dealtime.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.didce.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.douya.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.dreamtoplay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.e-bay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.e-bay.it",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.e-bay.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.eachpay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.eachpay.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebahy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-authenticate.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-confirm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-course.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-cz.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-delivery.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-discoveries.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-fashion.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-inc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-inc.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-inc.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-online.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-sales.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-stories.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-us.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay-vacation.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.at",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.be",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.ch",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.co.nz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.co.ve",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.co.za",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.com.ar",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.com.au",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.com.ec",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.com.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.com.mt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.com.my",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.com.ph",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.com.sg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.es",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.fr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.ie",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.in",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.it",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.lt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.mn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.nl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.ph",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.pk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.pl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.sg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.us",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay.vn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay25.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebay68.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaya.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayads.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayads.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayadvertising.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayanunsios.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayauction.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayaustralia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayauthenticate.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaybags.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaybank.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaybenefits.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayboutique.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayca.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayca.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaycafe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaycar.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaycareers.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaycbt.co.kr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaycdn.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaychina.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayclassifiedsgroup.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayclassifieds.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayclassifieds.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayclassifieds.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayclassifieds.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayclassifiedsgroup.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayclassifiedsgroup.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayclassifiedsgroup.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayclassifies.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayclub.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaycoins.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaycom.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaycommercenetwork.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaycourse.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayde.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaydlassifieds.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaydts.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayedu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayeletro.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayenterprise.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayenterprise.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayenterprise.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayenterprise.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayetc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayexpress.sg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayfashion.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayfashion.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayforcharity.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayforeclosure.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayfrance.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayglobalshipping.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaygroup.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayhabit.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayheels.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayhots.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayimg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayinc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayinc.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayinc.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayincconnectedcommerce.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayinkblog.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayinternetsalestax.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayit.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayjewelry.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayjob.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayla.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaylisting.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaylocal.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaylocationsdevacances.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaymag.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaymainstreet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaymall.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaymarketplace.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaymotors.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaymotors.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaymotors.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaymotorsblog.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaynow.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaynyc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayon.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayon.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayoncampus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayopen.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayopensource.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayopensource.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaypakistan.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaypark.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayparts.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayprivacycenter.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayqq.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayradio.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayrtm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayseller.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayshoesstore.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayshop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayshop111.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayshopping.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaysocial.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaysocial.ru",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaysoho.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaysohos.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaystatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaystore.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaystore77.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaystyle.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaysweden.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayt.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaytechblog.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaytopratedseller.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaytrading.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaytradingassistant.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebaytv.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayuae.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayvakantiehuizen.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayvalet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayvietnam.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayworlds.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.ebayy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.edisebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.eebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.epinions.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.eu-consumer-empowerment.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.expertmaker.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.fairmarket.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.fragrancebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.francemail.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.half.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.half.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.halfcanada.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.halfjapan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.handbagsoutletebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.iebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.irribay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.itsbetterwhenyouwinit.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.liketwice.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.liveauction.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.milofetch.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.musicbay.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.myconstructionworld.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.myebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.nebay.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.paisapay.cc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.paisapay.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.paisapay.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.premobay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.privatemarketplaces.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.privatemarketplaces.us",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.prostores.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.rethink.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.shopibay.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.shoping.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.sourcingforebay.com.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.sourcingforebay.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.sourcingforebay.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.speybay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.storesense.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.svpply.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.telebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.telesell.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.texttobuy.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.theebayshop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.theopportunityproject.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.towerauction.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.vendu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.weareebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.watch-ebay.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.wwwdecide.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.wwwebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.wwwebay.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.wwwwebay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.xindelu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.xxbay.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.yibei.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.gittigidiyor.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.gittigidiyorsikayet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.gumtree.sg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.jijiji.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kiji.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kijii.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kijij.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kijiji.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kijijiauto.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kijijiautos.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kijijiforbusiness.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kijijii.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kijijiraps.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kijji.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.kijjiji.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.automobile.fr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.mobile.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.mobileinternational.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.q10.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.qoo10.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.achievementanalytics.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.cdn-terapeak.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.listinganalytics.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.marketexecutive.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.tearapeak.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.terapeack.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.terapeak.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.terapeak.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.terapeak.com.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.terapeak.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.terapeak.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.teraperk.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.terrapeak.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.thebayuk.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.nexcat.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.nexpart.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.nexpart.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.renchead.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.whisolutions.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ebay",
-            "pattern": "*://*.wrenchead.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.21centuryaccess.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.4ebaytraders.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.adcommerce.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.appsonebay.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.asebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.baazee.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.bidbay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.bidorbuyindia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.billpoint.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.billpoint.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.billpoint.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.billpoint.us",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.billpointnewzealand.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.blogebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.bookclubcorner.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.builtfromebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.buyitnow.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.buyitnow.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.buyitnow.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.buyitnow.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.buyitnowshop.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.cafr.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.carebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.cargigileads.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.cebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.collective99.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.commerceos.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.connectcommerce.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.connectcommerce.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.connectcommerce.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.connectedcommerce.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.connectedcommerce.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.crececonebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.creditcardsbay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.cyber-bay.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.cyber-bay.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.dba.dk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.dealbay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.dealtime.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.didce.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.douya.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.dreamtoplay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.e-bay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.e-bay.it",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.e-bay.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.eachpay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.eachpay.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebahy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-authenticate.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-confirm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-course.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-cz.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-delivery.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-discoveries.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-fashion.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-inc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-inc.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-inc.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-online.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-sales.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-stories.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-us.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay-vacation.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.at",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.be",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.ch",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.co.nz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.co.ve",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.co.za",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.com.ar",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.com.au",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.com.ec",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.com.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.com.mt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.com.my",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.com.ph",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.com.sg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.es",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.fr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.ie",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.in",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.it",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.lt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.mn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.nl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.ph",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.pk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.pl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.sg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.us",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay.vn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay25.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebay68.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaya.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayads.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayads.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayadvertising.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayanunsios.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayauction.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayaustralia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayauthenticate.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaybags.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaybank.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaybenefits.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayboutique.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayca.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayca.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaycafe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaycar.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaycareers.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaycbt.co.kr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaycdn.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaychina.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayclassifiedsgroup.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayclassifieds.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayclassifieds.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayclassifieds.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayclassifieds.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayclassifiedsgroup.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayclassifiedsgroup.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayclassifiedsgroup.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayclassifies.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayclub.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaycoins.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaycom.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaycommercenetwork.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaycourse.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayde.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaydlassifieds.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaydts.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayedu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayeletro.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayenterprise.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayenterprise.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayenterprise.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayenterprise.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayetc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayexpress.sg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayfashion.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayfashion.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayforcharity.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayforeclosure.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayfrance.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayglobalshipping.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaygroup.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayhabit.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayheels.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayhots.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayimg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayinc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayinc.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayinc.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayincconnectedcommerce.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayinkblog.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayinternetsalestax.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayit.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayjewelry.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayjob.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayla.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaylisting.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaylocal.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaylocationsdevacances.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaymag.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaymainstreet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaymall.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaymarketplace.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaymotors.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaymotors.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaymotors.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaymotorsblog.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaynow.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaynyc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayon.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayon.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayoncampus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayopen.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayopensource.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayopensource.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaypakistan.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaypark.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayparts.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayprivacycenter.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayqq.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayradio.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayrtm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayseller.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayshoesstore.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayshop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayshop111.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayshopping.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaysocial.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaysocial.ru",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaysoho.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaysohos.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaystatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaystore.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaystore77.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaystyle.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaysweden.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayt.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaytechblog.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaytopratedseller.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaytrading.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaytradingassistant.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebaytv.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayuae.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayvakantiehuizen.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayvalet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayvietnam.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayworlds.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.ebayy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.edisebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.eebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.epinions.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.eu-consumer-empowerment.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.expertmaker.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.fairmarket.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.fragrancebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.francemail.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.half.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.half.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.halfcanada.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.halfjapan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.handbagsoutletebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.iebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.irribay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.itsbetterwhenyouwinit.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.liketwice.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.liveauction.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.milofetch.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.musicbay.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.myconstructionworld.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.myebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.nebay.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.paisapay.cc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.paisapay.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.paisapay.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.premobay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.privatemarketplaces.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.privatemarketplaces.us",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.prostores.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.rethink.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.shopibay.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.shoping.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.sourcingforebay.com.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.sourcingforebay.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.sourcingforebay.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.speybay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.storesense.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.svpply.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.telebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.telesell.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.texttobuy.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.theebayshop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.theopportunityproject.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.towerauction.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.vendu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.weareebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.watch-ebay.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.wwwdecide.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.wwwebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.wwwebay.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.wwwwebay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.xindelu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.xxbay.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.yibei.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.gittigidiyor.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.gittigidiyorsikayet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.gumtree.sg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.jijiji.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kiji.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kijii.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kijij.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kijiji.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kijijiauto.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kijijiautos.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kijijiforbusiness.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kijijii.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kijijiraps.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kijji.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.kijjiji.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.automobile.fr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.mobile.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.mobileinternational.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.q10.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.qoo10.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.achievementanalytics.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.cdn-terapeak.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.listinganalytics.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.marketexecutive.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.tearapeak.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.terapeack.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.terapeak.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.terapeak.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.terapeak.com.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.terapeak.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.terapeak.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.teraperk.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.terrapeak.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.thebayuk.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.nexcat.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.nexpart.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.nexpart.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.renchead.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.whisolutions.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay",
+    "pattern": "*://*.wrenchead.com",
+    "active": true
+  }
 ]

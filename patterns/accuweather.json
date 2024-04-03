@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "accuweather",
-            "pattern": "*://*.accuweather.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "accuweather",
+    "pattern": "*://*.accuweather.com",
+    "active": true
+  }
 ]

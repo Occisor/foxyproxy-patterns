@@ -1,590 +1,590 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.aclweb.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.acm.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.acs.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.airiti.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.airitilibrary.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.altmetric.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.analytictech.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.annualreviews.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.arabidopsis.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.arxiv.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.asha.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.berkeley.edu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.biorxiv.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.brill.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.choicereviews.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.cios.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.cmu.edu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.cochranelibrary.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.computingreviews.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.degruyter.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.dentalhypotheses.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.ebscohost.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.electrochem.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.elgaronline.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.elifesciences.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.embase.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.europepmc.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.frontiersin.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.hindawi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.infolinker.com.tw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.informs.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.ioinformatics.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.iop.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.isca-speech.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.jamanetwork.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.jmlr.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.jneurosci.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.jove.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.jstor.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.karger.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.mdpi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.medrxiv.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.morganclaypool.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.nature.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.naturemag.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.ncl.edu.tw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.nejm.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.neurology.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.ovid.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.peerj.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.physiology.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.plos.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.princeton.edu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.researchgate.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.routledgehandbooks.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.royalsocietypublishing.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.rsc.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.rupress.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.sae.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.sagepub.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.scholarpedia.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.science.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.science.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.sciencemag.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.scienceonline.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.scientificamerican.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.scitation.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.semanticscholar.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.spiedigitallibrary.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.statsmakemecry.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.thelancet.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.thieme.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.thieme-connect.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.thieme-connect.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.uchicago.edu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.ucla.edu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.umass.edu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.usaco.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.westlaw.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.wiley.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.wolterskluwer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.worldscientific.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.yale.edu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-scholar-!cn",
-            "pattern": "*://*.zenodo.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.aclweb.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.acm.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.acs.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.airiti.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.airitilibrary.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.altmetric.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.analytictech.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.annualreviews.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.arabidopsis.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.arxiv.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.asha.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.berkeley.edu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.biorxiv.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.brill.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.choicereviews.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.cios.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.cmu.edu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.cochranelibrary.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.computingreviews.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.degruyter.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.dentalhypotheses.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.ebscohost.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.electrochem.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.elgaronline.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.elifesciences.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.embase.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.europepmc.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.frontiersin.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.hindawi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.infolinker.com.tw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.informs.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.ioinformatics.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.iop.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.isca-speech.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.jamanetwork.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.jmlr.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.jneurosci.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.jove.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.jstor.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.karger.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.mdpi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.medrxiv.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.morganclaypool.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.nature.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.naturemag.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.ncl.edu.tw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.nejm.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.neurology.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.ovid.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.peerj.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.physiology.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.plos.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.princeton.edu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.researchgate.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.routledgehandbooks.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.royalsocietypublishing.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.rsc.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.rupress.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.sae.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.sagepub.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.scholarpedia.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.science.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.science.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.sciencemag.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.scienceonline.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.scientificamerican.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.scitation.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.semanticscholar.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.spiedigitallibrary.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.statsmakemecry.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.thelancet.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.thieme.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.thieme-connect.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.thieme-connect.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.uchicago.edu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.ucla.edu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.umass.edu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.usaco.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.westlaw.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.wiley.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.wolterskluwer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.worldscientific.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.yale.edu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-scholar-!cn",
+    "pattern": "*://*.zenodo.org",
+    "active": true
+  }
 ]

@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-remote-control",
-            "pattern": "*://*.anydesk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-remote-control",
+    "pattern": "*://*.anydesk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-remote-control",
-            "pattern": "*://*.nomachine.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-remote-control",
+    "pattern": "*://*.nomachine.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-remote-control",
-            "pattern": "*://*.rustdesk.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-remote-control",
+    "pattern": "*://*.rustdesk.com",
+    "active": true
+  }
 ]

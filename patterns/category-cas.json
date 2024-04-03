@@ -1,107 +1,107 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.accv.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.accv.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.camerfirma.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.camerfirma.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.certsign.ro",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.certsign.ro",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.d-trust.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.d-trust.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.e-szigno.hu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.e-szigno.hu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.e-tugra.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.e-tugra.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.firmaprofesional.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.firmaprofesional.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.fnmt.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.fnmt.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.harica.gr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.harica.gr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.infocert.digital",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.infocert.digital",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.infocert.it",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.infocert.it",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.netlock.hu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.netlock.hu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.trustcor.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.trustcor.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.trustcor.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.trustcor.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-cas",
-            "pattern": "*://*.trustisfps.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-cas",
+    "pattern": "*://*.trustisfps.com",
+    "active": true
+  }
 ]

@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espn",
-            "pattern": "*://*.dtci.co",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "espn",
+    "pattern": "*://*.dtci.co",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espn",
-            "pattern": "*://*.dtci.technology",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "espn",
+    "pattern": "*://*.dtci.technology",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espn",
-            "pattern": "*://*.espn.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "espn",
+    "pattern": "*://*.espn.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espn",
-            "pattern": "*://*.espn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "espn",
+    "pattern": "*://*.espn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espn",
-            "pattern": "*://*.espn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "espn",
+    "pattern": "*://*.espn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espn",
-            "pattern": "*://*.espncdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "espn",
+    "pattern": "*://*.espncdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espn",
-            "pattern": "*://*.espnqa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "espn",
+    "pattern": "*://*.espnqa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "espn",
-            "pattern": "*://*.watchespn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "espn",
+    "pattern": "*://*.watchespn.com",
+    "active": true
+  }
 ]

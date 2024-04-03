@@ -1,142 +1,142 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.g-tvapp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.g-tvapp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.gclubs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.gclubs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.gettr.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.gettr.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.gfashion.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.gfashion.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.gnews.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.gnews.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.gtv.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.gtv.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.gtv1.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.gtv1.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.gtvmediagroupfairfund.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.gtvmediagroupfairfund.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.guo.media",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.guo.media",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.gwiki.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.gwiki.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.gwins.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.gwins.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.himalaya.exchange",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.himalaya.exchange",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.hpayshop.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.hpayshop.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.nfsc.global",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.nfsc.global",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.nfscdict.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.nfscdict.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.nfscofficial.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.nfscofficial.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.rexcha.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.rexcha.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.rolfoundation.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.rolfoundation.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.rolsociety.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.rolsociety.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "guo",
-            "pattern": "*://*.yiqiedoushiganggangkaishi.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "guo",
+    "pattern": "*://*.yiqiedoushiganggangkaishi.org",
+    "active": true
+  }
 ]

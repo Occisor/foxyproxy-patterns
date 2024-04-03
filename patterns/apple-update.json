@@ -1,135 +1,135 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.appldnld.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.appldnld.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.gg.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.gg.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.gnf-mdn.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.gnf-mdn.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.gnf-mr.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.gnf-mr.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.gs.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.gs.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.ig.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.ig.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.mesu.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.mesu.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.ns.itunes.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.ns.itunes.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.oscdn.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.oscdn.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.osrecovery.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.osrecovery.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.skl.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.skl.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.swcdn.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.swcdn.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.swdist.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.swdist.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.swdownload.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.swdownload.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.swpost.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.swpost.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.swscan.apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.swscan.apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.updates-http.cdn-apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.updates-http.cdn-apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.updates.cdn-apple.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.updates.cdn-apple.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "apple-update",
-            "pattern": "*://*.xp.apple.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "apple-update",
+    "pattern": "*://*.xp.apple.com",
+    "active": true
+  }
 ]

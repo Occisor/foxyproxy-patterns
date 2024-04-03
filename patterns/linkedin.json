@@ -1,51 +1,51 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "linkedin",
-            "pattern": "*://*.bizographics.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "linkedin",
+    "pattern": "*://*.bizographics.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "linkedin",
-            "pattern": "*://*.l-0005.dc-msedge.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "linkedin",
+    "pattern": "*://*.l-0005.dc-msedge.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "linkedin",
-            "pattern": "*://*.l-0005.l-msedge.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "linkedin",
+    "pattern": "*://*.l-0005.l-msedge.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "linkedin",
-            "pattern": "*://*.licdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "linkedin",
+    "pattern": "*://*.licdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "linkedin",
-            "pattern": "*://*.linkedin.at",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "linkedin",
+    "pattern": "*://*.linkedin.at",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "linkedin",
-            "pattern": "*://*.linkedin.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "linkedin",
+    "pattern": "*://*.linkedin.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "linkedin",
-            "pattern": "*://*.lnkd.in",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "linkedin",
+    "pattern": "*://*.lnkd.in",
+    "active": true
+  }
 ]

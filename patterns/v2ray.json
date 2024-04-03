@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "v2ray",
-            "pattern": "*://*.v2ray.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "v2ray",
+    "pattern": "*://*.v2ray.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "v2ray",
-            "pattern": "*://*.v2ray.cool",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "v2ray",
+    "pattern": "*://*.v2ray.cool",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "v2ray",
-            "pattern": "*://*.v2fly.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "v2ray",
+    "pattern": "*://*.v2fly.org",
+    "active": true
+  }
 ]

@@ -1,79 +1,79 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.r10s.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.r10s.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.r10s.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.r10s.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.rakuten-static.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.rakuten-static.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.rakuten.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.rakuten.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.rakuten.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.rakuten.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.rakuten.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.rakuten.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.rakuten.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.rakuten.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.rakuten.ne.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.rakuten.ne.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.rakuten.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.rakuten.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.rclon.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.rclon.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rakuten",
-            "pattern": "*://*.rebates.jp",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "rakuten",
+    "pattern": "*://*.rebates.jp",
+    "active": true
+  }
 ]

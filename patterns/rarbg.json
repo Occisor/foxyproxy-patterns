@@ -1,128 +1,128 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.dyncdn.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.dyncdn.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbg.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbg.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbg.to",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbg.to",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.proxyrarbg.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.proxyrarbg.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbg.is",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbg.is",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgaccess.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgaccess.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgaccessed.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgaccessed.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgget.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgget.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbggo.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbggo.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgmirror.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgmirror.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgmirror.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgmirror.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgproxy.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgproxy.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgprx.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgprx.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgto.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgto.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgunblock.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgunblock.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgunblock.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgunblock.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgunblocked.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgunblocked.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "rarbg",
-            "pattern": "*://*.rarbgway.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "rarbg",
+    "pattern": "*://*.rarbgway.org",
+    "active": true
+  }
 ]

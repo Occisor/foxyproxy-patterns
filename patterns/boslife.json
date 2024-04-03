@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boslife",
-            "pattern": "*://*.boslife.biz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "boslife",
+    "pattern": "*://*.boslife.biz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "boslife",
-            "pattern": "*://*.boslife.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "boslife",
+    "pattern": "*://*.boslife.net",
+    "active": true
+  }
 ]

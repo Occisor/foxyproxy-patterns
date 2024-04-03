@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bandwagonhost",
-            "pattern": "*://*.bandwagonhost.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bandwagonhost",
+    "pattern": "*://*.bandwagonhost.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bandwagonhost",
-            "pattern": "*://*.bwh1.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bandwagonhost",
+    "pattern": "*://*.bwh1.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bandwagonhost",
-            "pattern": "*://*.bwh8.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bandwagonhost",
+    "pattern": "*://*.bwh8.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bandwagonhost",
-            "pattern": "*://*.bwh81.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bandwagonhost",
+    "pattern": "*://*.bwh81.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bandwagonhost",
-            "pattern": "*://*.bwh88.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "bandwagonhost",
+    "pattern": "*://*.bwh88.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bandwagonhost",
-            "pattern": "*://*.bwh89.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bandwagonhost",
+    "pattern": "*://*.bwh89.net",
+    "active": true
+  }
 ]

@@ -1,254 +1,254 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.abchina.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.abchina.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.bankcomm.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.bankcomm.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.bankofbeijing.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.bankofbeijing.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.bosc.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.bosc.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.bsb.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.bsb.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.ccb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.ccb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.cgbchina.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.cgbchina.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.cib.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.cib.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.citibank.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.citibank.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.cmbc.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.cmbc.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.hsbc.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.hsbc.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.hxb.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.hxb.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.njcb.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.njcb.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.psbc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.psbc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.spdb.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.spdb.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.whccb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.whccb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.kcbebank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.kcbebank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.shrbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.shrbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.mybank.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.mybank.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.ms-bank.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.ms-bank.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.webank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.webank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.webankcdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.webankcdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.csxbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.csxbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.fbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.fbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.xwbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.xwbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.zgcbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.zgcbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.yillionbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.yillionbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.z-bank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.z-bank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.onebank.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.onebank.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.wegobank.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.wegobank.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.suningbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.suningbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.kshbank.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.kshbank.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.xa-bank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.xa-bank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.newupbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.newupbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.ymbank.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.ymbank.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-bank-cn",
-            "pattern": "*://*.wxsbank.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-bank-cn",
+    "pattern": "*://*.wxsbank.com",
+    "active": true
+  }
 ]

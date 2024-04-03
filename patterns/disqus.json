@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disqus",
-            "pattern": "*://*.disqus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "disqus",
+    "pattern": "*://*.disqus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disqus",
-            "pattern": "*://*.disquscdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "disqus",
+    "pattern": "*://*.disquscdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "disqus",
-            "pattern": "*://*.disqusservice.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "disqus",
+    "pattern": "*://*.disqusservice.com",
+    "active": true
+  }
 ]

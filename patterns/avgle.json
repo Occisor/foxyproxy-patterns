@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "avgle",
-            "pattern": "*://*.avgle.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "avgle",
+    "pattern": "*://*.avgle.com",
+    "active": true
+  }
 ]

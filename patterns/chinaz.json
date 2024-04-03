@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaz",
-            "pattern": "*://*.chinaz.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaz",
+    "pattern": "*://*.chinaz.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "chinaz",
-            "pattern": "*://*.chinaz.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "chinaz",
+    "pattern": "*://*.chinaz.net",
+    "active": true
+  }
 ]

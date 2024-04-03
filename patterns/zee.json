@@ -1,149 +1,149 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.bgr.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.bgr.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.bollywoodlife.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.bollywoodlife.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.careerfundas.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.careerfundas.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.cricketcountry.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.cricketcountry.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.dnai.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.dnai.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.dnaindia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.dnaindia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.earngeek.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.earngeek.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.ekhindi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.ekhindi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.ind.sh",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.ind.sh",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.india.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.india.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.indiancolleges.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.indiancolleges.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.itripto.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.itripto.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.oncars.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.oncars.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.prepsure.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.prepsure.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.thehealthsite.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.thehealthsite.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.wionews.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.wionews.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.yo1health.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.yo1health.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.zee.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.zee.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.zeebiz.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.zeebiz.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.zeeentertainment.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.zeeentertainment.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zee",
-            "pattern": "*://*.zeenews.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "zee",
+    "pattern": "*://*.zeenews.com",
+    "active": true
+  }
 ]

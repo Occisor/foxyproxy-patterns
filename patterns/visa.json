@@ -1,1059 +1,1059 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.be",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.cl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.ao",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.cr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.id",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.il",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.in",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.ke",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.ni",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.nz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.th",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.uk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.ve",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.co.za",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.ag",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.ai",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.ar",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.au",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.az",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.bo",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.br",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.bs",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.bz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.co",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.cy",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.dm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.do",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.ec",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.ge",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.gt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.gy",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.hn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.hr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.jm",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.kh",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.kn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.kz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.lc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.lk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.ms",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.mx",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.my",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.ng",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.pa",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.pe",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.ph",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.pr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.py",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.ru",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.sg",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.sv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.tr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.tt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.tw",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.ua",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.uy",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.vc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.vi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.com.vn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.cz",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.de",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.dk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.es",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.fi",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.fr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.gd",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.gp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.gr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.hk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.hu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.ie",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.is",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.ky",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.lt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.lv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.mn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.mq",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.nl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.no",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.pl",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.pt",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.ro",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.se",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.sk",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.so",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.sx",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa.tc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visabg.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaeurope.at",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaeurope.ch",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaeurope.lu",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaeurope.si",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaitalia.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visakorea.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visamiddleeast.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visasoutheasteurope.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.finlitsummit.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.myvisaluxuryhotels.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visainfinite.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visainfiniteluxuryhotels.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaluxuryhotelcollection.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaluxuryhotelcollection.com.br",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaluxuryhotelcollection.com.mx",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaluxuryhotels.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaluxuryhotels.com.ar",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visasignaturehotels.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.connaissancesfinancierespratiques.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.dnsvisa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.eubluecardvisa.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.financialsoccer.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.lightbridge.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.miamifintechfestival.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.mhshosting.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.practicalbusinessskills.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.practicalmoneyskills.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.practicalmoneyskills.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.soccerfinancier.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.torcidadeouro.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.vaultify.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.vaultify.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.vaultify.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa-atm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visa-news.jp",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visabank.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visabusinessinsights.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visacarddesignlab.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visacards.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visacheckout.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visacheckout.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaconciergelac.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visadigital.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visadigitalconcierge.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visadns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visadpsonline.us",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaeverywhereshop.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visafintechfasttrack.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visafulfillment.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visagiftcard.us",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaglobalfinance.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaicsdirect.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visainfinite.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visanet.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visapcsdirect.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visaplus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visasavingsedge.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visasignature.co.kr",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "visa",
-            "pattern": "*://*.visb.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.be",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.cl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.ao",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.cr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.id",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.il",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.in",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.ke",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.ni",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.nz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.th",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.uk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.ve",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.co.za",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.ag",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.ai",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.ar",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.au",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.az",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.bo",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.br",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.bs",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.bz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.co",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.cy",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.dm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.do",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.ec",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.ge",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.gt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.gy",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.hn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.hr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.jm",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.kh",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.kn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.kz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.lc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.lk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.ms",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.mx",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.my",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.ng",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.pa",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.pe",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.ph",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.pr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.py",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.ru",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.sg",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.sv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.tr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.tt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.tw",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.ua",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.uy",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.vc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.vi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.com.vn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.cz",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.de",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.dk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.es",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.fi",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.fr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.gd",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.gp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.gr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.hk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.hu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.ie",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.is",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.ky",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.lt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.lv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.mn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.mq",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.nl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.no",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.pl",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.pt",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.ro",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.se",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.sk",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.so",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.sx",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa.tc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visabg.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaeurope.at",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaeurope.ch",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaeurope.lu",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaeurope.si",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaitalia.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visakorea.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visamiddleeast.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visasoutheasteurope.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.finlitsummit.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.myvisaluxuryhotels.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visainfinite.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visainfiniteluxuryhotels.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaluxuryhotelcollection.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaluxuryhotelcollection.com.br",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaluxuryhotelcollection.com.mx",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaluxuryhotels.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaluxuryhotels.com.ar",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visasignaturehotels.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.connaissancesfinancierespratiques.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.dnsvisa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.eubluecardvisa.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.financialsoccer.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.lightbridge.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.miamifintechfestival.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.mhshosting.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.practicalbusinessskills.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.practicalmoneyskills.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.practicalmoneyskills.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.soccerfinancier.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.torcidadeouro.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.vaultify.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.vaultify.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.vaultify.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa-atm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visa-news.jp",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visabank.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visabusinessinsights.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visacarddesignlab.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visacards.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visacheckout.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visacheckout.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaconciergelac.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visadigital.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visadigitalconcierge.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visadns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visadpsonline.us",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaeverywhereshop.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visafintechfasttrack.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visafulfillment.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visagiftcard.us",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaglobalfinance.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaicsdirect.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visainfinite.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visanet.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visapcsdirect.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visaplus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visasavingsedge.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visasignature.co.kr",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "visa",
+    "pattern": "*://*.visb.org",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "purikonejp",
-            "pattern": "*://*.api-priconne-redive.cygames.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "purikonejp",
+    "pattern": "*://*.api-priconne-redive.cygames.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "purikonejp",
-            "pattern": "*://*.omotenashi.cygames.jp",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "purikonejp",
+    "pattern": "*://*.omotenashi.cygames.jp",
+    "active": true
+  }
 ]

@@ -1,156 +1,156 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.cinemax.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.cinemax.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.forthethrone.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.forthethrone.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hboasia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hboasia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbogo.co.th",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbogo.co.th",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbogo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbogo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbogo.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbogo.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbogoasia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbogoasia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbogoasia.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbogoasia.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbogoasia.id",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbogoasia.id",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbogoasia.ph",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbogoasia.ph",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbogoasia.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbogoasia.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbogoasia.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbogoasia.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbomax.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbomax.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbomaxcdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbomaxcdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbonow.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbonow.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.maxgo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.maxgo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbo.com.c.footprint.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbo.com.c.footprint.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbo.com.edgesuite.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbo.com.edgesuite.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbo.map.fastly.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbo.map.fastly.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbomax-images.warnermediacdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbomax-images.warnermediacdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hbo",
-            "pattern": "*://*.hbomaxdash.s.llnwi.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hbo",
+    "pattern": "*://*.hbomaxdash.s.llnwi.net",
+    "active": true
+  }
 ]

@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "braveux",
-            "pattern": "*://*.braventures.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "braveux",
+    "pattern": "*://*.braventures.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "braveux",
-            "pattern": "*://*.braveux.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "braveux",
+    "pattern": "*://*.braveux.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "braveux",
-            "pattern": "*://*.compass.is",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "braveux",
+    "pattern": "*://*.compass.is",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "braveux",
-            "pattern": "*://*.fightforux.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "braveux",
+    "pattern": "*://*.fightforux.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "braveux",
-            "pattern": "*://*.forthebadge.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "braveux",
+    "pattern": "*://*.forthebadge.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "braveux",
-            "pattern": "*://*.stockagainstphotography.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "braveux",
+    "pattern": "*://*.stockagainstphotography.com",
+    "active": true
+  }
 ]

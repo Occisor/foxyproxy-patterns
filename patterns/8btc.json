@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "8btc",
-            "pattern": "*://*.8btc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "8btc",
+    "pattern": "*://*.8btc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "8btc",
-            "pattern": "*://*.bystack.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "8btc",
+    "pattern": "*://*.bystack.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "8btc",
-            "pattern": "*://*.chainnode.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "8btc",
+    "pattern": "*://*.chainnode.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "8btc",
-            "pattern": "*://*.matpool.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "8btc",
+    "pattern": "*://*.matpool.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "8btc",
-            "pattern": "*://*.matpool.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "8btc",
+    "pattern": "*://*.matpool.net",
+    "active": true
+  }
 ]

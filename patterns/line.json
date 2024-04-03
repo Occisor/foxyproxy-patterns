@@ -1,142 +1,142 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.gcld-line.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.gcld-line.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.lin.ee",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.lin.ee",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.line-apps-beta.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.line-apps-beta.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.line-apps-rc.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.line-apps-rc.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.line-apps.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.line-apps.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.line-beta.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.line-beta.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.line-cdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.line-cdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.line-scdn.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.line-scdn.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.line.biz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.line.biz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.line.me",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.line.me",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.line.naver.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.line.naver.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.linecorp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.linecorp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.linefriends.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.linefriends.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.linefriends.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.linefriends.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.linegame.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.linegame.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.linemobile.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.linemobile.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.linemyshop.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.linemyshop.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.lineshoppingseller.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.lineshoppingseller.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.linetv.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.linetv.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "line",
-            "pattern": "*://*.nhncorp.jp",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "line",
+    "pattern": "*://*.nhncorp.jp",
+    "active": true
+  }
 ]

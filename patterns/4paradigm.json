@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "4paradigm",
-            "pattern": "*://*.4paradigm.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "4paradigm",
+    "pattern": "*://*.4paradigm.com",
+    "active": true
+  }
 ]

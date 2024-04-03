@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dart",
-            "pattern": "*://*.dart.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dart",
+    "pattern": "*://*.dart.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dart",
-            "pattern": "*://*.dartlang.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "dart",
+    "pattern": "*://*.dartlang.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "dart",
-            "pattern": "*://*.dartpad.dev",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "dart",
+    "pattern": "*://*.dartpad.dev",
+    "active": true
+  }
 ]

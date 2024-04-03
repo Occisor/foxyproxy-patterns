@@ -1,156 +1,156 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.atom.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.atom.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.dependabot.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.dependabot.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.ghcr.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.ghcr.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.git.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.git.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.github.blog",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.github.blog",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.github.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.github.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.github.community",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.github.community",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.github.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.github.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.github.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.github.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.githubapp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.githubapp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.githubassets.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.githubassets.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.githubhackathon.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.githubhackathon.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.githubnext.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.githubnext.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.githubpreview.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.githubpreview.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.githubstatus.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.githubstatus.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.githubuniverse.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.githubuniverse.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.githubusercontent.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.githubusercontent.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.myoctocat.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.myoctocat.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.opensource.guide",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.opensource.guide",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.repo.new",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.repo.new",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.thegithubshop.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.thegithubshop.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "github",
-            "pattern": "*://*.blob.core.windows.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "github",
+    "pattern": "*://*.blob.core.windows.net",
+    "active": true
+  }
 ]

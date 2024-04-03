@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-finance",
-            "pattern": "*://*.fxcorporate.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-finance",
+    "pattern": "*://*.fxcorporate.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-finance",
-            "pattern": "*://*.mql5.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-finance",
+    "pattern": "*://*.mql5.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-finance",
-            "pattern": "*://*.tradingview.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-finance",
+    "pattern": "*://*.tradingview.com",
+    "active": true
+  }
 ]

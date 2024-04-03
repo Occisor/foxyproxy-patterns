@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xueersi",
-            "pattern": "*://*.speiyou.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xueersi",
+    "pattern": "*://*.speiyou.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xueersi",
-            "pattern": "*://*.xesimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xueersi",
+    "pattern": "*://*.xesimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xueersi",
-            "pattern": "*://*.xueersi.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "xueersi",
+    "pattern": "*://*.xueersi.com",
+    "active": true
+  }
 ]

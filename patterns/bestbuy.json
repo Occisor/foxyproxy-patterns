@@ -1,555 +1,555 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bby.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bbycastatic.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bbycloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bbycontent.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bbycontent.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bbyintl.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bbystatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bbyurl.us",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbhy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuy-audio.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuy-communityrelations.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuy-giftcard.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuy-int.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuy-jobs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuy.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuy.com.mx",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuy.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuy24x7solutions.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuybusiness.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuybusinessadvantageaccount.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuycanada.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuycanada.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuycanadaltd.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuycharityclassic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuycoffeemakers.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuyethics.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuyforbusiness.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuygsm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuyideax.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuyphotoworkshoptours.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuyrewards.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuyrewardzone.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuys.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuysgeeksquad.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuysolutions.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuystores.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuytradein.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bestbuyus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.besztbuy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bextbuy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.bienvenuechezbestbuy.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.cowboom.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.futureshop.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.initproducts.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.mybestbuy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.mybestbuyclaims.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.myrewardzone.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.myrz.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.pacifickitchenandhome.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.tiendabestbuy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.unbrandedproducts.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.welcometobestbuy.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.wolfatbestbuy.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.wolfatbestbuy.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.www-bestbuystores.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geek-squad-support.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geek-squad.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geek-squad.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geek-squads.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquad.ca",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquad.cc",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquad.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquad.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquad.tv",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquadcares.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquadcentral.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquadforums.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquadonline.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquadprotectionplan.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquadservices.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.geeksquadwebroot.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.gscanada.info",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.gsccdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.gslink.us",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.onlinegeeksquad.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.rocketfishproducts.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.dealtree.org",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "bestbuy",
-            "pattern": "*://*.techliquidators.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bby.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bbycastatic.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bbycloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bbycontent.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bbycontent.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bbyintl.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bbystatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bbyurl.us",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbhy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuy-audio.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuy-communityrelations.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuy-giftcard.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuy-int.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuy-jobs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuy.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuy.com.mx",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuy.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuy24x7solutions.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuybusiness.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuybusinessadvantageaccount.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuycanada.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuycanada.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuycanadaltd.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuycharityclassic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuycoffeemakers.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuyethics.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuyforbusiness.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuygsm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuyideax.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuyphotoworkshoptours.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuyrewards.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuyrewardzone.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuys.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuysgeeksquad.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuysolutions.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuystores.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuytradein.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bestbuyus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.besztbuy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bextbuy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.bienvenuechezbestbuy.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.cowboom.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.futureshop.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.initproducts.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.mybestbuy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.mybestbuyclaims.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.myrewardzone.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.myrz.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.pacifickitchenandhome.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.tiendabestbuy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.unbrandedproducts.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.welcometobestbuy.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.wolfatbestbuy.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.wolfatbestbuy.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.www-bestbuystores.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geek-squad-support.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geek-squad.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geek-squad.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geek-squads.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquad.ca",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquad.cc",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquad.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquad.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquad.tv",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquadcares.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquadcentral.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquadforums.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquadonline.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquadprotectionplan.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquadservices.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.geeksquadwebroot.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.gscanada.info",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.gsccdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.gslink.us",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.onlinegeeksquad.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.rocketfishproducts.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.dealtree.org",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy",
+    "pattern": "*://*.techliquidators.com",
+    "active": true
+  }
 ]

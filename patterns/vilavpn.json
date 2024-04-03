@@ -1,65 +1,65 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vilavpn",
-            "pattern": "*://*.vilavpn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vilavpn",
+    "pattern": "*://*.vilavpn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vilavpn",
-            "pattern": "*://*.vilavpn.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vilavpn",
+    "pattern": "*://*.vilavpn.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vilavpn",
-            "pattern": "*://*.vilavpn1.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vilavpn",
+    "pattern": "*://*.vilavpn1.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vilavpn",
-            "pattern": "*://*.vilavpn2.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vilavpn",
+    "pattern": "*://*.vilavpn2.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vilavpn",
-            "pattern": "*://*.vilavpn3.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vilavpn",
+    "pattern": "*://*.vilavpn3.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vilavpn",
-            "pattern": "*://*.vilavpn4.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vilavpn",
+    "pattern": "*://*.vilavpn4.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vilavpn",
-            "pattern": "*://*.vilavpn5.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vilavpn",
+    "pattern": "*://*.vilavpn5.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vilavpn",
-            "pattern": "*://*.vilavpn6.xyz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "vilavpn",
+    "pattern": "*://*.vilavpn6.xyz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "vilavpn",
-            "pattern": "*://*.vilavpn7.xyz",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "vilavpn",
+    "pattern": "*://*.vilavpn7.xyz",
+    "active": true
+  }
 ]

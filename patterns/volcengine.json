@@ -1,1031 +1,1031 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.aigc-cloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.bdegnine.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.bplslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.bpltm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.byte-dns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.byte-dns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.bytehouse.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.byteinspire.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.byteinspire.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.bytevdn-boe.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.bytevdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.cache4ever.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.cache666.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.cloudendpoint.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.douyincloud.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.douyincloud.run",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.dycloudbk.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.dycloud.run",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.emr-volces.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.feilian.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.iccvlog.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.ifeilian.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.ifeilian.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.inspirecloud.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.inspirecloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.isealsuite.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.ivolces.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.kfcbest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.kych5.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.multilingual-volc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.qingfuwuapi.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.qingfuwucdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.qingfuwu.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.qingfuwu.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.slbauto.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.sms18.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.toutiaopanapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.toutiaopan.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.ttgslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.ttgtm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vecdnlb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vecloudgame.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vedcdnlb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vedsalb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.veefdev.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.veew-alb-cn1.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.veew-alb-cn2.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.veew-alb-ts.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vegalb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vegslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vegtm.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.veicplive.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.ve-imcloud.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vemarsdev.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vemarsstatic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vemarsweb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vertciot.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.vestack.cloud",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.ve-trafficroute.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.ve-trafficroute.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcadocean.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcadvc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcalb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcautovod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcbiz.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcca.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcca.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcca.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volccdn1.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volccdn2.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volccdn.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volccdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcddos001.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcddos.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcdem.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcdlspace.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volc-dns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcdns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volc-dns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volc-dns.pub",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcdns.pub",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volceapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volceapplog.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcecr.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcecw.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volc-embed.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcenginapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcenginealb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcengineapi.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcengine.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcengine.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcengine-dns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcenginedns.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcengine-dns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcenginedns.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcengine.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcenginepaas.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volces.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcfake.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcfcdnbyte.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcfcdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcfcdndvs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcfcdnplus.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcfcdnrd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcfcdnsc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcfxgjrtm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcgroup.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcgslb.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcgtm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volciad.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcimagex.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcimagex.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcimagex.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcimagextest.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcmagicpage.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcmcdn1.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcmcdn2.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcmcdn3.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcmcdn4.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcmgs.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcmusecdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcocic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcopjrtm.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcpartner.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcpartner.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcsiriusbd.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcsirius.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcspaceeduc.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volctracer.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volctrack.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volctraffic.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volctranscdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcvideo.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcvideos.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcvms.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcvod.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcwaf001.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.volcwaf.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.writingo-editor.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.writingo.net",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.ytxptd.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.ytxptz.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.zebracdn.com",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.zjytxd.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.zjytxp.cn",
-            "active": true
-          },
-  {
-            "include": "include",
-            "type": "wildcard",
-            "title": "volcengine",
-            "pattern": "*://*.zvip.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.aigc-cloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.bdegnine.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.bplslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.bpltm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.byte-dns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.byte-dns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.bytehouse.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.byteinspire.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.byteinspire.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.bytevdn-boe.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.bytevdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.cache4ever.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.cache666.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.cloudendpoint.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.douyincloud.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.douyincloud.run",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.dycloudbk.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.dycloud.run",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.emr-volces.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.feilian.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.iccvlog.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.ifeilian.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.ifeilian.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.inspirecloud.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.inspirecloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.isealsuite.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.ivolces.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.kfcbest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.kych5.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.multilingual-volc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.qingfuwuapi.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.qingfuwucdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.qingfuwu.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.qingfuwu.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.slbauto.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.sms18.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.toutiaopanapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.toutiaopan.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.ttgslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.ttgtm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vecdnlb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vecloudgame.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vedcdnlb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vedsalb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.veefdev.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.veew-alb-cn1.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.veew-alb-cn2.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.veew-alb-ts.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vegalb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vegslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vegtm.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.veicplive.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.ve-imcloud.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vemarsdev.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vemarsstatic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vemarsweb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vertciot.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.vestack.cloud",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.ve-trafficroute.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.ve-trafficroute.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcadocean.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcadvc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcalb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcautovod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcbiz.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcca.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcca.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcca.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volccdn1.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volccdn2.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volccdn.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volccdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcddos001.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcddos.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcdem.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcdlspace.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volc-dns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcdns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volc-dns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volc-dns.pub",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcdns.pub",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volceapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volceapplog.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcecr.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcecw.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volc-embed.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcenginapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcenginealb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcengineapi.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcengine.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcengine.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcengine-dns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcenginedns.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcengine-dns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcenginedns.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcengine.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcenginepaas.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volces.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcfake.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcfcdnbyte.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcfcdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcfcdndvs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcfcdnplus.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcfcdnrd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcfcdnsc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcfxgjrtm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcgroup.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcgslb.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcgtm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volciad.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcimagex.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcimagex.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcimagex.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcimagextest.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcmagicpage.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcmcdn1.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcmcdn2.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcmcdn3.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcmcdn4.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcmgs.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcmusecdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcocic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcopjrtm.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcpartner.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcpartner.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcsiriusbd.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcsirius.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcspaceeduc.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volctracer.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volctrack.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volctraffic.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volctranscdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcvideo.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcvideos.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcvms.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcvod.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcwaf001.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.volcwaf.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.writingo-editor.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.writingo.net",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.ytxptd.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.ytxptz.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.zebracdn.com",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.zjytxd.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.zjytxp.cn",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "volcengine",
+    "pattern": "*://*.zvip.cn",
+    "active": true
+  }
 ]

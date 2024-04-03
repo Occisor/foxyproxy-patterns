@@ -1,44 +1,44 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youku",
-            "pattern": "*://*.kumiao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youku",
+    "pattern": "*://*.kumiao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youku",
-            "pattern": "*://*.youku.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youku",
+    "pattern": "*://*.youku.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youku",
-            "pattern": "*://*.ykimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youku",
+    "pattern": "*://*.ykimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youku",
-            "pattern": "*://*.mmstat.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youku",
+    "pattern": "*://*.mmstat.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youku",
-            "pattern": "*://*.soku.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "youku",
+    "pattern": "*://*.soku.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "youku",
-            "pattern": "*://*.cibntv.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "youku",
+    "pattern": "*://*.cibntv.net",
+    "active": true
+  }
 ]

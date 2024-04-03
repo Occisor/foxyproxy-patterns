@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "homedepot",
-            "pattern": "*://*.homedepot-static.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "homedepot",
+    "pattern": "*://*.homedepot-static.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "homedepot",
-            "pattern": "*://*.homedepot.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "homedepot",
+    "pattern": "*://*.homedepot.com",
+    "active": true
+  }
 ]

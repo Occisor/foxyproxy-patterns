@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "baijiayun",
-            "pattern": "*://*.baijiayun.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "baijiayun",
+    "pattern": "*://*.baijiayun.com",
+    "active": true
+  }
 ]

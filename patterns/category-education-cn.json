@@ -1,100 +1,100 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.yudou.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.yudou.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.yushiyan.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.yushiyan.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.xuetangx.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.xuetangx.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.x-cloud.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.x-cloud.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.dgjy.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.dgjy.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.91yunxiao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.91yunxiao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.aiyunxiao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.aiyunxiao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.haofenshu.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.haofenshu.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.iyunxiao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.iyunxiao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.yunxiao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.yunxiao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.keboyunxiao.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.keboyunxiao.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.ketangpai.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.ketangpai.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.pigai.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.pigai.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-education-cn",
-            "pattern": "*://*.weilaiyunxiao.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-education-cn",
+    "pattern": "*://*.weilaiyunxiao.com",
+    "active": true
+  }
 ]

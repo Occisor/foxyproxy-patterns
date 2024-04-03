@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "certum",
-            "pattern": "*://*.certum.pl",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "certum",
+    "pattern": "*://*.certum.pl",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "certum",
-            "pattern": "*://*.ocsp-certum.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "certum",
+    "pattern": "*://*.ocsp-certum.com",
+    "active": true
+  }
 ]

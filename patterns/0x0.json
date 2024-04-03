@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "0x0",
-            "pattern": "*://*.0x0.st",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "0x0",
+    "pattern": "*://*.0x0.st",
+    "active": true
+  }
 ]

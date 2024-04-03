@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "viu",
-            "pattern": "*://*.viu.tv",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "viu",
+    "pattern": "*://*.viu.tv",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "viu",
-            "pattern": "*://*.viu.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "viu",
+    "pattern": "*://*.viu.com",
+    "active": true
+  }
 ]

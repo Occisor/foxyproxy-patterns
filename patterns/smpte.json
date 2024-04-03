@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "smpte",
-            "pattern": "*://*.smpte.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "smpte",
+    "pattern": "*://*.smpte.org",
+    "active": true
+  }
 ]

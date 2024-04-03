@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "meta",
-            "pattern": "*://*.meta.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "meta",
+    "pattern": "*://*.meta.com",
+    "active": true
+  }
 ]

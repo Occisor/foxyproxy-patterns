@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sxl",
-            "pattern": "*://*.mysxl.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sxl",
+    "pattern": "*://*.mysxl.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sxl",
-            "pattern": "*://*.sxl.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sxl",
+    "pattern": "*://*.sxl.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sxl",
-            "pattern": "*://*.sxlcdn.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "sxl",
+    "pattern": "*://*.sxlcdn.cn",
+    "active": true
+  }
 ]

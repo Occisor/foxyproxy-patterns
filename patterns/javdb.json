@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javdb",
-            "pattern": "*://*.javdb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "javdb",
+    "pattern": "*://*.javdb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javdb",
-            "pattern": "*://*.jdbimgs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "javdb",
+    "pattern": "*://*.jdbimgs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "javdb",
-            "pattern": "*://*.jdbstatic.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "javdb",
+    "pattern": "*://*.jdbstatic.com",
+    "active": true
+  }
 ]

@@ -1,128 +1,128 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.alborzinsurance.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.alborzinsurance.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.bimehasia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.bimehasia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.bimeonline.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.bimeonline.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.dana-insurance.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.dana-insurance.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.dayins.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.dayins.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.hafezinsurance.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.hafezinsurance.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.ihio.gov.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.ihio.gov.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.iraninsurance.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.iraninsurance.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.karafarin-insurance.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.karafarin-insurance.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.mellatinsurance.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.mellatinsurance.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.novininsurance.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.novininsurance.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.omid-insurance.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.omid-insurance.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.parsianinsurance.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.parsianinsurance.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.razi-insurance.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.razi-insurance.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.risc.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.risc.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.sinainsurance.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.sinainsurance.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.tamin.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.tamin.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-ir-insurance",
-            "pattern": "*://*.tins.ir",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-ir-insurance",
+    "pattern": "*://*.tins.ir",
+    "active": true
+  }
 ]

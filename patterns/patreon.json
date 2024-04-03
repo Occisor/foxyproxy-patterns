@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "patreon",
-            "pattern": "*://*.patreon.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "patreon",
+    "pattern": "*://*.patreon.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "patreon",
-            "pattern": "*://*.patreoncommunity.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "patreon",
+    "pattern": "*://*.patreoncommunity.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "patreon",
-            "pattern": "*://*.patreonusercontent.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "patreon",
+    "pattern": "*://*.patreonusercontent.com",
+    "active": true
+  }
 ]

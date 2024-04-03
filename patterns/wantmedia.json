@@ -1,100 +1,100 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.want-media.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.want-media.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.chinatimes.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.chinatimes.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.chinatimes.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.chinatimes.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.infotimes.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.infotimes.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.ctwant.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.ctwant.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.ctee.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.ctee.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.ctv.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.ctv.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.ctitv.com.tw",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.ctitv.com.tw",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.wantblogger.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.wantblogger.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.zwtvusa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.zwtvusa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.benliton.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.benliton.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.lecoin.cc",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.lecoin.cc",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.loveparents.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.loveparents.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "wantmedia",
-            "pattern": "*://*.superstation.com.tw",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "wantmedia",
+    "pattern": "*://*.superstation.com.tw",
+    "active": true
+  }
 ]

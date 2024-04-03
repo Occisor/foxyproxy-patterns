@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "golang",
-            "pattern": "*://*.go-lang.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "golang",
+    "pattern": "*://*.go-lang.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "golang",
-            "pattern": "*://*.go-lang.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "golang",
+    "pattern": "*://*.go-lang.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "golang",
-            "pattern": "*://*.go-lang.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "golang",
+    "pattern": "*://*.go-lang.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "golang",
-            "pattern": "*://*.go.dev",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "golang",
+    "pattern": "*://*.go.dev",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "golang",
-            "pattern": "*://*.godoc.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "golang",
+    "pattern": "*://*.godoc.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "golang",
-            "pattern": "*://*.golang.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "golang",
+    "pattern": "*://*.golang.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "golang",
-            "pattern": "*://*.golang.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "golang",
+    "pattern": "*://*.golang.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "golang",
-            "pattern": "*://*.golang.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "golang",
+    "pattern": "*://*.golang.org",
+    "active": true
+  }
 ]

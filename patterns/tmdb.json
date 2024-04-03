@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tmdb",
-            "pattern": "*://*.themoviedb.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "tmdb",
+    "pattern": "*://*.themoviedb.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "tmdb",
-            "pattern": "*://*.tmdb.org",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "tmdb",
+    "pattern": "*://*.tmdb.org",
+    "active": true
+  }
 ]

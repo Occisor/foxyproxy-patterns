@@ -1,65 +1,65 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xunlei",
-            "pattern": "*://*.sandai.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xunlei",
+    "pattern": "*://*.sandai.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xunlei",
-            "pattern": "*://*.thunderurl.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xunlei",
+    "pattern": "*://*.thunderurl.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xunlei",
-            "pattern": "*://*.xunlei.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xunlei",
+    "pattern": "*://*.xunlei.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xunlei",
-            "pattern": "*://*.00cdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xunlei",
+    "pattern": "*://*.00cdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xunlei",
-            "pattern": "*://*.88cdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xunlei",
+    "pattern": "*://*.88cdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xunlei",
-            "pattern": "*://*.p2cdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xunlei",
+    "pattern": "*://*.p2cdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xunlei",
-            "pattern": "*://*.thundercdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xunlei",
+    "pattern": "*://*.thundercdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xunlei",
-            "pattern": "*://*.xycloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "xunlei",
+    "pattern": "*://*.xycloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xunlei",
-            "pattern": "*://*.xycdn.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "xunlei",
+    "pattern": "*://*.xycdn.com",
+    "active": true
+  }
 ]

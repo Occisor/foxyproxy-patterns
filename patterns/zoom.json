@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zoom",
-            "pattern": "*://*.zoom.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zoom",
+    "pattern": "*://*.zoom.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zoom",
-            "pattern": "*://*.zoom.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zoom",
+    "pattern": "*://*.zoom.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zoom",
-            "pattern": "*://*.zoom.us",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "zoom",
+    "pattern": "*://*.zoom.us",
+    "active": true
+  }
 ]

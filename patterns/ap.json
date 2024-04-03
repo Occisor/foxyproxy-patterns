@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ap",
-            "pattern": "*://*.ap.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "ap",
+    "pattern": "*://*.ap.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "ap",
-            "pattern": "*://*.apnews.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "ap",
+    "pattern": "*://*.apnews.com",
+    "active": true
+  }
 ]

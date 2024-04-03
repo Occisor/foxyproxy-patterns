@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "farfetch",
-            "pattern": "*://*.farfetch-apps.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "farfetch",
+    "pattern": "*://*.farfetch-apps.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "farfetch",
-            "pattern": "*://*.farfetch-contents.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "farfetch",
+    "pattern": "*://*.farfetch-contents.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "farfetch",
-            "pattern": "*://*.farfetch.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "farfetch",
+    "pattern": "*://*.farfetch.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "farfetch",
-            "pattern": "*://*.farfetch.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "farfetch",
+    "pattern": "*://*.farfetch.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "farfetch",
-            "pattern": "*://*.fflnk.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "farfetch",
+    "pattern": "*://*.fflnk.net",
+    "active": true
+  }
 ]

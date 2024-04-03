@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "showtimeanytime",
-            "pattern": "*://*.showtimeanytime.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "showtimeanytime",
+    "pattern": "*://*.showtimeanytime.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "showtimeanytime",
-            "pattern": "*://*.showtime.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "showtimeanytime",
+    "pattern": "*://*.showtime.com",
+    "active": true
+  }
 ]

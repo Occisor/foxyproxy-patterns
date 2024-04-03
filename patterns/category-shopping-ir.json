@@ -1,86 +1,86 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.digi-kala.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.digi-kala.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.emalls.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.emalls.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.esam.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.esam.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.janebi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.janebi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.janebi.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.janebi.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.sheypoor.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.sheypoor.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.torob.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.torob.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.zanbil.ir",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.zanbil.ir",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.digikala.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.digikala.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.digikalabusiness.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.digikalabusiness.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.digikalajet.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.digikalajet.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "category-shopping-ir",
-            "pattern": "*://*.digistyle.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "category-shopping-ir",
+    "pattern": "*://*.digistyle.com",
+    "active": true
+  }
 ]

@@ -1,16 +1,16 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gog",
-            "pattern": "*://*.gog.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "gog",
+    "pattern": "*://*.gog.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "gog",
-            "pattern": "*://*.gog-statics.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "gog",
+    "pattern": "*://*.gog-statics.com",
+    "active": true
+  }
 ]

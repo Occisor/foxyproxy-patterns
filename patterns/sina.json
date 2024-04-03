@@ -1,156 +1,156 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.97973.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.97973.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.picself.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.picself.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.sina.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.sina.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.sina.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.sina.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.sina.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.sina.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.sina.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.sina.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.sinaapp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.sinaapp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.sinaedge.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.sinaedge.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.sinaimg.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.sinaimg.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.sinaimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.sinaimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.sinajs.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.sinajs.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.sinajs.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.sinajs.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.t.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.t.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.videoself.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.videoself.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.wbimg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.wbimg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.wbimg.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.wbimg.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.wcdn.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.wcdn.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.weibo.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.weibo.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.weibo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.weibo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.weibo.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.weibo.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.weibocdn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.weibocdn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "sina",
-            "pattern": "*://*.xhaiwai.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "sina",
+    "pattern": "*://*.xhaiwai.com",
+    "active": true
+  }
 ]

@@ -1,338 +1,338 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.amerikaninsesi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.amerikaninsesi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.amerikaninsesi.org",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.amerikaninsesi.org",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.amerikaovozi.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.amerikaovozi.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.amerikayidzayn.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.amerikayidzayn.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.amerikiskhma.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.amerikiskhma.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.bbg.gov",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.bbg.gov",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.dandalinvoa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.dandalinvoa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.darivoa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.darivoa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.dengeamerika.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.dengeamerika.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.dengiamerika.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.dengiamerika.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.glasamerike.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.glasamerike.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.golos-ameriki.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.golos-ameriki.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.golosameriki.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.golosameriki.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.insidevoa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.insidevoa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.pashtovoa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.pashtovoa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.persagg.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.persagg.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.radiyoyacuvoa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.radiyoyacuvoa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.urduvoa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.urduvoa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voa.gov",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voa.gov",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voaafaanoromoo.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voaafaanoromoo.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voaafrique.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voaafrique.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voabambara.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voabambara.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voabangla.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voabangla.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voacambodia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voacambodia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voacantonese.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voacantonese.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voachinese.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voachinese.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voadeewanews.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voadeewanews.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voadeewaradio.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voadeewaradio.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voahausa.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voahausa.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voaindonesia.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voaindonesia.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voakorea.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voakorea.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voalingala.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voalingala.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voandebele.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voandebele.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voanews.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voanews.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voanews.eu",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voanews.eu",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voanoticias.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voanoticias.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voanouvel.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voanouvel.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voaportugues.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voaportugues.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voashona.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voashona.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voasomali.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voasomali.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voaswahili.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voaswahili.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voathai.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voathai.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voatibetan.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voatibetan.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voatibetanenglish.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voatibetanenglish.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voatiengviet.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voatiengviet.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voatour.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voatour.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.voazimbabwe.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.voazimbabwe.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "voanews",
-            "pattern": "*://*.zeriamerikes.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "voanews",
+    "pattern": "*://*.zeriamerikes.com",
+    "active": true
+  }
 ]

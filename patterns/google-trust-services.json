@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "google-trust-services",
-            "pattern": "*://*.pki.goog",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "google-trust-services",
+    "pattern": "*://*.pki.goog",
+    "active": true
+  }
 ]

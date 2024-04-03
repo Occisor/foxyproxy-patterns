@@ -1,58 +1,58 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hashicorp",
-            "pattern": "*://*.consul.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hashicorp",
+    "pattern": "*://*.consul.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hashicorp",
-            "pattern": "*://*.hashicorp.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hashicorp",
+    "pattern": "*://*.hashicorp.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hashicorp",
-            "pattern": "*://*.nomadproject.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hashicorp",
+    "pattern": "*://*.nomadproject.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hashicorp",
-            "pattern": "*://*.packer.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hashicorp",
+    "pattern": "*://*.packer.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hashicorp",
-            "pattern": "*://*.terraform.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hashicorp",
+    "pattern": "*://*.terraform.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hashicorp",
-            "pattern": "*://*.vagrantcloud.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hashicorp",
+    "pattern": "*://*.vagrantcloud.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hashicorp",
-            "pattern": "*://*.vagrantup.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "hashicorp",
+    "pattern": "*://*.vagrantup.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "hashicorp",
-            "pattern": "*://*.vaultproject.io",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "hashicorp",
+    "pattern": "*://*.vaultproject.io",
+    "active": true
+  }
 ]

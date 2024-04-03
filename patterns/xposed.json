@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "xposed",
-            "pattern": "*://*.xposed.info",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "xposed",
+    "pattern": "*://*.xposed.info",
+    "active": true
+  }
 ]

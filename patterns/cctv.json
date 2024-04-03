@@ -1,226 +1,226 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cctv.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cctv.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cctv.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cctv.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cctvpic.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cctvpic.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.chinaepg.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.chinaepg.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.chinalive.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.chinalive.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.citv.net.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.citv.net.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cnms.net.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cnms.net.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cntv.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cntv.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cntv.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cntv.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cctvlib.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cctvlib.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cctvlibrary.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cctvlibrary.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cctvlib.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cctvlib.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cctvlibrary.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cctvlibrary.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cctvpro.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cctvpro.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cctvpro.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cctvpro.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.cntvwb.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.cntvwb.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.gjgbdszt.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.gjgbdszt.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.gjgbdszt.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.gjgbdszt.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.gjgbdszt.net.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.gjgbdszt.net.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.ipanda.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.ipanda.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.ipanda.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.ipanda.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.ipanda.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.ipanda.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.ipanda.net",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.ipanda.net",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.livechina.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.livechina.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.livechina.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.livechina.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.olympicchannelchina.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.olympicchannelchina.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.tvcc.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.tvcc.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.tvcc.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.tvcc.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.zggbdszt.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.zggbdszt.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.zggbdszt.com.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.zggbdszt.com.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.zggbdszt.net.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.zggbdszt.net.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "cctv",
-            "pattern": "*://*.zygbdszt.net.cn",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "cctv",
+    "pattern": "*://*.zygbdszt.net.cn",
+    "active": true
+  }
 ]

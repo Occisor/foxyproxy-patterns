@@ -1,9 +1,9 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "erji",
-            "pattern": "*://*.erji.net",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "erji",
+    "pattern": "*://*.erji.net",
+    "active": true
+  }
 ]

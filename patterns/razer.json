@@ -1,37 +1,37 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "razer",
-            "pattern": "*://*.razer.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "razer",
+    "pattern": "*://*.razer.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "razer",
-            "pattern": "*://*.razersupport.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "razer",
+    "pattern": "*://*.razersupport.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "razer",
-            "pattern": "*://*.razerzone.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "razer",
+    "pattern": "*://*.razerzone.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "razer",
-            "pattern": "*://*.razerzone.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "razer",
+    "pattern": "*://*.razerzone.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "razer",
-            "pattern": "*://*.respawnbyrazer.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "razer",
+    "pattern": "*://*.respawnbyrazer.com",
+    "active": true
+  }
 ]

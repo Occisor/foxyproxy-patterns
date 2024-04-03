@@ -1,198 +1,198 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.aranzadi.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.aranzadi.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.corepublishingsolutions.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.corepublishingsolutions.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.elite.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.elite.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.legaltracker.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.legaltracker.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.livrariart.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.livrariart.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.reutersagency.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.reutersagency.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.sweetandmaxwell.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.sweetandmaxwell.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.ca",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.ca",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.cn",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.cn",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.co.jp",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.co.jp",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.co.kr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.co.kr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.co.nz",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.co.nz",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.co.uk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.co.uk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.com.ar",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.com.ar",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.com.au",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.com.au",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.com.br",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.com.br",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.com.hk",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.com.hk",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.com.my",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.com.my",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.com.pe",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.com.pe",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.com.sg",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.com.sg",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.com.tr",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.com.tr",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.es",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.es",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.in",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.in",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreuters.ru",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreuters.ru",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.thomsonreutersmexico.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.thomsonreutersmexico.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.tmsnrt.rs",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.tmsnrt.rs",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "thomsonreuters",
-            "pattern": "*://*.tr.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "thomsonreuters",
+    "pattern": "*://*.tr.com",
+    "active": true
+  }
 ]

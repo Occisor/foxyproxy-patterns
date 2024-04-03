@@ -1,30 +1,30 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zb",
-            "pattern": "*://*.zb.app",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zb",
+    "pattern": "*://*.zb.app",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zb",
-            "pattern": "*://*.zb.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zb",
+    "pattern": "*://*.zb.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zb",
-            "pattern": "*://*.zb.io",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "zb",
+    "pattern": "*://*.zb.io",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "zb",
-            "pattern": "*://*.zb.live",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "zb",
+    "pattern": "*://*.zb.live",
+    "active": true
+  }
 ]

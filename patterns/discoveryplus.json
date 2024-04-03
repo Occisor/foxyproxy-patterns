@@ -1,23 +1,23 @@
 [
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discoveryplus",
-            "pattern": "*://*.content-ause1-ur-discovery1.uplynk.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discoveryplus",
+    "pattern": "*://*.content-ause1-ur-discovery1.uplynk.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discoveryplus",
-            "pattern": "*://*.disco-api.com",
-            "active": true
-          },
+    "include": "include",
+    "type": "wildcard",
+    "title": "discoveryplus",
+    "pattern": "*://*.disco-api.com",
+    "active": true
+  },
   {
-            "include": "include",
-            "type": "wildcard",
-            "title": "discoveryplus",
-            "pattern": "*://*.discoveryplus.com",
-            "active": true
-          }
+    "include": "include",
+    "type": "wildcard",
+    "title": "discoveryplus",
+    "pattern": "*://*.discoveryplus.com",
+    "active": true
+  }
 ]
