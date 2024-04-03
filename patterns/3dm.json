@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "3dm",
+            "pattern": "*://*.3dmgame.com",
+            "active": true
+          }
+]

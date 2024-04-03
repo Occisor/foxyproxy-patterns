@@ -1,0 +1,23 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "17zuoye",
+            "pattern": "*://*.17zuoye.cn",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "17zuoye",
+            "pattern": "*://*.17zuoye.com",
+            "active": true
+          },
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "17zuoye",
+            "pattern": "*://*.17zuoye.net",
+            "active": true
+          }
+]

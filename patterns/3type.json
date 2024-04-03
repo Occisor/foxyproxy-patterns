@@ -1,0 +1,9 @@
+[
+  {
+            "include": "include",
+            "type": "wildcard",
+            "title": "3type",
+            "pattern": "*://*.3type.cn",
+            "active": true
+          }
+]
