@@ -26,4 +26,4 @@ python3 ./fp-pat.py
 After it processes all the files, files with the .json extension will appear in the folder; they can be imported into FoxyProxy.
 
 ### What to do in the future:
-Improve the cleaning script for files (it is not publicly available at the moment) from domain-list-community. Now it removes lines containing: #, :, @. Which may contain additional instructions for 2ray, or full paths.
+Improve the cleaning script for files (it is not publicly available at the moment) from domain-list-community. Now it removes lines containing: #, :, @. Which may contain additional instructions for [V2Ray](https://www.v2ray.com/), or full paths.
