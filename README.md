@@ -68,8 +68,5 @@ After it processes all the files, files with the .json extension will appear in 
 
 ### What to do in the future:
 Improve the cleaning script for files (it is not publicly available at the moment) from domain-list-community. Now it removes lines containing: #, :, @. Which may contain additional instructions for [V2Ray](https://www.v2ray.com/), or full paths.  
-.  
-..  
-...   
-Donat  
-[![](https://upload.wikimedia.org/wikipedia/ru/thumb/a/ad/DA_Logo_Color.svg/440px-DA_Logo_Color.svg.png)](https://www.donationalerts.com/r/sociophobenoob)
+  
+<a href="https://www.donationalerts.com/r/sociophobenoob"><img src="https://img.shields.io/badge/Donate-DonationAlerts-F57D07" />
